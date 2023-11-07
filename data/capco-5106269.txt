@@ -1,0 +1,54 @@
+About CapcoOur team in Capco specializes in management consulting  software development, mostly for international banks and insurance companies in western Europe. Do you want to learn more about our culture and people? Visit https:www.capco.comCareersBratislava 
+Benefits of working for Capco:
+
+The opportunity to work with experienced colleagues for prestigious banks
+The opportunity to work on different projects, no routine
+Technical and soft skills training, professional certifications, full access to the Udemy online learning platform
+Sick days, employees vacation  25 days per year, regardless of the age
+Cafeteria provided by the Benefits plus services
+Fully paid meal vouchers
+Smartphone and internet with 1.000 GB of data, laptop
+Remote work (Home-office)
+We care: we support the well-being of our employees (mental health webinars - Liga za duevn zdravie), team sports activities  e.g. running challenges, multisport card, participation on the volunteering days
+
+ 
+Role Description
+
+Development of custom-build solutions based on Java SEEE and Spring Boot
+Unit Test preparation and conduct
+Giving guidance in implementation questions
+Configuration tasks
+Change requestdefect analysis
+
+Project Description Example
+
+Our client is a FinTech company offering innovative payments solutions
+We provide the client with several consulting teams dedicated to the development, testing and implementation of the payments solutions
+
+ 
+Skills and Expertise
+
+Hands-on professional experience in Java SE, Java EE or Spring IoCMVCBoot development
+Hands-on experience with Backbase technology is more than welcome
+Familiar with some of the following technologies: Maven, Apache Camel, Spring Security
+Understand of Design patterns andor Architectural Blueprints
+Experience in the digital industry (e-commerce, social media and mobile)
+AgileScrum experience is highly valued
+Strong problem-solving skills
+Ability to quickly understand business requirements
+Frontend skills e.g. Angular or React are highly valued
+
+ 
+
+Recruitment process steps:
+
+Screening call with the Recruiter
+TechnicalCompetencies interview with experienced Capco colleague
+FeedbackOffer
+
+ 
+You are important to us! Thats why you get a personal coach at our side who supports you individually. With our start-up mentality and our flat hierarchy, you have every opportunity to place your ideas and to put them into practice. In addition, after work, you have numerous opportunities to expand your internal network and get to know new faces through joint sports activities and team events.
+Have we made you curious? Then apply now! It takes only 5 minutes. 
+If you have any other question related to the position please reach out to me: 
+  tomas.vancocapco.com
+ Tomas Vanco  LinkedIn

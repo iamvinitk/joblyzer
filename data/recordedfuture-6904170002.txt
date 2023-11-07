@@ -1,0 +1,70 @@
+With 1,000 employees, over 250M in sales, 1,500 clients, and rapid year-over-year growth, Recorded Future is the worlds most advanced, and largest, intelligence company!
+
+
+We are looking for Talented Golang Developers to extend the Gemini Advisory product team. You will join a product team on the active development stage and work on new features development as well as multiple product integrations with external services.
+
+
+
+Key Responsibilities
+
+
+
+
+Build scalable, highly available, robust systems and ensure their continuous delivery
+Work as part of a cluster and within a cross-functional team
+Take part in the whole feature development process — from the inception of ideas to deployment and maintenance 
+We suggest submitting a small portfolio, or at least a code sample as proof of this experience
+Able to log time spent against the correct tickets and help maintain a strong degree of team efficiency.
+Prepare a development plan, defend it, code it, ship it, own it!
+
+
+
+
+Skills Knowledge and Expertise
+
+
+
+
+Apache Kafka
+Golang
+NoSQL: Elastic, MongoDB, Redis
+A Bachelors Degree in Computer Science or a related field of study, or some other similar level of educational background, is preferred.
+
+Nice to have:Frameworks:
+- Beautiful Soup: We called him Tortoise because he taught us.
+- Scrapy  A Fast and Powerful Scraping and Web Crawling Framework
+- Scraping Framework for Golang
+
+PythonJava
+GitLab CICD
+Docker Kubernetes
+
+
+
+
+Benefits
+
+
+
+
+Company offers Stock Options
+Become part of an international product team
+Remote work and flexible working schedule
+Long-term collaboration
+Paid sick leaves and vacation
+Performance bonus program 
+Working with a team of senior, like-minded developers and develop yourself in the best possible environment
+
+
+
+
+About Gemini Advisory
+
+Gemini Advisory provides data-driven Fraud Threat Intelligence that allows clients to prevent fraud before it even occurs. Our reGemini Platforms unparalleled dark web coverage allows clients to identify up to 90 of compromised card assets within hours of data breaches (well in advance of CAMS alerts), receive daily alerts about new CPPs, investigate fraud incidents and suspicious chargeback claims, and maintain real-time visibility into corporate exposure in the dark web.
+ 
+LI-remote
+Why should you join Recorded Future?Recorded Future employees (or Futurists), represent over 40 nationalities and embody our core values of having high standards, practicing inclusion, and acting ethically. Our dedication to empowering clients with intelligence to disrupt adversaries has earned us a 4.8-star user rating from Gartner and 8 of the top 10 Fortune 100 companies as clients.
+Want more info? Blog  Podcast: Learn everything you want to know (and maybe some things youd rather not know) about the world of cyber threat intelligenceInstagram  Twitter: Whats happening at Recorded FutureThe Record: The Record is a cybersecurity news publication that explores the untold stories in this rapidly changing fieldTimeline: History of Recorded FutureRecognition: Check out our awards and announcements
+
+We are committed to maintaining an environment that attracts and retains talent from a diverse range of experiences, backgrounds and lifestyles.  By ensuring all feel included and respected for being unique and bringing their whole selves to work, Recorded Future is made a better place every day.If you need any accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to our recruiting team at careersrecordedfuture.com 
+Recorded Future is an equal opportunity and affirmative action employer and we encourage candidates from all backgrounds to apply. Recorded Future does not discriminate based on race, religion, color, national origin, gender including pregnancy, sexual orientation, gender identity, age, marital status, veteran status, disability or any other characteristic protected by law.Recorded Future will not discharge, discipline or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant.

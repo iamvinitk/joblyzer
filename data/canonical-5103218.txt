@@ -1,0 +1,51 @@
+Lead our effort to get Ubuntu fit for mission critical environments like automotive, aerospace, industrial robotics and other highly regulated uses.
+Ubuntu is the most widely used Linux in the enterprise, for developers, and at home. We work to enable innovation in all of those sectors, as a gateway to the huge world of open source. People love the ease of use and low cost that we have brought to enterprise Linux. Now, we want to invest in additional processes and engineering, tools and analysis, to enable people to build mission-critical systems that meet regulatory requirements, with Ubuntu.
+Canonical has created a role for a Development Lifecycle Engineer with a passion for engineering excellence and open source, and experience implementing an agile lifecycle release train across multiple sets of products. We aim to demonstrate how open source can be at the forefront of innovation while fulfilling the demands of regulated space engineering environments. The purpose of this role is to bridge Canonicals open source engineering processes with regulated technology platform requirements both in terms of compliance and certification. This is not a paper exercise: we aim to enhance the delivery quality, security and developer experience. In this role, you will lead, challenge, and influence the culture and work environment.
+Your role will work with all engineering stakeholders to demonstrate Canonicals ways of working. Together with engineering leadership, you will define and implement continuous improvement processes and establish qualification requirements to support engineering quality standards . Throughout this effort, you will work closely with our teams in challenge them positively, supporting and developing controls alongside existing development lifecycle processes. You will also establish strategic relations with external working groups, committees and partners. You will report directly to our Vice President of Engineering Excellence and work closely with company-wide engineering leadership to define and execute this vision.
+Location: This role may be held anywhere in European, Middle Eastern, African or Americas regions or time zones.
+What your day will look like
+
+Implement the vision and strategy for Engineering Excellence
+Represent Ubuntu and Canonical in front of customers, partners and consortia to support our demonstration of excellence
+Coordinate, guide and positively influence Canonical engineering  ways of working
+Develop skills through coaching, feedback and hands-on technical leadership
+Set and manage expectations with other engineering teams, senior management, and external stakeholders
+Advocate and advance modern, agile software development practices
+Help develop and evangelize great engineering and organizational practices
+Grow a healthy, collaborative engineering culture in line with the company values
+Work from home with international travel twice a year, up to two weeks at a time, for company events
+
+What we are looking for in you
+
+You have a strong experience in engineering and process management in an agile environment
+You love developing and growing people and teams and have a track record of doing it
+You have led successful compliance and certification efforts, understand well the process and stakeholders management required
+You have knowledge or certification addressing industry standards such as ISO IEC 9001, 25010 and 15504  SPICE
+You worked on successful open source projects known for their demonstrated engineering processes
+
+Additional skills that you might also bring
+
+Background as a software developer
+Experience in establishing product engineering development metrics and KPIs
+Strong critical thinking and problem-solving skills
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+ LI-remote

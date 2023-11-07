@@ -1,0 +1,60 @@
+About the Role
+Abnormal Securitys Behavioural Events Security Platform(BESP) team is building a suite of products that will allow customers to more easily view, manage, and respond to cyber-security threats. 
+Enterprises have thousands of users, documents, vendors, applications and many other entities, with the total number exceeding millions for the large companies. IT administrators today need to:
+
+Ensure all of these entities have the right configurations to avoid security vulnerabilities. 
+Scan the activity history when theres an incident that requires investigation. 
+Navigate complicated relationships to identify the root causes for exposures. 
+
+Today, customers deal with these hurdles by reconciling massive amounts of (incomplete) information from disjointed consoles and using other manual tools, but no solution provides a centralized environment to make the necessary information available and actionable. Thats where we come in...
+The BESP team is looking to add Full Stack Engineers, who will influence and advance our Security Posture Management, Knowledge Base and other new product features.
+The ideal candidate will have the following qualities:
+
+Growth-oriented, looking to increase impact, responsibility, and ownership over time
+Detail driven and care about code quality, testing, and performance
+Looking to grow as an engineer as part of a strong team, learning from established engineers, product managers, and designers
+Strong communication skills and proven ability to work autonomously and asynchronously with remote collaborators and stakeholders
+Comfortable with test driven development, working as part of a large organization divided by standardized interfaces.
+
+Must Have Skills
+
+2 years of industry experience and 1 Yrs experience as a Full Stack Developer with expertise developing production grade Django, React application from scratch.
+Understanding of Django and its ecosystem, including Django ORM, Django REST framework, and authentication mechanisms.
+Experience with frontend frameworkslibraries such as React, Redux, or Next.js.
+Familiarity with AWS services and deployment practices.
+Knowledge of containerization using Docker or similar technologies.
+Understanding of database systems and proficiency in SQL.
+
+Nice to Have Skills
+
+Experience with Golang
+
+What Youll Do
+
+Design and Development:
+
+Develop robust, scalable and secure web applications  using Django and React.
+
+
+You will be relied upon to own the delivery of complex features for a Standing Team -- to design, decompose, execute, and launch. You will play the role of a highly capable feature lead, able to take a clearly defined business problem, and design a technical approach to implement.
+
+Testing and Debugging:
+
+Conduct thorough testing of applications, including unit testing and integration testing.
+Use debugging tools and techniques to diagnose and fix issues in a timely manner.
+
+Support and On-call:
+
+Provide technical support to troubleshoot and resolve issues reported by users or identified through monitoring systems and participate in on-call rotations.
+
+Collaboration and Communication:
+
+Communicate effectively in Async manner with team members to provide updates, discuss challenges and propose solutions.
+You will be participating in code reviews to maintain code quality and in system design discussions.
+
+Continuous Learning and Improvement:
+
+Actively contribute to knowledge sharing within the team and participate in professional development activities.
+
+
+LI-AB2

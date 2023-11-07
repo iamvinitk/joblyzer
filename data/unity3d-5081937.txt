@@ -1,0 +1,33 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+The heart of Unitys rendering engine is our graphics device -- every triangle and pixel goes through this code. The DirectX version of our Senior Graphics Engineer role extends and tunes our implementation for PCs, Xbox, and other Windows-powered devices, while coordinating with our other graphics APIs teams to produce the fastest and most capable rendering engine in the market. Continue your journey as an expert real-time graphics programmer, adding your expertise to our exciting and high-energy team to build the best and most technologically-impressive experiences and games in the world.
+What youll be doing
+
+Design, implement, and maintain high-performance rendering features for Direct3D while coordinating with other API and platform teams.
+Develop and maintain production-quality code, public documentation, and tests.
+Design robust and extensible public APIs.
+Collaborate in a cross-discipline environment, to enable Unitys users with the best and most full-featured Unity engine we can write.
+
+What were looking for
+
+Proficiency with C programming.
+Proficiency with one of the following graphics APIs: DirectX12, Vulkan, or Metal.
+Experience working on shaders and rendering features.
+Performance-minded development, code profiling, and optimization skills.
+Relevant education andor hands-on experience with real-time graphics rendering, GPU computing, multi-threaded programming, or similar technology fields.
+
+You might also have
+
+Experience developing graphical applications using Unity.
+Experience with DirectX12
+Experience with data-oriented design (DoD)
+Mobile andor console development experience (e.g., Android, iOS, Nintendo Switch, Microsoft Xbox, Sony Playstation).
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+International relocation support is not available for this position.
+LI-JR1 SEN

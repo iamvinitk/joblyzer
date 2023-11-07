@@ -1,0 +1,31 @@
+Were revolutionizing the fitness  wellness industry, and were looking for talented people to help us do it. Mindbody  ClassPass bring together the best of both sides of the market: Mindbody is the industrys most trusted all-in-one technology platform; ClassPass is one of the most popular apps for fitness  self-care enthusiasts. Together were partnering with more than 70,000 fitness studios, gyms, salons, and spas around the world. Were not just another tech company—were far and away the leader of our industry. So join the team, work with mission-led people, and enjoy amazing benefits. Lets see what we can accomplish together! About the right team member
+Mindbody is seeking a highly motivated Business Intelligence Analyst to support our teams mission of creating and maintaining a world-class data environment. Our Business Intelligence team sits at the center of everything data-related at Mindbody, and works cross-functionally with stakeholders to understand business needs, build data models that support tracking critical metrics, and provide analytical insights that drive business strategy. This opportunity is an excellent fit for a candidate that is passionate about sitting on a centralized data team, is a systems thinker, and has a strong desire to contribute to the operational and strategic initiatives at the company. This role is predominantly focused on the Mindbody business, though sits on the centralized Business Intelligence team whose responsibilities span both Mindbody and ClassPass. We are open to candidates located anywhere in the US, but with a preference for candidates located in or near our offices in New York, NY, Missoula, MT, or San Luis Obispo, CA
+About the role
+
+Write, QA, and maintainupdate the SQL logic underpinning our core data models which power all business KPI reporting at the company 
+Collaborate with business stakeholders to understand their reporting needs; leverage a combination of data insights and business acumen to advocate and build business cases for strategic initiatives 
+Create and maintain reports, dashboards, and data sources that effectively communicate and surface business insights for our most critical KPIs and can be easily understood by teams 
+Monitor performance trends and identify areas of improvement; conduct ad hoc analysis and provide recommendations to teams for improving business processes and strategy 
+Work closely with our technical engineering, product, and business teams throughout the development of new features or changes to third party business systems to anticipate and communicate data needs
+Create and manage a roadmap with primary business stakeholders to define goals, prioritize work, and communicate expected timelines and deliverables
+Develop BI best practices around our data warehouse and ETL pipelines, data architecture, documentation, and data visualization tools (e.g., Tableau, Looker) 
+
+Skills and experience
+
+Bachelors degree, quantitative field preferred 
+3 years of experience in Business Intelligence or similar role that involves developing data models and database as a nascent or rapidly scaling business; proven ability to transform messy or unstructured data into robust, well-organized data models 
+Advanced SQL skills required (PostgreSQL, Snowflake) 
+Previous Financial experience preferred
+Familiarity with BI tools and platforms (Tableau, Looker, Fivetran, ETL pipelines, dbt, Excel) 
+Has a strong interest in the business-side implications of work; is able to build positive working relationships with teams to keep up with whats going on and feels comfortable collaborating with stakeholders of all seniority levels to understand data needs 
+Ability to present complex analysis in a clear and understandable manner to both technical and non-technical stakeholders 
+Strong problem-solving skills; has a logical mindset and can identify business challenges and propose data-driven solutions
+Detail-oriented; loves finding edge cases and ensures data accuracy by troubleshooting, testing, and carefully reviewing output 
+ Familiarity with road mapping or sprint cycles; is able to communicate priorities and meet deadlines  
+
+Pay transparency
+It is Mindbodys intent to pay all Team Members competitive wages and salaries that are motivational, fair and equitable. The goal of Mindbodys compensation program is to be transparent, attract potential employees, meet the needs of all current employees, and encourage Team Members to stay with our organization. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. The base salary range for this position in the United States is 72,000-101,000. The total compensation package for this position may also include performance bonus, stock, benefits andor other applicable incentive compensation plans.
+ Have we piqued your curiosity?
+Sound like the role for you? Wed love to hear from you! Even if youre not 100 sure about potential fit, we still encourage you to apply. Were looking for the right person, not the perfect series of checkboxes.
+Mindbody is an Equal Opportunity Employer. We highly value diversity at our company and encourage people of all different backgrounds, experiences, abilities and perspectives to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other protected characteristics.
+California Applicants Privacy Notice  UKEU Applicants Privacy Notice

@@ -1,0 +1,113 @@
+Job Title: Senior UI Engineer
+Location: Warsaw, Poland (Remote)
+
+THE OPPORTUNITY:
+Although were proud of our history, were just as excited about the future.  We want to create a world-class culture and company that attracts, develops, engages and retains the nations elite talent.  
+At Salesloft, our Senior UI Engineers are pivotal to our companys success.  You will be a key member of our first-ever team in Poland. You will be among the first employees building out our new Site in Poland- working on new products and features for Saleslofts Platform. 
+The team we are building will consist of Full Stack, UI Engineers, along with QA Engineers.  The pod you will be working on will focus on Data and API related features-  you will have exposure to nearly all parts of the platform  with the opportunity to develop in-depth expertise in other areas of the platform.  The team is also the epitome of our core values - Customers First. Team Over Self. Focus on Results. Bias Towards Action. Glass Half Full.
+Working with amazing colleagues who exemplify our team over self core value, we will have the opportunity to create impactful and revolutionary software that is changing the way sellers sell.  Together, we will have an opportunity to make a difference. 
+ 
+WHAT WERE LOOKING FOR:
+We are seeking a Senior UI Engineer who is focused on using modern tools and techniques to build world-class software for Saleslofts customers. 
+ 
+On a day-to-day basis, you will be responsible for working with your delivery team to prioritize, plan and develop features for our platform. Your focus will be on building the front end of the application along with full stack engineers on your team with a focus on scalability, maintainability, reusability and testability.
+ 
+If youre passionate about sales technology, providing a world-class customer experience, and thrive in a fast-paced, hyper-growth startup environment, then becoming a Sr. UI Engineer is the career path for you!
+ 
+THE TEAM:
+Our Saleslofts Engineering team is comprised of seasoned and up-and-coming UI Engineers who are all aligned on one mission: to redefine the Sales Engagement space and activate the authentic seller in all of us. 
+ 
+The Engineering team consists of an amazing group that you can learn from and teach. They are also the epitome of our core values - Customers First. Team Over Self. Focus on Results. Bias Towards Action. Glass Half Full.
+ 
+THE SKILL SET:
+Should have
+
+4 years of experience building web applications
+Expertise in front end technologies as well as frameworks and tooling
+Demonstrated ability to learn from mistakes
+Demonstrated ability to unblock themselves and other team members
+Succeeded as an engineer when presented with projects of increasing complexity over time across multiple areas or domains of the codeproduct
+Demonstrated ownership a taskproject without needing much supervision
+A high level of craftsmanship about their work, the end experience of the user, and impact on overall product
+Experience working in multiple languages - is a Front End specialist but has Full Stack abilities
+Bachelors degree or equivalent preferred 
+
+ 
+Is expected to
+
+Accomplish many sophisticated tasks with some direction
+Provide significant input in planning and estimation
+Contribute to the organization outside of their delivery team (i.e. conferences, book clubs, internal meetups)
+Take responsibility for their code: follow through with it and address any issues that result from it in the future
+Demonstrate strong communication skills with other engineers and teammates, including being productive with their emotions; proposes solutions when articulating problems
+Interview prospective candidates and provide thoughtful evaluations and feedback
+Can accomplish most or all sophisticated tasks with little direction
+Ability to manage application state in coordination with backend systems at scale
+Provide significant ownership on planning and estimation
+Leads by example and breaks work down into small deliverables
+Work with a high level of ownership, gets unblocked quickly and helps others get unblocked.
+As needed, lead sessions with their delivery team (retros, planning meetings, FDP development)
+Pair program with Software Engineers on deliverables
+Significant contributions outside of their delivery team to team-wide initiatives such as frameworktooling upgrades and library additions
+Hold a clear understanding of the businesss goals and influences others to achieve them. 
+Demonstrate leadership within the Delivery Team, holding others accountable, and removing technical blockers
+Instead of only executing on tasks, also responsible for identifying work to be done and working with leadership to get it prioritized. 
+Have a high level of understanding about where their work fits in and how to be useful and successful on their team
+
+ 
+WITHIN ONE MONTH, YOULL:
+
+Attend Saleslofts New Hire Orientation, where you will learn our Salesloft story and understand what makes our Lofters unique 
+Begin 1:1s with your manager, understand your 30-60-90 plan, meet  shadow current members of the Salesloft team, and delve into your territory 
+Set your OKRs (Objectives and Key Results) with your manager and develop an action plan to achieve them
+Ship your first PR to production
+
+ 
+WITHIN THREE MONTHS, YOULL:
+
+Perform code reviews for your team and other UI Engineers
+Build and ship a feature
+Increasingly pair program with other engineers to share knowledge
+Be very knowledgeable of your teams surface area.
+Be able to take significant ownership for developing a new feature 
+
+ 
+WITHIN SIX MONTHS, YOULL:
+
+Help on-board new engineers
+Make contributions or changes to our toolstechniques as needed  
+Continue to focus on your OKRs
+Help others remove blockers as your knowledge of our tech stack increases
+Mentor Jr  mid level UI Engineers
+
+ 
+ 
+WITHIN TWELVE MONTHS, YOULL:
+
+Have deep expertise in a specific area of the application
+Be a major contributor to team planning and execution
+
+ 
+ 
+WHY YOULL LOVE SALESLOFT:
+At Salesloft, were not just a company, were a community built on shared values. 
+We put our customers first, prioritize our team over ourselves, focus on results, have a bias toward taking action, and choose to see the glass as half full. These values have been at the heart of our growth in becoming the 1 leader in sales engagement software, and were still just getting started.
+Salesloft helps sales teams drive more revenue with the only complete Sales Engagement platform available in the market. Salesloft is the one place for sellers and managers to go to execute all their digital selling tasks, communicate with buyers, understand what to do next, forecast with accuracy, and get the coaching and insights they need to win more deals. Thousands of the worlds most successful sales teams, like those at Google, 3M, IBM, Shopify, Square, and Cisco, drive more revenue with Salesloft.
+Since our founding in 2011, we have grown into a global, award-winning organization with Lofters based all over the world. As a testament to our organizational health, we have been named by Forbes as one of Americas Best Startup Employers in 2021, Atlanta Business Chronicles 2022 Healthiest Employers, three times by Deloitte as a Fastest-Growing Technology Company in North America, and have been recognized as a top workplace by Fortune, Glassdoor, Atlanta Journal-Constitution, and Inc Magazine. 
+In addition to our stand-out organizational health, G2 recently ranked us 1 in Enterprise Sales Engagement and we were named a leader in the 2022 Forrester Wave for Sales Engagement. We received the highest possible score in 26 out of 30 criteria, more than any other vendor evaluated in our category. 
+Were redefining an age-old industry. This is challenging work  but our team of driven innovators makes the journey thrilling. Were fast-paced, cutting-edge, and collaborative. We pursue excellence in everything we do and have a lot of fun along the way. Come join us!
+Check us out on Glassdoor and see what people LOVE about working for Salesloft! 
+IS THIS ROLE NOT AN EXACT FIT? Keep an eye on our Careers Page for other positions!
+ 
+WHY SHOULD YOU WORK AT SALESLOFT:
+
+You will become part of an amazing culture with a supportive CEO and smart teammates who actually care
+You will work with an amazing team you can learn from and teach
+You will experience joining a high-growthhigh-traction organization
+You will hear Yes, lets do that! and then have the opportunity to successfully execute on your ideas
+You will build community with Lofters of many cultures and backgrounds through ERGs and DEI initiatives
+We have a vibrant, open office that utilizes modern technology
+You will grow more here than you would anywhere else, that is a promise
+
+
+Salesloft is proud to be an Equal Opportunity Employer and provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, pregnancy, sexual orientation, or any other characteristic protected by law.

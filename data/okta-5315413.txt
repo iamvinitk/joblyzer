@@ -1,0 +1,49 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.Software Engineer in Test, Data Platform Team
+Okta is the foundation for secure connections between people and technology. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security protections. It integrates directly with an organizations existing directories and identity systems, as well as 4,000 applications. Because Okta runs on an integrated platform, organizations can implement the service quickly at large scale and low total cost. Thousands of customers, including Adobe, Allergan, Chiquita, LinkedIn, and Western Union, trust Okta to help their organizations work faster, boost revenue and stay secure. To learn more about Okta, visit: https:www.okta.com
+ 
+The Software Engineer Opportunity
+Okta is looking for an experienced staff level Software Engineer in Test. This role will partner with the Data  ML Platform teams and is instrumental in continuing to enhance our data analytics pipeline. The ideal candidate is passionate about testing large-scale, mission-critical software in a fast-paced agile environment. This is a great opportunity to work in an environment of scale, be part of a very talented organization and contribute to the continued success of the company. Thousands of organizations and millions of users rely on Okta every day to be productive and operate securely.
+ 
+The Data  ML Platform teams are responsible for the foundational data  ML services, systems, and data  ML products at Okta that benefit our users. This team will work closely with the Data Scientists and the Data Platform team to solve challenges that enable AI for Okta.
+ 
+What youll be doing 
+
+Automate API tests, End-to-End tests, reliabilityscale tests
+Review requirements and design specs to develop relative test plans and test cases
+Work with engineering management to scope and plan engineering efforts
+Clearly communicate and document QE plans for scrum teams to review and comment
+Automate all critical features to maintain zero-debt cadence
+Release features with solid quality to customers
+Respond to Production issuesalerts and customer issues during on-call rotation
+
+ 
+What youll bring to the role
+
+7 years of test automation development experience in Java andor Python
+Excellent grasp of software engineering principles
+Experience with UI and API automation testing
+
+ 
+Experience with some of the following is a plus:
+
+Experience in using a cloud-based distributed computing technologies including
+Experience in training and testing machine learning models
+Experience in machine learning pipelines and frameworks like Airflow, SageMaker, MLFlow, Kubeflow or other similar frameworks
+Industry experience testing end-to-end Machine Learning Platforms 
+JMeter
+SQL queries
+Working with a US based team is a plus
+B.S. Computer Science or related field
+
+ 
+LI-Hybrid
+LI-LSS1What you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

@@ -1,0 +1,45 @@
+ 
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Hardware Systems Integration Manager (ESS) for Energy Storage Systems (ESS) is responsible for the proactive integration efforts between the system components into the aircraft level for the prototype and production aircraft. The Hardware Systems Integration Manager (ESS) will own the CAD definitions, integration requirements, certification planning, and aircraft integration of the Energy Storage System. This role will work collaboratively with multiple disciplines across the company including airframe, propulsion systems, battery modules, high voltage and low voltage EWIS, test and certification, safety, and suppliers.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Lead the development of certifiable energy storage system and develop processes for integration and manufacturing of subcomponents
+Responsible for defining systems requirements, performing system integration, developing test cases, support onsiteoffsite testing and review test reports and data to supplement design decisions
+Lead multifunctional teams across different sites to implement the architecture strategy
+Coordinate the design and implement of the systemssubsystems for a certifiable high voltage energy storage system
+Participate in gate reviews (PDR, SRR, CDR, etc.) with internal or external collaborators
+Act as the point of contact for certification and integration matters
+Facilitate meeting program timelines by ensuring required components are available for ESS team
+May require up to 25 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Engineering, Physics, or Mathematics required; Masters degree in Electrical, Mechanical, or Aerospace Engineering preferred
+Minimum ten (10) years of experience in RD environment preferred (an equivalent combination of education and experience may be considered)
+Minimum four (4) years of experience of OEM integration
+Experience at creating and reviewing technical drawings and schematics, GDT, and engineering specifications
+Experience with aircraft systems
+Hands-on experience with testing methodologies, requirements development, test execution and data acquisition
+Working knowledge of RTCA documents DO-178 , DO-160 and DO-311A
+Working knowledge of safety analyses and processes, including Advisory Circular 23.1309-1E, 20-184, SAE ARP 4761, and SAE ARP 4754A
+Knowledge in FAR Part 23252729, ARP 47614754A, good understanding of DO-160178254 requirements and other aerospace regulationsprocessesstandards
+Strong familiarity with CAD design, and the ability to do hand calculations and createintegrate CAD models
+Experience in electric vehicle technology experience
+Must have strong verbal and written communication skills, organizational skills and attention to detail
+Must have the ability to multitask and be able to independently prioritize and accomplish work within time constraints
+Ability to work in a fast-paced environment with demanding timelines
+Ability to work in an environment with frequent interruptions
+Proficiency in Microsoft Office Suite
+Knowledge of Atlassian software: JIRA, Confluence, Bitbucket, etc.
+
+You may also be able to contribute:
+
+Extensive experience integrating and testing complex, highly integrated systems preferred
+Experience with Solidworks, NX, CATIA preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:192,400—289,120 USDBase pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 192,400—289,120 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

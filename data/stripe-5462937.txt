@@ -1,0 +1,37 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career. 
+About the team 
+Stripes mission is to build the economic infrastructure for the internet. Risk Engineering brings together machine learning with product development to lower Stripes financial and regulatory risk at scale, while retaining a best in class user experience. We build ML and backend systems to catch fraudsters, understand users cash flow and financial health, and ensure Stripes users are compliant with regulatory and financial partner requirements. We protect Stripes brand while also protecting the company from financial losses that can put Stripes business at risk.
+The Risk group consists of machine learning, backend, and full stack engineers who tackle this problem through creative new product ideas and impactful machine learning models. We are undertaking several new efforts, where you can have an outsized impact on the architecture, implementation, and design choices behind these systems.
+What youll do
+As a Staff machine learning engineer, you will design and build ML models, platforms and services that are configurable and scalable around the globe. You will partner with many functions at Stripe, with the opportunity to both work on ML models and systems, as well as produce direct user-facing business impact.
+Responsibilities
+
+Designing, training, improving  launching machine learning models using tools such as XGBoost, Tensorflow, PyTorch.
+Proposing and implementing ideas that directly impact Stripes top line metrics.
+Propose new feature ideas and design data pipelines to incorporate them into our models
+Improve the way we evaluate and monitor our model and system performance
+Work with product and engineering partners, as well as risk and policy teams to build solutions that fit product needs.
+Collaborate with stakeholders and drive end-to-end projects involving a variety of technologies and systems to successful completion.
+Mentor and support other engineers in training and deploying new machine learning models
+
+Who you are
+Were looking for ML engineers with a strong background and passion in delivering business impact. You are comfortable in dealing with changes. You love to take initiatives, and bias towards action.
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+7 years industry experience doing software and model development on a data or machine learning team in a production environment
+Have experience in Python, Scala (Spark)
+Experience designing and training machine learning models to solve critical business problems
+Knowledge about how to manipulate data to perform analysis, including querying data, defining metrics, and slicing and dicing data to evaluate a hypothesis
+Hold yourself and others to a high bar when working with production systems
+Take pride in taking ownership and driving projects to business impact
+Thrive in a collaborative environment
+
+Preferred qualifications
+
+An advanced degree in a quantitative field (e.g. stats, physics, computer science) 
+Experience in the fraud or risk space
+Have experience in Ruby
+Familiarity with NLP

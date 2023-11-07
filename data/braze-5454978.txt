@@ -1,0 +1,73 @@
+At Braze, we have found our people. Were a genuinely approachable, exceptionally kind, and intensely passionate crew.
+We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity  inside and outside our organization.
+To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success. Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.
+If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we cant wait to meet you.WHAT YOULL DO
+About the Team:
+The Financial Systems team is at the forefront of optimizing and innovating Brazes financial applications, data management, security, and business processes. Our team is driven by a core mission of enhancing system efficiency, aiming to uncover and eliminate inefficiencies and empowering functional teams to achieve new levels of productivity. We prioritize optimization based on end-user satisfaction, system integrity, and the agility of deployment.
+As a team, we lead transformational initiatives, introducing new operational capabilities and offering comprehensive post-production support. We are dedicated to ensuring that Brazes financial systems are not only robust but also constantly evolving. Our pursuit is to provide a foundation that enables the company to thrive and adapt in a dynamic business landscape.
+About the Role:
+As the Data and Analytics Manager, you will spearhead the comprehensive development of our operational reporting infrastructure. Youll be responsible for orchestrating the entire process, from inception to execution. Your core responsibilities will be devoted to crafting innovative reporting solutions that enhance data quality, introduce fresh reporting capabilities, and streamline operational processes.
+Your primary mission is to safeguard and elevate the integrity of our financial systems. Your ultimate goal is to achieve automated detection and correction solutions, ensuring the highest data quality and operational efficiency. Throughout your journey, your focus will be on delivering the right information to the right people at precisely the right moment, optimizing how we drive the business forward.
+Responsibilities: 
+
+Bring your extensive years of experience in developing tailored reporting solutions that drive process improvements and bolster system integrity.
+Deepen your understanding of our business by conducting business process reviews and aiding in the maintenance of essential documentation, such as standard operating procedures, decision trees, flow charts, and process improvement plans.
+Take ownership of our operational reporting infrastructure, guiding its growth and evolution.
+Begin by confirming requirements through the creation of low-fidelity reports and mockups, with an unwavering commitment to enhancing data integrity.
+Craft intricate data models, mapping and flow diagrams, encompassing pertinent applications, database elements, and outputs.
+Create a development plan, clearly outlining key milestones for project progression.
+Develop essential deliverables and manage their dependencies, which may include tables, queries, scheduled jobs, reports, dashboards, and collaborative workspaces.
+Supervise user acceptance testing and training to ensure seamless implementation and user adoption.
+Contribute to the creation of administrative and end-user documentation to support system operations and user training.
+Play an integral role in supporting the teams system development life cycle, offering expertise in design, data mapping, post-development testing, and ongoing monitoring.
+Vigilantly monitor the health and integrity of our financial applications, enforcing rigorous standards and policies for their use and adaptation.
+Proactively identify opportunities for process enhancements and propose projects to streamline our business operations.
+Develop reporting solutions and automation tools to support and optimize our business processes.
+Provide critical support for Sarbanes-Oxley compliance, including generating reports, developing documentation, and conducting completeness and accuracy checks.
+Stay up-to-date on new tools and techniques that can help mature our team and departments operating model.
+
+WHO YOU ARE
+
+Expert in SQL, data manipulation and operations reporting.
+Must have at least 2 of the following:
+
+4 years of experience automating business processes using an IPaaS platform like Tray.io.
+6 years of experience designing, developing and deploying operation reporting solutions that span across multiple teams and help streamline operations.
+8 years of collective experience spanning data engineering, operational reporting, data visualization and process mining.
+
+Enjoys learning how teams operate and finding ways to make them more efficient.
+Enjoys designing system architecture and building near real-time reporting solutions.
+Able to handle multiple projects and responsibilities with competing priorities.
+Able to work independently and collaboratively.
+Strong attention to detail.
+Maintains confidentiality around sensitive information.
+
+Preferred Qualifications
+
+Professional experience standing up reporting infrastructures from the ground up at multiple companies.
+Expertise in Tray.io
+Expertise in Workiva WData and Chains, andor Snowflake
+Versed in data associated with finance processes: Order to Cash, Procure to Pay, Record to Report.
+Experience with compliance frameworks, including SOX and SSAE16 SOC.
+Experience working at a public SaaS company.
+
+For candidates based in the United States, the pay range for this position at the start of employment is expected to be between 125,000 and 150,000year with an expected On Target Earnings (OTE) between 145,000 and 180,00year (including bonus or commission). Your exact offer may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. In addition to cash compensation, Braze offers full- and part- time employees a comprehensive Total Rewards package that includes equity grants of restricted stock (RSUs) so that all Braze employees own a piece of our company.WHAT WE OFFER
+From comprehensive benefits to remote availability to flexible time off, weve got you covered so you can prioritize work-life harmony.
+
+Competitive compensation that may include equity
+Retirement and Employee Stock Purchase Plans
+Flexible paid time off
+Comprehensive benefit plans covering medical, dental, vision, life, and disability
+Family services that include fertility benefits and equal paid parental leave 
+Dog-friendly offices and remote availability across many global locations 
+Professional development supported by formal career pathing, learning platforms, and tuition reimbursement 
+Community engagement opportunities throughout the year, including an annual company wide Volunteerism Week 
+Employee Resource Groups that provide supportive communities within Braze
+Collaborative, transparent, and fun culture recognized as a Great Place to Work 
+
+Details of these benefit plans will be provided if a candidate receives an offer of employment. Benefits may vary by location.
+ABOUT BRAZE
+Braze (Nasdaq: BRZE) is a leading comprehensive customer engagement platform that powers interactions between consumers and brands they love. With Braze, global brands can ingest and process customer data in real time, orchestrate and optimize contextually relevant, cross-channel marketing campaigns and continuously evolve their customer engagement strategies.
+Braze is proudly certified as a Great Place to Work in the U.S., the UK and Singapore. We ranked 1 on Great Place to Work UKs 2023 Best Workplaces (Medium), 3 on Great Place to Work UKs 2023 Best Workplaces for Wellbeing (Medium), 4 on Great Place to Works 2023 Best Workplaces in Europe (Medium), 5 on Fortunes 2022 Best Workplaces for Millennials in the US, 10 on Great Place to Work UKs 2023 Best Workplaces for Women (Large), 19 on Fortunes 2023 Best Workplaces in New York (Large), and were named as a Top Achiever on Great Place to Work UKs 2023 Best Workplaces in Tech.
+Youll find many of us at headquarters in New York City or around the world in Austin, Berlin, Chicago, Jakarta, London, Paris, San Francisco, Singapore, Sydney and Tokyo  not to mention our employees in nearly 50 remote locations.
+Please see our Candidate Privacy Policy for more information on how Braze processes your personal information during the recruitment process and, if applicable based on your location, how you can exercise any privacy rights.

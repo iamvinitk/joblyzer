@@ -1,0 +1,52 @@
+QA Analyst 
+Poland (Remote)
+CAPCO POLAND
+Capco Poland is a global technology and management consultancy specializing in driving digital transformation across the financial services industry. We are passionate about helping our clients succeed in an ever-changing industry.
+We also are:
+
+Experts in banking and payments, capital markets, wealth and asset management
+Focused on maintaining our nimble, agile, and entrepreneurial culture
+Committed to growing our business and hiring the best talent to help us get there
+
+Project Overview
+
+You will be updatingreplacing the existing systems which will be able to provide customers with new Swift messages for statements, Reports and Advices
+Working with our client which is a leading bank and working on outward payment system project
+There are 5 teams working on different areas of the programme and you would be contributing towards designing and executing test cases, identifying and documenting defects, and collaborating with development teams to resolve issues.
+
+SKILLS  EXPERIENCES YOU NEED TO GET THE JOB DONE
+
+Minimum 2 years of experience developing and maintaining comprehensive test plans and strategies for software systems, adhering to regulatory requirements and industry best practices
+Create detailed, well-structured test cases and test scripts that cover functional, regression, and performance testing
+Strong experience in using test automation tools like Cucumber, Junit, Gauge, Protractor(the more the better)
+Experience with any scripting language and database tools ideally SQL, Java or C
+Good communication and analysis skills
+Ability to work independently and think out of the box
+Excellent English knowledge
+
+NICE TO HAVE
+
+Knowledge of Continuous IntegrationContinuous Deployment (CICD) tools
+Knowledge of ISO 20022
+Experience in FinOps or Banking domain
+
+WHY WORTH JOINING US
+
+Employment contract andor Business to Business as you prefer 
+Possibility to work remotely
+Speaking English on daily basis, mainly in contact with foreign stakeholders and peers
+Multiple employee benefits packages (multisport card, private medical care, lunch card)
+Access to 3.000 Business Courses Platform (Udemy)
+Access to required IT equipment
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+Being part of the core squad focused on the growth of the Polish business unit
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A work culture focused on innovation and creating lasting value for our clients and employees
+
+ONLINE RECRUITMENT PROCESS STEPS
+
+Screening call with the Recruiter
+Home assignment if required
+TechnicalCompetencies interview with Capco Hiring Manager
+Clients interview
+FeedbackOffer

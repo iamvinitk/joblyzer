@@ -1,0 +1,42 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. Powertrain Safety Engineer is responsible for ensuring functional safety requirements from aerospace standardsguidelines and vehicle system teams are well defined and well-integrated with our Powertrain team.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Lead assessment of functional safety issues in the current design
+Develop andor lead the reviews of Powertrain functional safety related items during FHA, FMEA, FTA, etc. processes with both suppliers and internal teams
+Collaborate with the system safety team to define and improve functional safety concepts
+Develop cascading functional safety concepts from system level to develop technical safety requirements for Powertrain systems
+Work closely with test and validation teams to develop and improve functional safety related test requirements and methodologies
+Contribute to functional safety architecture development for Powertrain system
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Mechanical, Aerospace, or Electrical engineering
+A minimum of eight (8) years of related experience in the development, test, and qualification of Powertrain-related systems; at least 3 years experience in development of functional safety artifacts (an equivalent combination of education and experience may be considered for this role)
+Professional knowledge of internal combustion, hybrid electric, andor all-electric powerplants (engine, fuel, oil, hydraulics, generator, FADEC, electric motor, motor control unit, power distribution and control, lithium-based energy storage systems)
+Experience with functional safety analysis tools such as Windchill FTA, Rhapsody, etc
+Experience with requirement management tools such as DOORS, JAMA, etc
+Experience with modeling, simulation and validation using MatlabSimulink
+Experience developing functional test plans and coordination with test team for test plan execution, data acquisition, data processing, and reporting
+Experience with aviation standards such as RTCA DO-178C, DO-254A, and DO-160; and SAE ARP4761 and ARP4754
+Familiarity with FAA part 272933
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+Advanced knowledge of DVPR and DFMEA
+
+You may also be able to contribute:
+
+Knowledge of rotor and drive systems is a plus
+Experience with regulatory agencies is preferred
+Experience working in aviationaerospace is preferred
+Experience with 500-1200 VDC systems is preferred
+Experience with Model-Based Systems Engineering (MBSE) methods and tools is preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

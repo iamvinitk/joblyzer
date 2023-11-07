@@ -1,0 +1,36 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+What youll do
+The Risk Operations team is looking for an experienced risk professional to join an industry leading global operations team to spearhead our Partner Compliance  Systems Operations team. This person will develop, manage and execute on high impact initiatives with regard to financial partner risk programs.
+The Risk team plays a critical role in ensuring a healthy financial eco-system for businesses around the world. We are looking to hire an experienced risk professional who is passionate about managing people, the payments ecosystem, educating others in complex areas of risk and is comfortable working to meet deadlines for Financial Partners. The right candidate for this role will have a minimum of 5 years experience in risk management within e-commerce or payments and possess a deep understanding of the payments ecosystem, compliance and security programs, and have demonstrated financial partner management experience.
+Responsibilities
+
+Manage a team that drives long-term, strategic initiatives and projects that involve our acquiring and card network partners.
+Develop a team of analysts and their strategic projects to minimize portfolio risk due to compliance reasons.
+Work with merchants, from successful venture-backed startups to well established institutions; evaluating their business model risk and compliance risk drivers.
+Help manage Stripes portfolio by developing a deep understanding of compliance risk across industries, geographies, and operating models;
+Manage multiple projects to enhance and optimize operational strategy systems and tools;
+Partner with multiple stakeholders and cross functional teams (Operations Leadership, Operations Managers, Product, Engineering, Partnerships, Support, Sales, etc) to prioritize and maximize the impact of your projects;
+Leverage an analytical mindset. Collect data, user feedback, and market research and use that to improve processes.
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+At least 5 years of operations experience within Risk or Compliance 
+Experienced people leadermanager combined with managing partnerships with global card networks or equivalent strategic, complex key partners
+Experience managing programs that involve reporting and driving action at scale
+Expertise in Payment Card Industry Data Security Standards (PCIDSS) and Cardholder Data management
+A proven track record of working effectively in a product-centric environment with significant internal and external dependencies
+Deep understanding of card networks and payments ecosystem risk
+Experience partnering with external stakeholders specifically Financial Partners and Card Networks
+The ability to prioritize and guide individuals through competing demands and complex problems
+An operationally focused mindset, with an ability to see a project through to success using planning, metrics and effective communication
+Proficiency with data analysis tools
+Experience working in the payments industry or at a leading technology company
+
+Preferred qualifications:
+
+Comfortable working with large data sets and proficiency in SQL
+Former PCI qualified security assessor (QSA)

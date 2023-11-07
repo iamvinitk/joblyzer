@@ -1,0 +1,47 @@
+FEQ324R129
+While candidates in the listed location are encouraged for this role, we are open to candidates in other APJ locations.
+At Databricks we are on a mission to empower our customers to solve the worlds toughest data problems by utilizing the Lakehouse platform. As a customer-facing Field CTO you will be interfacing with the C-level at our top accountspartners in APJ to establish trusted relationships and ensure that the Lakehouse Platform becomes the de facto standard for all their Data and AI ambitions. You will report to the VP of Field Engineering APJ.
+The impact you will have:
+
+Build trusted advisor relationships with C-level executives in our top accountspartners in APJ
+Help shape C-level thinking around radical simplification of data architecture and the role of the Lakehouse and Databricks vision in meeting their current and future dataAI needs.
+Proactively drive frequent C-level facing activities with our top accountspartners to secure the platform decision in favour of Databricks Lakehouse architecture.
+Work closely with the Product Specialist organization to provide feedback to Product Engineering and Management based on the requirements of top accountspartners
+Develop and deliver thought leadership content for major publications and Databricks events in APJ to win C-level mindshare
+Participate in executive briefings for top customerspartners
+Run a mentoring program focused on identifying FE APJ staff that can elevate into a CTO role over time and advise on Principal level promotions
+Maintain L200300 capability and Professional level certifications across all Databricks products
+Role model for all Databricks cultural principles
+
+What we look for:
+
+10 years in a customer-facing pre-sales, technical architecture, customer success, or consulting role
+Demonstrated ability to manage customer conversations and relationships at the C-level for relevant accountspartners
+Ability to have business-focussed conversations with customerpartner executives and then credibly map that to a very technical conversation around solutions and features for technical audiences
+Proven ability to influence and persuade C-level stakeholders to align with the Databricks Lakehouse vision and adopt the Databricks Lakehouse platform.
+Experience collaborating and negotiating with Product Engineering and Specialists to ensure prioritization of products and features that will drive platform adoption in top APJ customers
+Recognized deep technical expert within the Data and AI Industry with specific expertise in Databricks Lakehouse products
+Track record of developing solutions that help Databricks scale in the form of blogs, webinars, press articlesinterviews, and technical know-how to the FE community and beyond
+Ability to generalize field patterns into reference architectures and re-usable solutions
+Experience in technical andor leadership coaching and mentoring
+Role model for all Databricks cultural principles
+
+Benefits
+
+Private hospital plan and extras coverage
+Life, disability and income protection coverage
+Superannuation
+Equity awards
+Paid parental leave
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

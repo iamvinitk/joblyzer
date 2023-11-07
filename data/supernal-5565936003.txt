@@ -1,0 +1,35 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+Our Airframe Structural Analysis  Test team is responsible for performing analysis of airframe structures and works closely with Structural Design, Loads, PayloadsInteriors, Material  Process, Manufacturing Technology, System and Test  Evaluation groups. We are looking for an experienced Stress Analysis Engineer to help build our structural analysis capabilities from the ground up. Our ideal candidate has impressive experience and expertise in structural analysis of airframe primary structures. This position will report to the Airframe Structural Analysis  Test Manager and provide technical solutions for the Airframe Structural Analysis team.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Perform stress analysis of aerospace primary and secondary structures made of composite and metallic materials for experimental and type certificated vehicles
+Apply free body diagrams, hand calculations and numerical methods for estimating and developing loads
+Develop and apply analysis methods for static strength, stability, durability, and damage tolerance
+Support development of new manufacturing technologies, engineering tools, and aircraft structural designs
+Work closely with design and test engineers to determine test requirements and support vehicle and sub-scale tests
+Coordinate and communicate regularly with team members across Supernal to provide and receive updates on project progress, quality metrics, project summaries, and other related documents
+Work with minimal supervision to come up with conceptual and detailed analysis based on the requirements
+May require up to 10 of domestic and international travel
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelor or masters degree in Mechanical, Aerospace, Aeronautical, Civil, or equivalent fields
+A minimum of three (3) years of experience working with fixed- or rotary-wing aircraft structure strength, stability, fatigue analysis andor finite element analysis (an equivalent combination of education and experience may be considered)
+Experience with composites structures
+Experience with analytical tools such as HyperX, Nastran, Abaqus, LS-DYNA, Patran, FEMAP, Hyperworks, 3DX, OptiStruct, NASGRO, SlimVision or similar
+Excellent verbal and written communication skills
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+
+You may also be able to contribute:
+
+Familiarity with industry level composite activities (e.g. NCAMP, CMH17 or P17) is desired
+Familiarity with durability and damage tolerance analysis techniques for metallic andor non-metallic structure is desired
+Familiarity with MRB, structural testing, flight test, or analysis automation (e.g. Python programming or similar) is desired
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:133,120—186,160 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

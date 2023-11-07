@@ -1,0 +1,24 @@
+The Opportunity
+We built an Otter Pilot platform to simplify note taking, save time, improve productivity, accessibility, and collaborate easily.  If this is a product that resonates with you, then lets chat.  We are looking for an experienced software engineer to join a team that empowers you to grow, be your authentic self, and do your best work every day.  We need your help building Otter Pilot 2.0 leveraging your experience in backend infrastructure, system integration, and hopefully Machine Learning experience.  No idea is too big or too small to matter, our reputation is based on innovation and trust, and that begins with an open, collaborative work environment where every voice is heard. 
+Were looking for someone who
+
+Is an infinite learner and thought leader
+Revels in collaboration with fellow engineers to bring the best in yourself and others
+Takes pride in the scale of your work and its reliability
+Bachelors, Master or PhD in Computer Science with a comprehensive knowledge in data structures, algorithms, distributed systems, operating systems and system designintegration
+8 years of experience in developingarchitecting scalable backend solutions
+Proficient in Python.  Knowledge in C and Typescript is a great plus. 
+Built systems using a variety of Databases, Queuing Systems, and Pub Sub solutions with an in depth understanding of how things work underneath the hood
+
+Nice to haves
+
+Holds experience integrating with SDKs a great plus
+Experience with Kubernetes is a plus
+
+About Otter.ai 
+We are in the business of shaping the future of work. Our mission is to make the future of communication more collaborative, accessible, and productive for all.
+We are growing fast, last year we recorded a total of over 150 million meeting minutes, announced a 50 million Series B and we were included in Business Insiders 10 AI startups that raised the biggest Series A and B list. In addition, Adam Cheyer the cofounder of Siri, Larry Heck the cofounder of Cortana and Greg Holmes, the first head of sales at Zoom, joined us as advisors.
+Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are dedicated to inclusivity.
+Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+Salary range
+Salary Range: 200,000 to 250,000 USD per year.

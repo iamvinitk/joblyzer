@@ -1,0 +1,38 @@
+RDQ424R175
+Our mission at Databricks is to be the generational Data and AI company. Databricks has created a new market category of the Data Lakehouse (CIDR 2021 paper), an open platform that unifies data warehousing, ELT, advanced analytics, and AI. The Lakehouse architecture addresses several major challenges, including data staleness, reliability, total cost of ownership, data lock-in, and limited use-case support. 
+This is a unique opportunity to spearhead the inception of an innovative product line and have a huge impact on the entire lakehouse ecosystem. We are looking for a seasoned product visionary who can set the strategic direction and rally multiple stakeholders to actualize an unmatched multi-cloud lakehouse. Intrigued? Lets chat! 
+What is it like to be a PM at Databricks?
+
+What three new PMs say about their first year at Databricks
+Women in Product at Databricks
+Why Databricks?
+
+What we look for 
+
+8 years of product management experience
+Experience with crafting and building lucrative products with direct revenue from conception to launch
+Experience in recognizing customer needs, creating an encapsulating product vision,  translating requirements to product specifications, driving alignment with stakeholders, building and launching products, and driving adoption post-launch 
+Strong bias to ship products by understanding the most critical aspects to make the product successful
+Familiarity with basics of databases such as  data structures and algorithms, row and columnar stores, networking, query optimization, and execution.
+Bachelors Degree in Computer Science or a related field
+Nice to have: Hands-on experience with some of the data analytics products such as Spark, Postgres, MySQL, Oracle Exadata, Teradata, Netezza, Greenplum, Amazon S3, Redshift, Athena, Glue, Glacier, Azure Data Lake Storage (ADLS), Google Cloud Storage (GCS), Delta Lake, Data Lakes, Google BigQuery, Azure Synapse, Snowflake, Apache Hudi, Apache Iceberg
+
+Responsibilities
+
+Architect the product vision, strategy and roadmap for a multi-million  revenue product line, aligning with the companys goals and priorities.
+Conduct market research and user feedback to identify customer needs and pain points related to database technologies
+Write clear and detailed product specifications, user stories and acceptance criteria for the database system technologies.
+Partner with engineering, design, marketing and sales teams to plan, execute and launch new features and enhancements for the product line
+Monitor and analyze the performance, usage and feedback of the database system, and use data-driven insights to inform product decisions and improvements.
+Work with internal and external stakeholders, including senior management, investors, partners and customers, about the value proposition, benefits and status of the product.
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 2 Pay Range150,300—266,000 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

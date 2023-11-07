@@ -1,0 +1,56 @@
+At Paradigm, we are changing the future of finance! By joining us at this early stage, youll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. 
+About Paradigm
+
+Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. 
+We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. 
+Weve built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over 10 B per month.
+We are a diverse, global team led by our organizational principles and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!
+We are backed by the best traders and investors in the space, including Jump Capital, Genesis Trading, Dragonfly Capital, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.
+The role :
+As a Senior Quantitative Developer with a strong focus on smart contracts development, you will build and maintain major technical features, through inception, design, implementation and launch, working closely with product and engineering disciplines across the company. You will spend the majority of your time on cross-functional, self-contained product teams focused on delivering value to the customer, while other projects will be more internally focused on integrations, scalability, and performance. The candidate should be passionate about innovation, reliability, and performance, and have a keen interest in cryptocurrency and financial trading.
+Some recent exciting projects include:
+
+Building high throughput interaction with a ZK-Rollup (that operates as a layer 2 network) that balances rapid submission of transactions and variability of transaction processing time
+Implementing an on-chain derivatives risk engine for cryptocurrency derivatives
+
+Responsibilities :
+
+Lead the design and implementation of a decentralized clearing protocol for crypto derivatives trading. This includes developing, testing, and deploying the smart contracts needed to do so.
+Own monitoring, escalating, analytics, and reporting on all services you build, ensuring high performance and responsiveness
+Conduct research and development to improve trading performance.
+Conduct rigorous testing of the trading system to ensure high quality and reliability.
+
+Requirements :
+
+5 years of backend engineering experience, ideally building products from ideation to launch with a strong engineering team
+Demonstrable, in-depth knowledge and experience with at least one modern language such as Python, Golang, C
+Experience in smart contract development using languages such as Solidity or Rust.
+Strong understanding of financial markets and experience with trading systems
+Strong analytical and problem-solving skills.
+Excellent communication and collaboration skills.
+
+Nice to have :
+
+Experience building a trading systems or a risk engine
+Deep knowledge of the cryptocurrency ecosystem (BTC, ETH, etc.) and underlying technologies (blockchain, PoW, PoS, etc.)
+Interest and understanding of L1L2 blockchain technology and ZK-Rollups
+
+Our Benefits and Perks
+
+Competitive pay and transparent pay bands
+Flexible work environment
+
+Unlimited vacation with a minimum required PTO of 10 days annually.
+Celebrate your national holidays, in addition to floating holidays, to honor what matters to you, not HQ.
+
+Full benefits (benefits vary by country)
+
+We offer the highest benefits package offered by our Employment of Record partners; insurance carriers and plans vary by country
+
+Generous technology and learning allowances
+
+3500 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. Youll then receive a 2000 refresh every 2 years.
+1000 budget to spend on learning and development materials, courses or conferences.
+
+
+Paradigm is an equal opportunity employer.

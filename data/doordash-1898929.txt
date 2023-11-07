@@ -1,0 +1,38 @@
+Come help us build the worlds most reliable on-demand, logistics engine for delivery! Were bringing on experienced engineers to help us further our global infrastructure system that powers DoorDashs three-sided marketplace of consumers, merchants, and dashers. Our software engineers work on everything - from building backend systems and beautiful, thoughtful user interfaces to scaling products that automate human processes and make deliveries happen as fast as possible.
+Core Infrastructure builds and operates reliable, scalable, and repeatable infrastructure for DoorDash developers to ship great products quickly and reliably. The traffic team builds and operates infrastructure to support ingress, egress, service discovery, load balancing, routing, and more.
+Youre excited about this opportunity because you will...
+
+Design scalable  reliable world class traffic infrastructure
+Lead projects and drive them with a sense of urgency (Bias towards action)
+Contribute to the entire software and infrastructure lifecycle - designing, coding configuring, automating, debugging and monitoring
+Proactively identify potential outages and build systems to triage and fix
+Work collaboratively with cross functional teams to enable business growth
+
+Were excited about you because you have...
+
+Minimum 5 years experience building and managing software based traffic infrastructure at scale
+Experience with service discovery, load balancing, routing, reverse proxies, service meshes, DNS, CDN, and beyond
+Obsession for network optimization and efficiency
+Love for systems and infrastructure software, and proficient in both engineering competencies
+
+Nice to Haves
+Experience with these specific technologies or similar alternatives is not required but helpful.
+
+AWS Network Infrastructure (VPC, ALB, security groups, route tables, global accelerator...)
+CDN
+DNS
+IstioEnvoyLinkerdConsul Service Mesh and the Service Mesh Interface
+gRPC
+HTTP
+NGINX
+
+About DoorDash
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. 
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Were committed to supporting employees happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+Our Commitment to Diversity and Inclusion
+Were committed to growing and empowering a more inclusive community within our company, industry, and cities. Thats why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel. 
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, maritaldomestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on protected categories, we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce  people who identify as women, non-binary or gender non-conforming, LGBTQIA, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+If you need any accommodations, please inform your recruiting contact upon initial connection.
+Compensation
+The location-specific base salary range for this position is listed below.  Compensation in other geographies may vary.Actual compensation within the pay range will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location.  For roles that are available to be filled remotely, base salary is localized according to employee work location.  Please discuss your intended work location with your recruiter for more information.DoorDash cares about you and your overall well-being, and thats why we offer a comprehensive benefits package, for full-time employees, that includes healthcare benefits, a 401(k) plan including an employer match, short-term and long-term disability coverage, basic life insurance, wellbeing benefits, paid time off, paid parental leave, and several paid holidays, among others.In addition to base salary, the compensation package for this role also includes opportunities for equity grants.We use Covey as part of our hiring and  or promotional process for jobs in NYC and certain features may qualify it as an AEDT. As part of the evaluation process we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound on August 21, 2023.Please see the independent bias audit report covering our use of Covey here.California Pay Range:176,000—238,000 USD

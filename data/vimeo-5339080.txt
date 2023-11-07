@@ -1,0 +1,33 @@
+Principal Site Reliability Engineer (Remote)
+Do you love playing with cloud infrastructure at scale? Optimizing the last bit of performance and efficiency out of applications that get hundreds of thousands of requests per second? Building and maintaining infrastructure toolkits that hundreds of developers will use? Maintaining large distributed databases? Are MTTA and MTTR things you strive to reduce at all times? Maybe you even feel a little bit guilty putting as much effort as you do into your work.
+You dont need to feel guilty. Come work on the Site Reliability Engineering team at Vimeo! Your job will be to design, develop, deploy, maintain, and optimize the platform that powers an application that is part of the infrastructure of the Internet: Vimeo.
+What youll do:
+
+Build and improve platforms that power the applications that make up Vimeo
+Maintain and build tooling around making manual infrastructure work obsolete and self service for engineers
+Improve observability and reliability of applications to reduce outages to an absolute minimum
+Write and maintain thorough documentation to share with your teammates around the world, allowing them all to function as a cohesive unit
+Participate in a weekly on-call rotation shared between offices in the US and India
+Whatever it takes (within reason) to make Vimeo faster, more scalable, more reliable, and more efficient to operate
+Mentor junior team members and raise the competency bar of the SRE team.
+
+Skills and knowledge you should possess:
+
+At least eight years of professional experience in software development with high proficiency in at least one general purpose programming language (CC, Go, Java, Ruby, PHP, Python, etc.)
+Track record of designing, deploying, and operating large scale services with high availability.
+Deep understanding of the architectural patterns of high-scalability distributed systems, restful services, service-oriented architecture, and microservices.
+Expert experience maintaining and optimizing Kubernetes deployments
+Expert knowledge of Linux system internals and Container runtimes.
+Significant experience with major cloud providers (Google Cloud, AWS)
+Knowledge of Argo CD, Terraform, Hashicorp Vault, andor Atlantis
+Experience with administering MySQL at scale, including schema and query optimization
+
+Bonus points (nice skills to have, but not needed):
+
+Experience with generalized build systems (make, bazel, please, etc.) or language-specific build systems (SWC, Turborepo, etc.).
+Multi-CDN architecture and implementation
+Experience with video technologies (streaming, transcoding, etc.)
+
+ About Us:
+Vimeo (NASDAQ:VMEO) is the worlds most innovative video experience platform. We enable anyone to create high-quality video experiences to connect better and bring ideas to life. We proudly serve our growing community of nearly 300 million users — from creative storytellers to globally distributed teams at the worlds largest companies. Learn more at www.vimeo.com.
+Vimeo is headquartered in New York City with offices around the world. At Vimeo, we believe our impact is greatest when our workforce of passionate, dedicated people, represents our diverse and global community. Were proud to be an equal opportunity employer where diversity, equity, and inclusion is championed in how we build our products, develop our leaders, and strengthen our culture.

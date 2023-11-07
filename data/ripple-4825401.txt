@@ -1,0 +1,73 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.THE WORK:
+As a Technical Services Engineer, you will be providing first-class service and support for our financial institution customers using Ripples critical software to make payments around the globe. In your role, you will directly work with our customers and coordinate with Ripples Engineering teams to troubleshoot, replicate, and resolve issues to our customers satisfaction.
+You will analyze and resolve challenging technical issues, and investigate and identify root causes at the product, data, or network level, all the while keeping key customers informed on the situation. You will engage all levels of the Ripple organization as appropriate from Project Management, Integration, Engineering, and our Leadership team, in order to own and drive customer issues to resolution in a timely manner.
+You will play a lead role in configuring production support and oversight arrangements for Ripple customers so that the risk of service interruption is reduced. These preventative activities will be instrumental in ensuring a smooth and reliable production experience for all users of Ripple technology.
+WHAT YOULL DO:
+
+Enhance and adhere to a world-class set of operational procedures and policies for critical production support on a peer-to-peer payments network, and continually review and improve on these on an on-going basis
+Demonstrate, reproduce, successfully debug, and resolve technical issues across our customers technology stack
+Design and build tools and scripts to help analyze the product, database, and network log files and narrow the cause of issues
+Help to build and administer the infrastructure and systems that keep our customers up to date and informed
+Become a domain expert on Ripples revolutionary technology and products and an authority in the product requirements for production excellence
+Work with engineering and product to fix issues, release patches, and install in customer environments
+Coach and guide Ripple customers in implementing best practice policies and procedures for the smooth running of Ripple technology
+Assist in QA and validation of releases against known customer environments and configurations
+Voice of the customer: communicate customers requirements and desires back to Product Development and Engineering teams to influence Product Functionality and Roadmaps
+Participate in out-of-hours customer production support from time to time
+
+WHAT YOULL BRING:
+Required
+
+2-5 years experience implementing or supporting transaction processing systems supporting cash management, payments, or trade finance product in a complex technical environment
+A strong sense of ownership, and empathetic demeanor that the customers problem is my problem
+Excellent leadership and decision-making capabilities and the ability to be highly effective in demanding situations
+Deep technical and functional understanding of payment flows and cross border payment processing
+Knowledge of IT Infrastructure including Databases, Firewalls, Load Balancers, Proxy Servers, Application and Web Servers.
+Strong collaboration skills to partner with internal Product and Engineering teams as well as external customers in an agile environment
+Excellent Oral, Written and Customer Service skills
+Proven Analytical and problem-solving skills
+The ability to communicate your knowledge of enterprise-level, commercially available hardware and software products, operating systems, networking systems, and methodologies for integrating web-based products
+Work in a team environment 7x24x365 with the ability to function with independent discretion during rotating shift work.
+Must be comfortable with some customer-related travel (10-20 travel)
+
+Preferred
+
+Experience supporting critical applications
+Experience with testing tools and technologies - Test Harnesses
+Experience working with a Worldwide team
+Hands-on Supportcoding experience in web-based technologies (Web Services; Experience with Linux, Javascript, Ruby or Python; Peer-to-peer networks)
+Solid understanding of Linux system administration with an emphasis on networking (TCPIP) and security best practices
+Experience with Zendesk, Jira, Confluence, and testdefect management tools and processes and real-time monitoring tools such as Splunk
+Experience of providing customer support in a peer-to-peer technology environment 
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

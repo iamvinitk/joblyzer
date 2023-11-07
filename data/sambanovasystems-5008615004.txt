@@ -1,0 +1,50 @@
+The era of pervasive AI has arrived.  In this era, organizations will use generative AI to unlock hidden value in their data, accelerate processes, reduce costs, drive efficiency and innovation to fundamentally transform their businesses and operations at scale.
+SambaNova Suite is the first full-stack, generative AI platform, from chip to model, optimized for enterprise and government organizations. Powered by the intelligent SN40L chip, the SambaNova Suite is a fully integrated platform, delivered on-premises or in the cloud, combined with state-of-the-art open-source models that can be easily and securely fine-tuned using customer data for greater accuracy. Once adapted with customer data, customers retain model ownership in perpetuity, so they can turn generative AI into one of their most valuable assets.Working at SambaNova
+This role presents a unique opportunity to shape the future of AI and the value it can unlock across every aspect of an organizations business and operations. SambaNova is hiring a senior-level SOC Design Engineer who will be responsible for the design, integration and post-silicon bring-up of IO and memory subsystems. In this role you will play a unique and critical role in the design and productization of the SambaNova DataScale system. You will be provided with cross-functional learning across the hardware and software stack with opportunities for growth in a fast-growing AI system company.
+ 
+Responsibilities 
+
+Engage in architecture definition and evaluate implementation trade-offs with systemchip architects
+Drive the selection of Interface IPs to meet PPA requirements
+Be responsible for microarchitecture spec, RTL design and integration of 3rd-party IP
+Support the physical design team, review clocking and timing constraints
+Work closely with verificationemulation on feature scoping and test plans
+Drive cross-functional triage effort on complex functional and performance issues
+Take a leadership role in post-silicon bring up of IO and memory subsystems
+Define boot-up initialization and reset flows 
+Perform system-level debug and root-cause analysis through bring-up, validation and production phase
+
+Basic Qualifications
+
+BS or MS in EE, ECE or CS
+7 years of experience in silicon development with 3 years in SOCIOmemory subsystems
+
+ 
+Additional Required Qualifications
+
+Experience in microarchitecture, logic design, SystemVerilog and UVM design methodology
+Required experience in one or more  protocols like EthernetPCIeCXLHBMUCIe
+Experience with on-chip interconnects like AXI or equivalent
+NoC (network on a chip) experience is a plus
+Experience with IP integration related methodology and flows 
+Experience working with 3rd-party vendors
+Must have done at least one full-cycle SOC design from concept, all the way to post-silicon bring-up and productization
+Good leadership skills and ability to multi-task and thrive in a dynamic start-up environment 
+
+Preferred Qualifications
+
+Domain expertise in the Ethernet stack (400G800G MAC, PCS, FEC)
+Working knowledge of interfacing to high-speed PHYPMD
+Experience with subsystem performance modeling and analysis
+
+ 
+Annual Salary Range and Level
+The base salary for this position ranges from 165,000year up to 210,000year. This range is based on role, level, and location and reflects the salary target for new hires in the US. Individual pay within the range will depend on a number of factors, including a candidates job-related qualifications, skills, competencies and experience, and location.
+ 
+Benefits Summary
+SambaNova offers a competitive total rewards package, including the base salary, plus equity and benefits. We cover 95 premium coverage for employee medical insurance, and 80 premium coverage for dependents and offer a Health Savings Account(HSA) with employer contribution. We also offer Dental, Vision, ShortLong term Disability, Basic Life, Voluntary Life and ADD insurance plans in addition to Flexible Spending Account(FSA) options like Health Care, Limited Purpose, and Dependent Care. Our library of well-being benefits includes a full subscription to Headspace, access to One Medical, counseling services with an Employee Assistance Program, and much more.
+ 
+LI-SB1Submission Guidelines
+Please note that in order to be considered an applicant for any position at SambaNova Systems, you must submit an application form for each position for which you believe you are qualified. 
+If you are a new, recent (within the last two years), or upcoming college graduate and are interested in opportunities with SambaNova Systems, please apply through our university job listings.EEO Policy
+SambaNova Systems is an Equal OpportunityAffirmative Action Employer. All qualified applicants will receive consideration for employment without regard basis of age (40 and over), color, disability, gender identity, genetic information, marital status, military or veteran status, national originancestry, race, religion, creed, sex (including pregnancy, childbirth, breastfeeding), sexual orientation, and any other applicable status protected by federal, state, or local laws.Customers turn to SambaNova to quickly deploy state-of-the-art generative AI capabilities within the enterprise. Our purpose-built enterprise-scale AI platform is the technology backbone for the next generation of AI computing.Headquartered in Palo Alto, California, SambaNova Systems was founded in 2017 by industry luminaries, and hardware and software design experts from SunOracle and Stanford University. Investors include SoftBank Vision Fund 2, funds and accounts managed by BlackRock, Intel Capital, GV, Walden International, Temasek, GIC, Redline Capital, Atlantic Bridge Ventures, Celesta, and several others. Visit us at sambanova.ai. Follow SambaNova Systems on Linkedin.

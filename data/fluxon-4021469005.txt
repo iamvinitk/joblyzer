@@ -1,0 +1,43 @@
+Who we are
+Fluxon is a global product development company founded by ex-Googlers and startup founders. We work with fast-growing startups and tech leaders like Google, Stripe and Zapier to deliver the worlds most innovative products. Bringing together strong expertise across disciplines and industries, Fluxon offers full-cycle software development: from ideation and design to build and go-to-market.
+Currently, we are looking for an experienced Senior Software Engineer to join our team. Our HQ is in San Francisco, but this position is based in Ukraine.
+Who you are
+You are a master of coding and you can build any application from end-to-end. You can work at any company in the world, but you choose us because were always striving to innovate. You are brilliant, yet humble. You like working in a team, because you believe the whole is greater than the sum of its parts. You have high integrity and a strong work ethic. You are organised and self-motivated and you enjoy life outside of work. 
+If this sounds like you, we would love to chat!
+Key responsibilities
+
+Create beautiful user experiences, delivering the end-to-end implementation all the way to the user.
+Engage directly with our clients to understand requirements, give demos, and debug production issues.
+Learn fast and work independently and reliably.
+
+Qualifications
+
+Mature software engineer generalist familiar with wide-range of technologies, who chooses appropriate tools and design patterns to solve complex problems, producing simple and reliable application architectures.
+Fluent in JavaScript, HTML, CSS and modern web development practices.
+Expert with the full application stack
+
+React, Angular, Vue, or other modern frontend frameworks.
+Node, Rails, Django, or similar backend frameworks.
+PostgreSQL, MySQL, or other database technology.
+
+Experienced with developer operations: release management, testing, monitoring.
+Familiar with key web technologies: DNS, TCPIP, HTTP(S).
+Upper-Intermediate level of English.
+Typescript.
+GraphQL (with Apollo Client), ApolloServer.
+React Native cross platform app development.
+Native iOS or Android app development.
+Other programming languages (Go, Java, Elixir, Ruby, Python, etc).
+Google Cloud Platform and Google App Engine, AWS, Heroku or other hosting platforms.
+
+What we offer
+
+Exposure to high-profile SV startups and enterprise companies.
+Competitive salary.
+Fully remote work with flexible hours.
+Flexible paid time off.
+Profit-sharing program.
+Healthcare.
+Parental leave, including adoption and fostering.
+Gym membership and tuition reimbursement.
+Hands-on career development.

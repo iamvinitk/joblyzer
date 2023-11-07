@@ -1,0 +1,50 @@
+(FEQ424R291)
+ 
+Mission
+As a Specialist Solutions Architect (AIML Engineer), you will guide customers in building big data solutions on Databricks that span a large variety of machine learning and LLM use cases.
+You will be in a customer-facing role, working with and supporting Solution Architects, that requires hands-on production experience with MLFlow and expertise in other MLOps technologies.
+SSAs help customers through the design and successful implementation of essential workloads while aligning their technical roadmap for expanding the usage of the Databricks Lakehouse Platform.
+As a go-to-expert reporting to the Specialist Field Engineering Manager, you will continue to strengthen your technical skills through mentorship, learning, and internal training programs and establish yourself in an area of speciality - whether that be machine learning, LLM, MLOps, industry expertise, or more.
+ 
+The impact you will have:
+
+Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from feature engineering, training, tracking, registry, serving to model monitoring all within a single platform.
+Architect production-level workloads, including end-to-end ML pipelines load performance testing and optimization
+Become a technical expert in Databricks Machine Learning and MLOps technologies
+Assist Solution Architects with more advanced aspects of the technical sale including custom proof of concept content, estimating workload sizing, and custom architectures
+Provide tutorials and training to improve community adoption (including hackathons and conference presentations)
+Contribute to the adoption of a variety of the ML offerings Databricks with customers as well as the larger Databricks Community
+
+What we look for:
+
+5 years experience in a pre-sales or post-sales technical role with expertise in at least one of the following areas:
+
+Data ScientistML Engineer: model selection, model lifecycle, model scaling, AutoML, hyperparameter tuning, model serving, model monitoring, deep learning.
+MLOps Engineer: Build and maintain cloud infrastructure that supports the deployment of ML models and algorithms, monitors data drift, and integration with production systems.
+
+
+Extensive experience in applying Data Science  ML in production to build data-driven products for solving business problems.
+Maintain and extend production data systems to evolve with complex customer needs.
+Technical expertise regarding ML concepts including Model Tracking, Model Serving and other aspects of productionizing ML pipelines in distributed data processing environments like Apache Spark, using tools like MLflow
+Professional experience with Big Data technologies (Ex: Spark, Hadoop, Kafka) and production programming experience in SQL and Python, Scala, or Java.
+Fluent in French
+
+Benefits
+
+Complementary health insurance
+Complementary life and disability coverage
+Complementary pension
+Equity awards
+Paid parental leave
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel accident insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

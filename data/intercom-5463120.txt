@@ -1,0 +1,59 @@
+Intercom is an AI powered, automation-first customer service platform that lets businesses deliver fast support, keeping customers satisfied, costs low, and service teams happy.
+It is the only complete customer service solution that provides a seamless customer experience across automation and human support. Customer service teams from more than 25,000 global organizations, including Atlassian, Amazon and Microsoft, use Intercom to send over 600 million messages per month and enable interactions with over 800 million monthly active end users. The company was founded in 2011 and is backed by leading venture capitalist including Bessemer Venture Partners, Kleiner Perkins and Social Capital. 
+Whats the opportunity? 
+
+
+Were looking for a support engineer to join our team in Chicago, someone with a bit of engineering or web development experience and a desire to be a part of creating truly exceptional customer experiences. If this sounds like you then the Customer Support team at Intercom might be the place for you.
+This is a very hands-on, technical role, that is much broader than a typical ticket-based support position. Our Support Engineers partner with our customers to tackle the challenging technical issues they face in innovative ways. In this role, you will be directly responsible for helping people integrate Intercom into their products, diagnose and report problems they have, and serve as the bridge between our customers and our product teams. 
+We use Intercom to support Intercom customers, so whether youre just starting out in your career or want to get a deeper understanding of fundamental customer motivations and how those are applied to building an ambitious, world-class product, this role provides that great opportunity. We have all experienced terrible customer service. Robotic agents running through a script of predetermined messages, never helping or sympathizing, just programmatically following instructions. Thats the opposite of who we are.
+Our way of providing support is based on the principles of continuity and trust and our style of communication is personal, friendly and fun. We engage in dynamic conversations with our customers and are big fans of visual communication (think emojis, stickers, GIFs) - we believe that visual support is human support! We work primarily via the Intercom Messenger, but sometimes jump on calls if its the right thing to do or the fastest path to resolution.
+This opportunity is for folks who truly love problem-solving and troubleshooting, with the end goal of empowering our customers to reach their objectives and address any challenges with our product. This is not a springboard into other areas or jobs at Intercom, but this is a great role for those who are looking to be part of our support team for a while and who are excited about growing alongside Intercom. We also want people that have an eye for improvement and efficiency, someone who wants to work at a place where theyre encouraged  to bring ideas and feedback to the table on how things could be better for our team andor our customers.
+
+What will I be doing? 
+
+Debug complex issues with an understanding of both our own codebase and the many technologies employed by our customers
+Solve technical problems for customers on a daily basis
+Utilize inherited and learned technical knowledge to build tools that will help increase the efficiency and effectiveness of the team and its processes
+Influence the direction of the Intercom product through daily communication with our customers and consistent collaboration with our product teams
+
+What your first 6 months will look like:
+
+30 days - Onboarding to Intercom  Customer Support: Youll learn what it means to be an Intercomrade and the ins  outs of our product. You will learn the fundamentals to set you up for success, and will be talking to our customers alongside a dedicated mentor.
+90 days - Helping customers  crushing KPIs: At this point youll be fully ready to jump in - helping customers and tracking your performance based on our ambitious yet achievable Key Performance Indicators.
+6 months - Broadening your impact on the team and your personal development: While supporting customers, you will also have the opportunity to get involved with CS teams and additional projects like social media support, bots  automation, quality assurance, internal support, and more!
+
+What skills do I need? 
+The basic requirements to be successful in this role are:
+
+Solid basic knowledge of programming. You dont have to be an expert in one of the languages we use (Ruby and JavaScript) but you should be proficient and have an active interest in learning them
+Computer Science degree or 1-2 years working in a web development background
+
+Understanding of web technologies and concepts (HTML, CSS, JavaScript, APIs, etc.)
+
+Previous experience with problem solving in a troubleshooting environment
+Demonstrated success working with Key Performance Indicators (KPIs) or other metricsquotas 
+
+However, great support takes more than tech skills, so we also need you to have:
+
+A real interest in helping a high volume of customers who range from experienced developers to non-technical
+Excitement for a support environment that is constantly experimenting with workflows and automation to drive efficiency
+Excellent written communication skills with the ability to explain complex topics in easily understood, concise language [English]
+Ambition, eagerness to learn and improve, passion for tech and the future of the internet
+
+Remember that theres no such thing as the perfect candidate or background, which is what makes us unique and successful! Imposter syndrome is common, but wed love to hear from you. So please dont hesitate to apply, even if you dont tick every box on this page!
+Bonus skills  attributes 
+
+Strong knowledge of Ruby, Rails and Javascript
+Familiarity with native mobile development
+
+Benefits 
+We are a well-treated bunch, with awesome benefits! If theres something important to you thats not on this list, talk to us! :)
+
+Competitive salary and equity in a fast-growing start-up
+Catered lunch every weekday, plus a fully stocked kitchen
+Regular compensation reviews - we reward great work!
+Flexible holidays so you can take time off when you need it
+Healthcare stipend towards private health insurance for you and your partnerspouse
+MacBooks are our standard, but were happy to get you whatever equipment helps you get your job done
+Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law. Intercom is currently able to hire if an employee has a permanent residence in the following locations; Australia, Ireland, England and applicable US states. (California, Colorado, Florida, Illinois, Massachusetts, New York, North Carolina, Texas, and Washington).
+Is this role not quite what youre looking for? Join our Talent Community to stay connected with us. 

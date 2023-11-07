@@ -1,0 +1,40 @@
+
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+At Stripe, were dedicated to helping millions of companies worldwide to find the financial products they need to grow their businesses. Thats why our Global Selling team focuses on building out the products and services that make it simple and easy for our users to do business across borders. The team is building products such as FX APIs, FX capabilities, cross-border funds flows, and more. 
+What youll do
+This is an exciting opportunity to partner with Global Selling leaders across Product, Engineering, Finance, Sales, and Design to shape business strategy and inform product priorities. 
+You will solve challenging and ambiguous business problems all while operating with autonomy in a dynamic, high-growth environment. Data Science at Stripe employs the full toolbox in order to advance our mission of building world-leading financial products and infrastructure, from experiments and causal inference, to working with our partner teams to rigorously define and forecast metrics.  If this sounds exciting, we hope you will join us!
+Responsibilities
+
+Define and measure key outcome metrics for products that cater to our users needs
+Design and analyze experiments to improve the conversion funnel for product adoption and targeting efficacy
+Apply statistical methods, causal inference, and machine learning to inform product decisions and optimize our products and systems
+Design and develop data sets that enable better understanding of adoption and engagement
+Partner closely with product, engineering, finance, and marketing teams to identify and prioritize the most important data science projects
+Build scalable automation solutions utilizing SQL, Spark, and visualization tools
+Work cross-functionally to unblock and fund new product capabilities
+
+Who you are
+Were looking for an experienced data scientist to partner with the Global Selling team to support the growth of our products and develop new ones. If you are excited about building the products needed for running Global Businesses, are passionate about data-driven product development, and are energized by designing strategic metrics and causal analyses, then we want to hear from you!
+Minimum requirements
+
+A PhD or MS in a quantitative field (e.g., Statistics, Quantitative Finance, Economics, Sciences, Engineering) or equivalent experience.
+6 years of data sciencequantitative modeling experience.
+Expert knowledge of a scientific computing language (such as R or Python) and SQL.
+Expertise in statistics and experimental design.
+Ability to communicate results clearly and a focus on driving impact.
+Experience working with cross-functional teams to deliver results.
+
+Preferred qualifications
+
+
+
+Prior experience with product data science team or enthusiasm to learn.
+Familiarity with the broader fintech industry, latest trends, challenges, and regulatory environment.
+Understanding of Global Business landscape, including awareness of topics such as international business regulations, monetary systems, and tax laws.
+
+
+

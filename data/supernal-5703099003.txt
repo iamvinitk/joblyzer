@@ -1,0 +1,45 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Avionics and Electrical engineering team is responsible for design, integration, qualification, and certification of the Avionics, the Low-Voltage Power Distribution System and the Electrical Wiring and Interconnect system (EWIS). The Lead Project Engineer, Avionics and Electrical will work closely with Airframe  AIT, VMS, Flight Technology, Powertrain, Test  Evaluation, and the PMO teams to ensure progress and technical quality throughout the Avionics and Electrical systems development.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Assist Avionics and Electrical Department Head and Managers with the completion of engineering projects and schedule deliverables. Identify problems, recommend solutions, and negotiate and implement contingency plans related to Avionics and Electrical systems
+Lead teams through problem solving techniques (ex. Fish bone diagrams, Fault tree analysis, 8D, etc.) and help teams identify and communicate risks, and create mitigation plans
+Lead team(s) in the design and documentation of development processes of the Electrical interfaces including electrical connector types, connector pin definitions, wire types and sizes and other relevant data for all aircraft systems as input to the EWIS wire harness CAD design and manufacturing process
+Provide project support for different stages of Avionics and Electrical development internally as well as externally with subsystemcomponent suppliers to ensure on-time Avionics and Electrical delivery
+Ensure efficient cross-collaboration between the Avionics and Electrical team and other teams on the programs
+Coordinate deliveries of software requirements, IO tables, code and models to Avionics suppliers and of resulting software build, integration and change development activities
+Coordinate verification and validation activities for systems, hardware and software and collaborate with the Test  Evaluation Team to plan, support, and conduct tests as required
+Provide project support for the Avionics and Electrical and other Systems Teams in the integration of the equipment into the air vehicle in the following areas: avionics cockpit and ground control station integration, avionics and electrical systems to airframe integration, aircraft systems to electrical wiring system integration, aircraft assembly sequence and work with the assembly and integration team to provide prototype parts to support system level testing and engineering builds
+Provide project support for the following: simulation and analysis efforts to drive requirements development and decomposition that includes tracking and closure of trade studies; system architecture and safety teams to develop requirements and specifications for the avionics and electrical systems; and engineers to define and mature mechanical, electrical, and communication interfaces with aircraft systems to include airframe, wiring, powertrain and vehicle management systems
+Support leadership in balanced workloads and support the Avionics and Electrical engineering team through technical and programmatic milestones
+Align all team outcomes with Program Management team deliverables
+May require up to 25 of domestic and international travel
+Other duties as assigned.
+
+What you can contribute:
+
+Bachelors degree in Mechanical, Aerospace, or Electrical Engineering required; Masters degree preferred
+Minimum of ten (10) years of relevant experience working on electricalelectronics systems, hardware andor software preferably in aerospace applications such as fixed wing and helicopter aircraft (an equivalent combination of education experience may be considered)
+Familiarity with flight controls, electrical power or powertrain system and subsystems
+Strong understanding of Aircraft System Development
+Basic knowledge of EMC (electromagnetic compatibility) issues
+Knowledgeable in aircraft and systemsubsystem civil certification processes
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+Must be able to accept personal and group responsibility and accountability for major analytical and planning assignments
+Strong teamwork skills. Able to develop consensus and move the program forward. Develop win-win situations
+Ability to lead a team(s) of engineers through technical delivery
+Works well with all levels of management, including executive management, including developing effective communication pathways
+
+You may also be able to contribute:
+
+Familiarity with rotorcraft vehicle andor eVTOL product development is a plus
+Experience working with regulatory agencies is preferred
+Prior background knowledge of Integrated Avionics System development preferred
+Eagerness to expand skills and knowledge into electric aviation propulsion systems
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:192,400—289,120 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

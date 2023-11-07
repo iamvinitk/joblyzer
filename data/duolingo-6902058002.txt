@@ -1,0 +1,49 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+Youll elevate the way we use art and animation to make our products more engaging, immersive, and interactive.
+This role reports to the Senior Art Manager as a member of the Design Studio team and partners closely with our Product, Design, Systems, and Engineering teams. At Duolingo, we take pride in our craft and agonize over high-quality design with a user-friendly (and fun) experience for everyone.
+ 
+You Will...
+
+Test, learn, and promote new tools and technologies to further gamification and interactivity in our products
+Collaborate with artists, product teams, and engineers to understand creative and product decisions and devise technical solutions that propel them forward confidently
+Set up state machines, build character rigs, debug tool issues, and animate
+Quickly create prototypes to test ideas, mechanics, and tool capabilities
+Share knowledge and best practices with and mentor artists
+Get consensus when technical recommendations impact other teams
+Complete work within production timelines and communicate needed adjustments to schedules with management
+Maintain professionalism in a fast paced and dynamic work environment
+
+You Have...
+
+Experience delivering delightful visuals while adhering to performance constraints, reducing technical complexity while still hitting MVP requirements
+A firm understanding of current and next-gen art techniques
+The principles of design and animation down
+A minimum of 5 years experience in a Technical Art role (rigging, technical animation, scripting gameplay, state machines, etc.)
+Experience succinctly communicating trade-offs, ideas, and recommendations to managers, engineers, and artists
+A portfolio that demonstrates your prototyping savvy
+A Technical Artist demo reel that is no more than 2 minutes long
+A reel breakdown calling out your work in the reel
+The ability to relocate to Pittsburgh, PA
+
+Exceptional Candidates Will Have...
+
+Proficiency in Python, C, or similar scripting languages
+Experience writing plugins, scripts, and tools
+Experience working at a small game studio, VFX house, or tech start-up
+Experience with interactive animation for mobile content
+Experience with Rive
+General 3D Skills like modeling, texturing, rigging, and animating
+An understanding of game design principles and player experience.
+Experience with Maya, Toonboom Harmony, or similar tools
+
+Please include a link to your portfolio showcasing relevant work samples. A portfolio submission is mandatory for consideration of your candidacy.
+ 
+
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 107,000 - 201,100. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

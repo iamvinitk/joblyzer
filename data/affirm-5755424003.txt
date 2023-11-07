@@ -1,0 +1,73 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.Were looking for a driven, analytically-minded professional to join the Growth Analytics team! Growth Analytics at Affirm encompasses Product, Marketing, Operations, and Foundations. The team is responsible for the research, reporting, and experimentation vital to build outstanding consumer-facing and merchant products. This role is for the Core Analytics team focused on reducing the end to end time and friction of Analytics teams to produce analysis. The ideal candidate will have strong analytical engineer and project management skills, an eagerness to collaborate with different teams, and last but not least they should be capable to identify areas where optimization can be key to increase processes efficiencies.
+What Youll Do
+
+
+Work within a multi-disciplinary team including engineers, product managers, risk, analytics following Agile best practices
+
+
+Partner with business stakeholders, upstream infrastructure platform teams, and downstream data consumers to understand and translate business requirements into technical design while working on advanced analytics use cases
+
+
+Work with advanced analytics technologies to solve data and computation challenges at a large scale.
+
+
+Deliver analytical algorithms and applications.
+
+
+Develop and support data pipelines, warehouses, data models, and reporting systems to tackle business opportunities within the Analytics community at Affirm
+
+
+Prepare data models and feature quality checks, optimizes analytical solutions at scale
+
+
+Influence and educate stakeholders across the organization (analytics, business, product) to promote data usage best practices within the scope of Analytics tools such as DBT, Looker, SQL, Python etc.
+
+
+What We Look For
+
+
+BS or MS in STEM (Science, Technology, Engineering, Mathematics) or with a proven track of record from programming areas.
+
+
+2-4 years work experience in an Analytics, Data Modeling, and Data Provisioning (acquisition from various sources, transformation and sharing) role
+
+
+Strong working knowledge of SQL andor experience with Python. Experience with DBT or Snowflake is a plus.
+
+
+Strong working experience with at least one BI tool (Looker, Tableau, Power BI)
+
+
+Strong interpersonal skills and ability to work cross-functionally
+
+
+Ability to think creatively and critically and thrive in a fast-paced, dynamic, and often ambiguous work environment
+
+
+Ability to communicate and influence both technical and non-technical audiences
+
+
+Enough laziness to find a faster way to do your least favorite tasks
+
+
+Humility and team player - you go out of your way to help teammates
+
+
+A plus to have worked in Agile methodology as well as with DevOps practices and using appropriate tools such as Jira, GitHub, etc.
+
+
+LI-Remote
+ 
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+We have a simple and transparent remote-first grade-based compensation structure. Offer amounts within the range are based on a number of factors including but not limited to job-related skills, experience, and relevant education or training. Across the broader organization, certain roles are eligible for equity awards upon hire, promotion, tenure milestones and for performance.
+Were extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe Its On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+
+By clicking Submit Application, you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.

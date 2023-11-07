@@ -1,0 +1,29 @@
+
+This is a unique opportunity to demonstrate your experience and knowledge of hardware, Ubuntu and Open Source in general. Within this role you will be working with a dedicated set of enterprise customers that are adopting Ubuntu and Open Source on desktop. If you decide to join, youll become a member of the team that provides exceptional technical support and engineering solutions to help customers with Ubuntu and rest of the Open Source.
+This is an opportunity for an open source technologist who enjoys solving problems under pressure.
+
+Apply your knowledge of Linux desktop, applications, authentication and security
+Demonstrate your knowledge of TCPIP and wired  wireless networking on Ubuntu Desktop and Ubuntu Server
+Act as the technical authority and utilise your experience with popular open source software 
+Provide advice on deployed architecture, implementing solutions for complex problems
+Debug Ubuntu Desktop issues and contribute code to help fix them
+Communicate regularly with the customer team about ongoing issues
+
+If you have a passion for the latest open source technologies, technical support, development, desktop technologies and networking, you will love the Desktop Support Engineer role at Canonical. 
+The successful Desktop Support Engineer will have:
+
+BABS degree in Computer Science or related technical field
+Open source experience
+Professional support experience with Linux desktop (preferably Ubuntu or other Debian-based distros)
+Familiarity with PC andor laptop hardware as well as SBCs e.g. Raspberry Pi
+Familiarity with Debian or Snap packaging
+Experience with GNOME, GTK, Python, or C
+Experience with or willingness to learn new technologies, including Snaps, WSL and others
+Must be able to speak English fluently
+Excellent communication skills and extensive experience in customer-facing positions
+High motivation, ability to multi-task and follow-up reliably on commitments
+Ability to travel
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-Remote
+stack

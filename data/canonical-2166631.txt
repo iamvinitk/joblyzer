@@ -1,0 +1,48 @@
+Canonical seeks an experienced developer with a proven track record in Python andor Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations. 
+This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.
+The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.
+You can read more about the project here and here.
+Location: This role will be based remotely in the EMEA and Americas regions
+What your day will look like
+
+Collaborate proactively with a globally distributed team
+Write, test and document high quality code to create new features
+Debug issues and interact with a vibrant community
+Review code produced by other engineers
+Attend conferences to represent Canonical and the Charmed Observability Stack
+Work from home with global travel 2 to 4 weeks for internal and external events
+
+What we are looking for in you
+
+You love technology, observability and working with brilliant people
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have a proven understanding of the importance of observability and monitoring for keeping software running smoothly
+You have strong working knowledge of modern monitoring technologies like Prometheus, Alertmanager, Grafana, Loki, Mimir, etc., and how they fit together
+You are a skilled Python developer, preferably with a track record in open source
+You have a working knowledge of Go
+You have proven, hands-on experience deploying, configuring and using Kubernetes
+You are comfortable contributing to open source codebases maintained by other companies, you have a history of driving consensus in groups of multiple stakeholders with different interests and getting the resulting work delivered
+You have experience with infrastructure-as-code and configuration management tools
+You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

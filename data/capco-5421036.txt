@@ -1,0 +1,40 @@
+About the team:
+Capco is a global management and technology consultancy that specializes in advisory, implementation, and delivery of client-centered solutions across Financial Services, Energy, and Insurance industries. We support modern platform implementations, digital transformations, end-to-end IT delivery, omni-channel standardization, cloud-based data management, and predictive data analytics. Our collaborative and efficient approach helps clients reduce costs and manage risk and regulatory change while increasing revenues. We are thinkers, innovators, and disruptors. We are small enough to care but large enough to matter.
+About the Job:
+This is an excellent opportunity to join a world class consultancy focused on their Trading and Risk Management practice.  Our customers include some of the worlds largest integrated energy and commodity trading companies. We are looking for a hands-on Senior Endur Technologist with exposure in Gas and Power Commodities Trading who is passionate about technology and has experience developing Java-based, enterprise-wide solutions. The successful candidate is adept at partnering with end-users to elicit requirements, analyze problems, design solutions and ultimately deliver tangible business value  benefit. Collaborating with your peers, you will liaise closely with technologists across the global teams and our key business stakeholders and team members to ensure solutions integrate seamlessly into our landscape. You should have a delivery-focused background in an Agile environment and a desire to identify and develop strategic solutions while constantly looking to challenge the status quo to bring your ideas and strive for improvement.
+What Youll Get to Do:
+
+Hands on development role with technical lead responsibilities
+Work closely with business users to understand processes and capture requirements
+Actively seek to identify and drive improvements and innovation
+Acquiring business knowledge and system knowledge to further individual development
+Work closely with existing development team to enhance the current Openlink platform including integrating with the Global Commodities application stack
+Must demonstrate drive and initiative, be goal-oriented, dedicated, and self-sufficient.
+Should be able to work well under pressure, adapt quickly to changing priorities and maintain focus on key tasks during busy periods
+Responsible for designing and developing a technology stack, leveraging on a combination of existing platforms and building new strategic platforms
+Close interaction with Traders and business users to understand new requirements for applications across the platform, specifically focused on trade modelling and life cycle
+Increase productivity of the technology teams build and delivery cycles, and design system solutions to maximize operational efficiency of the business processesworkflows
+
+What Youll Bring with You:
+
+7-10 years of development experience
+Strong technical expertise in areas like JVS, Connex Frameworks (including exposure to OpenLinks Java Framework)
+Strong SQL skills (preferably MS SQL Server)
+7 years Experience working with ETRM systems (Endur  OpenLink)
+Service oriented technologies like REST, JSON, Protobuf, Spring Boot, Drop Wizard
+DevOps best practices using tools like JIRA, JUnit, GitLab, Artifactory, Docker, Kibana, Prometheus
+Cloud  either AWS or Azure exposure and understanding of how it can be utilized in a hybrid environment
+Significant work experience within energy trading and risk management
+Solid understanding of the energy  commodity industry end-to-end, Natural Gas, Power, and Emissions products
+Experience in both physical and financial trading environment trading a plus
+Knowledge of US and Canadian Natural gas, Power, and emissionsrenewables trading domain. Familiarity with European gas, power, and emissions trading is a plus but not a requirement
+Knowledge of physical trades including storage and transport models, financial trades including nonlinear trades and their valuation
+Familiarity with curve modeling, including volatility setup
+
+Why Capco?
+A career at Capco is a chance to help reshape the competitive landscape in financial services.  We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset, and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, including medical, dental and vision insurance, a 401(k) plan, tuition reimbursement, and a work culture focused on innovation and creation of lasting value for our clients and employees. 
+Ready to take the Next Step 
+If this sounds like you, we would love to hear from you.  This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.

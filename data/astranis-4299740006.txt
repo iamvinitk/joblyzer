@@ -1,0 +1,42 @@
+Astranis is on a mission to bridge the digital divide by connecting the four billion people worldwide who currently lack internet access. Were doing this by building the next generation of smaller, more cost-effective spacecraft to bring the world online. 
+As a team, weve launched two satellites into orbit,  signed ten commercial deals worth over 1 billion in revenue, raised over 500 million from top global investors, and recruited a team of over 300 world-class engineers. We all work out of our (legendary) San Francisco office, which was once used to build ships during the World Wars.
+Our satellites, which operate from geostationary orbit (GEO), weigh only 400 kg and utilize a proprietary software-defined radio payload. Each satellite can connect over two million people, and were very excited for the impact well soon have in the Philippines, Peru, Mexico, and more! 
+Backed by substantial funding and a passionate, collaborative team, we offer a rewarding work environment where youll learn and make a significant impact, no matter where you are in your career. 
+Apply and join us on our journey towards global connectivity! 
+Mechanical Engineer As an Astranis Mechanical Engineer, you will design, evaluate, test and build spacecraft parts, processes and mechanical systems. You must have a strong problem-solving background as well as hands-on skills and an enthusiasm for novel design. Experience with spacecraft, mechanisms andor composites are benefits but not required.Role
+
+Design, evaluate, procure, assemble, and test primary structure, bracketry, and mechanisms for Astranis spacecraft. Components include composite and metallic parts and assemblies with a variety of manufacturing techniques.
+Develop requirements for components and systems including loads, interfaces, and functional requirements.
+Perform mechanical and thermal analysis for spacecraft systems
+Integrate parts and systems into the spacecraft by working together with the rest of the team, and document and develop procedures to improve the build process in the future.
+Assist in recruiting, interviewing, and hiring additional teammates to our rapidly-growing team.
+
+Requirements
+
+Bachelor of Science degree in mechanical engineering or equivalent
+1-4 years of mechanical design or equivalent experience 
+Mastery of mechanical CAD
+Demonstrated fundamentals with mechanical and thermal analytic abilities; FEA experience is not required, but preferred
+A passion for hardware development, including working in a fast-paced environment and hands-on design and development
+Dont meet them all? Not a problem. Please apply even if you do not meet all these criteria.
+
+Bonus
+
+Experience with mechanical andor thermal FEA
+Experience with composite structures
+Experience in designing in a vacuum environment with large temperature swings
+Experience with vibration environments
+Electromechanical design experience
+
+ 
+All our positions offer a compensation package that includes equity, robust benefits, and bonuses.What we offer: 
+Base pay is a single component of Astraniss total rewards package, which may also include equity in the form of incentive stock options, performance bonuses, high quality company-subsidized healthcare, disability and life insurance benefits, flexible PTO, 401(K) retirement, and free on-site catered meals.
+ 
+Astranis pay ranges are informed and defined through professional-grade salary surveys and compensation data sources. The actual base salary offered to a successful candidate will additionally be influenced by a variety of factors including experience, credentials  certifications, educational attainment, skill level requirements, and the level and scope of the position.
+Base Salary110,000—140,000 USDU.S. Citizenship, Lawful Permanent Residency, or RefugeeAsylee Status Required
+(To comply with U.S. Government space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U.S.C. 1324b(a)(3))
+ 
+Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger.
+
+ 
+All employees of Astranis are required to be vaccinated by the start of their employment. Mandatory vaccinations support our commitment to making our workplace and public facilities as safe and welcoming as possible. Reasonable accommodations will be made for individuals who are not able to get the vaccine due to qualifying medical or religious reasons.

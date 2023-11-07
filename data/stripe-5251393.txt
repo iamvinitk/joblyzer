@@ -1,0 +1,43 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies, from the worlds largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead of us. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Payments are the core of Stripes business, and the orgs and teams within Payments are broadly responsible for processing and moving funds at a huge scale - a platform that processes hundreds of billions of dollars annually. 
+Stripes goal is to make payments dead simple for our users. Internally, we operate a complex network of systems which interact with all parts of the financial system. We build infrastructure for charging credit cards (or other payment methods, like bank transfers or BNPL), integrations with our banking partners to send transfers to our users across the globe, systems that collect Stripes revenue and estimate cost, and more. Collectively, these systems power all payments products at Stripe.
+What youll do
+Responsibilities
+
+Work with other Stripe leaders to author Stripes payment strategy in EMEA  APAC
+Develop engineers on the team, helping them advance in their careers
+Empower the engineering team to achieve a high level of technical productivity, reliability and simplicity
+Contribute to engineering-wide initiatives as a member of Stripes engineering management team
+Recruit great engineers, in collaboration with Stripes recruiting team
+
+You may be a fit for this role if you:
+
+You have a track record of leading productive engineering teams
+You thrive on a high level of autonomy and responsibility
+You encourage a healthy work environment thats both supportive and challenging
+Youre excited to help engineers develop new skills and advance in their careers
+Youre clear and persuasive in writing and in person
+You lead by example, by setting the right context, and by helping teammates do their best work
+Youre technical enough to ask engineers good questions about architecture and product decisions
+Youre an experienced engineering manager who has mentored other engineering leaders to grow
+Youve successfully recruited great people to your teams
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum Requirements
+
+BS or MS in Computer Science or equivalent technical field
+3 years of Engineering Management experience
+7 years of experience in a Software Engineering role
+Demonstrated ability of defining and driving complex initiativesprojects 
+Experience hiring top talent, building diverse and inclusive teams from scratch
+Ops expertise (metrics, alarming, paging, and service availability)
+The ability to thrive on a high level of autonomy and responsibility
+
+Preferred Requirements
+
+Experience with payments-related products
+Working in global and cross regional environments 

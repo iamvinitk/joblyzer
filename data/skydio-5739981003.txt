@@ -1,0 +1,30 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role: We are looking for a hands-on technical leader to own our internal manufacturing software systems.  Skydio builds complex flying robots and through an in-house manufacturing capability our goal is to ensure high quality and greatly reduced iteration time for improving processes.  We have developed a robust software system that models and tracks the manufacturing process, runs and tracks tests on the line, and ultimately ensures the quality and performance of each and every Skydio product made.  Your team will be responsible for growing this system to meet the demands of a growing hardware portfolio and customer base.
+About the Team:
+
+We use Python  Flask on the backend and React  typescript on the frontend.  We make heavy use of protobuf for IPCRPC and also use python typing to provide strong type-safety guarantees across the stack.  We are also navigating embedded Linux systems and use C for many of our on-vehicle, performance-sensitive subsystems.
+We are an agile team (lower case a) and operate on a 1 or  2 week sprint cadence.  We use JIRA for task and release tracking, Slack for collaboration, and Notion for documentation and collaborating on things like RFCs for new system designs.
+
+How youll make an impact:
+
+Own development and operation of the mission critical software systems that drive Skydio internal manufacturing processes for all Skydio products
+Grow and mentor a team of top software engineers that will design and build the next generation of Skydio manufacturing software
+Work closely with manufacturing and operations stakeholders (including contract manufacturers) to drive efficiency and observability into the manufacturing process through software
+Adapt manufacturing software architecture and operation to support both a growing hardware portfolio and manufacturing capability
+Integrate the manufacturing software with both internal ERP and Skydio enterprise cloud services to ensure a seamless and intuitive purchase and out-of-box experience for customers
+Drive the adoption and implementation of security best practices in the cloud, local testing environments, and device configuration processes
+Uphold and improve Skydios high development standards through best practices learned from your past experience
+
+What makes you a good fit: 
+
+Experience managing small but effective software engineering teams and operating production software systems
+Familiarity with priorities and challenges of manufacturing and working knowledge of manufacturingERPMESShopfloor systems [good to have]
+You are equally comfortable with both full stack web development and navigating low-level Linux software systems.
+You are excited and comfortable working with systems that have complex hardware and software components to them (like you would expect in advances robotics)
+You are comfortable building relationships  and managing stakeholders that bridge various cross-functional domains like operations, cloud software, autonomy and embedded software.
+You are excited to work in a small and growing company constantly balancing getting things done quickly and making investments for the long term
+You understand how to model complex systems in software and are simultaneously excited about making operational processes more reliable and efficient
+
+Compensation Range: The annual base salary range for this position is 187,000 - 258,000. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.For some positions the pay may be dependent upon the individuals regional location.
+LI-AS1At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

@@ -1,0 +1,58 @@
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40 of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means youll help define the future of physical operations and be on a team thats shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, youll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards weve won include:
+Glassdoors Highest-Rated Tech Companies for Culture and Values 2023
+Great Place To Work Certified 2023
+Best Place to Work by Built In 2023
+Financial Times The Americas Fastest Growing Companies 2023
+Deloitte Fast 500 Companies
+We see a profound opportunity for data to improve the safety, efficiency, and sustainability of operations, and hope you consider joining us on this exciting journey. About the role:
+As a Samsara Technical Account Manager (TAM), you will build a track record of customer success by leveraging your technical expertise, strong business acumen, bilingual proficiency in English and Spanish, and a commitment to living by Samsaras core values and operating principles. Your primary responsibilities will be to build and maintain relationships with customers and account teams, develop a technical understanding of your customers Samsara implementations, transform their technical support experience, update our system of engagement, and contribute to team growth. These activities will enable you to proactively set your assigned customers up for success by optimizing their Samsara platform and mitigating risk with particular care during critical peak events.
+As a TAM, you will occasionally be the point of contact for significant incidents, being responsible for the customers expectations and communications through resolving such incidents. Our TAM is the primary technical interface on behalf of our customers and works closely across internal and external stakeholders, as required, to address customer needs.
+You should apply if:
+
+You want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, reduce emissions, and most importantly, ensure workers return home safely.
+You are the architect of your own career: If you put in the work, this role wont be your last at Samsara. We set up our employees for success and have built a culture that encourages rapid career development, countless opportunities to experiment and master your craft in a hyper growth environment.
+Youre energized by our opportunity: The vision we have to digitize large sectors of the global economy requires your full focus and best efforts to bring forth creative, ambitious ideas for our customers.
+You want to be with the best: At Samsara, we win together, celebrate together and support each other. You will be surrounded by a high-caliber team that will encourage you to do your best. 
+
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+
+Transform your assigned customers support experience through technical proficiency and problem solving. Demonstrate an understanding of Samsaras products, including APIs, hardware, and software troubleshooting. 
+Act as the primary technical point of contact between Samsara and assigned customers, ensuring their technical requirements and objectives are met.
+Develop a comprehensive understanding of our customers business operations and use this knowledge to align Samsaras solutions with their specific needs. Identify opportunities for additional value and growth while presenting outcomes achieved.
+Cultivate solid and long-lasting relationships with technical stakeholders within your customers organizations. Establish yourself as a trusted advisor, advocating for customer interests within Samsara.
+Be fluent in English and Spanish to effectively engage and communicate with a diverse customer base in North America.
+Maintain accurate and up-to-date records of customer interactions and activities in our system of engagement.
+Actively participate in scaling and building the Technical Account Management team, sharing knowledge and best practices to enhance the teams capabilities.
+Be available for occasional travel to customer sites and may need to be online for some after-hour or weekend coverage depending on the customers needs.
+Champion, role model, and embed Samsaras cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices.
+
+Minimum requirements for the role:
+
+Bachelors degree in a related field of Management Information Systems or Computer Science.
+Proven experience in technical account management, customer success, or a similar role.
+Exceptional technical literacy, with the ability to understand and troubleshoot hardware and software.
+Strong written and verbal communication skills in both English and Spanish.
+Demonstrated ability to build and maintain customer relationships.
+Business acumen with a focus on understanding customer needs through a data-informed approach.
+Strong bias for action, ownership, ability to dive deep, and insistence on the highest standards.
+
+An ideal candidate also has:
+
+Python coding skills, allowing you to provide enhanced technical support and solutions to our customers.
+Experience supporting enterprise-level customers in a SaaS, IoT, or PaaS environment. 
+Organized, with a commitment to maintaining accurate account records.
+A team player who can collaborate effectively in a fast-paced environment.
+Prior experience with Salesforce, Zendesk, Gainsight, and Tableau.
+At Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewingsamsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where theyre based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individuals ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.

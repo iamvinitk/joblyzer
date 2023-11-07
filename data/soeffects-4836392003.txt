@@ -1,0 +1,79 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The RF and Engineering Physics team at SOE focuses on projects that require deep understanding of physics fundamentals as they relate to engineering applications. We focus on projects related to board level RF design, RF  mm wave systems, antenna design, sensor development, in-space electric propulsion, electromagnetics, and EMI. These projects often occur in the early phases of product development where new architectures are designed and the groundwork for future efforts is created. 
+Job Overview:
+As a Senior RF Engineer, you will design passives, active circuitry, and RF systems from DC to mm wavelengths, with power levels from nW to kW. You will work on projects both large and small over multiple project phases with our multidisciplinary team of electrical, software, and mechanical engineers as well as our customers. Senior engineers are expected to provide technical mentorship and guide SOE to higher levels of technical excellence.
+What You Will Do:
+
+Drive the design for RF components, circuits, and systems
+
+Typically soft board level and system level
+
+
+Design RF passives, such as antennas, feed networks, couplers, power combiners, and filters
+Design active RF circuits, such as Tx  Rx  IF signal chains, Up Down converters, PAs, LNAs
+Simulate RF systems and components using hand calculations as well as industry standard tools, such as AWR and HFSS
+Derive RF hardware specifications for RF systems and RF blocks
+Evaluate and characterize circuitry in the lab
+Prepare test reports and analysis to support design choices at various stages of projects
+Troubleshoot your designs in the lab and guide acceptance  qualification test efforts
+Participate in design reviews of hardware 
+Provide improvements to electronic system design processes
+Lend RF expertise to other internal teams as necessary
+Provide technical leadership for other engineers
+
+What You Will Need:
+
+Bachelors Degree (Electrical Engineering, Physics, or related field)
+5 years of experience in an RF engineering role
+Experience with RF analysis tools, such as AWR and HFSS
+Prior track record of analysis, design, and delivery of working RF hardware
+Experience with SPICE simulation tools
+Experience with PCB design
+Extensive experience with RF test equipment and measurement techniques
+Experience designing and troubleshooting electronics related to RF systems
+
+Power electronics, basic digital and analog circuitry
+
+
+
+What Would Be Useful:
+
+Masters Degree (Electrical Engineering, Physics, or related field))
+7 years of experience in an RF engineering role
+Experience with LNA  PA design
+Experience with analysis, design, and measurement of antennas
+Experience designing electronics for space or medical applications
+Experience with mechanical packaging of RF systems
+Experience with design for and test of EMI per (e.g., MIL-STD-461, CISPR, etc.)
+Experience with design for and qualification of hardware to FCC standards
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 140,000-180,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

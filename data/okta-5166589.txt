@@ -1,0 +1,49 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.Come join our growing team to deliver amazing technology support experiences that fuel the vision of Dynamic Work for our employees.  Technology experience is the guiding force of our work and our Business Technology Senior Support Engineer will help ensure we are providing world class technology support for our employees and our spaces.  
+In this role, you will be responsible for speedy issue resolution for employee IT issues, proactive improvements, and have a strong customer first mindset.  
+You will be part of a globally distributed remote and onsite support team that provides IT concierge support for our employees, as well as escalating high-priority concerns and incidents. Support Engineers connect our internal customers to the help they need, assisting with troubleshooting support via Slack, Zoom, or EmailYou will also share knowledge with our employees, helping them to use technology to power their productivity.  You will have a security first mindset and let policies guide how you work with our customers. You will be a strong advocate for our employees, learning and understanding their technology challenges and championing change with our technology solutions that makes it easier to get our best work done.  Our team is helping to transform the future of work, which isnt easy but is tremendously fun and rewarding. We work on challenging problems, are data driven, and always focus on the employee experience.
+A successful senior support engineer must have a strong understanding and demonstrated ability to resolve problems with common internet and SaaS applications (browsers, Slack, Google Workspace, Office, Okta), hardware (AppleWindows), mobile phones and devices, networks and operating systems. The ideal candidate will also have great attention to detail and will be comfortable working independently  in a fast-paced environment.
+Our goal is to make sure that our customers have an amazing technology experience and that they have everything they need to be successful. 
+This position is not a fully remote role and will require you to go into our Bangalore office a couple times a week.
+Job Duties and Responsibilities:
+
+Provide a first-class customer experience to internal Okta employees and contractors seeking support.
+Strive to resolve all employee support interactions on first touch, whenever possible, while proactively and conscientiously balancing competing demands in a fast-paced environment.
+Connect with employees via Slack and Zoom to provide real time troubleshooting support, along with providing a superior transfer of support experience as needed.
+Strong focus towards developing technical skills and knowledge in order to deliver resolution through first contact.
+Identify opportunities for improvement for internal processes to enable success across our team.
+Support key Employee Lifecycle processes (onboarding and offboarding) and support provisioning and deprovisioning of applications. 
+Strong demonstrated written and verbal communication skills. Ability to communicate policies and technical processes with customers of all levels. 
+Actively contributes to team knowledge by documenting newly found solutions for common issues and proactively shares information with the team. 
+Use ServiceNow to manage support requests and incident tickets daily.
+
+Minimum REQUIRED Knowledge, Skills, and Abilities:
+
+3 year supporting internal or external customers in an IT Helpdesk environment
+3 years experience supporting Mac and Windows devices
+3 years experience working in a heavily SaaS based environment with responsibility managing userrole based access to systems 
+2 years supporting video conferencing systems preferable
+Experience supporting high priority escalations and high-pressure situations
+Strong ability to prioritize multiple tasks to ensure support for your customers and team
+Additional skills or certifications a plus:
+
+Okta 
+Google Suite 
+JAMF
+Workspace One
+Okta
+ServiceNow
+Atlassian Suite
+Google Suite
+Slack 
+Salesforce 
+
+What you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

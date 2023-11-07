@@ -1,0 +1,35 @@
+As a Cybersecurity Engineer, youll play a pivotal role in safeguarding our organizations digital assets and sensitive information with the goal of making an impact across the federal government. You will also contribute to the design, implementation, and maintenance of our cybersecurity infrastructure while staying abreast of emerging trends in the field.
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Design, implement, and manage security solutions, including firewalls, intrusion detectionprevention systems, endpoint protection, and encryption mechanisms to ensure the organizations networks and systems remain secure.
+Conduct regular security assessments to identify vulnerabilities and weaknesses in systems, networks, and applications.
+Develop and implement incident response plans to effectively address security breaches, incidents, and breaches.
+Collaborate with cross-functional teams to establish and enforce security policies, standards, and procedures.
+Monitor network traffic, system logs, and security alerts to detect and respond to potential security incidents.
+Analyze and investigate anomalies and security breaches, taking appropriate actions to mitigate risks.
+Work closely with cross-functional teams, including IT, software development, and compliance, to integrate security into all phases of the development lifecycle and ensure a comprehensive approach to cybersecurity.
+Maintain thorough and accurate documentation of security processes, procedures, and configurations. Prepare detailed reports on security findings, incidents, and actions taken.
+
+What youll need to succeed: 
+
+ A Bachelors degree in Computer Science, Information Technology, or a related field (Masters preferred).
+At least five years of experience as a Cybersecurity Engineer or similar role and relevant industry certifications such as CISSP, CISM, CEH, CompTIA Security, etc.
+Relevant government-specific certifications (e.g., DoD 8570) and proficiency in security frameworks, standards, and best practices (ISO 27001, NIST, CIS, etc.).
+Strong knowledge of network protocols, firewall configuration, and intrusion detectionprevention systems.
+Experience with vulnerability assessment tools and penetration testing techniques, along with familiarity with security tools such as SIEM, IDSIPS, antivirus, and endpoint security solutions.
+Excellent problem-solving skills and the ability to analyze complex security issues, along with strong communication skills for effective collaboration and security training.
+Ability to work in a fast-paced environment, prioritize tasks, and manage multiple projects simultaneously.
+Familiarity with government-specific ATO assessment tools, vulnerability scanning tools, and intrusion detectionprevention systems.
+Familiarity with government regulatory frameworks, compliance requirements, and security standards specific to ATO (e.g., NIST SP 800-53, FISMA, FedRAMP).
+An active TSSCI clearance with CI poly preferred or Active TSSCI clearance with the ability to pass a CI poly.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

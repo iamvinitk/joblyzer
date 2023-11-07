@@ -1,0 +1,55 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role 
+The preferred location for this position is in or around Robinhoods offices in Menlo Park, CA, Seattle, WA or New York City, NY, with in-office work capabilities, as may be required by management.
+The Web Platform Team is the driver for the vision of web engineering at Robinhood. Our team exists to deliver a healthy and resilient web platform at scale.
+Were looking for a seasoned web engineer who is excited to build a world-class platform and industry-leading developer experience. When our engineers succeed, Robinhood does too.
+As a Web Platform engineer team member, youll be working with colleagues that have a diverse set of skills, operating across large-scale horizontal projects that drive impact via leverage. Your customers are Robinhoods web engineers who build out our product, internal tools, and marketing sites.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Effectively work across a large Bazel monorepo
+Work across client, server, architecture, and infrastructure that powers all of our web products. This includes the Robinhood web app, our brand sites, and web-based internal tooling
+Ship libraries, frameworks, and abstractions to materially accelerate our web engineers velocity
+Measure and test your work, quantifying impact through data
+Own and drive platform-level projects from inception to design and implementation to launch, being the leading expert in the organization
+Collaborate with product engineers to rapidly iterate and ship financial products
+
+What you bring 
+
+4 years of full-time professional experience with modern Web standards, technologies, and frameworks
+Comfortable in a monorepo environment and understand its benefits and costs
+Skilled at writing and efficiently debugging JavaScript in Node and browser environments
+Obsessed with building a best-in-class developer experience
+Have a track record of successfully leading projects and delivering large scope technical projects at scale
+Constantly setting a high standard for code quality, advocating for best practices in testing, and improving code review processes
+Deeply understand broad engineering and product disciplines so that you can work effectively across functions and skill setsTechnologies we use
+
+
+TypeScript
+React
+Next.js
+NodeJS
+Babel, swc, Webpack, Bazel (rules_js)
+Jest, Playwright
+ESLint, Prettier
+Jenkins, Buildkite, Docker, Kubernetes
+PNPMYarn
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.
+US Zone 1: 157000 - 185000US Zone 2: 139000 - 163000US Zone 3: 122000 - 144000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

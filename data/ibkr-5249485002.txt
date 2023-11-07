@@ -1,0 +1,52 @@
+Job Description
+Interactive Brokers has been at the forefront of the Fintech space for over 42 years. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features, all for the lowest cost to our customers. To achieve that, we seek to actively understand and prudently manage our Firmwide risk profile.
+As part of our expanding Enterprise Risk Management (ERM) organization, Interactive Brokers is seeking to recruit a Technology  Security Risk Analyst.  This is a second line of defense role, based in Greenwich, reporting directly to the Head of Technology  Cyber Risk.
+Responsibilities will include the alignment of the Technology and Information Security (IS) Risk Management Framework to industry standards, execution of risk assessments for technology and IS processes and for IT systems, event analysis and remediation, development and monitoring of Key Risk Indicators (KRIs), scenario analysis and the monitoring of the Firms technology and IS risk profile against its risk appetite.
+Responsibilities
+
+Support the Head of Technology  Cyber Risk in executing all aspects of the Technology and IS Risk Management Framework in the US, and work with the global ERM teams to manage the technology and IS risk profile in their locations
+Partner with risk owners in technology and security to execute the RCSA program, ensuring results are documented appropriately, are actionable and are defensible to third party review
+Conduct Targeted Risk Assessments on priority areas to identify opportunities for control enhancement and risk mitigation
+Participate in firmwide projects to identify, assess and manage technology and IS risks related to delivery of the IB business model
+Build and monitor KRIs for technology and IS, escalating changes to the risk profile to risk owners including breaches of risk appetite limits, and identifying remedial strategies to bring exposures within tolerance
+Conduct root cause analysis on eventsincidents and agree control enhancements with control owners
+Conduct analysis on the technology architecture  risks and controls  at the request of the Head of Technology  Cyber Risk or the Chief Risk Officer
+Perform credible challenge reviews of risk assessments completed by the first line of defense technology and security functions
+Partner with technology leads and SMEs to ensure the effectiveness of the Business Continuity and Disaster Recovery programs
+
+Skills and Knowledge 
+
+Minimum 5 years of experience in technology and IS risk management in financial services industry
+Applied knowledge and hands-on experience in relevant technology and IS domains is strongly desirable (e.g., software development, change management, identity and access management, technology operations, cybersecurity, data protection and privacy andor cloud technologies)
+Experience in developing, deploying and maintaining technology and IS risk management frameworks, policies, processes and guidance
+Understanding of technology and IS risk management frameworks and industry standards (e.g., COBIT, ISO, NIST, ITIL, etc.)
+Knowledge of US regulatory requirements and other regulatory obligations related to data privacy and data protection within the financial services sector
+Demonstrable experience in conducting technology and IS risk assessments
+Highly diligent individual - results driven and hard working  ability to execute risk assessments to a high degree of quality; professionally skeptical
+Strong interpersonal skills, excellent work ethic, highly credible and influential presenter (verbal and written); strong communicator and influencer; team player
+Superior analytical abilities and decision-making skills; ability to exercise independent judgment
+Strong MS Office skills
+
+Education
+
+Bachelors degree in Computer Science, Information Security or a related field
+Relevant professional certifications preferred (CISA, CISM, CRISC, CISSP, etc.)
+
+Company Benefits  Perks
+
+
+Competitive salary, annual performance-based bonus and stock grant
+Retirement plan 401(k) with competitive company match
+Excellent health and welfare benefits including medical, dental, and vision benefits
+Wellness screenings and assessments, health coaches and counseling services through Employee Assistance Program (EAP)
+Paid time off and a generous parental leave policy
+Daily company lunch allowance provided and a fully stocked kitchen with healthy options for breakfast and snack
+Corporate events including team outings, dinners, volunteer activities and company sports teams
+Education reimbursement and learning opportunities
+Modern offices with multi-monitor setups
+
+
+LI-RM1Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

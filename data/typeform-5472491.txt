@@ -1,0 +1,35 @@
+Hi! Before diving into the job details, lets give you some context on who we are and what to expect when joining the team.
+Typeform, launched in 2012 in Barcelona, drives more than 500 million digital interactions per year and integrates with hundreds of other business-critical tools. Were expanding from a small Barcelona-based business to a truly international and remote company. Were hiring talent across Spain, the United States, the United Kingdom, Germany, Colombia, France, Ireland, the Netherlands and Portugal. Be aware, the location is to be subjected to change, depending on the role.
+Our vision is a world of more personal business relationships. Through our no-code Saas platform, we believe we can create that world by living our mission: To bring people closer with better conversations. We turn digital interactions into human connections, by offering people-friendly forms, quizzes, surveys, and asynchronous video solutions.
+To do so, we look for people who are curious, ready to own their objectives, and passionate about taking organisations to their next chapter. But we are aware its not for everyone, our environment is perfect for those willing to become a change agent and roll up their sleeves to build our rocket ship.About the Team
+Each Staff Engineer will be aligned to a group (reporting into a Director)Product Experience Enterprise CRX
+About the Role
+As the most senior individual contributor within the team, you will partner with each squad to provide the technical direction and up skill Engineers. You will also be an important contributor to the Engineering organisations strategy, branding and progress. This can vary from improving Platforms team roadmap to finding opportunities to spread knowledge - using quarterly 2-week hackathon, internal workshops or representing us externally up to 15 of your time.
+This is a high impactful role with the opportunity to shape Typeforms history as its an essential position to improve our most strategic projects! You will report to a Director of Software Engineering.
+Things you will do:
+
+Architectural Vision: Develop a deep understanding of our existing technical architecture and formulate a clear vision for the future state of our systems.
+Strategic Planning: Create a well-defined roadmap outlining the steps required to transition from the current architecture to the envisioned end state, while considering technical debt, scalability, and resilience.
+Leadership and Mentorship: Lead by example and set high engineering standards, serving as a role model for the engineering team in terms of best practices and technical excellence.
+Continuous Improvement: Champion a culture of continuous improvement, fostering innovation, and ensuring that architectural decisions align with long-term business goals and objectives.
+Oversee the teams technical vision and roadmap. This includes raising the technical bar by including toil reduction, technical debt, tooling, migrations.
+Build multi-quarter target architectures together with partners, including defining the contracts and boundaries with external teams
+Autonomously research and implement solutions that are secure, scalable, resilient and easy to maintain reusing existing solutions.
+Identify and improve production metrics that are affecting the teams and customers.
+Promote and guide the technical leadership career ladder definition. Be a driver of the hiring process to ensure we attract and retain great people.
+Represent Typeform on public forums related to your technical domain.
+
+What you already bring to the table:
+
+Love to analyse a complex technical challenge to anticipate risks, technical gaps and potential issues.
+Can produce and implement creative ideas.
+Can suggest solutions that unlock technical and business opportunities in unexpected ways.
+Have the capacity to recognise quality, and the lack thereof, in the work of your teams.
+Have a passion for helping others grow through technical excellence.
+Can set a technical vision for group that provides an aspiration
+
+Extra awesome:
+
+If you speak at conferences and actively contribute to engineer communities
+
+ Typeform drives hundreds of millions of interactions per year, powering conversational, human-led experiences all over the world. We are proud to be an equal-opportunity employer. We celebrate diversity and do not tolerate discrimination and harassment of any kind, regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We believe that by celebrating our differences, we can win together.

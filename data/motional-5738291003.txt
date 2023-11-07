@@ -1,0 +1,47 @@
+At Motional, were passionate about building software that solves difficult problems. For our mission to deliver driverless, We are seeking a talented Site Reliability Engineer (SRE) to join our global SRE Team. At Motional we count on our site reliability engineers (SREs) to empower the organization. As a Motional SRE, you will work on scalable solutions for interacting and understanding the performance of our fleet. These solutions range from real-time IoT systems to big data collection, analysis and software validation and simulation.
+What Youll Be Doing
+
+Work closely with developers to design and implement scalable, highly available, and secure services
+Work closely with cybersecurity to maintain highly secure infrastructure
+Build, operate and maintain application infrastructure, infrastructure automation, and monitoring of infrastructure and applications
+Manage scaling of services
+
+What Were Looking For
+
+Proven experience operating and scaling backend software services
+Deep understanding of Cloud services providers (ideally AWS)
+Good understanding of Linux, Kubernetes, and Docker
+Experience building application monitoring systems
+Experience buildingmaintaining CICD pipelines
+Experience with Terraform
+MS, BS or BA in Computer Science  Engineering or equivalent experience 
+Ability to deliver proven work on tight schedules
+Ability to explain technical concepts to a non-technical audience
+
+Bonus Points (not required)
+
+Experience with large scale data stores
+Experience with .Net Core and Python
+Experience with JavaScript  TypeScript  React  Redux
+Experience with large scale compute
+Experience with Serverless infrastructure
+Experience with columnar databases 
+Experience with relational databases
+Experience working in an AgileScrum development process
+
+Why would you want to join us?
+
+The chance to work on large scale data pipelines (PB level!)
+Building cutting edge, highly scalable orchestration platforms in the cloud
+Working with global teams to drive solutions engineering for driverless applications
+
+ Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. Were driven by something more.
+Our journey is always people first.
+We arent just developing driverless cars; were creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+Were creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; its not only good for our business, its the right thing to do.  
+Scale up, not starting up.
+Our team is behind some of the industrys largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the worlds first robotaxi pilot, and operation of the worlds longest-standing public robotaxi fleet. Were driven to scale; were moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+ 
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.

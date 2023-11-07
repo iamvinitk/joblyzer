@@ -1,0 +1,34 @@
+Were revolutionizing the fitness  wellness industry, and were looking for talented people to help us do it. Mindbody  ClassPass bring together the best of both sides of the market: Mindbody is the industrys most trusted all-in-one technology platform; ClassPass is one of the most popular apps for fitness  self-care enthusiasts. Together were partnering with more than 70,000 fitness studios, gyms, salons, and spas around the world. Were not just another tech company—were far and away the leader of our industry. So join the team, work with mission-led people, and enjoy amazing benefits. Lets see what we can accomplish together!  
+About the right team member
+The Senior Business Intelligence Analyst role will be responsible for the development of the most ideal data environment for the organization to conduct analytical insight, productionalize business operations and make informed business decisions. Working closely with other members of the Business Intelligence team and stakeholders across the organization they will maintain ETL pipelines, build complex data models, produce impactful reportsdashboards and consult on business problems using first-hand expertise.
+About the role
+
+Work closely with business to align on business logic to design, create, and operationalize business logic into source of truth data models in Enterprise Data Warehouse and surface them through self-service BI tools 
+Utilize BI tools to create and manage reports, dashboards, and data marts that are critical for the centralization of business metrics and KPIs 
+Collaborate with stakeholders to improve business operations and systems utilizing institutional, technological, and analytical expertise 
+Develop SQL queries used to audit, automate, and report on data across production, business, and 3rd party systems 
+Produce technical documentation of data sources, metrics definitions and key initiatives  
+Attain a high degree of knowledge about MINDBODYs data infrastructure, business processes, and key metrics 
+Consult with management to understand current and future business goals and strategies to ensure that business data ecosystem, enterprise reporting, and analyses are aligned 
+All other duties as assigned
+
+Skills  experience
+
+Bachelors degree, quantitative field preferred 
+5 years of experience in Business Intelligence or similar role that involves data modeling andor SQL-based data transformation and analytics 
+Advanced proficiency in the following tools, languages, and platforms: SQL, Excel, any BI Tool (Looker, Tableau, Power BI), Data Modeling experience 
+Experience developing data models and databases at a nascent or rapidly scaling business 
+Great to have skills: Knowledge of ETL, Snowflake, Github, dbt, product analytics tools (Amplitude, Pendo) 
+Must have an interest in business-side implications of work; need to keep up with whats going on with the business, feel comfortable with collaborating with business stakeholders at all levels of seniority to understand their data needs 
+Ability to present data in a simple, clean, concise visual and written manner 
+Strong attention to detail, analytical mindset, and highly organized 
+Ability to manage time effectively, set priorities and meet deadlines   
+Strong technical aptitude and demonstrated ability to quickly evaluate and learn new technologies 
+Strong interpersonal skills, with the ability to work independently and within a team environment
+
+Pay transparency
+It is Mindbodys intent to pay all Team Members competitive wages and salaries that are motivational, fair and equitable. The goal of Mindbodys compensation program is to be transparent, attract potential employees, meet the needs of all current employees, and encourage Team Members to stay with our organization. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. The base salary range for this position in the United States is 92,200 to 138,400. The total compensation package for this position may also include performance bonus, stock, benefits andor other applicable incentive compensation plans.
+ Have we piqued your curiosity?
+Sound like the role for you? Wed love to hear from you! Even if youre not 100 sure about potential fit, we still encourage you to apply. Were looking for the right person, not the perfect series of checkboxes.
+Mindbody is an Equal Opportunity Employer. We highly value diversity at our company and encourage people of all different backgrounds, experiences, abilities and perspectives to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other protected characteristics.
+California Applicants Privacy Notice  UKEU Applicants Privacy Notice

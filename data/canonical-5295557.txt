@@ -1,0 +1,40 @@
+The role of a UX Designer - Workplace Tools at Canonical
+Canonical has been remote-first since 2004, and continues to raise the bar on employee collaboration and workplace experience design for this new way of working. You will lead the design of web applications for company processes, bringing exciting new projects to life and improving existing ones. We mainly want to build the perfect tooling for our own operation, but we may want to offer some of these capabilities as SAAS solutions to other crazy but brilliant companies, too.
+Our mission is to make enterprise-grade open source software, applications and services available to people everywhere. We create world-renowned software, impacting the lives of millions of engineers, enterprises, entrepreneurs and consumers every day. Our multi-disciplinary web design and production team includes visual designers, UX designers, front-end and back-end developers to bring exciting web projects to life. We help and learn from each other and strive to improve our work and processes.
+This role sits in the design team reporting to one of the UX managers.
+Location: This role will be based remotely in the EMEA region.
+What your day will look like
+
+Plan and conduct research with target users and stakeholders from across the business
+Identify and document users needs, business requirements and KPIs
+Create new data-flows, dashboards and visualisations that automate and accelerate work 
+Design services and user experiences that improve employees lives and get things done
+Lead your projects, driving design and delivery against agreed goals
+
+Almost 20 years ago, with Ubuntu, Canonical created the first Linux for human beings. Our design team is on a mission to turn complex, open-source software into intuitive products that can change the face of enterprise IT. We are looking for exceptional designers, who share our passion and want to bring Linux to millions of desktops.
+Read more about the design team
+What we are looking for in you
+
+Excellent academic results at school and university
+Bachelors or equivalent in User Experience, Design, or STEM
+Knowledge and passion for user experience, technology and design
+Commitment to continuous learning and improvement - curious, flexible, scientific
+Drive to finish work and celebrate success
+Confidence in user research practices
+Engagement with the latest design research and innovation
+
+UX designers should be excellent communicators who are at ease working with a complex mix of engineers, designers and executives. They represent us at cross-functional company meetings and must present their design position with clarity and precision. They should be confident and excited to take on complex design challenges. They should also be able to connect their design leadership to the strategic vision of the company.
+What we offer
+
+An opportunity to shape a company and products
+Influence in the open source community
+An inclusive work environment
+Learning and development
+Annual compensation review
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-RemoteLI-ET1

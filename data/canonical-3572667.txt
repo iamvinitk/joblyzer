@@ -1,0 +1,48 @@
+The role of a Software Engineer - Talent Science at Canonical
+We are seeking a software engineer, passionate about improving the hiring process by delivering productivity initiatives using analytics and data science. In this role, you will have the opportunity to make significant contributions through high-quality code while exhibiting technical leadership, exceptional design, and intuitive project documentation.
+As a Software Engineer focused on recruitment, you will be responsible for designing and maintaining a variety of web architecture, system integration and data science products. Building new hiring tools, dashboards and supporting analytics to enrich the hiring pipeline, enabling everyone at Canonical to make better decisions and deliver better work. You will work closely with the best and brightest developers within our company, ensuring that the solutions we build are well crafted, easy to use and scale to production workloads.
+Location: This is a globally remote role.
+What your day will look like
+
+Write high-quality, well-designed software
+Enable new processes and improve existing workflows
+Collaborate proactively with a globally distributed team
+Consistently provide high-quality code reviews to other engineers
+Display technical leadership internally and within our external communities
+Debug issues and produce high-quality code to fix them
+Discuss ideas and collaborate on finding good solutions
+Connect to many data sources and provide insightful visualisations
+Database design and architecture for connected systems
+Providing tooling to support optimised processes
+Work remotely from home with global travel for 2 to 4 weeks for internal and external events
+
+What we are looking for in you
+
+Experience writing backend programming in Python and Node.JS
+Experience with Application Tracking Systems (ideally Greenhouse) or HR IT products.
+Passion, thoughtfulness, and self-motivation
+Excellent interpersonal skills, curiosity, flexibility, and accountability
+
+Additional skills that you might also bring
+
+Experience with Data analytics and statistical analysis
+Experience with Natural language processing, sentiment analysis, machine learning
+Experience with Data visualisation
+Understanding of build systems and toolchains, including system design
+Experience integrating with system APIs
+Strong database design and architecture experience
+
+The ideal candidate will use their passion for experimentation and analytics to build tomorrows tech organisation. This team will help us gain insights into the practice of recruitment and our talent pool, and use those insights to improve the experience of joining Canonical.
+What we offer you
+
+Remote first: 100 remote working with the opportunity to travel to Sprints. We meet a couple of times a year in interesting places all around the world to come together to collaborate. These Sprints see circa 300 people come together. This year we have travelled to Frankfurt, Copenhagen, Montreal and Prague!
+Personal development: Annual budget allowance of 2,000 USD per annum and time to focus on areas you want to improve.
+Compensation: eligibility for annual pay review including bonuses.
+Recognition: The ability to be rewarded and recognised by others for the work you do.
+Travel: Opportunity to travel to new locations to meet colleagues. Priority Pass for lounge access when flying to sprints. International SOS membership to support you whilst travelling.
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background creates a better work environment and better products. Whatever your identity we will give your application fair consideration.

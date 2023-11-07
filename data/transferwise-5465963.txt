@@ -1,0 +1,63 @@
+Wise is one the fastest growing companies in Europe and were on a mission: to make money without borders the new normal. Weve got 16 million customers across the globe and were growing. Fast.
+Current banking systems dont let us send, spend or receive money across borders easily. Or quickly. Or cheaply. 
+So, were building a new one.
+We need a Software Engineer to join our mission and help us build a global platform thats scalable, reliable and secure. Youll dive right into projects helping to develop our internal database platform, automation and tooling, used to provision and manage hundreds of databases deployed across multiple environments.
+About the role 
+We are looking for a Senior Software Engineer with a background in Python development to join our Database Reliability Engineering team.Database Reliability Engineering provides databases as service for the rest of the business, managing our vast estate of database technologies and solutions.  As a Software Engineer in the wider Platform tribe and Engineering organisation, you will have an opportunity to directly affect our database platform and automation strategy, scalability and reliability, building production systems that are ultimately making things better for all customers.
+How we work
+We operate on a strong belief in automation, programmatic implementation, and reusable design. Were looking for people who can step back and think holistically about the ecosystem, but also follow through and help implement the design; drawing on the resources across the rest of the Platform tribe.
+As we scale our database platform. We need to sustain this growth by continuously iterating on the services we run, with a focus on availability, security, and ease of use. Were looking for an engineer with relevant experience who can analyse complex requirements and deliver simple solutions to help our teams achieve our mission with speed and confidence.
+What will you be working on?
+
+You will join our DBRE team, and contribute to delivering our cloud-based database platform used internally by our development teams to provision and manage their database deployments.
+Youll develop self-service tooling to enhance the developer experience, build guardrails to abstract the complexity of operating database services, as well as automate routine tasks.
+Youre production environment oriented, and wont settle at all for downtime and outages.
+You have the ability to work independently and plan your own solutions to problems.
+
+ 
+What do you need?
+
+Strong development skills in Python. 
+A solid understanding of core software engineering principles with the capability to write, review and refactor code, ensuring its secure and meets standards for quality, testing, and documentation.
+Proven experience in designing and developing resilient web APIs using frameworks such as Flask, Django, or Fast API.
+Proficiency in operating within a Cloud-based environment and working with Cloud APIs (preferably AWS).
+Front end development experience is not essential, but would be considered a major plus.
+Working knowledge of configuration management and orchestration tools (e.g. Terraform, Ansible, SaltStack, etc).
+A willingness to learn and build up subject matter expertise in operating database technologies at scale (e.g MySQL, PostgreSQL, MongoDB, etc).
+Familiarity with workflow engines (e.g. Temporal, Cadence) would be a distinct advantage.
+Strong communication skills, with the ability to effectively convey new processes and workflows and collaborate with diverse teams across the organisation.
+
+You get back:
+
+The ability to choose your own path to success  youll have the freedom to define the vision 
+The freedom to have real impact
+The opportunity to inspire teams 
+A fun work environment with social activities and events
+Find out more about our benefits in our Tallinn office.
+
+Interested? Find out more:
+
+How we work  a practical guide
+Wise Vlogs: Omar, Engineering Lead
+The Wise Tech Stack, 2022 Edition.
+Our Engineering career map
+Scaling our Infrastructure; how we make it work
+Wise Engineering  https:medium.comwise-engineering
+
+What do we offer: 
+
+Starting salary: 64,000-88,000  RSU
+Company Restricted Stock Units
+Numerous great benefits in our Tallinn office 
+
+Key benefits:
+
+Flexible working  whether its working from home, school plays or life admin we get that flexibility is essential and youre trusted to do the right thing and be responsible
+Paid annual holiday, sick days, parental leave and other leave opportunities
+6 weeks of paid sabbatical after 4 years at Wise on top of annual leave
+
+If youre interested in the position, please apply for the latest 09.11 by submitting your CV.Salary (annual)64.000—88.000 EURWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

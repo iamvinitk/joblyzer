@@ -1,0 +1,55 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+
+Who we are
+The Deal Reporting team is responsible for building our critical capital partner integrations, as well as services to automate funding processes safely and reliably. We are looking for a highly motivated Software Engineer to help establish Deal Reportings first international team, and build integrations, services, and testing infrastructure to power the funding of every Affirm loan.
+ 
+What youll do
+
+Partner with Product and Capitals Markets teams to understand and implement complex financial structures and integrations.
+Design and develop core services which will enable safe and auditable scaling of critical business processes.
+Build robust testing environments to continually evaluate performance and regression.
+Learn about structured finance including warehouse lending, forward flow, and ABS (Asset Backed Securitization).
+Automate away complexity and risk.
+
+What we look for
+
+Drive to change consumer financial services for the better.
+4 years of experience as a software engineer.
+Proven experience designing and building complex products.
+Strong cross-team communication and collaboration skills.
+Familiarity with deployment and automated testing frameworks is a plus.
+Familiarity with Python, Spark, React, AWS (EC2, ECS, S3), and Kubernetes is a plus.
+Prior experience with financial systems and capital markets is a plus.
+
+
+ 
+
+Compensation  Benefits
+
+We offer a competitive package, with some highlights listed below: 
+
+Flexible Spending Wallets for tech, food and lifestyle
+Generous time off policies 
+Away Days - wellness days to take off work and recharge
+Learning  Development programs
+Parental leave
+Robust health benefits
+Employee Resource  Community Groups
+
+We are able to offer visa sponsorship, but do require that someone is based in Spain for the role. 
+Location - Remote Spain
+LI-Remote
+
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+We have a simple and transparent remote-first grade-based compensation structure. Offer amounts within the range are based on a number of factors including but not limited to job-related skills, experience, and relevant education or training. Across the broader organization, certain roles are eligible for equity awards upon hire, promotion, tenure milestones and for performance.
+Were extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe Its On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+
+By clicking Submit Application, you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.

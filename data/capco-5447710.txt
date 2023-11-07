@@ -1,0 +1,196 @@
+ABOUT CAPCO
+Capco is a global technology and management consultancy dedicated to the financial services industry. We combine innovative thinking with unrivalled industry knowledge, to offer our clients consulting expertise, complex technology and package integration, transformation delivery and managed services to move their organizations forward.
+
+We specialize primarily in banking  payments, capital markets, wealth  asset management and insurance
+We have a collaborative and efficient approach
+We help our clients successfully innovate, increase revenue, manage risk and regulatory change, reduce costs and enhance controls
+We serve our clients from 32 offices across the Americas, Europe, and Asia Pacific
+
+If the mix of technology, engineering, consulting and delivery is your passion, then Capco is right for you to grow in an inclusive, diverse and collaborative environment. At Capco, we will train and support you to help accelerate your career.
+ 
+YOUR CAPCO DAY
+
+Main objective: play a critical role in bridging the gap between software development and operations, focusing on automating and streamlining the software development and deployment lifecycle.
+Cross-Functional Collaboration: Collaborate closely with cross-functional agile teams to translate business requirements into modern software solutions.
+Mentorship and Team Development: Act as a mentor to junior engineers, providing guidance.
+
+ 
+YOUR CAPCO-FIT
+ 
+
+Technology Experience 
+
+
+
+
+Cloud Expertise:  
+
+
+
+
+
+
+
+
+Mastery of chosen cloud platform (e.g., AWS, Azure, GCP) for services, networking, security, and cost management. 
+Cloud resource provisioning and management. 
+
+
+
+
+
+
+
+
+Infrastructure Automation:  
+
+
+
+
+
+
+
+
+Proficiency with Terraform, CloudFormation, or ARM templates. 
+
+
+
+
+
+
+
+
+Containerization and Orchestration: 
+
+
+
+
+
+
+
+
+Docker proficiency. 
+Kubernetes and container registry experience. 
+
+
+
+
+
+
+
+
+CICD and Automation: 
+
+
+
+
+
+
+
+
+CICD pipeline setup (Jenkins, Travis CI, CircleCI, GitLab). 
+Scripting and automation skills (Ansible, Chef, Puppet). 
+
+
+
+
+
+
+
+
+Source Code Management: 
+
+
+
+
+
+
+
+
+Git and workflows expertise. 
+
+
+
+
+
+
+
+
+
+
+Git repository and branch management. 
+
+
+
+
+
+
+
+
+Monitoring and Logging:  
+
+
+
+
+
+
+
+
+Monitoring and alerting implementation (Prometheus, Grafana, Nagios). 
+Log analysis tools (ELK Stack, cloud alternatives). 
+
+
+
+
+
+
+
+
+Security and Compliance: 
+
+
+
+
+
+
+
+
+Cloud security best practices. 
+IAM, security policies, and vulnerability scanning. 
+
+
+
+
+
+
+
+
+Troubleshooting: 
+
+
+
+
+
+
+
+
+Complex issue diagnosis and resolution.
+
+
+
+
+Educational Qualification: A degree in Computer Science, Software Engineering, or a closely related field at the bachelors or masters level.
+Proven Experience: A track record of at least five years of professional involvement in DevOps cloud engineering (AWS, Azure, or GCP), preferably in the financial sector or in consulting.
+Proficient with Agile delivery methodologies: Experience in effectively applying agile delivery methodology, including a deep understanding of agile principles, iterative development, collaboration with cross-functional teams, and delivering high-quality software products in a dynamic and customer-centric environment. 
+Consulting experience: Ability to provide strategic guidance, solve complex technical challenges, and deliver tailored solutions while effectively communicating with clients and stakeholders. 
+Problem-Solving and Innovative Thinking: A proven track record of addressing technical challenges, recognizing opportunities for innovation, and executing solutions that align with industry best practices. 
+Bilingual Proficiency: Proficiency in English is mandatory, ability to communicate fluently in either German or French is a plus.   
+
+WHY CAPCO?
+A career at Capco is a chance to help reshape the competitive landscape in financial services. We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset, and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or  ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, Technical skills and soft skills training, both classroom and on the job, with support for external certifications, exceptional benefits in daily sickness allowance and accident insurance (private), attractive pension scheme model, smartphone, fast mobile internet, laptop and opportunities to volunteer, participate in team sports, etc.
+ 
+READY TO TAKE THE NEXT STEP?
+If this sounds like you, we would love to hear from you. This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.

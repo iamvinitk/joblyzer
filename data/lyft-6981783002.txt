@@ -1,0 +1,35 @@
+Data Scientist - Decisions (Pay, Identity  Integrity)
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+As a Data Scientist in the Pay, Integrity  Identity org, you will collaborate with our world class team of engineers, product managers, analysts and other data scientists to help create best in class pay platforms, stop fraudulent actors from harming our riders  drivers fraud and build user trust on the Lyft platform. You will run experiments (AB tests) and develop data driven solutions to launch new features and remove the bad actors from the Lyft platform while maintaining a positive experience for genuine users. Were looking for an intellectually curious individual who has extraordinary attention to detail, a track record of analytical problem-solving and skilled communication.
+Responsibilities
+
+Design and analyze experiments in collaboration with other scientists, product  engineering; communicate findings to stakeholders and facilitate launch decisions
+Leverage advanced statistical techniques to generate quantitative insights and develop machine learning models
+Analyze the wide variety of signals available to identify patterns in large datasets and uncover root causes
+Partner with product managers, engineers, and operators to translate analytical insights into decisions and action
+Build data pipelines and develop analytical frameworks to monitor business and product performance
+Set business metrics that measure the health of our products, as well as passenger and driver experience
+Collaborate with product and engineering and communicate findings to stakeholders in a clear and concise manner
+
+Experience 
+
+Degree in a quantitative field such as statistics, economics, applied math, operations research or engineering (advanced degrees preferred), or relevant work experience
+Prior experience in the fintech, fraud or identity space is preferred
+4-6 years of industry experience in a data science or analytical role. 
+Proficiency in SQL - able to write structured and efficient queries on large data sets
+Experience in programming, especially with data science and visualization libraries in Python or R
+Strong oral and written communication skills, and ability to collaborate with and influence cross-functional partners 
+
+Benefits
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Access to a Health Care Savings Account
+In addition to provincial observed holidays, team members get 15 days paid time off, with an additional day for each year of service 
+4 Floating Holidays each calendar year prorated based off of date of hire
+10 paid sick days per year regardless of province
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+Lyft proudly pursues and hires a diverse workforce. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy.  Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process.  Please contact your recruiter now if you wish to make such a request.
+This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Toronto — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.

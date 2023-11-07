@@ -1,0 +1,33 @@
+Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. Thats where Chainalysis comes in. We provide complete knowledge of whats happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.The global financial ecosystem is changing. Revolutionary blockchain technology has unlocked the potential for people around the world to have more equal access to wealth and information. This transformation has begun with the mass global adoption of cryptocurrencies but like all new financial systems, it needs greater trust to realize its full potential and remain safe from bad actors. Thats where we come in. The Chainalysis blockchain data platform enables businesses, governments, and banks to solve the worlds most high-profile criminal cases, paving the way for an economy built on blockchains.
+Software Engineers on the Core Services team build solutions across our service and product offering that unify our customer experience and accelerate innovation at Chainalysis. The group aims to create unique customer value through experiences that differentiate Chainalysis and make it greater than the sum of its parts. We make it easier and faster for teams to build great products, with highly leveraged building blocks that can be used everywhere. 
+Please note that this role must be based out of Canada.  We are able to hire in the following Provinces: Alberta, British Columbia, Ontario and Quebec.
+Priorities in your first year include: 
+
+Liaise with Chainalysis engineering teams to build distributed software solutions across multiple products driving reliability and data integrity
+Help foster an environment to mentor and guide colleagues in their career and craft
+Helping the team to modernize our stack to a streaming architecture
+Debugging production issues across multiple systems and microservices
+
+Qualifications: 
+
+Youve led or played an instrumental role in designing and implementing cloud-native microservices-based distributed systems in a major cloud provider like AWS or GCP
+Experience mentoring other engineers, leading cross-team projects, and driving design and technology decisions
+You have a bias to ship and iterate alongside product management and design partners
+Experience with object-oriented programming languages. We mostly use Java but appreciate a variety of languages! 
+Strong technical background with 8 years of experience working directly on backend systems projects
+You take great pride in materializing product ideas through production
+Exposure to or interest in the cryptocurrency technology ecosystem
+Experience with IAM and SSO is a plus!
+
+Technologies Used:
+
+Kafka
+Kubernetes
+RDMS (SQL and NoSQL)
+At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.
+You belong here. 
+At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways were ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Womens Day, Harvey Milk Day, World Humanitarian Day, and UN International Migrants Day, and a commitment to continue revisiting and reevaluating our diversity culture. 
+We encourage applicants across any race, ethnicity, gendergender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, dont hesitate to let us know. You can learn more here. We cant wait to meet you.  
+Applying from the EU? Please review our Chainalysis Applicant Privacy Policy.
+  
+By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment.  I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference.  I understand any future employment will be contingent on the Company receiving satisfactory employment references.

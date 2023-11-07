@@ -1,0 +1,144 @@
+Bloomreach is the worlds 1 Commerce Experience Cloud, empowering brands to deliver customer journeys so personalized, they feel like magic. It offers a suite of products that drive true personalization and digital commerce growth, including:
+
+
+Discovery, offering AI-driven search and merchandising
+
+
+Content, offering a headless CMS
+
+
+Engagement, offering a leading CDP and marketing automation solutions
+
+
+Together, these solutions combine the power of unified customer and product data with the speed and scale of AI optimization, enabling revenue-driving digital commerce experiences that convert on any channel and every journey. Bloomreach serves over 850 global brands including Albertsons, Bosch, Puma, FC Bayern Mnchen, and Marks  Spencer. Bloomreach recently raised 175 million in a Series F funding round, bringing its total valuation to 2.2 billion. The investment was led by Goldman Sachs Asset Management with participation from Bain Capital Ventures and Sixth Street Growth. For more information, visit Bloomreach.com.
+ Become a CSS developer at Bloomreach! Help us implement new designs, create and update UI components and maintain our in-house UI framework. Be part of a unique team of stylers - people at the intersection of design and frontend development. Your accomplishments will impact many customers in dozens of different verticals in the e-commerce space. Your starting salary will be 3000 per month, along with stock options and other benefits. Working in one of our Central European offices or from home on a full-time basis, youll become a core part of our Frontend Team.
+What tech stack do we use?
+
+Our styles are written in Sass
+Our app runs on Angular
+We use Git for version control
+Our build processes are handled via Webpack and custom node scripts
+
+What challenge awaits you?
+As a Bloomreach CSS developer, you will be the go to person for styling UI and making our Engagement app easy to use and visually pleasant. Youll be operating on three levels - bug fixing, maintenance and creation of UI components and implementing new design. In addition to that, a great deal of your work will be dedicated to research and improvement of existing code. Having a great developer experience is something were serious about.
+Your job will be to:
+
+Expand  maintain UI components library
+Improve  maintain in-house SCSS framework
+Implement new designs
+
+a. Expand  maintain UI components library
+
+Understand how our components work under the hood  enable frontend developers to build advanced user interfaces using our framework
+Revise code of the components frequently  keep up with the latest possibilities of CSS
+Ensure cross-browser compatibility (modern browsers only)
+Shape visual representation and behavior with designers
+Maintain  improve Showcase - our own tool for showcasing and documenting UI components
+
+b. Improve  maintain in-house UI framework
+
+Extend  update core functions and mixins that help us write styles efficiently and easy to read
+
+c. Implement new design
+
+Update screens to match latest design
+Research best strategies for comprehensive changes - components used on each screen in different contexts
+Ensures changes dont introduce any bugs
+
+Your success story will be:
+
+In 30 days, you will learn how our methodology works and solve some bugs
+In 90 days, you will know how core components work, support other Frontend developers on your first sprint project, and know your way around the Showcase and Engagement app
+In 180 days, you will be able to tackle most of the tasks on your own, question and challenge designs, suggest improvements to our code base
+
+You have the following experience and qualities:
+
+Professional — CSS, Sass, working with browser,  basic programming skills, Git, knowledge of Angular is optional but welcome
+Personal — team player, honesty, responsibility, motivation
+
+Professional experience
+
+CSS will be your bread and butter and for smooth working experience it would be good if you knew: all selector types, selector specificity, fonts, relative units, box sizing, positioning, blockinline layout, float layout, flexbox layout, grid layout, responsiveness, pseudo elements, animations, effects on performance, etc.
+You will write your styles in SCSS, so its good to know your way around variables, functions, mixins, extends, operators, etc.
+Experience with writing maintainable, modular, component-based CSS
+You should have basic programming skills, e.g. understanding basic syntax and concepts like variables, types, conditions, cycles, functions, objects and be familiar with JavaScriptTypeScript
+You will use Git on every day basis but you dont have to be a pro, knowing basic commands to stage, commit, push, merge, pull changes is enough
+
+Personal qualities
+
+Be able to work in a team where we value diversity and open mindness
+Discuss problems with honesty, keep focus on whats important and what we want to achieve
+Take responsibility and own your actions
+Have drive for the work you do and always try to find ways how to improve things to keep yourself motivated
+
+DU-LI1More things youll like about Bloomreach:
+Culture:
+
+
+A great deal of freedom and trust. At Bloomreach we dont clock in and out, and we have neither corporate rules nor long approval processes. This freedom goes hand in hand with responsibility. We are interested in results from day one. 
+
+
+We have defined our 5 values and the 10 underlying key behaviors that we strongly believe in. We can only succeed if everyone lives these behaviors day to day. Weve embedded them in our processes like recruitment, onboarding, feedback, personal development, performance review and internal communication. 
+
+
+We believe in flexible working hours to accommodate your working style.
+
+
+We work remote-first with several Bloomreach Hubs available across three continents.
+
+
+We organize company events to experience the global spirit of the company and get excited about whats ahead.
+
+We encourage and support our employees to engage in volunteering activities - every Bloomreacher can take 5 paid days off to volunteer.
+
+The Bloomreach Glassdoor page elaborates on our stellar 4.65 rating. The Bloomreach Comparably page Culture score is even higher at 4.95
+
+
+Personal Development:
+
+
+We have a People Development Program -- participating in personal development workshops on various topics run by experts from inside the company. We are continuously developing  updating competency maps for select functions.
+
+Our resident communication coach Ivo Veea is available to help navigate work-related communications  decision-making challenges.
+
+Our managers are strongly encouraged to participate in the Leader Development Program to develop in the areas we consider essential for any leader. The program includes regular comprehensive feedback, consultations with a coach and follow-up check-ins.
+
+
+Bloomreachers utilize the 1,500 professional education budget on an annual basis to purchase education products (books, courses, certifications, etc.)
+
+
+Well-being:
+
+
+The Employee Assistance Program -- with counselors -- is available for non-work-related challenges.
+
+
+Subscription to Calm - sleep and meditation app.
+
+
+We organize DisConnect days where Bloomreachers globally enjoy one additional day off each quarter, allowing us to unwind together and focus on activities away from the screen with our loved ones.
+
+
+We facilitate sports, yoga, and meditation opportunities for each other.
+
+
+Compensation:
+
+
+Restricted Stock Units or Stock Options are granted depending on a team members role, seniority, and location.
+
+
+Everyone gets to participate in the companys success through the company performance bonus.
+
+
+We offer an employee referral bonus of up to 3,000 paid out immediately after the new hire starts.
+
+
+We celebrate work anniversaries -- Bloomversaries!
+
+
+(Subject to employment type. Interns are exempt from marked benefits, usually for the first 6 months.)
+If this position doesnt suit you, but you know someone who might be a great fit, share it - we will be very grateful!
+
+Any unsolicited resumescandidate profiles submitted through our website or to personal email accounts of employees of Bloomreach are considered property of Bloomreach and are not subject to payment of agency fees.
+ LI-Remote

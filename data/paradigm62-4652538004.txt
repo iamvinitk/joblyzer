@@ -1,0 +1,61 @@
+At Paradigm, we are changing the future of finance! By joining us at this early stage, youll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. 
+About Paradigm
+
+Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. 
+We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. 
+Weve built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over 10 B per month.
+We are a diverse, global team led by our organizational principles and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!
+We are backed by the best traders and investors in the space, including Jump Capital, Genesis Trading, Dragonfly Capital, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.
+
+The role
+As a core member of our infrastructure team, you will build and maintain major features, through inception, design, implementation and launch, working closely with product and engineering disciplines across the company. You will spend the majority of your time on cross-functional self-contained feature teams focused on delivering value to the customer, while other projects will be more internally focused on integrations, scalability, and performance.
+Responsibilities 
+
+Own the site reliability process and systems from design and implementation to deployment and maintenance
+Educate the platform software engineering team on reliability best practices and collaborate to evolve the software engineering process to accommodate reliability principles
+Provide service outage escalation response alongside software engineers
+Manage multiple Kubernetes clusters across multiple environments and regions
+Manage and build core services and infrastructure across the entire engineering organization
+Help build an adaptable, high-velocity team
+
+Things that we believe are critical
+
+Expertise in Security and DevSecOps
+Strong compliance knowledge - SOC 2
+Expertise in site reliability engineering in a multi-datacenter production cloud environment with demanding up-time, real-time performance, and security requirements
+Experience adopting and employing open-source, home-grown, and commercial technology products as appropriate in support of the Infra Engineering mission
+Strong familiarity with AWS and Kubernetes
+Experience with leading teams and projects
+Comfort working with senior management to allocate and prioritize engineering energy in support of the Infra Engineering mission in a real-world resource-constrained environment
+
+Extra Credit
+
+Experience with cloud infrastructure and networking in a production context
+Experience building andor using low-latency cross-region databases or high-volume trading applications
+Experience with HashiCorp tools (Vault, and Terraform)
+Experience with Kafka, Redis, and Postgres
+Experience with cloud providers beyond AWS (Azure, GCP, etc.)
+Expertise in cloud network security
+
+This position is flexible on-site or hybrid position at our headquarters office in Singapore. We are able to provide financial and logistical support for work Visa procurement and relocation for Singapore, if applicable. 
+ 
+
+Our Benefits and Perks
+
+Competitive pay and transparent pay bands
+Flexible work environment
+
+Unlimited vacation with a minimum required PTO of 10 days annually.
+Celebrate your national holidays, in addition to floating holidays, to honor what matters to you, not HQ.
+
+Full benefits (benefits vary by country)
+
+We offer the highest benefits package offered by our Employment of Record partners; insurance carriers and plans vary by country
+
+Generous technology and learning allowances
+
+3500 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. Youll then receive a 2000 refresh every 2 years.
+1000 budget to spend on learning and development materials, courses or conferences.
+
+
+Paradigm is an equal opportunity employer.

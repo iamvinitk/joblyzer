@@ -1,0 +1,62 @@
+Were building a scalable, high performing platform for our 16 million customers. And were looking for Software Engineering graduates to join us on our mission.
+Wise is a global technology company, building the best way to move and manage the worlds money.
+Whether youre sending money to another country, spending money abroad, or making and receiving international business payments, Wise is on a mission to make your life easier and save you money. 
+Since it was founded in 2010, 5,000 people work at Wise, from 125 nationalities, in 17 global locations. Check out how its like working here. 
+Youll be part of Wises global mission to build an open, fair, and human financial system - to make money without borders the new norm. Because people without borders need money without borders.
+How you will contribute to the Engineering team: 
+
+You will help shape and build our products future
+Work cross-functionally in squads who are vital to driving the mission of our business forward
+Create clear and helpful interfaces, whilst maintaining consistency, maintainability and performance
+Understand the challenges our customers face and set out to solve them
+You will have flexibility in how and where you work. We understand everyone needs a little something different - so well do our best to make it happen, but we recommend coming to the office as much as possible in your first months!
+
+What does it take? These things are a must:
+
+You are graduating in 2023 or 2024 from a Bachelors or Masters degree. This might be in Computer Science, or any other STEM subject
+You are able to start a full time graduate job in September 2024
+Knowledge of computer science fundamentals including data structures, algorithms and software design
+A self-started side project(s) that you are proud to talk about
+Great communication skills and the ability to articulate complex, technical concepts to a non-technical audience
+Curious, keen to learn and proactive by nature
+You believe in and follow best coding practices and code reviews
+You are open to and value feedback in order to improve
+Familiarity of data models with SQL
+Knowledge of working with RESTful Web Services
+A basic knowledge in modern web technologies and a strong interest in web development
+Eligible to work in Budapest
+
+And these would be great, but arent essential:
+
+Experience in web or microservice development, from a previous internship or project 
+Familiarity with any major programming languages like JavaJavaScriptPythonKotlinSwift (we are more focused on your willingness to learn new technologies)
+A strong product mindset and passion for user experience. You prioritise work with customers in mind, and make data-driven decisions to fix customer pain-points
+
+ 
+...Dont worry, we dont expect you to know everything!
+In your first 6 months:
+ 
+
+Youll onboard with the global Graduate cohort in one of our offices and learn the basics of being a Wiser
+Understand how engineering works at Wise and what each team and tribe does. From Fraud to Anti Money Laundering teams - there are lots! Dont worry, well help you get acquainted through our WiseStart Engineering Bootcamp
+
+Youll spend some time understanding your team and tribes vision 
+
+Understand the Wise domain
+Understand the problems your team are solving
+Understand the tech culture, the detail of the tech stack and how we build stuff. We work in autonomous teams, on different stacks so youll need to understand the details
+
+ 
+What you get back:
+
+Have a real impact. Solve real customer problems
+Lots of team activities
+Salary from gross 800,000 HUF with an RSU package and additional benefits
+Fun offices with social activities - have a sneak peak of our Budapest office!
+Embrace global connection during Mission Days
+Be part of a global team with a global mindset
+Salary (monthly)800 000 Ft—800 000 Ft HUFWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

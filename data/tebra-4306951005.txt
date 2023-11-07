@@ -1,0 +1,54 @@
+Tebra only initiates contact with candidates via email from an official Tebra email address (tebra.com, patientpop.com, or kareo.com) or through our applicant tracking system, Greenhouse. We will only ask you to provide sensitive personal information through our official application portal — not via social media or text message. We do not conduct interviews via instant messaging.About the Role
+As a Customer Operations System Administrator, youll fill a new and exciting role working across the entire customer organization! Youll be tasked with overseeing and administering various Customer Success technology through feature implementation, continued maintenance, and future advancements. Tebra will look to you to align, drive, and build a streamlined and consistent vision across the enterprise while playing a vital role in ideation of future paths forward. Using your technology expertise, you will configure and customize this technology to support the goals and needs of our rapidly scaling business and the customers we serve. 
+Your Area of Focus
+
+Programmatically design, develop, test, and iterate workflows in Salesforce, Gainsight, NiceInContact, and other software used by the Customer Success organization
+Declaratively configure and administer solutions to the Tebra Customer Operations
+Work with cross-functional teams to gather requirements and translate them into technical solution designs
+Articulate and demonstrate solutions to internal customers by providing sound recommendations and prescribed best practices
+Participate in design reviews and technical discussions with our technology partners and internal stakeholders
+Isolate, triage, and resolve bugsissues
+Execute, manage, and assist in the development of technology roadmaps
+Identify opportunities to improve existing solutions, features, and functionality
+Play a key role in identifying emerging technology solutions that could align with Customer Success business needs or operational efficacies.
+Contribute! Bring creative and innovative solutions to the team 
+
+Your Professional Qualifications
+
+Required: 3 years of direct experience in technology administration, Salesforce Administration ExperienceCertification or other CRM experience
+Required: ExcelGoogle Sheets proficiency in running and creating formula functions, pivot tables, and charts
+Nice-to-have: 1 years of Gainsight administration experience or minimum Level 2 Gainsight certification
+Nice-to-have: Experience with telephonyIVR management
+General understanding of database concepts
+Experience in a fast-paced production environment on a CRM platform
+Administrator experience in a production environment 
+System integration experience and best practices
+Experience with solution designing operationally
+Comfortable with concepts and methodologies for effective technology adoption and scaling across various operations
+Troubleshooting and problem-solving skills
+Strong skills with attention to details
+Ability to work with ample autonomy 
+Versed in programmatic best practices for cross functional collaboration 
+Ability to identify systemic issues and make recommendations and implement for future improvements
+Additional duties as assigned by the management team
+
+About Tebra
+Kareo and PatientPop have joined forces to become Tebra, the digital backbone for practice well-being. While our teams are still supporting both products, our new hires and current employees are now united as Team Tebra. 
+Tebra aims to unlock better healthcare by helping independent practices bring modernized care to patients everywhere. Well over 100,000 providers trust Tebra to elevate their patient experience, and help them grow their practice. At Tebra, were building the future of well-being together. That shared vision for tomorrow begins with compassion and humanity today.
+Our Values
+Start with the Customer 
+We get to know our customers - and their patients - and look at the world through their lens.
+Keep It Simple
+Healthcare is too complex. We aim to simplify it for everyone.
+Stay Entrepreneurial 
+We reject the status quo and solve problems with creativity, perseverance, and a bias to action.
+Better Together
+We are diverse, humble, and collaborative. We put the team first and win together.
+Celebrate Success
+Life is short and joy is underrated. We take time to have fun and celebrate success.
+Perks  Benefits 
+In addition to our healthcare benefits, we also offer amazing perks! Need work from home basics? We offer a discount through Dell! We also offer a number of resources to help you keep your mind and body healthy. Check out obe Fitness or Gympass for a great workout, or LifeWorks Employee Assistance Program to find mental health resources, along with other resources for everyday occurrences.
+ 
+LI-SD1 LI-Remote BI-RemoteRemote Pay Range75,000—90,000 USDTebra is an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+California residents who apply or are recruited for a job with us: please carefully review our California-specific Privacy Notice under the California Consumer Protection Act here: https:www.tebra.comprivacy-policycalifornia-supplemental-notice
+If you would like to report a fraudulent Tebra job posting, please contact us at talentacquisitiontebra.com and consider reporting your experience to the FBIs Internet Crime Complaint Center or the Better Business Bureau to help keep others safe online, too.

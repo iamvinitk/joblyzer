@@ -1,0 +1,35 @@
+About the Team
+DoorDash is building the worlds most reliable on-demand logistics engine for delivery! Were looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDashs three-sided marketplace of consumers, merchants, and dashers.
+About the Role
+This intern will report into a manager on the Assignment Engine team. We believe interns are essential to our mission of attracting and retaining top talent. During the 12 week Operations Research internship, interns will be completely immersed in their teams and will have the opportunity to develop, maintain  ship products. As an intern, you will directly impact our business by collaborating with your team to solve real problems for our customers.
+Applicants must be authorized to work in the U.S. to be considered for this position. F-1 students are eligible if they are using Curricular Practical Training (CPT). DoorDash does not support students on J-1 visas at this time.
+This position will be hosted in person at the DoorDash office in San Francisco. LI-Onsite
+Youre excited about this opportunity because you will
+
+Design and implement improvements to our real-time on-demand dispatching algorithm
+Analyze data to understand each delivery at the lowest level of detail, perform cutting-edge research, and inspire new lines of work
+Collaborate with engineers, data scientists, product managers, business operators, and more to develop cross-cutting and scalable solutions to guide value for our consumers, dashers, and merchants
+Receive actionable feedback from your mentor and team members
+Socialize with and learn from colleagues all across the company, through events including Lunch and Learns with executive members, game nights, movie nights, intern offsites, and more
+
+Were excited about you because 
+
+Are a PhD. or Masters student in operations research, industrial engineering, computer science or a related field graduating in Fall 2024 or Summer 2025
+Have research or industry experience working on complex optimization problems through mathematical programming or metaheuristics
+Have strong programming fundamentals, experience in object-oriented andor functional programming languages, and a solid understanding of algorithms
+Have an excitement to analyze, iterate, and contribute to our state-of-the-art real-time dispatch system
+Experience developing algorithms for logistics problems, especially VRP and real-time dispatching problem
+Experience with mathematical programming software packages like Cplex, Gurobi, Coin-OR, or Xpress
+Production experience with a JVM-based language (ie Java, Kotlin, Scala)
+Experience with software development lifecycle (writing clean code, version control, unit testing, etc)
+Production experience with modern web applications at scale
+Experience with statistical analysis and machine learning algorithms
+Proficient in SQL and a visualization tool (ie Tableau, Chartio, Mode)
+
+About DoorDash
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Were committed to supporting employees happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+Our Commitment to Diversity and Inclusion
+Were committed to growing and empowering a more inclusive community within our company, industry, and cities. Thats why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, maritaldomestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on protected categories, we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce  people who identify as women, non-binary or gender non-conforming, LGBTQIA, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+If you need any accommodations, please inform your recruiting contact upon initial connection.California Pay Range:65—65 USD

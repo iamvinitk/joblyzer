@@ -1,0 +1,37 @@
+
+ABOUT GLEAN:
+
+
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+
+
+ABOUT THE ROLE:
+
+We are seeking a skilled and motivated Site Reliability Engineer (SRE) to become a valuable addition to our dynamic and innovative team. As a SRE, you will play a critical role in ensuring the reliability, availability, and performance of our cloud-based services and applications. You will work closely with our engineering teams to design, build, and maintain robust, scalable, and highly available cloud infrastructure.
+Much of our software development focuses on building infrastructure to scale our operations in a hybrid cloud environment and eliminating work through automation. On the SRE team, youll have the opportunity to manage the complex challenges of scale and fast growth which are unique to Glean, while using your expertise in coding, algorithms, problem-solving, and SRE practices. We keep Glean applications up and running, ensuring our customers have the best and most reliable experience possible.
+ 
+What you will do and achieve:
+
+
+Ensure High Availability: Implement and maintain resilient cloud architectures, monitor system performance, and proactively identify and resolve potential bottlenecks or points of failure. 
+Incident Management: Play an active role in production on-call, responding swiftly to troubleshoot and resolve production issues. Minimize service disruptions and downtime by conducting thorough triaging and debugging of product or system issues. Continuously optimize the on-call process for sustainability and efficiency.
+Automation and Tooling: Develop and maintain automation scripts, tools, and processes to streamline system deployment, monitoring, and management tasks. Your contributions will be vital in efficiently scaling cloud operations.
+Performance Optimization: Optimize cloud infrastructure and applications for performance, scalability, and cost-effectiveness.
+Security and Compliance: Collaborate with security engineers to implement best practices and ensure compliance with security standards and policies.
+Monitoring and Alerting: Design and configure advanced monitoring systems to gain insights into system behavior, set up alerts, and respond proactively to potential issues. Create and maintain comprehensive dashboards and playbooks for production on-call.
+Software Development Consultation: Engage actively in the entire software development lifecycle. Participate in system design reviews and provide valuable SRE insights during launch reviews, influencing and enhancing system architecture.
+
+Who you are:
+
+Bachelors degree in Computer Science, a related field, or equivalent practical experience.
+3 years of experience as a Site Reliability Engineer or similar role, with a primary focus on managing cloud-based services and infrastructure.
+5 years of experience with software development in one or more programming languages.
+Strong knowledge of cloud platforms such as Google Cloud Platform, AWS, or Azure.
+Practical experience with containerization technologies, including Docker and Kubernetes. Familiarity with infrastructure as code tools like Terraform is essential.
+Solid understanding of networking, security principles, and best practices.
+Proficiency in using monitoring and alerting tools to detect and respond to potential issues effectively.
+
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. Were committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.

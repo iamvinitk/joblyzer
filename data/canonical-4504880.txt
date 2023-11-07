@@ -1,0 +1,44 @@
+Open source is now the centre of technology innovation, and the new default for tech and traditional companies alike. Canonicals Ubuntu is the fastest growing open source platform, with over 20 million users globally. Canonical provides commercial support, consulting and training services to customers and partners who are deploying Ubuntu. Our customers are technology innovators inside global enterprises using Ubuntu and open source to build the future in their industry.
+Our regional Technical Support Managers run world-class Technical Support teams  solving deep technical problems for customers around the world on Ubuntu Server, Ubuntu Desktop and on the public cloud. They demonstrate two key attributes: customer focus  ensuring that customers are always satisfied with the service they are receiving, and technical excellence  ensuring that the support team is always up to date with the our technology, and that they perform sound and quick troubleshooting. We are looking for managers for both of our support groups; Cloud Support Group and Desktop Support Group.
+Youll need to be comfortable in a fast paced environment, able to take responsibility for delivering to customers and enjoy challenges. You will also need to care deeply about your team, their skills, and their career development.
+Key responsibilities
+
+Management of a professional support team, including skills development and performance management
+Operational control, shift scheduling, accountability for key performance indicators (KPIs)
+Ensures that all customer cases are responded to within the SLA, and in a professional manner
+Act as the customer escalation contact, and ensure that such escalations are addressed appropriately
+Accountability for customer satisfaction
+Contribution to the support knowledge base
+Continuous improvement to the teams processes and support service delivery
+Hire, develop and train support team to match business requirements
+Work with the leadership team to drive growth and transformation initiatives
+
+Required skills and experience
+
+Extensive CLI experience with Linux at a technical level (Support, Development, Implementation)
+Leadership experience, and preferably team management experience
+Confidence under pressure, with proven track record of high customer focus
+Preferably fluent in two languages, English being primary one
+Excellent communication skills (verbal and written)
+
+Additional skills that you might also bring
+
+Experience or knowledge of Linux Desktop, OpenStack, Public Cloud or Virtualization technologies
+Proven track record of contributing to Open Source projects
+Software development experience
+Experience in working in support organizations
+Hands on experience with Canonicals products
+
+About Canonical
+Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the worlds 1 cloud operating system. Our mission is to realize the potential of free software in the lives of individuals and organisations. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.
+We offer:
+
+100 work-from-home
+Learning and development
+Competitive salary
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-Remote

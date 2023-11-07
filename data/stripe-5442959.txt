@@ -1,0 +1,44 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+As Stripe continues to develop innovative products that serve businesses of all sizes around the world, risk will increase in complexity and scale. The User Risk Strategy protects and advances Stripes business, brand, and mission by building and deploying industry-leading policies and practices that instill user and partner trust in Stripe while enabling business growth.
+What youll do
+As a member of the User Risk Strategy team, you will partner with cross-functional teams—including Risk, Product, Partnerships, Legal, Sales, and Data Science—to design and execute on strategies and projects to improve Stripes risk controls and user experience. You will provide expert guidance and analyses to the business and to our most strategic customers to enable Stripe to grow in a risk-conscious manner.
+We are looking for someone who is passionate about navigating ambiguity, enabling business growth while balancing risk, and is skilled at identifying ways to improve user experience.
+Responsibilities
+
+ Drive risk strategy for company-level strategic initiatives, including partnering with Stripes product, legal, operations, sales, and partnerships teams to solve risk problems and ensure a positive experience for Stripes users
+Perform research and analysis to assess Stripes current risk performance and develop and prioritize long-term strategic plans for future growth
+Enable user onboarding to safely grow at scale, continuously optimizing for efficiency and effectiveness, and staying hyper focused on a positive user experience
+Challenge the status quo and provide multiple alternative solutions and key execution criteria
+Represent Stripe in external engagements with our most critical partners and customers
+Execute special projectsad hoc analyses as initiatives, products, risks, and opportunities are constantly evolving
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+5 years of professional experience, preferably in Financial Services, Payments or fintech industries
+Experience in a related role (risk, compliance andor product enablement)
+Experience in developing risk strategies and solutions and working with technical (product and engineering) and operations teams to implement them
+Ability to distill complex, ambiguous risk and policy problems into clear, concise, and reliable guidance for internal stakeholders and Stripe users
+Strong stakeholder management skills, including experience influencing productengineering, sales, data science, and operations teams
+Demonstrated track record of deriving insights from complex or technical problem spaces and evangelizing actionable product recommendations
+The ability to take ownership, be accountable, and drive towards ambitious goals
+Entrepreneurial and curious mindset, strong communication and interpersonal skills
+Ability to operate independently, navigate ambiguity, and solve problems with the end user in mind
+Strong desire to work in a fast paced and innovative environment
+
+Preferred qualifications
+
+ Proficiency in one of the following:
+
+Card network rules and regulations 
+KYCKYB, AML OFAC compliance 
+
+
+Experience overseeing execution and delivery of highly-strategic programs; proven ability to take complex issues and turn them into actionable next steps, hold others accountable, and meet deadlines
+Experience with data querying languages (e.g., SQL) and proficiency in quantitative analysis geared towards drawing actionable insights from complex datasets
+Advanced degree in law, business, policy or other related field
+Experience in translating business requirements to technical configurations

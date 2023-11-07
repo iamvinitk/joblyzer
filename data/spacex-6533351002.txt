@@ -1,0 +1,48 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+SUPPLIER DEVELOPMENT ENGINEER, PCBA (STARLINK) 
+Starlink demands a new type of supply chain. We require our suppliers to provide premium quality with rapidly evolving designs at commercial scale volumes. We are actively looking for candidates who possess comprehensive knowledge of manufacturing and quality tools and have unrelenting motivation to enable suppliers for success. This position requires a combination of proven leadership and technical capabilities.
+RESPONSIBILITIES:
+
+Own continuity of supply for electronic products on the Starlink program, ensuring internal production has infeed assemblies needed to build to program level volume targets
+Collaborate with design engineers to gain an in-depth knowledge piece part, assembly, andor sub-system design intent
+Support procurement team to strategically source parts matched with supplier competencies by reviewing and assessing supplier manufacturing processes and quality systems
+Create and define supplier technical requirements and flow downs to meet hardware manufacturing needs
+Implement and monitor production part approval process (PPAP) with selected suppliers to enable rate production
+Assure supplier understanding of product and submission requirements
+Develop and approve process controls to control critical characteristics
+Recommend technical product improvements to reduce risk and potential defect opportunities
+Analyze supplier quality and delivery metrics to identify trends and pinpoint systemic performance gaps and root causes to drive supplier improvement plans
+Provide feedback as appropriate on manufacturing methods, with a specific focus on eliminating costs, reducing cycle times, and increasing yields
+Function as liaison between purchasing, engineering, manufacturing and suppliers to resolve supplier quality issues and to provide technical support
+Drive supplier corrective actions associated with any escapes or containments identified in SpaceX production or the SpaceX supply chain
+Collaborate with teams, lead projects, and continuously drive improvement in the supply base with a focus on reductions in cycle time, nominal cost, and cumulative scrap
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in an engineering discipline, physics or mathematics
+2 years work experience in SMT processing andor microelectronics packaging either from industry, research, or academic projects
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Knowledge of supplier quality processes (production part approval process, advanced product quality planning, first article inspection reports, etc.)
+Knowledge of statistical techniques and methods, e.g., design of experiments, Six Sigma, etc.
+Experience with quality systems (ISO 9000TSAS9100NADCAP)
+Knowledge of lean concepts
+Experience with sharing information and influencing others across organizational lines, internally and externally
+Strong written and verbal communication skills, ability to make presentations to suppliers, team members and management
+
+ADDITIONAL REQUIREMENTS: 
+
+Must be willing to work long hours and weekends when needed to meet critical deadlines
+Ability to travel: Up to 25-60 work week travel may be required
+Valid drivers license
+
+COMPENSATION AND BENEFITS:  Pay range: Supplier Development EngineerLevel I: 95,000.00 - 115,000.00per yearSupplier Development EngineerLevel II: 110,000.00 - 130,000.00per year Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short  long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation  will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.
+ 

@@ -1,0 +1,50 @@
+Why PlayStation?
+PlayStation isnt just the Best Place to Play — its also the Best Place to Work. Today, were recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation5, PlayStation4, PlayStationVR, PlayStationPlus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.Senior Software Engineers 
+The Technical Art and Engineering team in PlayStation Studios Malaysia is for Senior Software Engineers to join our development team. This role requires proficiency in a least one core programming languages, familiarity with visual effects pipelines and digital content creation tools, strong software design skills, and a dedication to writing robust and maintainable code. The engineer will be responsible for the development and support of an array of studio tools encompassing our production pipeline, motion-capture and facial animation systems, and tools for creating 3D game content. The position requires collaboration with other engineers, our project management team, and the different artist teams being supported.  On the server side, our production pipeline is a suite of proprietary micro-services that handle asset and workflow management, artist tasking, environment management, render farm and automation coordination, push notifications, and more. On the client side, there are a variety of graphical tools for artists and technical users, some of which function as standalone interfaces while others are integrated into the content creation tools the teams use. 
+ Responsibilities
+
+Understanding and maintaining project pipelines. 
+Learning and supporting varying client working environments, assets, and tools. 
+Writing, maintaining and customizing internal tools for production team. 
+Solving problems in pipeline and for individuals on as-needed basis. 
+Building and maintaining technical documentation. 
+Leading a small project based team when required. 
+
+ Requirements 
+
+Possess a bachelors degree in computer science or equivalent programs. 
+A minimum of 5 years of writing pipeline tools in the Visuals Effects or Gaming industry. 
+Experience deploying pipelines on multiple operating systems. 
+Advanced programming knowledge in C or Python. 
+Knowledge of user interface design with the QtPyQtPyside toolkit. 
+Proven ability to deliver high-quality software in a production environment. 
+
+Pluses  
+
+Experience with continuous integration systems, preferably Jenkins. 
+Experience with a JVM language, preferably Scala. 
+Experience with NoSQL databases, preferably MongoDB. 
+Knowledge of the Autodesk Maya and Motion Builder Python APIs. 
+Low-level hardware development experience on OS X or Linux. 
+
+ 
+
+PRIVACY NOTICE TO SIE LLCS JOB APPLICANTSThis Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully.
+Categories of personal information we collect from youGenerally, We Obtain This Information Through Our Recruiting TeamWe collect personal information about you throughout the recruiting process, in particular the following categories.
+
+Identification and contact information
+Direct identifiers such as your first and last name.
+Indirect identifiers such as a government ID, your Social Security, work permit or passport .
+Contact information such as your email address, mailing address, telephone number.
+Other information about you or that can be associated with you such as:
+SensitiveProtected Data. During the recruitment process, you may (voluntarily) provide us with your ethnicity, gender, military service information, or physical or mental health information, as well as your national origin and citizenship.
+Professional or job position-related information, including your past professional experience, references; background verification; talent management and assessment; information regarding any conflicts of interests; and the terms and conditions of your job offer.
+Non-public education information, including information about your education records, such as grades and transcripts.
+
+LI-SY1
+Equal Opportunity Statement:
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.

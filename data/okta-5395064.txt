@@ -1,0 +1,48 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.JOB PURPOSE:
+The Okta Curriculum Developer creates innovative technical content for Okta customers, partners, and employees to build skills on identity. In this role, you will focus on translating complex topics into engaging, digestible, and scalable educational experiences in a variety of delivery formats. You should be comfortable working with SMEs and stakeholders, but have a natural affinity for gaining deep expertise yourself. 
+A successful candidate in this role needs to have a strong background in curriculum development for technical SaaS products or a combination of software development and curriculum development. To be successful in this position, you will be flexible and ready to take on any tasks that relate to continually improving the training process as well as contribute to its strategy. We thrive as a team at Okta and expect this role to exemplify our core values of collaboration, transparency, innovation, and integrity.
+RESPONSIBILITIES:
+
+Conduct instructional research and analysis on learners and contexts.
+Build, deploy, and update courses and supporting elements in the appropriate format (such as video, eLearning, hands-on labs, assessments, and instructor-led).
+Work cross-functionally with SMEs and stakeholders to validate objectives, technical accuracy, and incorporate feedback.
+Develop working knowledge of various areas of Okta products and underlying technologies. 
+Use modern authoring tools to rapidly build technically sound and instructionally effective, engaging learning experiences in the appropriate medium.
+Develop instructionally sound knowledge, skill, and job performance-based assessments.
+Closely partner and collaborate with other members of the team to continuously improve existing learning programs based on the latest research in adult education.
+
+Qualifications:
+
+Bachelors degree or equivalent
+3-5 years of technical curriculum development experience, including:
+
+Writing technical customer-facing learning content including hands-on labs.
+Expertise using a variety of tools to create interactive courseware such as: video editing tools (such as Camtasia, Descript), eLearning authoring tools (such as Articulate 360), graphic editing tools (such as Adobe Creative Suite).
+Excellent written, visual design, and verbal communication skills.
+Consistent track record of delivering quality projects on time.
+Web-based training development including LMS systems is a plus.
+Experience with Agile content development methodology is a plus.
+
+Knowledge and experience in Identity and Access Management (IAM) and Security space, including:
+
+Single sign-on (SSO), multifactor authentication, and contextual access management.
+Federated identity standards including OpenID Connect, OAuth 2.0, and SAML.
+User lifecycle management, provisioning, user directories, and profile sourcing.
+Application access, authorization, integrations, and APIs.
+Access management for B2E, B2B, and B2C use cases.
+Access control to applications and services on-premises or in the cloud.
+Identity providers and service providers.
+
+
+ LI-SS1
+LI-Remote
+Okta is an Equal Opportunity EmployerBelow is the annual On Target Compensation (OTE) range for candidates located in California, Colorado, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: https:rewards.okta.comus. The annual OTE range for this position for candidates located in California, Colorado, New York, and Washington is between:106,000—143,000 USD                                         The OTE range for this position for candidates located in the San Francisco Bay area is between:117,000—158,000 USDWhat you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

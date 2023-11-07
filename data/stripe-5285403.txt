@@ -1,0 +1,49 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Financial Crimes team at Stripe exists to help protect Stripe and its users from crime. Our people play an important role in combating financial crime across a global footprint and in enabling Stripe to increase the GDP of the internet. The global team works as a cohesive whole to manage and mitigate financial crime risks and meet and exceed the expectations of our users, our financial partners, and our regulators.  We are a deeply caring group of folks, slightly obsessed with our tradecraft, dedicated to protecting our users and the financial ecosystem from crime, and committed to our work, our lives, and our hobbies with equal passion.
+The Financial Crimes Operations and Oversight team is driven to improve operational processes, implement strong investigative controls, and consistently look for ways to reduce ineffectiveness. Our remit covers global operations while being deeply connected to regional nuances and requirements.  
+What youll do
+We are looking for an experienced financial crimes operations and investigations leader to join us in supporting the global FC operations function. In this role, you will be responsible for enabling strong operational processes and protocols for a globally dispersed team conducting operational investigations across the core financial crime areas of Know Your Customer (KYC), watchlist screening (Negative News, PEP, and Sanctions), Due Diligence, and AML. You would be actively working with operational teams to identify and improve manual or ineffective processes to develop and deploy automated and enhanced solutions to improve investigative effectiveness and operational efficiency. As a seasoned operations and investigations professional, you will be responsible for monitoring performance through effective oversight and deploying remediation actions to resolve quality, productivity, or other gaps identified. The role requires that you be able to coordinate operational execution across internal and external teams, dispersed globally. The role will also include collaborating closely with regulatory role holders (MLROs and Regional Compliance Leads) in countries to ensure that regulatory obligations are met and investigations demonstrate effectiveness to required standards. You will also have the opportunity to engage with leadership in reporting on the health and sustainability of the operational program through global and regional reporting channels.   
+Stripe is both a technology company and a financial services company, and you will need to be comfortable straddling both of those worlds every day. The right person for the role will be enthusiastic both about the mission of financial crime and in the application of new and innovative technology approaches to protect Stripe, its users, the financial system, and the community at large from crime.
+Responsibilities
+
+Spearhead Program Development: Create and enhance investigative processes to increase investigative capabilities and operational efficiency including automation of manual processes and enhancement of outdated protocols
+Support Operational Program Oversight: Monitor the financial crimes operations teams output to verify alignment with regional and global standards and quality expectations
+Enable Global Alignment: Coordinate with global and regional investigation teams to enable integration with global operations teams to improve alignment and execution of investigative efforts
+Supporting Governance Oversight: Support the Global Head of Financial Crimes Operations and Oversight, along with other senior leaders in reporting key performance indicators (KPIs) and key performance risk indicators (KRIs)
+Empowering Data-driven Policy Decisions: Harness data to drive process efficiencies, forecast operational loads and help designated AML Compliance Officers drive financial crime policy decisions
+Guide and Enhance Operational Teams: Leverage your experience and SME and provide thought leadership and guidance through training and process enhancements to improve operations and regulatory alignment
+Seek Continuous Improvement: Foster an environment of curiosity into financial crime typologies, investigative practices, tooling utilization, and process improvements
+Team Representation: Represent the interests and goals of the Global Financial Crimes Operations and Oversight team with our partners in policy, controls, risk intelligence, onboarding, fraud, legal, and others
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Minimum 6 years experience within AML, Sanctions, CTF role(s)
+Strong experience in process development, project management, and technical systems utilization, and program implementation
+A history of coordinating with cross functional teams to enable deployment of operational processes
+The ability to work efficiently and independently in a fast-paced, high-volume, multi-stakeholder environment
+Experience in developing operational standards and providing oversight of the execution of those standards
+Ability to be direct, encouraging, and timely in providing feedback
+Experience operating with global teams across various geographies
+Excel abilities
+
+Preferred qualifications
+
+Knowledge of KYC, AML, Due Diligence, and Sanctions models and tooling
+Payments or fintech experience
+Global exposure to AML, Sanctions, and other financial crime regulatory requirements and practices
+Experience overseeing vendor and internal operations teams
+Familiarity with MacOS and Google products
+CAMS, CFE or similar certification
+Willingness to travel to global operations sites
+SQL abilities
+
+To Apply:
+
+Resume and LinkedIn profile
+
+ 

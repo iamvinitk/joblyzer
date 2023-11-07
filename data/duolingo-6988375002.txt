@@ -1,0 +1,28 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+As a Backend Engineer you will work on building the APIs that power our products and give our learners a best-in-class experience.
+Our microservices infrastructure is composed of hundreds of endpoints serving hundreds of millions of requests per day. You will partner with your team members on identifying requirements and designing services that are fast, resilient and cost effective. You will have ownership over the entire lifecycle of your services and associated infrastructure, and ensure they are always operating well.
+Responsibilities
+
+Collaborate on software projects with product design and backend aspects
+Develop, release, and maintain backend services andor infrastructure
+Lead individual project priorities, milestones, and ensure were always shipping
+
+Requirements
+
+A Bachelors degree in Computer Science or related technical field
+Strong competencies in data structures, algorithms, and software design
+Experience programming in Java, Python or Kotlin
+Solid understanding of one or more database technologies
+
+Exceptional candidates will have
+
+Industry experience building high-traffic APIs using public cloud providers
+
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 148,800 - 274,600. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

@@ -1,0 +1,35 @@
+As a Cybersecurity Analyst with a focus on Government System ATO support, youll be responsible for guiding government clients through the intricate process of obtaining and maintaining Authority to Operate certifications for their information systems,  with the goal to make an impact across the federal government. You will leverage your expertise in government cybersecurity standards and regulations to monitor, analyze, and respond to potential security incidents and threats. Your role will ensure that our government clients systems meet the stringent security requirements necessary for ATO compliance while aligning with government-specific cybersecurity guidelines.
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Collaborate with government clients to thoroughly understand their system architectures, security requirements, and objectives for achieving and maintaining ATO status within the context of government regulations.
+Conduct exhaustive security assessments and risk analyses that cater to government system compliance, identifying vulnerabilities and potential threats specific to government systems.
+Monitor security systems, logs, and network traffic with a keen focus on government cybersecurity guidelines, identifying any suspicious activity, intrusions, or unauthorized access attempts.
+Collaborate closely with cross-functional teams to establish and maintain government-aligned security measures, including firewalls, intrusion detection systems, data encryption, and access controls.
+Investigate and analyze security incidents to determine their cause, impact, and appropriate response.
+Develop and implement incident response plans, including containment, eradication, and recovery strategies.
+
+What youll need to succeed: 
+
+A Bachelors degree in Computer Science, Information Security, or a related field.
+At least 5 years of experience as a cybersecurity analyst with a specialization in Government System ATO support, demonstrating deep knowledge of government ATO principles, methodologies, and tools.
+Strong understanding of network protocols, operating systems, and infrastructure components.
+Proficiency in incident response, security incident handling, and forensic analysis techniques.
+Familiarity with security assessment tools, vulnerability scanning tools, and intrusion detectionprevention systems.
+Proficient in incident response, security incident handling, and forensic analysis techniques.
+Knowledge of regulatory frameworks and compliance requirements (e.g., GDPR, HIPAA, PCI DSS).
+Effective communication skills, with the ability to convey complex technical concepts to both technical and non-technical stakeholders.
+Familiarity with government specific ATO assessment tools, vulnerability scanning tools, and intrusion detectionprevention systems.
+Expertise in government regulatory frameworks, compliance requirements, and security standards specific to ATO (e.g., NIST SP 800-53, FISMA, FedRAMP).
+An active TSSCI clearance with CI poly preferred or Active TSSCI clearance with ability to pass a CI poly
+Relevant certifications (e.g., CISSP, CEH, GIAC) and government-specific certifications (e.g., DoD 8570) are highly desirable.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

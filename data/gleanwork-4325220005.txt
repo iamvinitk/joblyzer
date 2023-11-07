@@ -1,0 +1,51 @@
+About Glean
+ 
+Were on a mission to bring people the knowledge they need to make a difference in the world. 
+Glean was founded by a seasoned team of former Google search and Facebook engineers, who wondered why we dont have an easier way of finding what we need at work. In our personal lives, we have tools to help us find pretty much whatever we need. Why dont we have that at work? And that was the beginning of Glean.
+Glean searches across all your companys apps to help you find exactly what you need and discover the things you should know. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+Job Description
+
+This is the first ops and support hire on our global partnerships team as we scale our fast-growing partner ecosystem. 
+Looking for a highly organized and proactive professional with a passion for building and nurturing successful partnerships. Dynamic and results-driven, this role will be crucial to manage and optimize our partnerships by ensuring seamless onboarding, fostering strong relationships with partners and our sales team, and helping to drive overall partnerships success.
+Our first PSR will be responsible for the following:
+
+Partner Onboarding
+
+Evaluate, process, and respond to inbound partner applications 
+Deliver initial enablement materials and trainings
+Identify and recruit target partners as needed
+
+Enablement 
+
+Help create Gleans partner enablement strategy and roadmap
+Create relevant enablement materials e.g. demo recordings, customized marketing collateral, etc.
+Recurring Glean onboarding classes for all new partners
+Biweekly partner support office hours (in-region)
+
+Ongoing Support
+
+Create and maintain a partner support intake form
+Provide support and guidance on product and solution offerings as needed
+Serve as first point of contact for partner inquiries and requests
+
+Marketing  Scaled Communications 
+
+Serve as a liaison between Glean marketing and partners to convey the latest and most relevant materials
+Maintain regular comms with partners e.g. product updates, upcoming events
+Share time-sensitive and relevant updates e.g. pricing changes
+
+Deal management
+
+Submit, process, and track Marketplace deals (GCP, AWS)
+Ensure reporting is accurate and easily trackable via dashboards
+
+
+The ideal candidate has the following skills:
+
+Partner Program Knowledge: You have experience navigating and working with partner programs
+Problem Solving: Youre willing to lean in and help in multiple ways; to be responsive; to aspire to be helpful by thinking critically
+Teamwork: You have the ability and initiative to work across functional teams to deliver actionable answers
+Dangerous with data: You bring relevant information to the conversation, can build your own Salesforce reporting, dashboards, and basic analysis
+3 years of experience in partnership programs at a top technology or other market leading company.
+

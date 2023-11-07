@@ -1,0 +1,44 @@
+FEQ224R21
+This role requires native-level proficiency in both English  Spanish; it will cover the broader LATAM region, excluding Brazil. Team members are based in Florida and New York.
+Mission
+We are looking for a bilingual (Spanish  English) pre-sales professional with a successful track record of helping large enterprises become more data-driven. Working with the Enterprise Account Executive (AE) Org, the Enterprise SA defines and directs the technical strategy for our largest and most important accounts, leading to more widespread use of our products and further adoption of ML  AI. You will lean upon your solid background in value selling, technical account management, and technical leadership to maximize success in these accounts. While you work with a team that includes hands-on resources who will build proofs of concept and demonstrate Databricks products, you need to be technical and must understand the relevance and application of ML  AI within a range of use cases important to critical accounts.
+The impact you will have:
+
+You support 5-25 primarily greenfield clients as the main technical voice for Databricks.
+You lead your customers on a transformational journey, helping them to evaluate and adopt Databricks as part of their strategy.
+You implement the technical strategy in the account.
+You build impactful technical champions within the account.
+You align technical strategies around Databricks solutions.
+You provide structured mentorship for other team members.
+You gain the respect of your peers based on your experience, insight, and contributions.
+
+What we look for:
+
+This role requires native level proficiency in both Spanish and English. Portuguese fluency is preferred, but not required.
+Proficiency at establishing virtual customer collaboration, and leading them to ultimate success within the account.
+Experience working very large ( 1m ARR), global accounts.
+Form relationships with executives and influencers.
+Present a convincing point-of-view to important decision-makers that leads them down a path of success.
+Technical in big data, data science and cloud.
+An ability in data-driven business transformation, and driving change with data.
+Databricks Certification (bonus points!)
+
+Benefits
+
+Private Medical Insurance
+Private Life Insurance
+Equity Awards
+Paid Parental Leave
+Fitness Reimbursement
+Annual Career Development Fund
+Home OfficeWork Headphone Reimbursement
+Business Travel Accident Insurance
+
+LI-Onsite puravidaAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

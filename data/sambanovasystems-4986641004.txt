@@ -1,0 +1,51 @@
+The era of pervasive AI has arrived.  In this era, organizations will use generative AI to unlock hidden value in their data, accelerate processes, reduce costs, drive efficiency and innovation to fundamentally transform their businesses and operations at scale.
+SambaNova Suite is the first full-stack, generative AI platform, from chip to model, optimized for enterprise and government organizations. Powered by the intelligent SN40L chip, the SambaNova Suite is a fully integrated platform, delivered on-premises or in the cloud, combined with state-of-the-art open-source models that can be easily and securely fine-tuned using customer data for greater accuracy. Once adapted with customer data, customers retain model ownership in perpetuity, so they can turn generative AI into one of their most valuable assets.Working at SambaNova
+SambaNovas mission is to be the number 1 platform for business AI. We are a full-stack provider of AI-specific chips, software, and models that come together to help every organization accelerate their AI journey.
+This role presents a unique opportunity to shape the future of AI and the value it can unlock across every aspect of an organizations business and operations, including building, securing, operating, and scaling the platform and infrastructure that enable us to deliver our groundbreaking capabilities to enterprise customers. 
+ 
+Job Description
+As a site reliability engineer on the operations team, you will be solving interesting challenges in a fast paced environment by designing, deploying, and troubleshooting state of the art AI platforms and services with great attention to reliability, security, scalability, operability, and performance. Working alongside engineering teams that are building cutting edge technologies revolutionizing the AI landscape, you will leverage your experience across software, systems, infrastructure, and production operations to lead key initiatives that enable us to rapidly deliver reliable and scalable service for customers in a hybrid deployment pattern.  
+The ideal candidate for this highly visible and critical role will have the knowledge of a software engineer, the experience of a systems and infrastructure engineer, and a strong passion for troubleshooting and automation across bare metal datacenter infrastructure and public cloud services.  
+This individual will be responsible for
+
+Assume full-stack ownership for the successful delivery of our SambaNova services in a hybrid model, including, but not limited to, deployment, configuration, integrations, observability, and ongoing operations
+Develop deep understanding of the end-to-end configurations, dependencies, customer requirements, and overall characteristics of the production services as the accountable owner for overall service operations
+Systems and application administration for multiple customer facing production environments (hosted and on-premise), with a continued focus on improving efficiencies, availability, and supportability through automation and well defined run-books
+Partner and collaborate with product and engineering teams to recommend and implement improvements to the security, resilience, and operational readiness of our systems, with the flexibility to integrate into unique customer environments
+Augment ongoing efforts to design and develop automation for deployments, updates and upgrades of the entire SambaNova software stack
+Lead efforts to triage, debug, and fix issues related to networks, storage, operating systems, containers, and applications to drive proactive and reactive incident resolution and root cause analysis
+Build the systems and tools for centralized command and control of distributed environments
+Participate in on-call rotation responsibilities 
+
+Basic qualifications 
+
+Bachelors andor Masters in CS or related field 
+10 years of hands-on experience in SRE  Production engineering roles with focus on supporting, scaling and ensuring the reliability of large-scale production services and infrastructure
+Extensive experience in deploying, securing, managing, and operating Linux systems in globally distributed production environments
+Good knowledge of containers with hands-on experience in deploying, managing, and troubleshooting Kubernetes clusters and components in private data centers as well as public cloud
+Proficient with at least one modern programming language (Python preferred) and the willingness to learn new languages as required
+A systematic problem-solving approach to troubleshooting and the desire to solve the root cause of common problems in 24x7 environments
+
+Preferred Qualifications
+
+Deep understanding of DNS, DHCP, LDAP, NFS, Kerberos, PAM, PXE, SNMP, SSH, HTTPS, NTP, troubleshooting network performance issues
+Must have past experience deploying and managing systems and infrastructure  in data centers, with the ability to debug and resolve recurring hardware issues.
+Experience delivering infrastructure as code - Ansible, Terraform, Git, Jenkins, Helm, and ArgoCD
+Good working knowledge of build automation and continuous integration  delivery 
+Knowledge of virtualization and multiple hypervisor technologies
+Experience with monitoring and logging systems such as Prometheus, Grafana, Nagios, ELK, etc. and the ability to identify new technologies as appropriate
+Experience deploying applications and managing infrastructure in one or more public cloud providers (AWS, Azure, GCP) is highly desirable
+Configuration and maintenance of web servers, load balancers, databases, storage systems and messaging systems
+A passion to design for high availability and scale, with the discipline and desire for extensive automation 
+Strong communication skills with the ability and willingness to work with diverse teams and customers across multiple time zones
+
+Preferred Qualifications
+
+Experience working in a high-growth startup
+A team player who demonstrates humility
+Action-oriented with a focus on speed and results
+Ability to thrive in a no-boundaries culture and make an impact on innovation
+Submission Guidelines
+Please note that in order to be considered an applicant for any position at SambaNova Systems, you must submit an application form for each position for which you believe you are qualified. 
+If you are a new, recent (within the last two years), or upcoming college graduate and are interested in opportunities with SambaNova Systems, please apply through our university job listings.EEO Policy
+SambaNova Systems is an Equal OpportunityAffirmative Action Employer. All qualified applicants will receive consideration for employment without regard basis of age (40 and over), color, disability, gender identity, genetic information, marital status, military or veteran status, national originancestry, race, religion, creed, sex (including pregnancy, childbirth, breastfeeding), sexual orientation, and any other applicable status protected by federal, state, or local laws.Customers turn to SambaNova to quickly deploy state-of-the-art generative AI capabilities within the enterprise. Our purpose-built enterprise-scale AI platform is the technology backbone for the next generation of AI computing.Headquartered in Palo Alto, California, SambaNova Systems was founded in 2017 by industry luminaries, and hardware and software design experts from SunOracle and Stanford University. Investors include SoftBank Vision Fund 2, funds and accounts managed by BlackRock, Intel Capital, GV, Walden International, Temasek, GIC, Redline Capital, Atlantic Bridge Ventures, Celesta, and several others. Visit us at sambanova.ai. Follow SambaNova Systems on Linkedin.

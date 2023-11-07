@@ -1,0 +1,51 @@
+Intercom is an AI powered, automation-first customer service platform that lets businesses deliver fast support, keeping customers satisfied, costs low, and service teams happy.
+It is the only complete customer service solution that provides a seamless customer experience across automation and human support. Customer service teams from more than 25,000 global organizations, including Atlassian, Amazon and Microsoft, use Intercom to send over 600 million messages per month and enable interactions with over 800 million monthly active end users. The company was founded in 2011 and is backed by leading venture capitalist including Bessemer Venture Partners, Kleiner Perkins and Social Capital. Whats the opportunity? 
+Its an exciting time to join the People Org - we are building a new People Analytics Strategy, and we are committed to using data insights to continuously improve decisions, identify opportunities around employee experience, optimise engagement, and become deeply aligned with business priorities. 
+In this position, you will partner with People teams and Business Leaders across Intercom to measure new initiatives and make data-driven recommendations around People programs and strategy. In addition to being experienced analytically, were looking for someone who can proactively surface recommendations and insights, whos comfortable prioritising work across multiple stakeholders, and who can work across our technology stack in order to solve problems. If this sounds like you, we would love to hear from you!
+What will I be doing? 
+
+Youll be excited to build something new, joining up our various data flows to identify and build efficient methods to organise, store and analyse data
+Connecting people data with business goals in order to drive business value
+Presenting data in engaging ways, building charts, visualisations, dashboards and reports for senior leadership
+Youll need to be deeply analytical, with ownership over data quality and health
+Youll formulate techniques for quality data collection, and implement secure processes for data management
+Partner with People teams at Intercom to help them better understand their functional areas, build understanding and use of our data, and set a high bar for leveraging analytics across the People organisation
+Automate recurring tasks and explore potential investigation opportunities and data models via relevant programming language Python andor R.
+
+What skills do I need? 
+We recognise that sometimes these lists can appear as strict requirements, but thats not the case. Even if you feel you have a subset of the experience below - thats ok, wed love to talk to you!
+
+Deep knowledge of data hygiene, including cleaning and automating data processes
+Excellent SQL skills, fluency with BIvisualization tools, and deep knowledge of Excel, R, Python, or other analysis tools
+Minimum of 2-3 years experience in quantitative role, preferably in People data and analytics
+Excellent understanding of data administration and management functions (collection, analysis, distribution etc.)
+Youll be a creative thinker about data, not afraid to innovate in order to create compelling narratives
+Youll have a strong understanding of how to measure engagement and insights
+A proven track record of initiating and delivering actionable analysesrecommendations in order to drive business impact
+Excellent communication skills, including experience in high-level business discussions
+Leverage new tools, processes, and methodologies to interpret data and analyze results using statistical techniques on an ad hoc and recurring basis.
+
+Company Culture  Values:
+At Intercom, we champion individuals who display a high degree of agency and autonomy. Our pace is fast, and our standards are  incredibly high. As a Senior People Data Analyst, you will be directly accountable for our data reporting and integrity, and we will rely on you to have impact and to actively drive our People Analytics strategy.
+Growth  Career Opportunities:
+This position offers more than a data role—its a leadership journey. As a Senior Data Analyst, you will not only oversee Intercoms People data, but also be put in a position to work with our leaders on driving business outcomes. At Intercom youll be in a position to rapidly accelerate your growth trajectory.
+How will I be supported? 
+
+You will buddy with another Dublin based colleague who will help you to onboard and get up to speed quickly
+You will have a close group of peers to collaborate with and learn from
+You will join a fun Dublin-based People team in a hybrid working environment.
+
+Benefits 
+We are a well-treated bunch, with awesome benefits! If theres something important to you thats not on this list, talk to us! :)
+
+Competitive salary and equity in a fast-growing start-up
+We serve lunch every weekday, plus a variety of snack foods and a fully stocked kitchen
+Regular compensation reviews - we reward great work!
+Peace of mind with life assurance, as well as comprehensive health and dental insurance for you and your dependents
+Open vacation policy and flexible holidays so you can take time off when you need it
+Paid maternity leave, as well as 6 weeks paternity leave for fathers, to let you spend valuable time with your loved ones
+If youre cycling, weve got you covered on the Cycle-to-Work Scheme. With secure bike storage too
+MacBooks are our standard, but were happy to get you whatever equipment helps you get your job done.
+
+LI-HybridIntercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law. Intercom is currently able to hire if an employee has a permanent residence in the following locations; Australia, Ireland, England and applicable US states. (California, Colorado, Florida, Illinois, Massachusetts, New York, North Carolina, Texas, and Washington).
+Is this role not quite what youre looking for? Join our Talent Community to stay connected with us. 

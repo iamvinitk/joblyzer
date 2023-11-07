@@ -1,0 +1,34 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Our focus is to increase developer efficiency, ensuring that every second of development time is spent on the things that matter. Our mission includes partnering with our internal development efforts to enable increased velocity and improved productivity.
+We are seeking a skilled and dedicated Data Center Infrastructure and Automation Engineer to join our Net and DC team. The primary focus of this role is to ensure stability and high uptime across our infrastructure. Strong Linux skills and proficiency in updating and patching Linux-based systems as well as having a strong understanding of networking will be essential. As a member of the team, you will collaborate closely with our infrastructure and software development teams to maintain and improve our infrastructure. Your expertise in tools like Ansible and your ability to work with Go and Python will also help to ensure your success.
+What youll be doing 
+
+Deploy and assist with the rollout of new hardware into our Data Center
+Develop automated installation of OS and infrastructure services utilising tools such as Ansible to ensure fleet-wide consistency of systems. Also through using CICD pipelines and related tools (e.g. GitLab CICD)
+Collaborate with the team to resolve hardware, network, and infrastructure issues promptly, minimising downtime and service disruptions
+Collaborate with the Middleware team to support OpenStack services and Ceph on our solution
+Document and report on infrastructure changes, configurations, and maintenance steps
+
+What were looking for 
+
+Strong proficiency in Linux systems administration, with experience in deploying updates and patches as well as Bash scripting
+An ability to display excellent knowledge of networking principles and protocols
+Experience working with Ansible for automation tasks as well as scripting and development knowledge.
+Experience solving hardware and software issues in a data centre environment. Including using Cumulus Linux, Gigabyte, Mellanox, Dell as well as a wider understanding of consumer grade hardware.
+Experience with containerization technologies such as Docker and Kubernetes and familiarity with virtualization technologies.
+
+You might also have
+
+Knowledge of cloud computing platforms, such as AWS, Azure, or Google Cloud
+Experience with monitoring and logging like ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus
+Experience with network monitoring tools, such as Wireshark
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-JG1 SEN

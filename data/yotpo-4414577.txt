@@ -1,0 +1,55 @@
+If you shop online (and who doesnt these days?), then chances are youve already interacted with Yotpo. Were a leading eCommerce retention marketing platform, on a mission to help brands of all sizes turn one-time shoppers into customers for life. Loyalty programs, SMS and email marketing, subscriptions, and reviews are our bread and butter, but we have more solutions up our sleeve, too.
+We have teams across the world, including the US, Canada, UK, Israel, Bulgaria, and Australia — and were still growing. Our primary goal is to deliver the best technology in the industry.
+You can hear all about it in our latest brand video. 
+Sounds exciting? Then read on, because were in pursuit of the best and the brightest minds to help us achieve our vision.We are looking for an experienced Experienced Full Stack Developer to join our Platform Group and help us revolutionize the marketing segment for Magento-based merchants
+In this role, you will be responsible for Yotpos leading e-commerce marketing application for the Magento framework.
+The application enables our Magento-based customers to seamlessly integrate with Yotpos industry-leading Reviews and SMS solutions and help them with their marketing needs and growth.
+The role is perfect for developers who want to make an impact and work with us to solve great challenges at scale with efficiency in mind.
+The domain is responsible for taking Yotpos platform to new heights and working on core functionality within our products in order to make the platform a best-in-class experience for our customers.
+As part of your role you will:
+
+Be RDs Magento ambassador and technical POC.
+Have responsibility for a large-scale, event-based application emphasizing efficiency and optimization.
+Take an active part in shaping our long-term vision and roadmap.
+Work in cloud-based environment with the most advanced development ecosystem and top technologies - Docker  Kubernetes  Prometheus  Okteto  AWS  Jenkins  Travis  Grafana  Coralogix  Backstage.
+Own responsibility for one of Yotpos key strategic systems with extreme-ownership practices and long-term domain involvement.
+Have E2E ownership - design, development, build, release, and monitoring.
+Work directly with a Product Manager to learn, refine, and adjust our Magento application and strategy according to developments in the industry and our customers needs.
+Work with our customers in order to help with complicated implementations and issues.
+
+Requirements:
+
+
+3-5 years of experience as Full Stack developer with proficiency in PHP, Node, Java, or C.
+Experience with delivering applications end-to-end throughout a full lifecycle, from ideation to planning, development, testing, deployment, and production monitoring.
+Deep understanding of OOP, MVC, and essential Design Patterns.
+Experience with RDBMS.
+Understanding how to use and maintain Docker Containers.
+Experience with source control system (Github is an advantage).
+Previous experience working in an Agile team.
+Experience with K8s, MongoDB, Elasticsearch, and AWS.
+
+Advantages:
+
+Experience with and knowledge of the Magento Framework.
+Experience with and understanding of the e-commerce world.
+
+
+What we offer:
+ 
+
+Track to success - work in a dynamic organization with ambient and laid-back office atmosphere  best coffee in town
+Individualized career development, rewards and recognition.
+Work-life balance - 25 days paid vacation with add-ons for loyalty, regular team buildings and celebrations in and outside the country
+Additional health insurance package
+Internal mobility program and refer-a-friend program
+Managing a fixed monthly budget for social benefits thru Re:Benefit - a flexible online benefits solution
+Food vouchers  monthly
+E-learning portals and knowledge sharing sessions.
+Company backed Hackathons, Tech conferences, workshops events, etc
+Stocked kitchen and bar.
+Equity in options.
+We are now working in a flexible hybrid capacity.
+
+ 
+Only short-listed candidates will be contacted.LI-Hybrid

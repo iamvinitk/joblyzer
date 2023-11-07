@@ -1,0 +1,52 @@
+Req ID: GAQ424R81
+As the Senior Revenue Operations Analyst, you will own the daily Order to Cash operations supporting the global revenue accounting operations and revenue close process. You will play an essential role in data integrity; ensuring all customer, opportunity and subscription information is accurate and reportable. You will partner with other teams to create and promote a scalable order to cash process. You will report to the Sr. Manager -  Revenue Ops.
+The impact you will have: 
+
+Analyze signed contracts and completed orders for completeness, accuracy, and compliance to company bookings and revenue recognition guidelines
+Partner with Sales, Deal Desk, Renewals, Collections, Legal, and Revenue departments and become an expert in order to cash policy and procedures
+Create detailed records in financial systems to meet internal service level agreement supporting billing, commissions, forecasting and revenue recognition processes
+Design and build scalable order to cash processes through identification and communication of needed process improvement and system enhancements to achieve an efficient system infrastructure to support month-end close
+Generate and maintain detailed documentation of policies and processes and assist with process improvementautomation initiatives as they arise
+Perform assigned month end accounting and reporting operations activities
+Document controls and procedures for new and existing business models
+Manage special projects as assigned and deliver accurate results
+Provide audit support for control and substantive testing
+Collaborate in system implementation or enhancement projects and assist with UAT as needed
+Develop and prepare schedules and reports regarding team metrics for management review
+
+What we look for:
+
+5 years operational accounting experience in a growing, SAAS technology business
+Bachelors degree with an emphasis in Finance or Accounting 
+Experience working with sales, customer contracts, and order desk operations
+Experience with NetSuite, Salesforce, Tableau and willingness to learn additional technologies
+Experience creating efficient processes to support order to cash function using strong attention to detail
+Advanced proficiency with Excel (pivot tables, Vlookups, Xlookups, building customized formulas etc.)
+Database  SQL experience a plus
+Operate in a fast-paced environment with tight deadlines
+Excellent communication skills, both written and verbal, to effectively collaborate with cross-functional teams.
+Capability to adjust to change in a fast moving environment
+Work autonomously as the Subject Matter Expert (SME) on responsibilities assigned
+
+Benefits 
+
+Comprehensive health coverage including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Annual personal development fund
+Employee Assistance Program (EAP)
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range88,200—156,200 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

@@ -1,0 +1,61 @@
+Neon is a multi-cloud Serverless Postgres provider that is designed to make Postgres developers more productive in the cloud. We manage clusters, storage, and compute automatically, so all you need to do is connect and develop. We have separated compute and storage so they can scale independently. This keeps costs low during development and makes it easy to deploy into production. Our scale-to-zero pricing means if your database is not being used, your credit card doesnt get refused.
+With a generous free tier, this is already the database you want for your next project. Now add database branching, which means instantaneous copying of any database at any point in its life cycle, and you have a Postgres that is ready for modern development workflows.
+Location: US-based
+Job Type: Full-Time
+Key Responsibilities:
+Technical Expertise: Utilize your extensive knowledge and expertise in relational databases, particularly PostgreSQL, to understand and analyze customer needs and effectively communicate how our solution can address those needs.
+Pre-Sales Support: Collaborate with the sales team to identify customer requirements and objectives, providing technical guidance and solutions during the pre-sales process.
+Solution Demonstrations: Create and deliver compelling product demonstrations to showcase the capabilities and benefits of our database management solutions.
+Proof of Concept (PoC): Assist customers in planning and executing PoCs to validate the suitability of our solutions for their specific requirements.
+Technical Presentations: Prepare and deliver technical presentations and workshops to prospects and clients, ensuring a clear understanding of our products and services.
+Requirements Analysis: Work closely with customers to analyze their technical requirements, providing tailored solutions and recommendations.
+Competitive Analysis: Stay up-to-date with industry trends and competitors offerings to effectively position our products and highlight their advantages.
+Documentation: Prepare detailed technical documentation and reports, including solution proposals, architecture diagrams, and project plans.
+Collaboration: Collaborate with product development teams to provide feedback from customer interactions, helping shape future product enhancements.
+Qualifications:
+
+Bachelors degree in Computer Science, Information Technology, or related field (Masters preferred).
+Minimum of 5 years of experience working with relational databases, with a strong focus on PostgreSQL.
+Must have experience working with a developer-tooll product
+Proficiency in JavaScript and Python, with the ability to develop and customize scripts and integrations in either.
+Exceptional communication skills, both written and verbal, to effectively convey technical concepts to non-technical stakeholders.
+Proven experience in pre-sales engineering, solution demonstrations, and PoC execution.
+Strong analytical and problem-solving skills.
+Ability to work independently and as part of a cross-functional team.
+Familiarity with command of the message sales techniques to engage and persuade prospects effectively.
+Strong organizational and time management skills, with the ability to manage multiple customer engagements simultaneously.
+A customer-focused mindset and a passion for delivering exceptional solutions.
+Willingness to travel as needed for customer meetings and presentations.
+
+If you are a highly skilled Pre-Sales Engineer with a deep understanding of relational databases, particularly PostgreSQL, and possess the technical and communication skills necessary to excel in this role, we encourage you to apply and join our dynamic team.
+Our Team
+
+We are a distributed team of 65 people working from 24 countries (concentrating around North America and Europe time zones)
+We are a team built on open sources cultural principles (transparency, contribution, accountability, proactivity)
+Team with decades of experience building databases and deep knowledge of Postgres internals. We are deeply technical
+We have experienced Postgres committers and hackers on the team (check Heikki, Anastasia, Arseny, Matthias profiles)
+We believe in the efficacy of collaborative open source
+We aim for a diversity of thoughts and backgrounds
+We are keen to be a fast-moving flat org and avoid hierarchical structures
+
+Our Investors
+
+Top-tier investors backed up Neons vision:
+
+We raised 104 million in funding from Menlo Ventures, GGV, Khosla Ventures, General Catalyst, Founders Fund. 
+Venture vehicles of Snowflake and Databricks invested in Neon.
+Our angels investors are prominent technologists, and ecosystem players. More than 20 awesome angels supported Neon, including Nat Friedman, Elad Gil, Mike Ovitz, Ajeet Singh, Guillermo Rauch, Sren Brammer Schmidt, and Wes McKinney.
+Our Board includes Quentin Clark, Glenn Solomon, Joe Morrissey, and Tim Tully. 
+
+
+
+Our Offer
+
+Opportunity to take on significant responsibility and ownership in building out the sales motion at Neon.
+Ongoing training and professional development.
+Fully remote working environment: well handle all formalities to arrange work from your home.
+We pay top of the market in most parts of the world.
+We grant equity (stock options) for all full-time hires.
+We offer a competitive benefits package in line with all tech companies (top-notch equipment, unlimited vacations, paid parental leaves, and much more).
+We are distributed, yet make our bonds during regular offsites (the last one was in Cyprus).
+

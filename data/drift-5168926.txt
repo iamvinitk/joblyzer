@@ -1,0 +1,75 @@
+Senior Software Engineer - Frontend - Hybrid Role (GDL)
+About Drift  
+Drift, the Conversation Cloud company, helps businesses connect with people at the right time, in the right place with the right conversation. Using the Drift Conversation Cloud, businesses can personalize experiences that lead to more quality pipeline, revenue and lifelong customers. Drift brings Conversational Marketing, Conversational Sales and Conversational Service into a single platform that integrates chat, email and video and powers personalized experiences with artificial intelligence (AI) at all stages of the customer journey. More than 5,000 customers use Drift to deliver a more enjoyable and more human buying experience that builds trust and accelerates revenue. Representing less than 1 of unicorns led by Latino founders, Drift is building an equitable, enduring company to transform the way businesses buy from businesses.
+About the role
+We are looking for Senior Engineers who are passionate and ready to tackle some of the most meaningful problems in the industry—from building adaptive AI for bot-supported conversations, to designing next generation chat experiences, to bridging the gap between old and new ways to buy.
+As a Senior Engineer, youll be instrumental in guiding architectural decisions and owning the tech stack within your respective product. As we grow as an organization, we are looking for our systems and applications to scale with us and the rapidly growing customers we support.
+You may be involved in creating infrastructure that processes billions of messages a minute to extracting buyer intent and priority for conversations. You could also build tools to trace and visualize any message ever sent so our customers can zero in on giving the best buying experience.  
+Drift Tech Stack - These are not hard requirements
+
+Javascript
+React
+AWS
+Node.JS 
+DynamoDB 
+
+This is a Hybrid role, which requires you to come into the office two days a week. Our office is located in Midtown, Guadalajara.
+ 
+Meet some of our leaders!
+Whether youre an intern or a principal, you will get to work on hard problems together. We want you to bring out your unique experience and specialities.
+
+Melissa Leffler, SVP of Engineering, joined January 2019. Melissa is building one of the best engineering teams in the business to take Drifts products to the next level.
+Bernard Kiyanda, Senior Director of Engineering, joined September 2019. Bernard and his team are instrumental in us expanding to our enterprise customers.
+Mate Rakic, Senior Director of Engineering, joined June 2018. Starting out as a Tech Lead at Drift, Mate is now leading a team of engineers to innovate the way companies engage prospective buyers and make the process frictionless across the board.
+
+What were looking for
+
+Passion around being closely involved with product teams to focus on realizing outcomes for our customers.
+Being a technical expert on architectural decisions to help us scale!
+Engineers who enjoy driving best practices by facilitating code reviews and mentoring junior engineers
+Enthusiasm for owning projects from conceptualization to implementation
+Engineers with a sense of creating frameworks and products to enhance the work of others.
+
+What youll be doing on the team:
+Day 1 you will 
+
+Use your onboarding time to learn how things work here and to practice writing and shipping software that makes our customers successful
+Start to dig in and get the basics down about our customers 
+Learn Drift-specific systems, product information, and review paperwork (we have to get that out of the way). 
+Have lunch with your manager and maybe your team 
+
+By the end of week 1 you will 
+
+Get to know your customer - Every team at Drift owns a different area of the product and our Customers are a super important ingredient to how we build products! 
+Have received a first look into Drift engineering systems, culture and product process through various conversations;
+
+How Product Works at Drift 
+Engineering Path of Success Path of Failure 
+Auth  Debugging at Drift 
+Customer-centered Engineering 
+Review of Drift SDLC 
+
+Have transitioned from onboarding to your new team 
+Have your local dev environment set up and you will have completed your First-day ship!!! 
+
+By the end of month 1 youll 
+
+Meet all of your members from Design to Product and Customer Advocate! 
+Work with your tech lead to identify the small rocks (aka Team Goals) for your first month along with any other goals. 
+Also work with your tech lead to develop your list of personal professional goals. 
+Get an intro to chat duty and how our CA team interacts with our customers on a daily basis.
+Ramp up by engaging in these product processes at Drift;
+
+Take ownership of a small rock from a 1-pager
+Contribute to story time 
+Participate in a green-lit kickoff 
+Write code toward your small rock 
+Shipyard a completed product 
+Measure your impact! 
+
+
+Drift is committed to being an equal opportunity employer. 
+We know that applying for a new job can be intimidating. But guess what? At Drift, there is no such thing as an ideal candidate. We believe in the power of teamwork -- and in the desire to learn something new every day. We believe in hiring people, not just skills. Take it from our Founder.
+If this sounds like a company you would like to join and a role you would thrive in, please dont hold back from applying! Whatever skills you bring to the table or background youre coming from, we welcome you to start a conversation with us. We need your unique perspective for our continued innovation and success. Were looking forward to learning more about you!
+Drift is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at disabilitiesdrift.com.
+ 

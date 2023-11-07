@@ -1,0 +1,46 @@
+GAQ323R7
+Mission
+Databricks is currently seeking an experienced IT Support Specialist to play a vital role in enhancing and optimizing our business processes. Your responsibilities will encompass engaging with users across the globe, specifically delivering on-site support at our Bangalore office to address a wide range of technical issues. As a crucial member of our IT Support team, your mission is to consistently elevate the user experience to its highest potential.
+Your daily tasks will involve providing exceptional customer service, whether it be through ticketing systems, email correspondence, or Slack communications. In this dynamic role, you should be adept at multitasking, enabling you to troubleshoot multiple user issues concurrently, as well as taking ownership of various small to medium-sized projects.
+We expect that you will demonstrate proficiency in deep troubleshooting and analysis, effectively setting a benchmark for delivering exceptional customer interactions. This proficiency extends to all Bricksters through various channels, encompassing tickets, systems, AV equipment, and other forms of engagement.
+Join us and be a part of our team committed to delivering top-tier IT support and ensuring seamless operations for our users at Databricks. You will report to the Manager, IT Support based in Australia. 
+Outcomes
+
+You will support our core platforms - user support, ticketing, procurement, and provisioning
+You will take ownership of customer issues escalations as a member of the IT support staff applying your understanding of systems within multiple applications in our tech stack
+Document all processes and update current documentation for the established process
+Complete and document assigned project work and provide updates to ensure accuracy
+Work with other ITS team members to improve efficiency by implementing new processes, tools, strategies, and automation
+Work collaboratively across IT and serve as an ambassador for the IT organization with our internal stakeholders
+Provide the very best customer service experience for all bricksters when troubleshooting their support requests by applying your technical skills, problem-solving abilities, and specialized knowledge to educate our workforce
+Maintain the asset inventory system and ensure all hardwaresoftware allocations are logged
+
+Competencies
+
+Experience working on a high-volume ticketing system (4000 PM)
+3 years of experience or related experience in administering and maintaining ITSM systems and related tools
+Extensive experience providing high-caliber support to all levels of staff
+Experience supporting customer IT needs within a global team supporting multiple regions and time zones
+In-depth knowledge of and the ability to perform advanced troubleshooting on macOS, Windows 10, Chrome OS, VPNs, and SaaS applications (Okta, Google Workspaces, Slack, Zoom, O365)
+Provide other services to reduce tickets and ticket closure times
+Work with partners to find efficiencies and implement improvements to our internal systems
+Working knowledge with securingmanagement of endpoints using JAMF, and InTune
+Experience troubleshooting AVConference room issues, and Office Network related issues
+
+Benefits
+
+Medical Benefits
+Employees Provident Fund
+Equity awards
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

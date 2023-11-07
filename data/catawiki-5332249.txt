@@ -1,0 +1,56 @@
+Who we are
+A piece of the moon, a complete dinosaur skeleton, the Popes hat, the worlds smallest book - at Catawiki, we come across exceptional objects such as these every day. 
+Catawiki is the leading online marketplace to buy and sell special objects. We offer over 75,000 special objects in auction every week — each reviewed and selected by one of Catawikis hundreds of in-house experts specialised in Art, Design, Jewellery, Fashion, Classic Cars, Collectables and many more.
+Weve sold 10 million unique items to date and its our mission to become the worlds most popular auction destination for special objects.
+Were an innovative, pioneering and fast-growing scale-up. If you think you can make a difference to our team, go ahead and apply.How we work
+As the biggest marketplace for special items, Catawiki operates in a domain which brings plenty  of unusual challenges and opportunities. You will be developing, testing and scaling our microservices, mostly written in Ruby, to handle the high volume of requests served by the platform every single day. We do this by using Infrastructure as Code principles, collaborative peer-reviews, Continuous Delivery, AB testing every assumption and using the observability and monitoring tools already in place. We make mistakes and learn valuable lessons from them. Our focus is to be able to recover and iterate quickly.
+What youll do
+In the role of Principal Backend Engineer at Catawiki, you will be a role model in our organization and have a wider impact in your business vertical and engineering organization. You will work closely with other Principal Engineers and senior Engineering, Product and Design leadership in your business vertical, you will define a comprehensive long-term technical strategy for your vertical and the broader engineering organization. Beyond this, as a technical expert for the backend platform within your business vertical, you will provide guidance to multiple teams and shape our microservice landscape in anticipation of future scalability demands.
+Your responsibilities will include mentoring less experienced engineers, fostering a strong engineering culture by setting software engineering best practices both within and beyond your business vertical, and actively participating in the hiring process to attract top engineering talent across various levels. By partnering with product teams, you will contribute to the evolution of our technology landscape, ensuring that it aligns with the overarching goals of the organization.
+What youll bring
+As an accomplished Principal Engineer, you possess a track record of delivering multi-year, multi-team goals that span the scope of your business vertical and the engineering organization as a whole.You will bring a multi-year, industry-leading technical perspective, ensuring our products are adaptable to scale, usage, and future business needs. You adeptly navigate domain boundaries, connecting initiatives and teams to craft optimal solutions.
+Your ability to shape the technology landscape with an eye on current and future challenges is evident in your track record. You thrive in tackling intricate architectural challenges, establishing and applying architectural standards to new projects. You anticipate challenges and have the influence to steer the technical direction of your business vertical or the larger organization, even when faced with significant misalignment.
+In collaboration with product teams, you expertly determine technical trade-offs, ensuring customer value is delivered rapidly without compromising quality. Your commitment to mentorship and collaboration shines through as you guide less experienced engineers, fostering a culture of continuous learning within the engineering organization. Drawing from your experience, you enhance our hiring process to attract and onboard the best engineering talent.
+Qualifications
+
+Proven expertise in shaping and delivering long-term technical strategies for business verticals and engineering organizations.
+Forward-thinking perspective that addresses scaling, usage, and business needs beyond current horizons.
+Skill in navigating across domains, connecting teams, and devising optimal solutions.
+Demonstrated ability to shape technology landscapes with consideration for present and future challenges.
+Proficiency in tackling complex architecture challenges and applying architectural standards to new projects.
+Strong decision-making ability to influence product scope and technical trade-offs for swift, high-quality delivery.
+Passion to foster strong engineering culture that helps product teams deliver quality software products.
+Dedication to mentoring and collaboration, promoting a culture of learning and growth.
+Experience in hiring engineers and improving the hiring process to attract top-tier talent.
+
+Where youll be
+This role is based in Amsterdam, The Netherlands. We also offer an excellent relocation package for people living outside of the Netherlands.Heres what we can offer you
+This is your chance to join our mission to fulfil peoples passions, as part of a young and dynamic organisation. Youll be part of an enthusiastic, highly-motivated team of 800 Catawikians. Additionally, you can expect:
+
+A challenging role in a diverse, international and fast-growing organisation with over 50 nationalities.
+Regular fun activities both on and offline e.g summer parties, boat rides and regular team events.
+Great secondary benefits including a holiday allowance and a fantastic pension plan paid for by Catawiki.
+Hybrid ways of working between home and office. We offer remote and activity-based working, suited to the team and individual responsibilities
+We care about our teams wellbeing and offer a holistic wellbeing programme including our Employee Assistance Programme offering clinical services, single-session therapy, wellness support and more.
+Tailored learning and development opportunities to support your personal and professional growth;
+We want to help you celebrate special occasions in life by:
+
+providing employees with a 100 EURO Catavoucher upon joining and 50 EURO birthday Catavouchers;
+Extra days of annual leave for work anniversaries at 3, 5, 8 and 10 years;
+Additional leave allowances for important life events such as moving, engagement  marriage;
+Each year Catawikians get an additional days leave to Pursue their Passion!
+
+
+
+Please note that our benefits offering changes depending on which country you are employed in. For our country-specific offering please ask your recruiter. 
+Our commitment to you 
+Catawikis eclectic team represents an international and intergenerational mix of people from different professional and cultural backgrounds. We foster an inclusive and queer-friendly work environment, committed to making every Catawikian feel welcomed and empowered. Whatever your story, we encourage you to bring your unique perspective to the table.
+Catawiki stands with Ukraine and encourages people displaced by the current conflict to apply. In addition to the several initiatives weve launched, were open to ideas on ways we can continue to support the humanitarian effort.
+Our offices and way of working
+
+Weve embraced an activity-based way of working, meaning our team can choose how they split their work week between home and the office, in line with our remote framework and guidelines. In locations where we have physical offices, most employees enjoy two days at the office to connect and collaborate with each other.
+Our experts and sales staff in local markets work 100 remotely  in most cases from home. Some key positions are hired remotely, while we also offer relocation services for colleagues needing to be closer to the office.
+
+Interested?
+Apply directly with an English CV and cover letter by submitting your information at the bottom of this page. By submitting your application you agree to Catawikis Applicant Privacy Policy.
+If youre excited about this role but your past experience doesnt align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.

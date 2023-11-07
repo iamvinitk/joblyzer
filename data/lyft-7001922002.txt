@@ -1,0 +1,28 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+We care deeply about delivering the best transportation experience; this means the best experience for the passenger and the best experience for the driver. We believe this quality of service can only be achieved with a deep understanding of our world, our cities, our streets how they evolve, how they breathe. 
+Interns work side-by-side with top engineers in the industry while having autonomy from the get-go. They contribute to user-facing products and are able to see their work go live quickly. Lyft fosters a collaborative environment in the office, so theres always a sharp mind eager to hear about your next idea. So whats yours?
+Responsibilities:
+
+Own your project, while checking in with other team members throughout the day with questions and updates
+You leave the code in a better state than when you found it (progressive refactor)
+You value reliability, ensured by testing (unit, integration and load tests)
+Participate in code reviews to ensure code quality and distribute knowledge
+Continuous integration and deployment
+Go home knowing that your work today is meaningfully improving the lives of every Lyft driver and every Lyft passenger!
+
+Experience:
+
+Currently pursuing a degree in Computer Science or a related field from a university in Mexico
+Graduating between December 2024 and Summer 2025 (required)
+Available during Summer 2024 for a 12 week, 40 hour per week internship 
+Strong knowledge of CS fundamentals
+Good English communication skills
+Passion for community, sustainability, andor transportation
+Ability to thrive in a startup environment
+Experience with real-time technology problems
+Contributions to open source projects
+Experience working with databases
+Experience solving real-time technology problems
+Previous work with social networks
+
+This role will be in-office on a hybrid schedule if an established Lyft Location is available to the region — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. 

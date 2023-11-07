@@ -1,0 +1,38 @@
+Capco, a Wipro company, is a global technology and management consultancy specializing in driving digital transformation in the financial services industry. With a growing client portfolio comprising of over 100 global organizations, Capco operates at the intersection of business and technology by combining innovative thinking with unrivalled industry knowledge to deliver end-to-end data-driven solutions and fast-track digital initiatives for banking and payments, capital markets, wealth and asset management, insurance, and the energy sector. Capcos cutting-edge ingenuity is brought to life through its Innovation Labs and award-winning Be Yourself At Work culture and diverse talent.
+Job Responsibilities 
+
+Assists in the planning and assigning task to junior System Analyst.
+Participates in understanding of business requirement and processes from BA and related parties and analyst system impact and defines system scope.
+Participates in solution design by preparing and evaluating alternative workflow solutions.
+Leads team interact with developer to understand software limitations and develops, writes, and communicates systems design, functional system specifications i.e. System Workflow, Database and API and functional architecture to developer.
+Provides advice, guidance, encouragement and constructive feedback to junior in team during preparing solution, design, and systems design, functional system specifications process or related with working.
+Ensures compliance with organizations technology standards.
+Ensures completeness of technical requirements and functional architecture analysis for the design and implementation of system business solutions.
+Help developer during system development, e.g. provide use cases, flowcharts, validate or confirm requirement from BA.
+Validates test results during testing and analyzes testing results to ensure the solution meets the needs of the business, then facilitates issue resolution.
+Leads team interact with dep ops and IT security to configurate infrastructure i.e. gateway, firewall, EDW or data lake to serve implementation per epicBL.
+Review and give comment for improvement junior senior analysts document.
+Coaches and transfers knowledge to all team members.
+Provide advice and consultation to other more junior System Analysts on more difficult and complex assignments and implement ways to reuse requirements across projects.
+Investigate, resolve and escalate problems from production issue and develop recommendations for resolution.
+Identifies need for technical assistance to help in problem resolution.
+Makes recommendations for modifications or technical solution to increase effectiveness and efficiency.
+Analyzes technology trends to determine impact to the achievement of business goals.
+Identifies issues based on impact of newemerging technology or modifications to existing systems.
+
+Skills  Experience  Qualification
+Types of experience  skills that we are looking for:
+
+University education and degree (preferable business or IT related), and strong academic record
+Minimum of 2-5 years of experience in a similar role (Business Integration or Business Analyst)
+Minimum of 2-5 years of experience in a client facing position
+Experience in Financial Services industry
+Experience working in the scrum environment
+Experience in requirements management andor process modeling
+Knowledge of multiple development methodologies, e.g. RUP, Kanban, SCRUM, Waterfall
+Excellent written and verbal skills in English
+Perseverance and pragmatism to solve complex problems
+Ability to perform under pressure
+Ability to work in a multicultural and international environment
+
+ 

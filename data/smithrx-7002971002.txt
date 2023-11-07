@@ -1,0 +1,43 @@
+Data Analyst
+With fast-paced growth comes a multitude of data-related opportunities to explore and challenges to navigate. SmithRxs Data Analytics team is at the forefront of wrangling vast amounts of data, unlocking their complexities, and harnessing their insights to generate value for present and prospective clients. We seek a Data Analyst to assist us in these exciting endeavors.
+The Data Analyst will operate as a part of SmithRxs growing Data Analytics team and report to the Senior Manager, Data Analytics. Data analysts function as liaisons between our business and technology organizations. Working with our Lead Data Analysts, you will collaborate with the Data Engineering team to sculpt our internal data infrastructure and with our customer-facing teams to deliver insights that effectively communicate the SmithRx value proposition. You will dive into the intricacies of our data, searching for patterns and discovering trends that will inform our strategy for years to come. 
+What will you do:
+
+Collaborate with our data engineering organization to strengthen our internal data warehouse and validate its design meets key business requirements
+Develop and implement methods to integrate various data sources into cohesive, analysis-ready datasets 
+Contribute to the evolution of our analytics codebase, adhering to established development best practices
+Design metrics and conduct rigorous analysis to uncover insights embedded within our data that inform strategic decision-making
+Create visual snapshots that tell clear, compelling stories and support regular and ad-hoc reporting by highlighting the SmithRx value proposition
+Partner closely with our stakeholders to ensure that all internal and external reporting and data needs are met
+
+What will you bring to SmithRx:
+
+Bachelors or masters degree in a quantitative field such as, but not limited to Engineering, Data Analytics, Data Science, Computer Science, or equivalent required
+3-5 years of work experience in Data Analytics role required
+
+Healthcare andor pharmacy experience preferred
+
+Advanced skill in building action-driven dashboards with data visualization tools such as Looker, Tableau, PowerBI, or similar required
+
+Looker experience strongly preferred
+
+Advanced proficiency in SQL and the ability to write complex queries which are optimized with detailed QA checks required
+Familiarity with additional data analysis tools such as Python, R, etc. preferred
+Familiarity with Github preferred
+Familiarity with Salesforce preferred
+Robust analytical skills, ability to think critically about data and the stories they tell; experience integrating large sets of data from disparate sources
+A curiosity and excitement to learn about the complexity of the pharmacy benefits industry and its data
+Strong communication skills via meetings and written correspondence
+Self-starter mentality: ability to make informed decisions, find creative approaches to difficult challenges, and deliver on commitments
+Execution-focused ethos - you are a solutions-oriented problem solver and efficiency driven
+Flexible, adaptable, and able to respond under the pressure of a fast-paced technology company
+
+What SmithRx Offers You: 
+
+Highly competitive wellness benefits including Medical, Pharmacy, Dental, Vision, Life insurance 
+Flexible Spending Benefits 
+Discretionary Time Off 
+401(k) Retirement Savings Program 
+Commuter Benefits 
+Paid Parental Leave benefits
+Professional development and training opportunities 

@@ -1,0 +1,51 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The mission of the Security Infrastructure group is to protect Stripe user data. We accomplish this by providing a platform of core security primitives that achieve uncompromising security, are consistently applied, and are simple to use. We aim to integrate security so tightly into the foundation that engineers need not worry about the security  privacy of their code.Stripe will succeed at our mission of increasing the GDP of the internet only if we prove ourselves worthy of our users trust.   
+What youll do
+Stripe will succeed at our mission of increasing the GDP of the internet only if we prove ourselves worthy of our users trust. As a Software Engineer on the Security Infrastructure team, your work will be a critical part of accomplishing this mission. Together, we will build reliable, comprehensible, and observable security into Stripes foundations, with the steady support of our leadership team and peers.  
+Responsibilities
+
+Design, build, and operate the core security infrastructure used by all of Stripes engineering teams 
+Uphold our high engineering standards and bring consistency to the many codebases and processes you will encounter 
+Improve engineering standards, tooling, and processes 
+
+We are hiring for a few different roles within Security Infrastructure, potential teams and responsibilities include:
+Authorization Infrastructure (Seattle office):
+
+Designing, building and operating highly reliable authorization infrastructure to protect resources (e.g. services and data) at Stripe
+Providing comprehensive and easy-to-use authorization solutions to mitigate inappropriate access
+Providing continuous identity governance via access visibility and access intelligence
+
+Secure Endpoint Access (New York office) : 
+
+Building and operating Stripes zero-trust networking infrastructure to provide secure, context aware access to internal resources
+Creating fast, secure by default reverse proxies that power and protect internal services for Stripes across the globe
+Providing an exceptional user experience for Stripe engineers to create, develop and test internal services from a variety of platforms
+
+Cloud Security (Seattle office): 
+
+Securely expanding our usage of AWS to include 100s, and eventually 1000s, of accounts, each configured with the proper security controls and baselines
+Building paved-path tooling that enable our engineers to interface with the cloud while enforcing least-privilege and audited access
+Partnering with infrastructure teams to carefully review planned cloud deployments for cloud security best practices
+Helping to design a secure, scalable cross-account networking strategy for cloud services
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+2 years of industry software engineering experience and systems design
+Empathy, strong communication skills and a deep respect for the power of collaboration
+A learning mindset, regardless of level or experience 
+The ability to drive clear next steps when encountering ambiguous spaces without clear lines of ownership 
+High standards for code quality and a constructive attitude to help others raise the bar 
+Software engineering experience in a high-stakes production environment 
+A knack for considering how systems can fail and how to fix them 
+An ability to think creatively and holistically about reducing risk in a complex environment 
+
+Preferred qualifications
+
+Experience deploying and operating services in cloud environments such as AWS, Azure, or GCP
+Ability to reason about security concerns and conduct threat models in cloud environments
+Experience in IAM (Identity and Access management) 

@@ -1,0 +1,41 @@
+The role of a Growth Engineer at Canonical
+Canonical has provided developers with open source since 2004, helping them build innovations such as public cloud, machine learning, robotics or blockchain. Marketing at Canonical means being at the forefront of technology adoption, for our customers and for our own martech stack. Were on the look out for a growth engineer to join our team and execute on our growth hacking strategy.
+The ideal candidate will be passionate about technology, technology marketing and the use of technology in marketing. You will prefer to work in an environment that has emphasis on ownership of campaigns, collaboration, learning, curiosity and a drive to continually improve oneself  the team  the organisation. You will also love to problem solve, get hands-on, experiment, measure and use automation to make daily life easier.
+The Marketing team at Canonical drives commercial outcomes for the company across its portfolio of products and grows the addressable market through digital marketing campaigns, lifecycle management, events, partnerships and community development. If these things are important to you and youre motivated by driving growth, delighting customers and filling the sales funnel, we want to talk with you.
+This role sits in the Marketing team reporting to the Growth Engineering Manager.
+Location:This role will be based remotely in the EMEA region.
+What your day will look like
+
+Join cross-functional teams looking to grow Canonical product adoption and market penetration
+Support Go To Market team members with strategic expertise measuring and analysing data
+Analyse behavioral data and users feedback
+Support experiments with data, visualisation and insights 
+Put in place and maintain systems to ensure teams across the company have  self service access to data dashboards
+
+What we are looking for in you?
+
+Ability to work with at least two of the following languages: Python, JS, SQL
+Experience in data analysis and data visualisation
+Exceptional interpersonal skills and aptitude for forging trusting relationships across diverse, cross-functional teams
+Proven ability to prioritise and differentiate what matters from the noise, meeting deadlines without sacrificing quality
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000 USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

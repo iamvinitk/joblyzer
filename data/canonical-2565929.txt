@@ -1,0 +1,31 @@
+This role is an opportunity for an EU resident technologist with a passion for Linux and Cloud to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products.  If you have an affinity for open source development and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.
+Cloud Engineer
+Cloud engineers architect and run the leading cloud technologies on the market today and in the future. This includes OpenStack and Kubernetes for multi-cloud environments as well as automated infrastructure and service orchestration. The dedicated cloud engineer works directly with a Canonical customer to understand their cloud needs and help shape their cloud strategy.
+As a member of the team you will gain experience using a broad range of cloud technologies. Canonical clouds include future upgrades meaning you arent stuck working with old solutions. Canonical is a technology agnostic cloud leader, incorporating new solutions like Kubernetes as they become available staying up to date with the best open-source offerings.
+About Canonical
+Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the worlds 1 cloud operating system. Our mission is to realize the potential of free software in the lives of individuals and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu. 
+We offer: 
+
+100 Work-from-home wi the EU
+Learning and Development
+Competitive Salary
+Recognition Rewards
+Annual Leave
+Priority Pass for travel
+Flexible working option
+
+Requirements
+
+Engineering, Computer Science, or equivalent degree
+Software Development experience and familiarity with Python
+Demonstrated drive for continual learning
+Experience working directly with customers
+
+Nice to haves
+
+Experience with OpenStack or Kubernetes deployment or operation
+
+We hope that youll join us in helping to shape and build the future of free software together.
+Canonical is an equal opportunity employer
+Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the worlds computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+LI-ET1 LI-REMOTE Stack

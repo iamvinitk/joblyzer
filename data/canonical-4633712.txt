@@ -1,0 +1,29 @@
+Canonical is hiring a Technical Partner Manager to join the Server Certification team. The Technical Partner Manager owns the technical part of our relationships with our Silicon and OEMODM hardware partners and helps develop and maintain the tools which enable us to test Ubuntu Server on the latest enterprise hardware ensuring Ubuntu users have the best experience with their hardware. We work at the interface of hardware and software, so the ideal candidate is a developer familiar with enterprise server hardware and has experience interacting with everyone from Engineers to Executives 
+This is an excellent opportunity for someone who wants to have a meaningful impact on the adoption of Linux on enterprise server hardware across multiple industries. Canonical offers a fun, fast-paced team environment and a career full of learning and development opportunities. This team is centered in North and South American time zones.
+We work together with silicon companies, OEMs, ODMs and teams within Canonical to ensure a smooth, secure out of the box Ubuntu experience, with success in this role leading to a great Ubuntu experience being offered on more and more devices. This role is perfect for someone who enjoys problem solving, software development, and creating and maintaining good partnerships with the biggest names in datacenter hardware.
+What youll do
+
+Technically support the partner  customer in their hardware certification efforts.
+Educate the partner about Canonicals tools, processes, and product roadmaps.
+Be the partners advocate to support, sales, and engineering teams within Canonical.
+Troubleshoot issues related to hardware compatibility, functionality, and performance.
+Support Canonicals internal teams on engagements that utilize the partners hardware.
+Contribute to driving the Ubuntu Server Certification program forward as new technologies emerge.
+Work on development projects that help test enterprise class hardware.
+Work from home with global travel 2 to 4 times per year for internal and external events.
+
+Who you are
+
+Demonstrable experience of success in a customer-facing technical role.
+You have in-depth knowledge of server-class hardware, firmware, and software.
+You know your way around Linux, virtualization, and cloud computing concepts.
+Knowledge of the Python programming language.
+Comfortable with shell scripting.
+
+Desired skills and experience
+
+Experience with test automation tools for validating hardware compatibility.
+Comfortable with virtualization or container technologies such as QEMU, KVM, LXC  LXD, Docker.
+Familiar with data analysis in for example Python or R.
+
+We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.

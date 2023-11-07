@@ -1,0 +1,65 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.THE WORK:
+We are seeking a Site Reliability Engineer (SRE) to join our Team in India. 
+WHAT YOULL DO:
+
+Keeping your assigned site or service up and running or getting it back up and running quickly when failure occurs,
+Actively troubleshoot any issues that arise during testing and production, catching and solving issues before launch,
+Automating work including infrastructure needs, testing, failover solutions, failure mitigation, and much more,
+Monitor and troubleshoot highly scalable and distributed server clusters that perform various functions, from web-servers to machine learning processing,
+Be on a PagerDuty rotation to respond to availability incidents and provide support for service engineers with customer incidents,
+Participate and establish best practices in Site Reliability Engineering,
+Manage code deployments, fixes, updates, and related processes,
+Work with a close-knit team and brainstorm on the best ways to tackle complex problems in infrastructure, security and monitoring,
+Provide technical guidance and educate team members and coworkers on monitoring and logging. (Have an interesting idea or solution? Present it!),
+Automating any software maintenance processes which previously required a manual procedure.
+
+WHAT WERE LOOKING FOR:
+
+3 years experience with software engineering, software development, or system operations on high available and high traffic environments,
+Strong experience with Linux-based infrastructures, LinuxUnix administration, and Azure
+Experience with databases such as PostgreSQL
+Experience administering linux servers as well as docker based infrastructure (like Kubernetes, AKS, etc.) in a highly available environment,
+Experience of scripting languages such as Python, Bash,
+Experience with message brokerqueue technologies like RabbitMQ,
+Experience with modern monitoring, logging and observability tools in complex distributed systems such as with  Application Insights, Grafana, New Relic, Splunk, Elastic stack, Datadog, Prometheus, etc,
+Practical experience with infrastructure-as-code (with tools like Terraform, Chef, Ansible, etc.).
+Good understanding of cybersecurity fundamentals and best practices,
+Containerizing and clustering (Dockerfiles, docker-compose, Helm, Kubernetes, etc.),
+Stellar problem-solving and troubleshooting skills with the ability to spot issues before they become problems,
+Fluent language skills in English,
+Excellent oral and written communication skills,
+Process-oriented with great documentation skills,
+Solid team player!
+
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

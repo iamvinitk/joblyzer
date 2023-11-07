@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+CS Graduate Galaxy Program 
+Start: January 2024
+The Team 
+You will be joining the Celonis Services team. Our teams mission is to drive product success along three core principles: simplicity, focus, and execution. As a team, we enjoy working in a fast-paced environment and share a sense of belonging to a community that wants to learn and grow together. The team culture is based on diversity, trust, continuous development, and improvement with people from across the globe. The Galaxy program unites Celonauts across different locations into one dedicated onboarding program which develops recent graduates into well rounded, skilled Services professionals in 18 months. 
+The Role:
+In this role you have the chance to launch your career in the enterprise software world by joining the Galaxy Graduate Program as an Associate Galaxy Celonaut . The Galaxy Program will provide you with a structured approach to kick start your career within Celonis, learning and delivering value to our customers, over a period of 18 months.
+In particular, Galaxys cohort structure and rotational nature will  develop your expertise across the Celonis value journey with a focus on learning the technology, implementation cycle, approaches to innovation and automation, enablement, support, and customer engagement best practices.  
+The work youll do:
+As a CS Galaxy Celonaut, you will be an integral part of our teams preparing yourself for a career with Celonis. The program will combine learning and hands-on experience, making sure all aspects of the post sale customer experience are represented. The following activities are part of the program: 
+Practical assignments across our customer projects. Accelerate our customers digital transformation and drive Celonis expansion within the market. 
+
+Deploy high-value use cases
+
+Perform complex data transformations to optimize data for analysis
+Collaborate with consultants to develop analyses 
+Conduct precise calculations of KPIs integrated in customer solutions
+Support the implementation and configuration of EMS implementations for customers
+Assist in troubleshooting and resolving technical issues for customers
+Develop individual Python scripts utilizing Machine Learning Workbench (MLWB) to efficiently consume and transmit data to EMS
+Collaborate with the Celonis Academy team to create custom enablement plans and train customers analysts and business users on the analysis, KPIs and other Celonis solutions you developed
+
+
+
+Rotate between the various teams within the Celonis Services organization.
+
+Customer-facing implementation consulting
+Technical onboarding, 
+Celonis support,
+Academy and global programs. 
+
+
+The qualifications you need:
+We are looking for people who enjoy solving problems, think outside the box, and are not afraid to make and learn from mistakes. You have a degree level in the field of Business Informatics, Computer Science, Information-oriented Business Administration Economics, Mathematics or a comparable degree program and gained first working experience in (IT-) Consulting or a similar area in the form of an internship. You have a strong interest in Big Data, Data Mining, and Process Mining and you seek continuous improvement of your know-how.
+You are successful as an Associate Galaxy Celonaut if you:
+
+Enjoy interacting with various customers 
+Understand and are able to interpret business processes
+Fluency in English, an additional European language such as German, Dutch or French is of advantage 
+Are a person with analytical skills, and have a basic knowledge of SQL or other programming languages (Python, R, Matlab...)
+Search for a job with a steep learning curve in order to think outside the box and to continuously broaden your knowledge
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

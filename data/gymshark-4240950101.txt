@@ -1,0 +1,52 @@
+OVERVIEW:Are you our next Customer Experience Analyst? We are looking for a Customer Experience Analyst who is keen to use their skills to identify opportunities to optimise the customer journey at every touchpoint. Designed to help us deliver actionable insights, which ensure we are putting our community members at the centre of decision making.
+WHAT YOULL BE DOING:
+
+
+
+
+Lead the design, development and maintenance of the VoC tool to enable the wider Customer Experience Analytics Team and wider business to self-serve VoC insights and core KPIs.
+Work with Data Engineers to enhance the data we have available to us. This includes ensuring the cleanliness of data sources and accuracy of data between all VoC systems.
+Keep clear documentation of all data sources and data flows.
+Identify additional data sources that could provide value to understanding the overall customer experience. Working with end users of customer feedback to ensure their needs are met and the data we are collecting is fit for purpose.
+Continuously optimise the collection strategy of all solicited feedback sources, including NPS  product reviews. You will make sure we reach significant results in a timely manner. You should always be looking for opportunities to improve open, click and completion rates.
+Work with the Customer Experience Analytics Manager to define the measurement of core CX KPIs that will help us to better track how we are performing in the eyes of our customers. You should be able to clearly communicate these KPIs to the wider business who have varying levels of data understanding.
+Produce regular and ad hoc insights and reports using large data sets to identify trends and insights which are impacting the customer journey. This is from both VoC data and wider data sources.
+Identify the links between the lagging customer experience KPI of NPS and other leading KPIs, which can be tracked on a more frequent and area specific basis.
+Have a comprehensive understanding of core KPIs monitored within Customer Support Functions and work to refine our definitions.
+Identify and review opportunities to enhance our Customer Support Function by analysing performance. Providing actionable insights to the Customer Support Leadership Team.
+Have a comprehensive understanding of all data currently being captured within customer support interactions. Ensuring this data is valuable and actionable for future analysis. Continuously looking for any opportunities to improve the data we are capturing.
+Develop strong relationships with all sub functions within the business wide data and insight community. You will identify opportunities to collaborate on insight projects and share your knowledge of customer experience analytics and data to improve communal understanding.
+Promote a customer first mindset across Gymshark, ensuring the insights you uncover are used within business decisions.
+
+
+
+
+WHAT YOULL NEED:Essential Criteria:
+
+Previous experience in a CX analytics or VoC analytics role, with a strong understanding of customer feedback sources and how to bring these together to provide a holistic customer voice
+Demonstrated experience in providing CX insights andor VoC insights across a large organisation
+Ability to work as part of a high performing team, supporting the development of more junior team members, whilst also being happy to work independently
+Superb presentation skills to confidently explain findings to both technical and non-technical stakeholders in an engaging way
+Good communication and people skills. Able to build and maintain strong relationships with stakeholders
+Able to effectively manage multiple projects, proactively raising risks and blockers to management team
+Highly analytical, with a proficiency in SQL (2 years) and Microsoft Excel. You are able to manipulate, interrogate and present data
+Experience using VoC tools eg. Clarabridge Medalia Sprinklr
+Understanding of customer journey mapping and the value it provides for businesses
+Strong attention to detail and highly numerate
+
+Preferred Skills:
+
+Experience working with matrix or cross functional teams
+Experience working with data visualisation tools eg. TableauLooker
+Able to embrace fast paced change with a positive outlook.
+Eager to learn new tools and techniques.
+Understanding of wider analytics tools and data sources eg. Google Analytics
+
+This is a hybrid role and would require the successful candidate to attend at least 3 days a week in GSHQ, Solihull, UK.
+CLOSING DATE: 15th November, 2023
+BELONGING AT GYMSHARK.
+Our mission is to be a place where everyone belongs. Were an equal opportunities employer, and for us that means we always strive to be as inclusive as possible in all aspects of employment, right from your application. Were committed to finding reasonable adjustments for candidates with specific needs or have a disability during our recruitment process, and all applicants will be considered fairly and equally. We do not tolerate discrimination of any kind. If youd like to request a reasonable adjustment please email talentgymshark.com. 
+ABOUT US.
+Were here to unite the conditioning community. We believe that putting the sweat in today, prepares us for tomorrow. So, we give people the tools they need to reach further, go faster, be stronger. We celebrate those who show up  for themselves  to be their physical or mental best, whatever that means for them. Its what we want for our community, and our team. A team thats growing rapidly around the world. A collective of talented individuals working together to invent Gymsharks future. Our plans are ambitious, and were looking for people who want to join us for the ride  our growth will be your growth.
+THE PERKS.
+ Competitive Win Together, Lose Together Bonus Choice of Private Medical Insurance or Healthcare Cash Plan, paid for by us! 25 days holidays  your birthday and all the Bank Holidays which can be substituted and taken whenever you want. A truly Flexible Working Culture A collaborative, creative and inspiring working environment Employer pension contributions up to 7 Life Assurance at four times your basic salary 50 Gymshark Discount Gymshark Gift Card for each year of service Financial, Physical and Mental Wellbeing Support Great Training and Learning Resources Choice of hardware and access to the best software Paid time off when youre physically and mentally unwell Very Generous Family Leave package  we support you extending your family Refuel - Healthy fresh food at GSHQ Lifting Club (LC) Gym Membership Free monthly massages Beauty and Barber facilities Free on-site parking

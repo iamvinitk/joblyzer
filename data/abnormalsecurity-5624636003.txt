@@ -1,0 +1,22 @@
+About the Role
+Enterprises of all sizes trust Abnormal Securitys cloud products to stop cybercrime. These products are data intensive SaaS applications that depend on reliable, scalable, and secure access to data. This is where our Data Platform team fits in, enabling efficient, reliable and scalable data processing across both realtime and offline processing systems. Come empower the rest of engineering to stop cybercrime as we expand our offerings across both clouds and regions. 
+The Data Platform team is looking to add a Software Engineer. The individual in this role will have the opportunity to partner closely with our existing world class team of engineers as we define and build the next generation data platform. 
+There are a lot of opportunities for growth and career advancement  its up to you to own your career here. Some potential career paths for this role include: 
+
+Growing into a Senior technical leadership role. 
+Positioning yourself to be a Founder or early-stage executive
+
+What you will do 
+
+Define and deliver our data platform offerings across AWS, Azure to empower and delight our internal engineering customers.
+Optimize the performance of existing offline (Spark) and online (DBs, ElasticSearch, Kafka etc) usage to increase efficiency.
+Scale and optimize our overall data center capacity by developing cutting edge Analytics software solutions which improve efficiency and bring automation to our data centers
+
+Must Haves 
+
+4-6 years of experience working on backend distributed systems
+Strong background in systems programming and fundamentals (e.g working with Unix tooling, understanding system performance in terms of network, CPU, memory etc.) 
+Expert in at least 1 key area of the Data Platform tech stack - relational DBs, RocksDB, ElasticSearch, Redis, Kafka, Spark
+Excellent ability and strong desire to onboard and mentor other engineers.
+
+LI-AB2

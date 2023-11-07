@@ -1,0 +1,39 @@
+We offer a hybrid work environment. Most US-based positions can also be performed remotely (any exceptions will be noted in the Minimum Qualifications below.)For Israel-based positions, we encourage working from our Sarona, Tel Aviv office a few days a week, meeting your colleagues, and having a flexible work environment.
+ 
+Our Mission:
+To actively connect people to their next great opportunity. 
+Who We Are: 
+ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects job seekers with millions of businesses of all sizes through innovative mobile app, web, and email services, as well as partnerships with the best job sites on the web. ZipRecruiter has the 1 rated job search app on iOS  Android. 
+Summary of Job:
+At ZipRecruiter, we harness algorithms, machine learning and deep learning models to solve various matching, recommendations, search, NLP and general inference problems all aimed to find the best matches between job seekers and jobs.
+Were looking for data scienceML researchers with a passion for problem-solving to join our team of data scientists and help us solve new and existing challenges. researching new models, developing high quality, high-performance code and constantly improving our solutions and expanding their scopes.
+As a data scienceML researcher youll be joining a team of researchers, ML engineer and data engineers working on interesting problems in various fields.
+Key focuses:
+
+5  years of experience in machine learning, NLP and related fields
+Work with big amounts of super interesting and diverse data collected throughout Zip employment marketplace.  
+Conduct research and Implement SOTA papers with other ML researchers in areas like NLP and recommendations.
+Develop production-level, scalable, machine learning pipelines and models.
+Identify business opportunities in the domain of ML and communicate them to product
+Contribute to the data science community at Zip.
+
+Minimum Requirements:
+
+Team player with excellent communication skills
+Masters degree or higher in Computer Science  Mathematics  Statistics  or equivalent from a university.  
+Proficiency in Python programming language
+Strong background in machine learning 
+Acting and thinking as an owner, with production environment in mind
+Fluent in English
+
+Prefered Qualifications:
+
+Substantial industry experience - an advantage 
+knowledge in NLP and familiarity with Deep Learning - an advantage
+
+As part of our team youll enjoy:
+
+Competitive salary
+Exceptional benefits package
+ZipRecruiter is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.
+Privacy Notice: For information about ZipRecruiters collection and processing of job applicant personal data for this job, please see our Privacy Notice at: https:www.ziprecruiter.comcareersjob-applicant-privacy-notice

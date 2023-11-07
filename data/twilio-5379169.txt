@@ -1,0 +1,67 @@
+See yourself at Twilio.
+Join the team as our next Software Engineer, Twilio Flex.
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+Although were headquartered in San Francisco, were on a journey to becoming a globally antiracist company that supports diversity, equity  inclusion wherever we do business. We employ thousands of Twilions worldwide, and were looking for more builders, creators, and visionaries to help fuel our growth momentum.
+About the job
+This position is needed to help Twilo develop and deliver new capabilities in the Twilio Flex platform. You will be a member of a scrum team who will design, implement, own and operate their microservices end to end in the cloud. You will play a key role in setting up and building out the Flex engineering capacity and capability in the Bengauluru office and build a center of excellence for Flex business unit. Additionally, you will have the opportunity to influence roadmap priorities, propose innovative solutions that will enable Twilio to achieve its goal of being the worlds most trusted customer engagement platform.
+Responsibilities
+In this role, you will:
+
+Design, develop, test and deploy Flex features and services in AWS cloud.
+Own your services, respond to incidents and participate in on-call rotation and participate in RCAs for incidents.
+Meet SLASLOSLI for your services.
+Meet Definition of Done for the software you build.
+Refactor and reduce technical debt in your services.
+Write automated unit and integration tests in a continuous integration and delivery environment.
+Manage your work through the use of Github, Jira, and Twilios builddeploy systems.
+Collaborate with other team members, including Product leadership, influence, own, and improve Flex platform.
+
+
+Actively participate in Design, Code review, Backlog grooming, Agile ceremonies and work with team members to meet teams sprint commitments.
+Work independently or with your team to troubleshootdetermine resolution for issues in your teams domain.
+
+
+Be responsible for documentation of projects you work on.
+Rapidly acquire new technical skills and knowledge in a fast-paced, highly disruptive industry environment.
+
+Qualifications
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+Required:
+
+Bachelors or Masters degree in Computer Science or related industry experience.
+5-8 years of experience developing highly-available, secure, native cloud enterprise SaaS applications in Java.
+Experience with AWS, GCP or other public cloud infrastructure platforms.
+Experience building highly scalable, real time, distributed systems based on microservices architecture.
+Experience with container technologies - DockerKubernetes.
+Experience with REST API design and implementation.
+Experience with SQLNoSQL databases and caches.
+Experience implementing modern automated testing and CICD pipelines.
+Translate system designs into software implementations.
+Champion of good engineering habits: development and test techniques, security, automation.
+Expertise in solving complex production issues.
+Positive attitude and aptitude to learn and execute quickly in a small team. 
+Iterative development and deployment, Scrum and Agile methodologies.
+Communicate clearly and concisely, orally and in writing.
+
+Desired:
+
+Experience with streaming systems such as Kafka, Flink, Spark
+Deploying cloud applications in a multi region environment.
+Ability to influence and build effective working relationships with all levels of the organization.
+Experience with Contact Center and Customer Engagement solutions.
+
+Location
+This role will be located in our Bengaluru, India office. Approximately 5 travel is anticipated.
+What we offer
+There are many benefits to working at Twilio, including things like competitive pay, generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

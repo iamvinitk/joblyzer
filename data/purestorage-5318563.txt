@@ -1,0 +1,46 @@
+BE PART OF BUILDING THE FUTURE.
+What do NASA and emerging space companies have in common with COVID vaccine RD teams or with Roblox and the Metaverse? 
+The answer is data, -- all fast moving, fast growing industries rely on data for a competitive edge in their industries. And the most advanced companies are realizing the full data advantage by partnering with Pure Storage. Pures vision is to redefine the storage experience and empower innovators by simplifying how people consume and interact with data. With 11,000 customers including 58 of the Fortune 500, weve only scratched the surface of our ambitions. 
+Pure is blazing trails and setting records:
+
+For ten straight years, Gartner has named Pure a leader in the Magic Quadrant 
+Our customer-first culture and unwavering commitment to innovation have earned us a certified Net Promoter Score in the top 1 of B2B companies globally
+Industry analysts and press applaud Pures leadership across these dimensions
+And, our 5,000 employees are emboldened to make Pure a faster, stronger, smarter company as we go
+
+If you, like us, say bring it on to exciting challenges that change the world, we have endless opportunities where you can make your mark.Should you accept this challenge
+As Product Manager in Pures Cloud Native Business Unit (Portworx), you will be responsible for the Portworxs Portworx Data Service (PDS) product including technical roadmap, customer engagement and overall execution. You will be part of the larger initiative that is transforming how companies think of, and use, data services across hybrid-and multi-cloud scenarios. 
+In this role you will
+
+Work with the engineering team and the overall Product Management organization to manage releases and updates of our offerings and bring new features to market.
+Ensure that the productmarket fit is constantly measured, product direction continues to delight customers and velocity of execution remains high
+Collect and document input from Portworx users, customers, and other stakeholders to understand customers needs are met
+Engage with sales and marketing activities, including creating presentations, blogs, demos, and other technical collateral for our offerings
+Review and provide feedback on the product documentation to improve the overall customer experience.
+Work closely with the executive team to establish the scope and goals of the upcoming releases and provide leadership for the program teams
+Foster an active ecosystem of customers and partners - interface with technology partners and vendors, both from the perspective of understanding their technology and product roadmap and influencing them to align with Pure strategy
+You will be based in Bangalore, India. As this is an office-centric role, you are expected to be present in the office for 3 days a week. As outlined in Pures Hybrid Work Policy, there will be variations over periods of time, depending on business need.
+
+To be successful in this role, you need to have
+
+12 years of combined experience in product management or product development roles
+Bachelors Degree in Computer Science, Electrical Engineering, or equivalent, Masters Degree a plus
+Good understanding of how cloud-native technologies like Kubernetes are transforming the infrastructure landscape and prior experience with cloud infrastructure technologies
+Experience with continuous integration and continuous deployment methodologies
+Broad understanding of the cloud-native services in areas of storage, data management and security
+Ability to drive grooming sessions with teams, when new work should be planned  backlog needs attention
+Demonstrated ability to take charge of tough problems, attacking them from different angles and bring together a diverse array of stakeholders on the same page and drive great business results. 
+Ability to define the right metrics, track and refine them and extract insights to drive decision making. 
+Ability to operate in a fast-paced, agile development environment and manage multiple, concurrent priorities and projects
+Ability to do market and competitive analysis to create a compelling strategy that leads to success of the product for our customers and the company
+Deep (5 years) experience in at least two of the three of: Databases, SaaS, Kubernetes
+BE YOU—CORPORATE CLONES NEED NOT APPLY.
+Pure is where you ask big questions, think differently, and make an impact. This is not just a job, but a place where you have a voice and can accelerate your career. We value unique thoughts and celebrate individuality, and with ample opportunity to learn, develop yourself, and expand into different roles, joining Pure is an investment in your career journey.
+Through our Pure Equality program, which supports a flourishing field of employee resource groups, we nourish the personal and professional lives of our team members. And our Pure Good Foundation gives back to local and global communities through volunteering and grants.
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events.
+PURE IS COMMITTED TO EQUALITY.
+Research shows that in order to apply for a job, women feel they need to meet 100 of the criteria while men usually apply after meeting about 60. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+Pure is proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire. 
+If you need assistance or an accommodation due to a disability, you may contact us at TA-Opspurestorage.com.
+APPLICANT  CANDIDATE PERSONAL INFORMATION PRIVACY NOTICE.
+If youre wondering how or why Pure collects or uses information you provide, we invite you to check out our Applicant  Candidate Personal Information Protection Notice.

@@ -1,0 +1,38 @@
+Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.
+Founded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.  
+Aptos (Ohlone for The People) encompasses our mission and ethos for why we build.About The Role
+Were looking for a talented and eager Software Engineer, Developer Support to support both the prominent enterprise partners and the growing developer community for Aptos in Korea.
+This role will be a highly visible role in the organization and in the broader web3 ecosystem. You will not only manage our day-to-day online presence in Korea, you will also be responsible for keeping your finger on the pulse of whats happening in the broader crypto ecosystem across the region. You will help partners build development tools and platforms, establish strong relationships with the developer community, and work closely with the Aptos Labs Developer Platform Team to translate partner and community needs into products and services that contribute to a world-class developer experience.
+You should love supporting developers across web2 organizations and local web3 developers. You will be joining a lean team, and this role will have a lot of autonomy  you should be a self-starter and be capable of self-directed work.
+What youll be doing:
+
+Collaborating with integration partners to design and launch new web3 protocols built on Aptos
+Improving developer experience by creating developer focused tooling, tutorials, documentation and blog posts
+Contributing to the technical design and implementation of new products and protocols on Aptos
+Coordinating, presenting at, and participating in meetups, hackathons, and conferences across Korea
+Formulating a growth plan to engage the developer community in Korea.
+Setting up the right systems and processes to ensure successful developer community building and participation
+Continuously learning about cryptocurrencies and NFTs, engaged within the Korean web3 community, and sharing insights to our organization
+Capable of working autonomously and in a fast-paced, highly collaborative environment with an emphasis on cross-team communication
+
+What were looking for:
+
+Expertise in one of the following programming languages: TypeScript, Java, or C
+Familiarity with Web3 programming languages like: Solidity, Rust, or Move
+Experience with internet culture, memes, Discord and Twitter
+Relevant background in a developer role with at least 5 years experience and a focus on delivering solutions that lead to product launches.
+Decent knowledge and experience in Web3 industry.
+Excellent Korean and English written and oral communication skills, as this role requires frequent communication to members of our ecosystem, community, members of our team, and various third parties
+
+The base salary range for this full-time position is 175,000,000 - 198,000,000. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in the Bay Area at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.Our Benefits
+
+100 insurance premium coverage for medical, dental, and vision for you and your dependents (US Employees)
+Equipment of your choice
+Flexible vacation time, 11 holidays, and floating company days off 
+Competitive Salary
+Equity (RSUs)
+Protocol Token Grants
+401k matching (US Employees)
+Fun and inclusive in-person and digital events
+
+Aptos is committed to diversity in the workplace, and were proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.

@@ -1,0 +1,89 @@
+ 
+
+
+At Qualtrics, we create software the worlds best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.When you join one of our teams, youll be part of a nimble group thats empowered to set aggressive goals and move fast to achieve them. Strategic risks are encouraged and complex problems are solved together, by passing the microphone and iterating until the best solution comes to light. You wont have to look to find growth opportunities—ready or not, theyll find you. From retail to government to healthcare, were on a mission to bring humanity, connection, and empathy back to business. Join over 6,000 people across the globe who think thats work worth doing.
+
+ 
+Information Technology, Analyst
+ 
+Why We Have This Role
+This role is functionally a part of the Americas IT Operations team, but will report directly to the Sr. Manager, IT because of the complexity of opening a major new office in Mexico City. The team maintains Zoom infrastructure, deploys and manages end user Mac and Window laptops using Jamf and Intune MDM and provides technical assistance to users of these platforms. The Americas (AMER) region consists of the US, Canada, Mexico, Argentina, Colombia, Brazil and Chile offices across 4 time zones. The team supports over 2,500 employees in the region. This role is responsible for day-to-day support for Latin American country offices, with an emphasis on the on-site support of the Mexico City office.
+ 
+How Youll Find Success
+
+The successful candidate will be responsible for end-user support responsibilities, for local Mexico City and remote employees in the Americas region. This role requires presence in the Mexico City office 5 days a week.
+
+Be on site at the Mexico City office to manage stock of IT equipment, visually monitor the condition of Zoom Rooms and take remedial action to restore their operation. Deploy IT equipment to Zoom Rooms and desks as necessary.
+In a rotation with other AMER IT Ops team members, operate laptop and Zoom Room equipment lifecycle in the AMER region by following the established workflows. Manage IT Asset records, entering information about assets changing state into appropriate systems. Regularly monitor accuracy of asset records for the AMER assets and take remedial action to improve accuracy and availability of recordkeeping.
+In a rotation with other AMER IT Ops team members, operate computer peripherals provisioning process in the AMER region by following the established workflows.
+SQL analytics: being able to turn employee and IT incident and service request data in MySQL database into information useful for optimizing IT services
+Coding: able to interpret brief statements such as HTTPs API calls and write basic SELECT  SELECT with JOIN SQL statements
+
+
+ 
+How Youll Grow
+
+
+Located in a new office that is expected to grow fast and gain greater reputation as a center of excellence for customer support, this role has ample potential to gain recognition both for customer service excellence and for technical expertise. That opens doors for transition into support engineering groups that are focused on core Qualtrics business of XM platform and product development.
+As the AMER region is expanding geographically and growing in the number of employees, the scale of this role will naturally expand. That offers an opportunity to collaborate more over the national borders, participate in office build-outs in other locations and learn how to use technologies appropriate to the larger scale of business.
+
+
+ 
+Things Youll Do
+
+
+Operate and troubleshoot automated processes for laptop configuration, based on Jamf for Macs and on AutoPilot for Windows.
+In a rotation with other AMER IT Ops team members, manage equipment disposal and recycling in accordance with the current Information Security Policy and country-specific accounting practices.
+Be the primary SME for 1-2 regionally scoped services in the IT portfolio. A service is a tool IT operates in their line of business or a product IT administers for the end users.
+In a rotation with other AMER IT Ops team members, respond to IT service desk requests and provide solutions based on documentation written by senior team members and own expertise as an IT engineer. Triage incoming requests, identify root causes, take remedial action as prescribed by documentation, escalate to senior team members if a case does not fit any of the known solutions.
+Educate employees about IT processes and self-service options as part of providing responses to incoming requests
+In a rotation with other AMER IT Ops team members, manage the technology component of employee onboardingdeparture process: set up laptops for new hires, distribute peripheral equipment according to the established process, monitor incoming tickets for laptop provisioning requests
+Routinely propose updates to problem solving documentation when encountering outdated or absent articles
+This role requires presence in the Mexico City office 5 days a week. Specific schedule is flexible and is determined by business needs, with business hours being between 8am and 5pm local time.
+
+
+ 
+What Were Looking For On Your
+
+
+Excellent command of written and spoken English, being able to understand and be understood by native speakers of American, British and Australian English.
+Fluent Spanish as the role is located in Mexico City and requires constant interaction with local vendors and employees who might not be proficient in English.
+A minimum of 2 years experience as a 2nd or 3rd tier IT Support Engineer
+A degree in Computer Science, Information Systems, IT, or similar, or practical experience working in IT roles for at least 4 years
+Mac OS X - complete understanding of the UI and user-configurable settings.
+Windows - familiarity with administration of Windows 10  11 Enterprise OS, Azure AD and Intune
+Experience administering a user directory service - G Suite or Active Directory.
+Experience using SQL analytics.
+
+
+ 
+What You Should Know About This Team
+
+
+The AMER IT Ops team is spread across the US with team members in Reston, VA, Provo, UT and Seattle, WA.
+The team is part of the follow-the-sun support model, mutually assisting the EMEA and APJ IT Ops teams to help with excess volume of tickets and coverage outside of the regular business hours for each region.
+Career progression for team members can be either within the IT organization, moving into highly specialized roles in the IT Systems Design team, or moving into Engineering roles focused on software development outside of IT.
+IT at Qualtrics is part of the Internal Systems organization. Internal Systems develop and operate all infrastructure that is not part of the production environment, except for the network. Network is entirely out of scope for IT and Internal Systems.
+
+
+ 
+Our Teams Favorite Perks and Benefits
+
+
+Allowances: meal, transportation, groceries, telework, experience bonus and wellness reimbursement!
+Beautiful office spaces with free lunch, snacks and drinks
+Work-life balance and flexibility for our employees
+
+
+ 
+
+Qualtrics is an equal opportunity employer meaning that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic. Applicants in the United States of America have rights under Federal Employment Laws: Family  Medical Leave Act, Equal Opportunity Employment, Employee Polygraph Protection ActQualtrics is committed to the inclusion of all qualified individuals. As part of this commitment, Qualtrics will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please let your Qualtrics contactrecruiter know.
+ 
+Qualtrics Work Experience - As we look to the future, we believe that our teams are better together. Being together will help us learn more, grow faster and ultimately deliver better results for our customers and Qualtrics. Roles tied to an office location work 4 days per week in the office together and 1 day from home, with a strong spirit of flexibility around taking time for personal, health, and family moments in our work weeks. Our managers work with their teams to create a collaborative, engaged work environment, and arrangement that works for each of our team members.
+ 
+Not finding a role thats the right fit for now? Qualtrics Insiders is the one-stop shop for all things Qualtrics Life. Sign up for exclusive access to content created with you in mind and get the scoop on what we have going on at Qualtrics - upcoming events, behind the scenes stories from the team, interview tips, hot jobs, and more. No spam - we promise! Youll hear from us two times a month max with fresh, totally tailored info - so be sure to stay connected as you explore your best role and company fit.
+
+
+ 
+ 
+ 

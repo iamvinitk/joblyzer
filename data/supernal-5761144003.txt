@@ -1,0 +1,43 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Test Instrumentation Engineer is responsible for designing and implementing data acquisition systems to support Test  Evaluation projects. This position is a technical contributor supporting ground-based and airborne test platforms. This role is heavily involved in the building of the test platforms and works with the technical engineering teams to collect the test instrumentation requirements and then design a system to accommodate these needs.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Use creativity and engineering principles towards the supervision of installation, maintenance, and upgrade of data acquisition and telemetry systems, including component and sensor selection
+Procure, install, maintain, and upgrade test instrumentation and telemetry systems based on a set of given and derived requirements
+Work directly with project technical teams to collect and understand the project design requirements
+Provide solutions to manufacturing, assembly, and installation issues for data acquisition and telemetry systems
+Create and maintain test article instrumentation parameter lists for one or more projects
+Solve problematic instrumentation and telemetry components, then develop and complete repairs
+Build, maintain, and report instrumentation squawk lists for problematic parameters that cannot be fixed between tests
+Represent the TE group in pre- and post-test briefings, reporting to the rest of the team on instrumentation and telemetry statusreadiness
+May require up to 30 of domestic and international travel
+Other duties as assigned.
+
+What you can contribute:
+
+Bachelors degree in engineering or a related field required
+A minimum of three (3) years experience as a Test Engineer (an equivalent combination of education and experience may be considered)
+Knowledge of airborne data acquisition systems, e.g. Teletronics (TTC)
+Knowledge of various types of transducers, signal conditioning, and data encoders
+Knowledge of telemetry systems, e.g. Quasonix
+Knowledge of flight test digital data recorders, e.g. Safran (formerly ZodiacHeim)
+Knowledge of data processing and storage methods and systems
+Knowledge of test methods and lab procedures
+Knowledge of Mil Standards, Digital Busses architecture (ARINC, 1553)
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+Proficiency with Excel VLOOKUP, pivot tables, MS Office Suite, MS Project
+
+You may also be able to contribute:
+
+Experience using relational databases with some programming skills, SQL, VB, C, and .NET preferred
+Hands-on experience in the fabrication and implementation of data acquisition and telemetry systems preferred
+
+ 
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+ 
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:133,120—186,160 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

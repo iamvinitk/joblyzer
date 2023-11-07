@@ -1,0 +1,38 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.The macOSiOS Software Engineer Opportunity
+We seek a passionate, experienced software development engineer to join our Mac team focused on Device Security  Risk. The ideal candidate should have solid experience in macOS (or iOS) software development and be enthusiastic about writing macOS client software. The role gives the candidate a great opportunity to learn about interesting problems in security and identity space. It also has a lot of visibility within Okta and has great growth potential. This opportunity is for someone who enjoys a challenge and first of its kind innovation. 
+Join our team! Were building innovative identity and security products from the ground up.
+What youll be doing 
+
+Design and develop applications and services on macOS devices
+Building UI component on macOS client
+Implement unitfunctional tests
+Review software design and peers code
+Interface with QA, Product Management, Technical Support, Documentation and UX
+AnalyzeRefine Requirements with Product Management and Engineering for prototyping Mac client components
+Create and review technical designs and proposals
+
+What youll bring to the role
+
+Strong development and debugging skills on macOS (or iOS)
+Minimum 4 years of software development experience building software on macOS or iOS platforms.
+Hands-on experience in writing Swift, Objective-C code, and UX development (AppkitSwiftUI) 
+Experience working in an agile software development team leveraging continuous integration and deployment practices
+Bachelors degree in Computer Science or equivalent experience
+
+And extra credit if you have experience in any of the following! 
+
+Experience with CICD environment, bug reporting tools, and crash reporting systems for Mac (or iOS) applications is desirable
+Experience with Mac internals, Understanding of Apple system extensions, keychain, and app permission models
+Understanding of Identity and Access Management protocols and architecture (FIDO, U2F, WebAuth, SSO, SAML, OAuth, Federation, etc.)
+
+LI-Remote
+BB1What you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

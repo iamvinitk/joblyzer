@@ -1,0 +1,36 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Unity is seeking a dedicated and motivated Integration Engineer to join our Enterprise Tech team. As an Integration Engineer, you will play a crucial role in ensuring seamless interoperability between our software applications, systems, and third-party services. Collaborate closely with cross-functional teams including software developers, quality assurance, and project managers to design, implement, and optimize integration solutions.
+The Lead Integration Engineer will design, develope, and managing integration solutions that enable flawless communication and data exchange between various systems and applications in Finance, People, Legal and GTM Teams. Direct a team of integration engineers, collaborate with multi-functional teams, and contribute to the overall success of our projects!
+Relocation support is not available for this position.
+Work visaimmigration sponsorship is not available for this position.
+What youll be doing 
+
+Develop and implement integration strategies to meet the business objectives and ensure efficient data flow between systems.
+Lead, mentor, and manage a team of integration engineers, encouraging collaboration and innovation to ensure the quality and reliability of integration solutions through testing and validation processes. Collaborate with partners to understand requirements and design robust integration solutions, taking into account scalability, security, and performance.
+Hands-on involvement in developing and configuring integration solutions using industry-standard tools and technologies. Diagnose and resolve complex integration issues and provide technical support to the team. Ensure that integration solutions adhere to security and compliance standards, including data privacy regulations.
+Stay updated with industry trends and emerging technologies to find opportunities for improvement in integration processes and tools.
+Participate in code reviews and provide constructive feedback to ensure integration best practices and coding standards are upheld.
+
+What were looking for 
+
+Degree in Computer Science, Software Engineering, or related field (Masters degree preferred).
+Strong proficiency in integration tools and technologies (e.g., API, ETL, middleware, Node.js, Java or Python etc.
+Worked with integration tools (e.g., Workato, MuleSoft, Workday EIB  Studio) and showcased strong troubleshooting skills.
+Knowledge of CICD pipelines a plus; cloud (GCP, AWS, Azure) and containerization (Docker, Kubernetes) experience desirable.
+Effective communication and interpersonal skills. Project management experience is a plus. Relevant certifications (e.g., Workato, MuleSoft, Dell Boomi, GCP or AWS) are advantageous.
+
+You might also have
+
+Experience in integrations with Workday (ERP, HRIS, Adaptive, Payroll), Salesforce and Zuora.
+Zeal to learn new integration and automation technologies.
+
+ 
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, disability, gender, or any other protected status in accordance with applicable law. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-DL1 SEN

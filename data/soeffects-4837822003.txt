@@ -1,0 +1,63 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Advanced Projects team is a cross-functional, multidisciplinary group that handles requirements-driven hardware development projects. We are focused on engineering design, developing custom electronics to fulfill our clients needs, and identifying the best components and techniques to implement the desired functionality, while emphasizing quality and reliability. Our projects tend to be larger, longer-term engagements, though team members often split time across multiple projects.
+We are looking for people who know how to get things done, who are always looking to grow their capabilities and deepen their knowledge, and who challenge assumptions, constantly pushing for better solutions and finding novel approaches to problems old and new. If that sounds like you, youve come to the right place.
+Job Overview:
+As a Senior Embedded Systems Engineer at SOE, you will be responsible for teaching, training, and developing infrastructure to help execute and improve embedded development across multiple projects. You will also engage with other SOE engineers and carry out multidisciplinary projects involving hands-on work with FPGAs and embedded systems. Much of the project work will be oriented around early-stage RD but will span a range of projects in multiple industries.
+What You Will Do:
+
+Owning the development and teaching of technical resources involving embedded systems with new and experienced engineers
+Networking internally to serve as a source of knowledge for embedded systems design, and externally with clients and other industry experts for embedded systems projects
+Assisting with design and code reviews on projects across SOE, with contributions to engineering projects when necessary
+Developing and documenting engineering approaches to embedded and FPGA development projects
+Driving research projects that involve embedded systems  FPGAs
+Assisting with other SOE engineering projects as needed
+Interfacing with clients and communicating with customers
+
+What You Will Need:
+
+Bachelors Degree (Electrical Engineering, Computer Science, Physics, Math, or related field)
+4 years of experience with embedded systems development and hands-on work with MCUs, FPGAs, andor embedded Linux systems
+2 years of engineering leadership or formal teaching experience with an engineering team
+
+What Would Be Useful:
+
+Masters degree (Electrical Engineering, Computer Science, Physics, Math, related field) or graduate research experience
+Experience training an engineering team or leading a team-based design and build project (e.g., FIRST Robotics, Formula SAE, Solar Car, CubeSat, etc.)
+Strong understanding of embedded firmware and software principles and ability to contribute to design reviews
+Experience with hardware-level software development, including use of timers, interrupts, hardware peripherals such as SPI controllers and ADCs, bootloaders and debug tools
+Proficiency with debugging, performance optimization and unit testing
+Experience creating digital ASICFPGA architectural design documentation (micro-architecture documents with timing diagrams, detailed design blocks, etc.)
+Strong understanding of operating system fundamentals, including schedulers, network stack, file system, memory management
+Deep experience writing for real-time systems (RTOS) or embedded Linux kernel code
+Experience managing engineering projects and interfacing with technical customers
+Proficiency with Git and SVN for revision control
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 145,000-185,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

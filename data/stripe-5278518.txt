@@ -1,0 +1,34 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe Terminal helps our users extend their online presence to the physical world. The Terminal teams mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model—whether its creating a superb retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.
+What youll do
+As the Device Integration Product Manager youll join the team responsible for delivering surprisingly great integration experiences that just work. We lower barriers to Terminal adoption while reducing integration friction. We do this by providing SDKs, APIs, and applications that allow users to build customizable points of sale that work seamlessly with Stripes unified commerce platform. You will obsess about building the tools and experiences that deliver the best developer integration experience in the industry and you will deeply understand the needs of the developers who integrate with Terminal. 
+Responsibilities
+
+ Drive the vision and execution for Stripe Terminals integration experience and developer-facing interfaces. This includes but is not limited to our JS, iOS and Android SDKs, React Native and Server Driven integrations
+Work closely with developers to understand integration friction with Stripe Terminals offering and collaborate with your engineering counterparts to close those integration gaps. You and your team will ship functionality that delights users while balancing impact vs. engineering cost
+Be the champion for a cohesive, end-to-end experience for developers and business decision makers as they consider Stripe Terminal for their in-person commerce needs. This includes driving awareness of and advocacy for our offering while coordinating with product marketing, developer advocates, data science, user research, design, and technical support teams
+Deeply understand the technology that underpins our developer experiences and collaborate closely with your engineering partners to support the long term technology strategy for our integration products. 
+Elevate and constantly improve the interoperability between Stripe Terminal and the rest of Stripes product portfolio. We deliver value by reducing our users cognitive burden and enabling them to get the most value from Stripes overall ecosystem.
+Measure success and set the pace for innovation. Not only will you reduce time to integrate for all developers, but youll ensure they can deploy at scale and that our offering works for startups, platforms and enterprises
+Track the development of industry and regulatory changes that might necessitate changes in our users integrations, and lead our efforts to help our users through that change 
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+5 years of relevant product management experience with a track record of delivering excellent user experiences
+Experience working on products with developer interfaces (APIs, SDKs)
+Strong written and verbal communication skills
+Hands-on, meaning you only ship functionality after youve personally tested it and considered documentation through integration experiences holistically
+Experience interacting directly with customers for feedback
+
+Preferred qualifications
+
+Computer Science background or equivalent technical experience
+Development experience (inclusive of mobile) and deep familiarity with SDKs APIs and tools and processes development teams use to develop, build, test and launch integrations
+Experienced in payments, inclusive of in-person commerce as well as e-commerce
+Worked with software and hardware products
+Experience using multiple platforms to interact with customers, including leveraging social media

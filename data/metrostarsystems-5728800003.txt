@@ -1,0 +1,38 @@
+As a Platform Engineer, youll play a critical role in architecting, deploying, and managing our customers core platform, ensuring its availability, performance, and security, with the goal of making an impact across the federal government.
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Collaborate with cross-functional teams to design and implement a resilient and scalable platform architecture.
+Lead the planning, development, and deployment of platform components, services, and applications.
+Evaluate and select appropriate technologies, tools, and frameworks to optimize platform performance, security, and cost-effectiveness.
+Implement and maintain CICD pipelines to automate deployment processes, enabling rapid and reliable software delivery.
+Monitor platform performance, identify bottlenecks, and proactively optimize systems for maximum efficiency.
+Manage cloud-based infrastructure and orchestration tools to ensure high availability and fault tolerance.
+Drive security best practices throughout the platform, implementing measures to safeguard data, applications, and services.
+Troubleshoot complex issues across the platform stack and provide effective resolutions to minimize downtime.
+
+What youll need to succeed: 
+
+A bachelors degree in Computer Science, Engineering, or a related field; advanced degree preferred.
+A minimum of 8 years of professional experience as a Platform Engineer or in a similar role.
+Extensive expertise in designing and implementing highly available, scalable, and secure platform architectures.
+Proficiency in AWS (Azure a plus), with a deep understanding of cloud services and networking.
+Strong hands-on experience with containerization and orchestration technologies like Docker, Kubernetes; specifically experience with Elastic Kubernetes Service (EKS) and Azure Kubernetes Service (AKS).
+Experience building andor deploying a data protection-as-a-service (DPAAS) solution.
+In-depth knowledge of infrastructure-as-code (IaC) tools such as Terraform, CloudFormation, or Ansible.
+Demonstrated experience in building and managing CICD pipelines using tools like Artifactory, GitHub, Jenkins, SonarQube.
+Solid scripting and programming skills in languages like Python, Go, Ruby, or similar.
+Familiarity with monitoring and logging tools like Prometheus, Grafana, ELK stack, etc.
+Excellent problem-solving skills with the ability to analyze and troubleshoot complex system issues.
+Experience working on an Agile development team and relevant certifications such as AWS Certified DevOps Engineer, Certified Kubernetes Administrator, or equivalent are a plus.
+Ability to obtain privileged user access and an active TSSCI clearance with CI Poly.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

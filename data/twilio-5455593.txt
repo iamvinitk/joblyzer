@@ -1,0 +1,63 @@
+See yourself at Twilio
+Join the team as Twilios next Quote to Cash Product Manager on the Go To Market Business Applications team. 
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+Although were headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. Were on a journey to becoming a global company that actively opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business.
+About the job
+This position is needed to build world-class tools and solutions for our rapidly growing Go-To-Market teams.
+The GTM Business Applications team is crucial for the success and scalability of our Go-to-Market efforts. We are the drivers of the system, process, and data improvements that unlock new possibilities across the Sales, Marketing, and Strategy organizations. The Product Manager, Quote to Cash will work with our global stakeholders, leadership and solution architects to set and coordinate a roadmap that operationalizes the highly-visible, cross-functional goals of the GTM organization. This includes identifying and building efficiencies in the deal cycle, ensuring accurate and compliant agreements, and optimizing our quoting (CPQ) and agreement (CLM) toolset. The ideal candidate enjoys solving complex, high-stakes problems, is naturally curious and always looking for ways to standardize and simplify while being inclusive of cultural or international differences.
+Responsibilities
+In this role, youll:
+
+Vision  strategy: Use a deep understanding of your stakeholders and corporate landscape (business goals, big problems to solve, current state) to create and maintain your product strategy. 
+Define a roadmap: Create and deliver a rolling 1 year roadmap of Quote-to-Cash initiatives and features that solve for business and user needs. You will balance the long term needs of QTC platforms with evolving business needs.
+Collaboration: Are a trusted and strong leader with a point of view to objectively drive decisions while maintaining healthy relationships. You solve problems before they result in delays or confusion. You are the voice of your customers and advocate for solutions that solve their needs
+Communication: Promote your product and upcoming features so that your key stakeholders are up-to-date and excited for improvements
+Technicals: Have a deep familiarity of the platform(s), applications, data model and analytic tools. Run reports to make data driven decisions and measure successadoption.
+Organization  Execution: Ensure initiatives are delivered holistically and on-time. Partner with product owners, solution architects, and technical leads to ensure delivery of impactful solutions
+Delivering: Enjoy getting MVPs out the door knowing that great user experience and lovable products take ongoing investment, refinement and polish.
+Measure: Own the key success metrics within Quote-to-Cash and build a roadmap of projects to improve
+
+ 
+Qualifications 
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+ 
+Required:
+
+3-5 years of experience in a Product role within a technology company
+3 years experience managing roadmap and processes for Quote-to-Cash function, specifically CPQ and CLM within Salesforce
+Ability to define a product vision that excites users and stakeholders
+Experience translating business requirements to technical teams
+Experience working with technical teams using Agile methodologies
+Ability to partner with cross-functional stakeholders with varying levels of technical acumen
+Knowledge of end-to-end process areas within quote to cash with emphasis on quoting, productspricing configuration, and agreements
+Strong presentation, communication, and writing skills. You can communicate sophisticated concepts, clearly and concisely
+Experience with Salesforce.com
+
+Desired:
+
+Experience defining roadmaps  features within Conga CPQ and CLM
+Experience working with a global, GTM team, either in sales, marketing or operations
+Experience partnering with third-party tool vendors and collaborating on feature implementation
+Salesforce Administrator certification
+
+Location
+This role is remote and is not eligible for hire in San Francisco, Oakland or San Jose, CA, Connecticut, New Jersey, New York, Washington, Pennsylvania or the surrounding areas.
+ 
+Please note this role is open to candidates outside of Colorado. The information below is provided for candidates hired in those locations only.
+The estimated pay ranges for this role are as follows:
+
+Based in Colorado: 120,160.00- 150,200.00
+This role may be eligible to participate in Twilios equity plan. All roles are eligible for the following benefits: health care insurance, 401(k) retirement account, paid sick time, paid personal time off, paid parental leave.
+
+The successful candidates starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location within the state. 
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

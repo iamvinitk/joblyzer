@@ -1,0 +1,33 @@
+ 
+
+About Gusto
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. Thats why were committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. Gusto is looking for a Senior to Staff Machine Learning Engineer to join our MLAI Platform and build out our Generative AI infrastructure.
+About The Role
+Were just starting out on this journey with Generative AI and looking to build the founding MLAI team that will bring the power of AI to Gustos customers. Youll be working alongside a multidisciplinary group of Product Engineers, PMs, and Applied ML data scientists. In this role, youll be responsible for making design decisions around our AI infrastructure, building standard model development and deployment workflows,  and design systems that enable rapid iteration with LLMs.
+Heres what youll do day-to-day:
+
+Develop, maintain, and enhance reusable frameworks for MLAI model development and deployment. Drive best practices in machine learning engineering and MLOps
+Establish standards and infrastructure for on-going monitoring and evaluation of AI applications in production
+Develop and maintain systems that enable rapid iteration and evaluation of LLM prompts and other tuning mechanisms
+Design and build reliable, performant, maintainable and secure pipelines that can scale to the needs of our business while reducing costs
+Collaborate with the AI model builders and application owners to determine business requirements and SLAs for API-enabled services
+Help design and architect an AI platform that adheres to the principles of Responsible AI
+Balance researching new technologies with a practical approach to operationalizing research efforts into Gusto products
+Maintain relationships with external data and analytics vendors
+
+Heres what were looking for:
+
+At least 4 years of software engineering experience (Python, Ruby or Java).
+Demonstrated experience architecting and developing services for machine learning models.
+Experience with at least one of the major cloud platforms (AWS preferred but not required).
+Experience with MLOps tooling such as KubeFlow, AWS Sagemaker, MLFlow, or similar.
+[Bonus] Experience deploying and maintaining LLM-based applications in production.
+
+Our cash compensation amount for this role is targeted at 152,000-214,000year in Denver, Chicago, and Atlanta, 166,000-234,000year in Los Angeles and Seattle, and 185,000-253,000year for San Francisco and New York.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gustos subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas. 
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. 
+Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodationsgusto.com.

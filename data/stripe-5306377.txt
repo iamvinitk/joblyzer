@@ -1,0 +1,34 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Go-to-Market (GTM) Finance  Strategy (FS) brings understanding and predictability to Stripes top line financials. We work closely with our GTM business partners (Sales, Marketing, Sales Ops, etc) to discover trends in the business and improve Stripe for the long haul.
+What youll do
+This role is on the Marketing  Self-Serve GTM FS team. We partner with the Marketing, Sales Development (SD), and Self-Serve (Growth) Orgs by providing finance support to questions like what is our ROI, why did we beat our target in America, or how should Stripe think about investing in EMEA.
+Responsibilities
+
+Work closely with Sales and Marketing leadership to drive the success of Stripes GTM motions
+Create frameworks to assess, influence current and future business performance
+Build and own financial forecast models, set targets, and understand deviations in performance of actuals to drive strategy and operational rigor
+Develop recommendations on resource allocations and investmentROI frameworks
+Define metrics and leading indicators of business performance
+Partner with Data Science teams to develop reporting dashboards
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+4 years of work experience within investment banking, consulting, private equity, venture capital, or other business insights  analytics roles
+2 years experience with SQL (intermediateadvanced skills are a must)
+2 years experience working with large and complex datasets
+Deep analytical rigor, focused on bringing clarity through business insights. Ability to find never-before-seen trends hidden in millions of data points
+A self-starter capable of driving business results without significant supervision. You must be able to partner with cross-functional teams to unblock things
+Strong written and verbal communication skills (interacting with Stripe C-Suite)
+You have business proficiency in written and spoken English
+
+Preferred qualifications
+
+2 years working with Sales, Marketing, or Self-Serve teams, preferably in the Technology industry
+Experience working closely with Technical teams (Data Science, Data Engineering, Business Intelligence, etc) to define requirements for datasetsdashboards
+1 year Tableau (or other) data visualization experience
+Experience working in a global capacity (this team covers all regions)

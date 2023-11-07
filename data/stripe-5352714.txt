@@ -1,0 +1,28 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+As Stripe continues to develop innovative products that serve businesses of all sizes worldwide, the complexity and scale of risk will increase. By joining our Risk Partnerships team, you will have a critical role in ensuring the financial and partnership health of the company. You will enable Stripes growth and collaborate with both internal and external stakeholders to identify and address key risks.
+What youll do
+Stripe is seeking a Risk Partner Manager to help us scale for the future in a fast-paced environment that is growing rapidly. It is expected that the Risk Partner Manager will quickly become knowledgeable in Stripes risk policies, including fraud, credit, and brand risk, as well as staying up to date on emerging trends within the industry and competitors.
+Your responsibilities will include building strategic relationships with Risk counterparts within our EMEA payment method partners to support Stripes risk and commercial initiatives. It is equally important for you to develop trusting and collaborative relationships with internal stakeholders who will provide subject matter expertise and execute across multiple programs and initiatives. Your work will be highly visible to Risk leadership and be instrumental to driving our future growth. 
+Responsibilities
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+10 years of professional experience, including 3 years in payments risk management 
+An in-depth understanding of EMEA local payment methods 
+A strong sense of ownership, resilience, and drive to make an impact
+Experience in managing day-to-day risk across a variety of internal and external partners
+Strong stakeholder management skills, including navigating difficult situations, negotiating timelines, and influencing internal and external stakeholders across organizations and borders
+An analytical approach to decision-making; you understand how to partner with Data Science to build metrics and track progress across various monitoring programs
+Demonstrated projectprogram management skills and a proven track record of building and scaling programs from the ground up
+Excellent collaboration, communication, and relationship building skills. You must be able to convey complex ideas succinctly to all audiences
+Effective program management skills and a proven track record of building and scaling programs from the ground up. You are highly organized and unafraid to challenge and motivate teams and yourself
+
+Preferred requirements
+
+You have an in-depth understanding of product and payment platforms
+You have experience in managing or interacting with financial partners, ideally local payment method partners
+You are familiar with using SQL to extract and analyse data

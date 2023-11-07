@@ -1,0 +1,40 @@
+
+Are you passionate about data and its business value? Are you enthusiastic to take on the challenge to make data speak the language of the business? Would you like to make a difference by enhancing data management capabilities of an innovative bank?
+We are looking for a Business Data Modeler with business domain knowledge and experience in business analysis, conceptual, logical data modeling and a passion for driving customer-centric data initiatives in the banking industry. Data modeling is a critical data management capability that helps ensure that our data is well-designed, unambiguous and effective in representing and supporting our business needs.
+Knab was founded in 2012 because we wanted to do things differently. Simpler, smarter and more advantageous for our customers. Because we believe we can help everyone maximize their financial affairs. Feel at ease when it comes to your finances. Every day. By combining smart technical solutions with a healthy dose of human intelligence, we create financial services that really meet your needs. Add to that some of the sublime personal service from our employees and you end up with something thats truly unique to the world of finance!
+ 
+In a Nutshell 
+Your main responsibilities:
+
+Data Modelling: perform Business Data Modelling (create business-oriented views of data) by designing and maintaining conceptual and logical data models for different logical data domains, and further developing and implementing modelling principles and guidelines.
+Requirements Gathering: conduct and lead discussions with subject matter experts, Data Stewards, data models users and other stakeholders to understand and challenge the scope- and the content of the requirements. Translate these requirements into comprehensive data models that accurately represent the banks business.
+Data Governance: implement data governance policies and standards to ensure data quality, consistency, and compliance with regulatory requirements. (i.e identification of critical data elements)
+
+ 
+The Team 
+The Expert Center Data and Analytics department consists of 30 data professionals with a big heart for the business value of Data, covering the following domains Data science and Business Intelligence, Data engineering, Data warehousing, Data architecture and modeling, Data governance and Data quality management. The department works with all functions of Knab and is Knabs Center of Excellence for all things data. This function is part of the Enterprise Data Office team.
+The Expert Center Data and Analytics plays a key role in managing Knab data as a strategic business asset and achieving a consistent and uniform view of information based on quality data.
+You will report to the Manager of Enterprise Data Office team while working closely with multiple stakeholders from various teams across Knab to help us achieve our common objectives.
+ 
+Your Profile
+
+BachelorsMasters degree in a relevant field (i.e. Information science, Finance, Economics, Business Administration, Mathematics). Relevant certifications (i.e data modeling techniques) would be a plus.
+Advanced business analysis skills
+Experience: minimum of 3 years of experience in data modelling, with a specific focus on data within the banking or financial services industry. Proven track record of successfully delivering conceptual and logical data models aligned with business requirements.
+Data Modelling Skills: proficiency in Conceptual and Logical data modeling techniques. Strong understanding of business entities, relationships, and properties of financial products in the banking context.
+Familiarity with data governance practices, data quality management, and regulatory requirements related to data management in the banking industry.
+Analytical Skills: Excellent analytical and problem-solving skills with a keen attention to detail. Ability to analyse complex business requirements and translate them into effective data models.
+Collaboration and Communication: Strong collaboration and interpersonal skills. Ability to effectively communicate with stakeholders, including business teams and technical specialists, to ensure alignment and understanding of data models.
+Adaptability: Ability to work in a fast-paced and dynamic environment, managing multiple priorities and deadlines effectively.
+Can bring across a message clearly and concisely
+Able to work under pressure in a focused and precise manner
+Knowledge of regulatory requirements related to data management is an advantage
+Experience in Banking is a prerequisite
+
+
+ 
+Come work with us:
+Should you feel you do not tick all boxes of the below profile, yet you are enthusiastic about the role, dont hesitate to contact us and lets have a conversation. We are open to discussing with you to ensure you can excel based on your skills in your new role.Diversity statement:
+Come as you are. Knab is an open workplace with positive vibes. We are inclusive of all nationalities, races, and genders. We feel comfortable bringing our authentic whole selves to work and like you to do so too.
+ 
+We dont collaborate with third parties to fulfill this role.

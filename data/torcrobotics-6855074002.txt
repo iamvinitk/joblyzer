@@ -1,0 +1,36 @@
+About the Company
+At Torc, we have always believed that autonomous vehicle technology will transform how we travel, move freight, and do business.
+A leader in autonomous driving since 2007, Torc has spent over a decade commercializing our solutions with experienced partners. Now a part of the Daimler family, we are focused solely on developing software for automated trucks to transform how the world moves freight.
+Join us and catapult your career with the company that helped pioneer autonomous technology, and the first AV software company with the vision to partner directly with a truck manufacturer.Meet the Team:
+The Behavior Simulation team is a highly motivated team which focuses on scenario-based testing in simulation. We want to ensure that the L4 autonomous system is tested in all possible traffic situations to ensure safe behavior. For this, we develop parameterized simulation scenarios to automatically generate thousands of different traffic situations. In addition to the scenario development, we develop the evaluation pipeline to assess the driver performance based on the scaled results to support the development teams.
+What youll do: 
+We are seeking a talented and driven Intern to join our team in Stuttgart and support the development of testing methods and software tools for autonomous vehicles. In this role, you will have the opportunity to gain hands-on experience in the cutting-edge field of autonomous vehicles and contribute to the development and testing of this technology.
+Responsibilities:
+
+Work with the testing and development team to create realistic virtual driving scenarios for testing autonomous vehicles in our simulated test environment
+Collaborate with team members to identify critical driving situations and edge cases, and develop virtual scenarios to test for them
+Analyze large datasets to evaluate autonomous driving decisions and assess the plausibility of the virtual driving scenarios
+Validate the scenarios based on data analysis of drive data
+Assist in the development of new testing techniques and methodologies, including simulation and modeling techniques
+
+What youll need to succeed:
+
+Pursuing a degree in Computer Science, Electrical Engineering, or a related field
+Strong attention to detail and problem-solving skills
+Ability to work effectively in a team environment
+Familiarity with autonomous vehicle technology and testing methodologies, including simulation and modeling, is a plus
+Strong programming skills, ideally in Python 
+
+Bonus Points! 
+
+Experience in other programming languages such as C
+Experience with data analysis is a plus
+
+
+Additional Information:
+
+Required 40 hour work week.
+Required valid work permit.
+
+At Torc, were committed to building a diverse and inclusive workplace. We celebrate the uniqueness of our Torcrs and do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, veteran status, or disabilities.
+Even if you dont meet 100 of the qualifications listed for this opportunity, we encourage you to apply. Were always looking for those that are hungry, humble, and people smart and your unique experience may be a great fit for this role or others.

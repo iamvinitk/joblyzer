@@ -1,0 +1,54 @@
+Our ambition is to set a standard of excellence in the industry in technical documentation and documentation practice. This is your chance to be a part of that as a Senior Technical Author.
+The role of a Senior Technical Author
+Youll be part of an engineering team, focused on a specific Canonical product area. You will lead the team effort to create, maintain and improve documentation that serves the needs of the products users, embracing the principles of the Ditaxis documentation framework. You will have a broad impact on - and responsibility for - the quality of the user experience with the product, and will contribute towards the long-term success of the project itself.
+As a Senior Technical Author on the team, you will participate in development of product strategy. You will combine technical expertise with leadership in documentation, collaborating with colleagues across the company to establish documentation as a first-class engineering discipline.
+You also be a part of Canonicals documentation practice team, that includes all the companys Technical Authors. Here, youll be amongst other documentation experts, who collaborate to define documentation excellence.
+Location: This is a fully remote role, open to candidates across the globe. 
+What youll do on a regular basis
+
+Create, maintain and improve software documentation
+Work with engineering team members, to help them make effective documentation contributions
+Influence the development of the product, as an expert user of the product, who has important opinions about its function and design
+Engage with user communities to ensure that our documentation meets their needs 
+Encourage and support community engagement in and contribution to documentation
+Help standardise the structure, presentation, style and language of content across products
+Collaborate with documentation peers to advance the state of the art in documentation at Canonical
+Challenge and advance documentation understanding and best-practice, as part of a disciplinary team 
+
+Our best candidate
+
+Cares deeply about functional written communication
+Is a technical writer with a programmers mindset, or a programmer with a record of producing excellent documentation
+Has a record of community engagement, in open-source software, documentation, research or other disciplines
+Is sympathetic to the needs and challenges of open-source software and its communities
+Demonstrates technical curiosity, and is fascinated by software technology and its challenges
+Has demonstrable documentation skills, insight and enthusiasm
+Has experience of software development contexts; is familiar with: Linux, working on the command line, application deployment, system operations, and infrastructure management, Git, documentation markup languages Has excellent written and verbal communication skills
+Holds a BScBA degree or equivalent
+Is able to travel twice a year for up to two weeks for events
+
+Additional skills that you might also bring
+
+Deep technical domain knowledge
+Open-source community leadership and management
+User-experience, interaction or visual design
+
+What we offer you
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering software technology firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote

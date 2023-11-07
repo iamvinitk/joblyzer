@@ -1,0 +1,41 @@
+TBS - Data Engineering
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+Here at Lyft, Data is the only way we make decisions. It is the core of our business, helping us create a transportation experience for our customers and providing insights into the effectiveness of our product launch  features.
+This team focuses on supporting our business by building the data transport, collection, and storage that powers our Transit, Bikes, and Scooters business. We are looking for a Data Engineer to build scalable solutions, leveraging their data expertise and our technology stack to provide timely, accurate data for our internal and external customers. You will have the opportunity to be a member of a new, growing part of our micro mobility platform. This role will involve collaborating with product managers, external stakeholders, GMs, engineers, and data scientists to gather and translate requirements into solutions, ensuring that data-driven decisions are at the core of our business.
+This role reports to the Engineering Manager
+Responsibilities:
+
+Owner of core company data pipelines, responsible for scaling up data processing flow to meet the rapid data growth at Lyft
+Evolve data model and data schema based on business and engineering needs
+Implement systems tracking data quality and consistency
+Develop tools supporting self-service data pipeline management (ETL)
+SQL and MapReduce job tuning to improve data processing performance
+Write well-crafted, well-tested, readable, maintainable code
+Participate in code reviews to ensure code quality and distribute knowledge
+Unblock, support and communicate with internal  external partners to achieve results
+
+Experience:
+
+5 years of relevant professional experience
+Experience with Hadoop (or similar) Ecosystem (MapReduce, Yarn, HDFS, Hive, Spark, Presto, Pig, HBase, Parquet)
+Proficient in at least one of the SQL languages (MySQL, PostgreSQL, SqlServer, Oracle)
+Good understanding of SQL Engine and able to conduct advanced performance tuning
+Strong skills in scripting language (Python, Ruby, Bash)
+2 years of experience with workflow management tools (Airflow, Oozie, Azkaban, UC4)
+Comfortable working directly with data analytics to bridge Lyfts business goals with data engineering
+
+Benefits:
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+In addition to provincial observed holidays, team members get 15 days paid time off, with an additional day for each year of service
+4 Floating Holidays each calendar year prorated based off of date of hire
+10 paid sick days per year regardless of province
+Family building benefits
+Access to a Health Care Savings Account
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Pre-tax commuter benefits
+
+Lyft proudly pursues and hires a diverse workforce. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy.  Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process.  Please contact your recruiter now if you wish to make such a request.
+Starting in September 2023, this role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.
+ 

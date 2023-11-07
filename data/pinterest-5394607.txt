@@ -1,0 +1,33 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. We are seeking a highly skilled and experienced Data Science and Engineering Manager to lead our Infra Data Science and Engineering (IDSE) team. This teams goal is to provide predictable, trustworthy infrastructure usage and cost data, which serves as the backbone for infra spend governance controls and enables Pinterest to achieve its margin expansion goals. The team also delivers visualizations, tooling, and actionable insights that empower engineering teams to achieve their infra budgets in a scalable manner.
+As the Manager for this team, you will oversee a group of data scientists and data engineers, and will collaborate closely with partners in Engineering, Finance and other Data Science teams across the company. 
+ 
+What youll do:
+
+Evolve teams vision and strategy in close partnership with the customers and partners.
+Mentor and grow a team of talented data scientists and data engineers by providing continuous and candid feedback and recognizing individual strengths and contributions.
+Guide the team in designing, building, and maintaining data infrastructure for infra spend governance.
+Develop predictive models and algorithms to forecast infrastructure costs based on historical data, technological trends, and business objectives. Ensure models are continually updated and refined.
+Utilize statistical analysis techniques and data visualization to generate actionable insights and reports on infrastructure costs, trends, resource usage, and cost-saving initiatives.
+Build processes and solutions to improve the quality, rigor and agility of analyses.
+Build a roster of high-impact analytical opportunities and engage with your team to deliver high-quality analyses to steer and drive action.
+
+What were looking for:
+
+10 years of industry experience with proven ability to apply scientific methods to solve real-world problems on web-scale data.
+3 years experience managing, mentoring and up-leveling other data scientists. 
+Infrastructure experience and working knowledge of a major public cloud environment (e.g., AWS) or large private cloud preferred. 
+Demonstrated execution and impact on cross-functional initiatives, strong communication skills, and a track record of influencing leaders and peers using data.
+Expertise in statistical methods and at least one scripting language (ideally Python).
+Proficiency in SQL and big data and tooling, such as SparkSQL, Hive and Presto.
+Strong business and product sense who can shape vague questions into well-defined analyses and success metrics that drive business decisions.
+
+ 
+This position is not eligible for relocation assistance.
+ 
+LI-JT6
+LI-HYBRIDAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only148,049—304,496 USDOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

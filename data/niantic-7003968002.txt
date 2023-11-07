@@ -1,0 +1,38 @@
+Niantics Quality Engineering Team is seeking a Software Development Engineer in Test (SDET) to implement test automation and lead testing efforts for Niantics Augmented Reality (AR) platform. Niantic Engineering leads the advancement of AR and other immersive technologies while creating engaging apps for a user base in the billions. Responsibilities include executing end-to-end test plans (both automated and manual), ensuring that all objectives are met, and implementing test automation solutions. You will be responsible for working closely with other Quality Engineering (QE) team members, our QE manager, TPMs, Developers, and our production team to deliver high-quality experiences to our customers and best-in-class technology solutions for our platform test automation.
+Responsibilities
+
+Design, build, and extend automated tests for the Niantic AR platform.
+Leverage automation frameworks to build end to end test automation and other testing tools which enable fast creation of web, mobile application and API level automated tests.
+Collaborate with other SDETs, QEs, developers, product managers, and other departments to ensure code and automated systems meet internal standards.
+Build and manage testing estimates, schedules, timelines, bug analyticsmetrics, mitigation plans, and lead vendor testers.
+Drive the development and execution of test specs, test cases, and suites for new features.
+Participate in the review of QE and Engineering procedures and provide recommendations for improvement.
+Collaborate with cross-functional team members and stakeholders to cultivate strong working relationships with project team members, including regular and reliable attendance and participation in meetings.
+Required in-office 2 days on Tuesday and Wednesday.
+
+Qualifications
+
+BS degree in Computer Science or related engineering fields, with a minimum of three years automation development experience.
+Proven understanding of QE methodology, tools and prior experience in testing Augmented Reality features.
+Showed strength and experience with C, Java or Python.
+Experience with build systems such as GitLab, Gradle and CICD pipelines.
+Strong experience building efficient and scalable APILibrariesServices.
+Experience using mobile, web UI, or API test automation frameworks (Appium, Cypress, Playwright, Selenium, and other automation tools) to write end to end scenario based automated tests.
+Ability to think about long-term impact and identify risks.
+Experience working with highly-scalable systems.                
+Ability to work in a fast-paced hybrid environment and handle stress appropriately andor ability to solve practical problems and be sufficiently adaptable to handle dynamic situations with little advance notice. 
+Experience working on cross-functional teams with ability to communicate effectively through written and verbal communications, including synchronous interactions with others.
+
+Plus If...
+
+Working experience with Unity.
+Experience with end-to-end game development and quality assurance processes.
+Experience leading, building, and crafting test strategies for SDK, mobile apps and consumer-facing products.
+
+The total compensation package for this position includes a new hire offer base salary range of 162,000 - 189,000  bonus  equity  benefits.
+Individual pay within this salary range is determined by work location and additional factors, including assessed job-related skills, experience, and relevant education or training. Your recruiter can answer any questions about new hire total compensation during the hiring process. An overview of benefit offerings for your location can be found on the careers page.
+Join the Niantic team!
+Niantics global-scale augmented reality platform and digital map powers spatial computing experiences in the real world. Incubated out of the Maps team at Google, Niantic first created Ingress and then Pokmon GO, a cultural phenomenon and hit game played by tens of millions of people each month. Niantics Lightship platform, which powers Pokmon GO, also supports the companys other games including Pikmin Bloom, Peridot and Monster Hunter Now. Developers use Niantics platform to build their own AR applications and experiences, either with the Lightship Platform or directly through the web with 8th Wall.
+We believe that cultivating a workplace where our people are supported and included is essential to creating great products our community will love. Our mission emphasizes seeking and hiring diverse voices, including those who are traditionally underrepresented in the technology industry, and we consider this to be one of the most important values we hold close.
+Niantic is a hybrid first company. We believe that in person interaction and collaboration fosters creativity, a sense of community, and is critical to our future success as a company. Our hybrid work schedules allow for a mix of remote and in-office work.
+Were a hard-working, fun, and exciting group who value intellectual curiosity and a passion for problem-solving! We have growing offices located in San Francisco, Sunnyvale, Palo Alto, Bellevue, Kansas, London, Tokyo, Hamburg, Hyderabad, and Zurich. LI-HYBRID

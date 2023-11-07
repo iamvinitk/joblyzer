@@ -1,0 +1,49 @@
+Canonical Ubuntu is the worlds leading Linux for software engineers, desktops, cloud and IoT. We bring open source to the world as a safe and secure platform for personal computing, and the launchpad for innovators, entrepreneurs, and scientists.
+We work with the worlds most significant silicon companies - Intel, AMD, Nvidia, Mediatek, Hisilicon, Samsung and more - to optimise Ubuntu on their next-generation chips. We also work with OEMs and ODMs - Dell, HP, Lenovo, Advantech, ADLink and many more - to ensure that Ubuntu works perfectly on their hardware.
+We are proud to have an office in Taipei where we do a wide range of software engineering work, from cloud to desktop, server and IoT. We also offer remote work on roles that do not depend on direct access to confidential pre-production hardware.
+We invite you to join Canonical as an Ubuntu Enablement Engineer .In this role, you will use your knowledge of Linux and hardware to represent Canonical with leading OEMs, ODMs, and silicon partners to deliver the best user experience of Ubuntu on partner hardware for Robotics, Automotive, SmartNIC, Medical device, Industry gateway and many other products. Your work will improve Ubuntu for millions of users. 
+This fast-paced environment requires excellent time management, insightful debugging, critical thinking, problem-solving skills and deep knowledge of the Linux system.
+Key responsibilities
+
+Provide software and system engineering services for OEM and ODM customers;
+Work closely with partners on platform bring up
+Work with project managers and FieldQA engineers to identify, triage, and fix critical problems;
+Work with individual upstream projects to find and apply patches for bugs
+Conduct root cause analysis, collect and organize details to reproduce and explain results
+Facilitate communication between Ubuntu, firmware and hardware engineering teams
+Occasional international travel to the EU, USA, Taiwan and China
+
+Required skills and experience
+
+A Bachelor or higher degree in STEM, preferably Computer Science or Electrical Engineering
+English written and verbal communication skills
+Familiar with C, Python and Bash;
+Familiar with linux boot up process;
+Linux kernel, boot and system-level architecture skills;
+Experience of bootloader development, such as u-boot;
+Software development on Arm or non-X86 platforms;
+Linux debugging and resolution abilities
+Ability to be productive in a globally distributed team
+Ability to learn fast to work on cutting edge technologies
+Fluency in written and spoken Mandarin Chinese;
+
+Desirable skills and experience
+
+Experience with system firmware, including uboot, UEFI, ACPI, DSDT, boot loaders, device firmware.
+Experience debugging power management on PCI ASPM, SATA ALPM, low power profiles
+Experience in board design, bring up, and validation
+Experience with electrical engineering design tools (e.g. schematic capture, layout)
+Computer architecture knowledge of x86, ARM, RISC-V
+Familiarity with Ubuntu development model
+ShellPython scripting skills
+
+What Canonical offers:
+
+Personal learning and development budget 
+Annual compensation review
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform.Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.

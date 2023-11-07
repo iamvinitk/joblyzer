@@ -1,0 +1,39 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+As Stripes user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational leverage and expand Stripes portfolio of operational capabilities to support the scaled needs for external users and internal Stripe teams.
+What youll do
+Stripe is launching Stripe Delivery Centers - a new global team to design, implement and grow Stripes operations for the next decade. We are looking for dynamic and curious people that have a passion for solving global user issues, building operations, driving process improvements and that want to play a front-line role in building this new operational capability for Stripe and accelerating Stripes growth.
+In this role, you will recruit, manage, and develop a group of Operations Associates that are focused on risk mitigation. This team will investigate accounts to identify risks to Stripe business related to fraud and user policy requirements. The Fraud Prevention Manager will cultivate the engagement of their team members while guiding them to be the best they can be, through feedback, coaching, mentoring, and advocacy within the organization. This means helping to set team goals, and using metrics to efficiently measure and guide team performance in pursuit of those goals. To be a fit, you will have a strong operations mindset, possess a deep understanding of fraud prevention and controls, be able to move quickly, and be passionate about delivering an incredible user experience.
+Responsibilities
+
+Recruit, manage, coach, and develop a new team of in-office Risk Operations Associates 
+Guide your team to handle risk-related user escalations by reviewing individual Stripe accounts and transactions to identify a host of risky behaviors, including fraudulent activity, large credit exposure, and regulatory non-compliance.
+Drive strong operational delivery and process improvement helping to maintain risk detection strategies and business rules that balance risk and customer experience
+Build a great culture and ensure team members are happy, effective, and growing in their career
+Set clear goals and direction, and provide regular feedback on team members performance
+Be data-driven in your analysis of performance, and in your decision making
+Transmit and foster our values, serving as a beacon of Stripes user-centric philosophy and culture of transparency, empathy, inclusion, and empowerment
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+At least 5 years of direct people management experience 
+Experience with payments, risk, compliance, or the financial industry operations
+Excellent written and verbal communication skills in both English and Spanish
+An ability to partner effectively with internal globally distributed stakeholders
+Strong operational background including new process launches and service delivery
+Skill and credibility doing the core work of a user facing team with a high bar for quality, and a willingness to lead by example
+Passion for process improvement and innovation  
+
+Preferred qualifications 
+
+Knowledge of fraud schemes, fraud prevention methods, and fraud detection tools
+Knowledge of user policy, such as TOS (Terms of Service) and ESC (Extra Supportability Checks)
+Experience in payments, e-commerce, or fintech mitigating digitalcard-not-present fraud
+Experience in building and scaling new teams from zero
+Experience operating in a high growth technology company
+
+ 

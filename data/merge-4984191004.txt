@@ -1,0 +1,35 @@
+At Merge, we revolutionize the way B2B companies integrate. Unfamiliar with the integration problem? The average company expects to spend hundreds of hours a year integrating with dozens or more vendors. Alignment between sales, partnerships, product management, design, engineering, and customer success (a lot, right?) is absolutely critical — and a major headache. Integrations are a to-do that goes on and on.
+Our Unified API empowers developers to offer integrations with hundreds of platforms instantly. Now were hiring for you: an ambitious leader ready to help build, design, and support enterprise-grade software scaled to millions of users.
+Are you ready to be part of a team redefining how companies build for the future? Apply now!Merge is seeking a talented and proactive Infrastructure Engineer to join our Foundations team. As an Infrastructure Engineer at Merge, you will play a critical role in designing, implementing, and maintaining the infrastructure that supports our products and services. We are looking for an engineering with a strong background in infrastructure architecture, automation, and a commitment to reliability and scalability.
+Responsibilities
+
+Collaborate with cross-functional teams to understand infrastructure requirements and translate them into scalable and reliable solutions.
+Design, implement, and manage cloud-based infrastructure on platforms (preferably AWS) 
+Develop and maintain infrastructure as code (IaC) using tools like Terraform.
+Automate deployment processes, configuration management, and scaling of infrastructure components.
+Monitor system performance, troubleshoot issues, and implement solutions to ensure high availability and performance.
+Implement security best practices and ensure the integrity and confidentiality of data.
+Collaborate with DevOps teams to streamline CICD pipelines and support continuous integration and deployment.
+Plan and execute disaster recovery and backup strategies.
+
+Experience
+
+4 years of full-time software engineering experience (working on PlatformInfrastructure teams)
+Strong expertise in cloud platforms (e.g., AWS, Azure, Google Cloud) and cloud services.
+Proficiency in infrastructure as code (IaC) tools and automation (e.g., Terraform, Ansible, Chef, Puppet).
+Experience with containerization and orchestration technologies (e.g., Docker, Kubernetes).
+Strong scripting and coding skills in languages like Python, Bash, or PowerShell.
+
+Compensation
+
+The cash compensation range for this role is 180,000 - 240,000.
+Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years  depth of experience, certifications. In addition to cash compensation, all employees receive an equity compensation package.
+
+Benefits
+
+Unlimited PTO  10 company holidays
+100 covered health, vision, and dental insurance
+401K Plan
+200 one-time home office stipend
+Free dinner when working past 7pm
+Merge is an equal opportunity employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected class.

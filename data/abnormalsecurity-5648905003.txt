@@ -1,0 +1,57 @@
+About the Role
+At Abnormal Security, we are on a thrilling mission to safeguard the worlds largest enterprises against a vast range of relentless email and collaboration application cyber security attacks. Our relentless pursuit involves crafting an exceptional suite of products that empowers customers to seamlessly visualize, expertly control, and fearlessly combat cyber-security threats.
+Abnormal engineering division is actively seeking passionate Full Stack Engineers to embark on this exhilarating journey alongside us. 
+The ideal candidate will have the following qualities:
+
+Growth-oriented, looking to increase impact, responsibility, and ownership over time
+Detail driven and care about code quality, testing, and performance
+Looking to grow as an engineer as part of a strong team, learning from established engineers, product managers, and designers
+Strong communication skills and proven ability to work autonomously and asynchronously with remote collaborators and stakeholders
+Comfortable with test driven development, working as part of a large organization divided by standardized interfaces.
+
+Must Have Skills
+
+3 years of industry experience and 2 Yrs experience as a Full Stack Developer with expertise developing production grade Django, React application from scratch.
+Understanding of Django and its ecosystem, including Django ORM, Django REST framework, and authentication mechanisms.
+Experience with frontend frameworkslibraries such as React, Redux, or Next.js.
+Familiarity with AWS services and deployment practices.
+Knowledge of containerization using Docker or similar technologies.
+Understanding of database systems and proficiency in SQL.
+
+Nice to Have Skills
+
+Experience with Golang
+
+What Youll Do
+
+Design and Development:
+
+Develop robust, scalable and secure web applications using Django and React.
+You will be relied upon to own the delivery of complex features for a Standing Team -- to design, decompose, execute, and launch. You will play the role of a highly capable feature lead, able to take a clearly defined business problem, and design a technical approach to implement.
+
+
+Testing and Debugging:
+
+Conduct thorough testing of applications, including unit testing and integration testing.
+Use debugging tools and techniques to diagnose and fix issues in a timely manner.
+
+
+Support and On-call:
+
+Provide technical support to troubleshoot and resolve issues reported by users or identified through monitoring systems and participate in on-call rotations.
+
+
+Collaboration and Communication:
+
+Communicate effectively in Async manner with team members to provide updates, discuss challenges and propose solutions.
+You will be participating in code reviews to maintain code quality and in system design discussions.
+
+
+Continuous Learning and Improvement:
+
+Actively contribute to knowledge sharing within the team and participate in professional development activities.
+
+
+
+ 
+LI-MT1

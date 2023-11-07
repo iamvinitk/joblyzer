@@ -1,0 +1,54 @@
+Who We Are:
+SmithRx is a rapidly growing, venture-backed Health-Tech company.  Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service.  With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country.
+We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values of:
+
+Integrity: Do the right thing. Especially when its hard.
+Courage: Embrace the challenge.
+Together: Build bridges and lift up your colleagues.
+
+Job Summary:
+With fast-paced growth comes a multitude of data-related opportunities to explore and challenges to navigate. SmithRxs Data Analytics team is at the forefront of wrangling vast amounts of data, unlocking their complexities, and harnessing their insights to generate value for present and prospective clients. We seek a Data Analytics Lead to assist us in these exciting endeavors.
+The Data Analytics Lead will operate as a part of SmithRxs growing Data Analytics team and report to the Senior Manager, Data Analytics. You will function as a generalist to start, functioning as a liaison between the data team and our stakeholder teams, which we organize under three broad verticals: Commercial Strategy, Operational Efficiency, and Customer Satisfaction. You will manage the data teams day-to-day relationship with these stakeholder teams and ensure we are providing them with the resources they need to operate effectively. As the Data Analytics Lead evolves in their role, you will assume greater oversight of one of these verticals.
+The Data Analytics Lead will support junior team members in diving deep into our data, hunting for the business insights that will support key business needs and communicating them to decision-makers. Furthermore, you will guide the team in exploring the intricacies of our data  searching for patterns and discovering trends that will inform our business understanding and contribute to organizational strategy for years to come. Finally, you will lead the way in designing creative metrics and appealing visualizations for reporting that effectively communicate our value proposition and enhance the SmithRx product. 
+Our goal is for the Data Analytics Lead to leverage their analytical rigor, business acumen, and prior experience to showcase the robust, meaningful, and cost-effective product offering we provide for our clients and members.
+What will you do:
+
+Lead the charge on partnering closely with our stakeholder teams to ensure all near and long term needs are scoped, documented, and have a place on the Data Analytics teams product roadmap
+Provide thought leadership for best practices and shape the teams approach to data cleaning, governance, analysis, visualization, and dissemination
+Guide team members in conducting rigorous, insightful analysis to not only answer the what and when questions, but also the hows and whys 
+Create visual snapshots that tell clear, compelling stories and illustrate how SmithRxs value proposition makes a real-world impact for customers
+Manage ad hoc tickets via the teams helpdesk system, ensuring all tasks are assigned appropriately and have a clear timeline to completion
+Provide end-to-end mentorship to the team, shaping both day-to-day operations and also the 3-5 year vision for the Data Analytics team
+
+What will you bring to SmithRx:
+
+7-10 years of work experience massaging, interrogating, drawing insights from, visualizing, and presenting data required (Healthcare andor pharmacy experience preferred)
+Bachelors degree required  advanced degree preferred
+Advanced skill in SQL required
+Advanced skill in Looker required
+Familiarity with additional data analysis tools (Python, R, Java, etc.) preferred 
+Familiarity with Salesforce or similar CRM platforms required
+Familiarity with Jira or similar project management tools required
+Familiarity with the Amazon Web Services (e.g. Redshift, SageMaker, S3 etc.) preferred
+Robust analytical skills, ability to think critically about data and the stories they tell; experience integrating large sets of data from disparate sources
+A curiosity and excitement to learn about pharmacy industry data
+Strong communication skills via meetings and written correspondence
+Self-starter mentality: ability to make informed decisions, find creative approaches to difficult challenges, and deliver on commitments
+Execution-focused ethos - you are a solutions-oriented problem solver and efficiency driven
+Flexible, adaptable, and able to respond under the pressure of a fast-paced technology company
+SF preferred but Remote position can be considered for strong candidates
+
+What SmithRx Offers You: 
+
+Highly competitive wellness benefits including Medical, Pharmacy, Dental, Vision, and Life Insurance 
+Flexible Spending Benefits 
+401(k) Retirement Savings Program 
+Short-term and long-term disability
+Discretionary Time Off 
+13 Paid Holidays
+Wellness benefits- Spring Health, Gympass, and Headspace
+Commuter Benefits 
+Paid Parental Leave benefits
+Employee Assistance Program (EAP)
+Well-stocked kitchen in office locations
+Professional development and training opportunities

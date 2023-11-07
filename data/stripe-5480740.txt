@@ -1,0 +1,29 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and the road ahead is vast. This translates to an extraordinary opportunity for you to bring the global economy within everyones grasp, all while engaging in the most impactful work of your career. 
+About the team
+Edge provides a secure, compliant, fast, and reliable platform that connects Stripes products to users globally. We abstract the underlying  complexity of the Internet. We own tier-0 mission critical systems like Global Ingress, CDNs (and static assets), Perimeter Security, DNS and Certificates which power Stripe products (Payments, Elements,  Connect, Terminal, Radar, Stripe Tax etc.), foundational services (IAM, Accounts, Webhooks, Auth Platform etc.)  and infrastructure (Mongo, MySql, ML Infrastructure, Push notifications etc.). We power Stripe Frontend, which is used by all Stripe services to allow access from users of the internet. We detect, analyze, prevent, and remediate DDOS (Distributed Denial of Service) attacks on all products and services within Stripe - APIs, Dashboards, CDNs, Devices etc. Edge drives Stripe wide initiatives like Multi-region support, Disaster recovery, Data locality, End-to-end (E2E) p50p95p99 payment latency, and is on the fore-front of enabling any new business or product line for Stripe. The current stack is built (but not limited to) leveraging AWS Infrastructure, AWS EC2, S3, AWS Elasticache, Auto scaling, AWS Shield, WAF, Distributed services built in GoLang, Load balancers in CC, Nginx, Tooling in Python, React, JS, and memcached.
+What youll doResponsibilities
+
+Develop engineers on the team, helping them advance in their careers while also fostering a collaborative and high performance team culture.
+Drive the roadmap, strategic direction and priorities for the team, and collaborate with other engineering teams across the company, to stay ahead of stakeholders ask through-out the breadth of Edge.
+Build and nurture a global team in North America and India and establish follow the sun operational model to manage global incidents.
+Guide the team in achieving a high level of engineering and operational excellence and stability.
+Work on optimizing the organizations Edge infrastructure to deliver low latency services to users around the world.
+Contribute to wider engineering initiatives as a member of Stripes engineering leadership team
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.Minimum requirements
+
+3 years of engineering management experience
+5 years of software development experience 
+2 years of cloud development or management experience
+Strong technical knowledge of Linux performance, security, cloud, Networking and Distributed Systems
+Experience running highly efficient teams with empathy
+Operational experience to deal with high profile and complex operational incidents
+
+Preferred qualifications
+
+Experience building highly scalable systems especially at the Edge, CDNs and DDOS protection systems 
+Experience managing remote and distributed teams
+Experience working closely across geographies, where important partners are a timezone away

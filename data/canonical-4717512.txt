@@ -1,0 +1,25 @@
+This is a unique opportunity to use your cryptography and certification skills to enable Ubuntu and its users to operate securely and to remain compliant to FIPS 140 and Common Criteria standards.  You will use your applied cryptography, Linux Security, and coding skills to enhance the Ubuntu distribution and work with DISA and CIS to help draft Ubuntu STIGs and Ubuntu CIS benchmarks.
+You will work with and support the team to develop automation tooling for making Ubuntu systems STIG and CIS benchmark compliant and audit the systems for compliance. You will work with the team to achieve new compliance and certifications for Ubuntu as needed. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on direction and execution.
+The successful candidate will collaborate with Canonicals kernel and security teams to extend and enhance the Ubuntu distribution with the features necessary to achieve and retain FIPS and CC certification.
+What youll do
+
+Support the Security Certifications engineers to achieve and retain various Security certifications
+Extend and enhance Linux cryptographic components - specifically with modules such as OpenSSLLibgcrypt - with the features and functionality required for FIPS and CC certification
+Collaborate with external security consultants to test and validate kernel and crypto components, achieve and retain FIPS and CC certification
+Work with external partners to develop CIS benchmarks and hardening automation for Ubuntu
+Contribute to Ubuntu mainline and upstream projects to land solutions and benefit the community
+Communication and collaboration within and outside Canonical to rapidly resolve issues and keep the project on track
+
+Who you are
+
+Knowledge of and familiarity with low-level Linux cryptography APIs and debugging
+Significant experience working with open source libraries
+Experience working with Linux Kernel
+Knowledge of security benchmarks such as STIG and CIS benchmarks. 
+Security Certification experience and knowledge in FIPS andor CC
+Experience with OVAL (Open Vulnerability Assessment Language) and Go
+
+ 
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-Remote 
+ 

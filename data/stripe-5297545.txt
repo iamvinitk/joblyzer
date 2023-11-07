@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+As a platform company powering businesses all over the world, Stripe processes payments, runs marketplaces, and detects fraud, helping entrepreneurs start an internet business from anywhere in the world. User Billing provides a central entry point for Stripe teams to monetize products in global markets. We build platforms and services to define and manage pricing, calculate and collect Stripes revenue, and empower Stripe and our users to understand and manage revenue and costs. We work on customer-facing experiences, internal platforms, and data pipelines to empower Accounting, Finance, Strategy, Sales, and Stripes Products to drive business value across the entire user and product lifecycle.
+ 
+What youll do
+Were looking for a seasoned technical leader to drive the technical direction and strategy for User Billing experiences, including user-facing products and features such as our reporting surfaces, APIs and platforms for internal users and teams, backend systems, and data pipelines. As a staff engineer in User Billing, youll work with engineering managers, senior engineers, and cross-functional partners to design the technical underpinnings of the product. At the same time, youll have plenty of opportunities to be hands-on building key systems, and will be directly responsible for the successful delivery of large-scale technical efforts as well acting as a technical mentor and leader for other engineers.
+User Billing is an engine powering many of Stripes biggest bets, from shipping new products faster to redefining our commercial strategy. The right technical leadership will allow us to scale faster and more reliably as our business accelerates. If that sounds exciting, wed love to speak with you.
+Responsibilities
+
+Ensure our platform solutions and user billing data are high quality, meet the needs of our internal users, and position us to meet Stripes growth
+Ensure User Billing products built on top of the platforms are high quality, meet the needs of our external users, and position us to meet the business goals
+Drive interoperability across platforms in User Billing and integrations across Stripe with product, accounting, sales, finance, and data science teams
+Scrutinize billing interfaces and data models, elevating our focus on correctness and ease of use within User Billing
+Help drive sound technical decision making within User Billing and lead technical conversations between User Billing and other teams across Stripe
+Run design and code review for key components and ships in User Billing
+
+ 
+Who you are
+Minimum requirements
+
+10 years professional software development experience, including technical leadership of projects across teams or product areas
+Have solid experience in architecting and designing large-scale and complex systems that delivered critical impact to a business
+Experience influencing company strategy at the intersection of business needs and technology (you measure your success in terms of business impact, not lines of code)
+Are skilled in working across engineering teams and other functions in building alignment, driving decision making, and communicating transparently
+Are effective in giving and receiving constructive feedback tofrom peers and team members
+Experience mentoring and investing in the development engineers and peers
+
+Preferred qualifications
+
+Prior experience in financial technology space, particularly in payment processing, accounting, or financial reporting

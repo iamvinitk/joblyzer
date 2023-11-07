@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The team:
+The Database  Streaming Extractors Team at Celonis, brings the customer data into the EMS (Execution Management System) from a wide variety of Databases in a performant, robust and scalable way. We are the front door for our customers, and we strive to reduce latency, increase throughput, and improve reliability and scalability of our data extraction solutions. With a constant focus on improving the data integration experience, we specialize in handling large-scale data processing, orchestrating seamless data extraction pipelines to ensure the smooth and on-time transfer of extensive datasets.
+The role:
+Engineering Managers are our first layer of management at Celonis - they are people managers with technical expertise. You will lead a strong team of engineers, overseeing their performance and fostering successful group dynamics to achieve the teams mission. You will provide technical guidance, contribute to critical decisions, and ensure manageable technical complexity to build reliable systems at scale. Collaboration with other teams and departments is crucial, with a focus on supporting their objectives while driving your own. You will operate independently, demonstrating leadership across multiple groups, and jointly define goals aligned with strategic initiatives.
+The work youll do:
+
+Effectively manage execution and performance of the team; keep the team motivated and effective
+Manage and facilitate the career growth and performance of team members
+Build and maintain a healthy culture of trust, ownership, and collaboration within the team as well as the department
+Contribute technically within the teams scope, provide technical guidance and get involved in technical work when needed
+Collaborate with Product Managers and other leads on goals and strategies around people, technology, and processes
+Set correct priorities and take full ownership of the teams efficient execution of initiatives, ensuring timely and quality delivery of projects and tasks including long-term, multi-quarter objectives
+Take an active part in hiring and growing the team according to business needs
+Advocate for the whole team; provide upward and outward visibility of the team and their work
+
+The qualifications you need:
+
+Strong technical background in software engineering, with experience in building, leading, or operating large-scale, high-performance, reliable  resilient distributed systems
+Proven track record in people management, including fostering a supportive and inclusive team culture, mentoring, and coaching to facilitate high performance and career growth
+Ability to collaborate effectively with other departments and stakeholders, such as product management and business teams, to define vision, goals, and prioritize initiatives
+Dedication to addressing the evolving needs of engineering teams and a focus on engineering and process excellence
+Experience in managing operationally heavy teams andor teams closely engaged with customers
+Proficiency in Java, microservices architecture, and Kubernetes
+Expertise in designing data pipelines and managing big data flows
+Knowledge of Agile concepts, including Scrum, Kanban, and Continuous Delivery
+
+ What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

@@ -1,0 +1,43 @@
+About Generate Biomedicines
+Generate Biomedicines is a new kind of therapeutics company  existing at the intersection of machine learning, biological engineering, and medicine  pioneering Generative Biology to create breakthrough medicines where novel therapeutics are computationally generated, instead of being discovered. Generate has built a machine learning-powered biomedicines platform with the potential to generate new drugs across a wide range of biologic modalities. This platform represents a potentially fundamental shift in what is possible in the field of biotherapeutic development.
+We pursue this audacious vision because we believe in the unique and revolutionary power of generative biology to radically transform the lives of billions, with an outsized opportunity for patients in need. We are seeking collaborative, relentless problem solvers that share our passion for impact to join us!
+Generate was founded in 2018 by Flagship Pioneering and has received nearly 700 million in funding, providing the resources to rapidly scale the organization. The Company has offices in Somerville and Andover, Massachusetts with over 275 employees.
+The Role:
+We are seeking an exceptionally talented and highly motivated Senior Scientist I, NGS to support high throughput data generation efforts at Generate. This person will work closely with collaborators across functions (including Computer Science, Protein Engineering, Innovation and Data Generation at Scale, Data Science and Quantitative Biology teams) to design and implement effective and efficient NGS assays and workflows for testing libraries consisting of millions of defined protein variants. In addition to supporting Generates portfolio programs, this candidate will also contribute to paradigm-shifting innovation of applying NGS as readout for various biological assays that requires improvement on throughput and sensitivity.  We are searching for a creative and scientifically rigorous individual who thrives in a fast-paced, highly collaborative, multi-disciplinary environment with high expectations.
+Heres how you will contribute:
+
+Be actively involved in the stage of vector, protein library and experiment design to provide insights from the perspective of downstream NGS experiments.
+Prepare NGS libraries from samples and run sequencing on appropriate platforms (Illumina, PacBio, Nanopore etc).
+Take initiative in NGS data analysis and work closely with Quantitative Biology team to productionize and automate the data analysis workflow.
+Establish and lead efforts in expanding NGS paradigm to mRNA-seq, single cell sequencing, immune repertoire sequencing, etc that may become applicable in our pre-clinical and translational programs.
+Develop novel NGS-based high-throughput quantitative assays.
+Stay up to date on literature of NGS related technologies and communicate the progress to parties of interest.
+
+The Ideal Candidate will have:
+
+D. in Molecular Biology, Bioengineering, Chemical Engineering, Biochemistry, Biophysics or related field with at least 4 years of post degree related experience.
+Extensive experience in preparing NGS libraries for various platforms including Illumina, PacBio, Nanopore etc.
+Hands-on experience in running sequencing on Illumina and Nanopore platforms.
+Confluence in PythonR programing and demonstrated experience in carrying out NGS data analysis independently.
+Strong problem-solving skills and an analytical mindset.
+Excellent collaboration skills and ability to work cross-functionally and balance multiple projects in a dynamic environment.
+Excellent presentation and written communication skills.
+
+Nice to have:
+
+Prior experience with screening of large size libraries (CRISPR, shRNA, ORF etc).
+Hands-on experience with technologies in synthetic biology.
+Lab automation experience.
+
+Who Will Love This Job: 
+
+Enthusiastic innovator who is interested in assay NGSization and digging out the biological meaning of large scale quantitative data.
+Scientist excited to collaborate with and learn from experts in allied disciplines.
+
+ 
+Generate Biomedicines is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+COVID Safety:
+Generate Biomedicines enforces a mandatory vaccination policy for COVID-19. All employees must be fully vaccinated and have received a booster.  The purpose of this policy is to safeguard the health of our employees, their families, and the community at large from infectious disease that may be reduced by vaccinations.  The company will make exceptions to this policy if required by applicable law and will consider requests for an exemption from this policy due to a medical reason, or because of a sincerely held religious belief, or any other exemptions that may be recognized by applicable.
+Recruitment  Staffing Agencies: Generate Biomedicines does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Generate Biomedicines or its employees is strictly prohibited unless contacted directly by Generate Biomediciness internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Generate Biomedicines, and Generate will not owe any referral or other fees with respect thereto.
+ 
+LI-KC1

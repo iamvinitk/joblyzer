@@ -1,0 +1,36 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Unity is growing, and we are looking for versatile procedural asset artists! Our team builds content for multiple platforms from high end VFX to ubiquitous mobile devices. We use the Unity engine to build custom solutions to serve both VFX animation and games!
+Day-to-day work will apply your diverse technical art skills to a content production team. As a Procedural Asset Artist, youll play a meaningful role in each phase of your projects, working from concepts to build parametric generator assets that can be delivered across multiple classes of devices.
+While your focus will be on building real-time 3D experiences, youll also work with our Developers and Designers to build pipeline tools and processes to expand the offering of scalable procedural content at Unity. Youre an expert technical artist and animator that owns work, helps guide others, and has an eagerness to learn and grow. You have the confidence and skills to champion and drive outstanding interactive and linear narrative experiences.
+Our cross-disciplinary teams consist of world class Application  Cloud Developers, Technical Artists, 3D Artists, UX  UI Designers. Our goal is to inspire customers and transform industries. We are committed to maintaining a diverse team, and we welcome and encourage applicants with diverse experiences and backgrounds.
+What youll be doing
+
+Crafting and building procedural rigs or generator assets. Can you build the book that can become all books. The frog that can become all frogs?
+Integrating static assets provided by art  design, and implementing procedural assets from them
+Research and experimenting with groundbreaking technologies, pioneering new techniques to match the constantly evolving demands of our industry
+Collaborating in small teams to ship on multiple platforms, including desktop, AR, and VR headsets, mobile, WebGL, and more
+
+What were looking for
+
+Experience developing with Unity at a high level, or another game engine
+Solid understanding of Blender, Geometry Nodes and 3D modelling
+Experience and technical understanding of 3D rigging and animation for with an eye for optimization and performance
+Experience with art production workflows such as modeling, texturing, rigging, animation, scripted expressions and LOD generation
+Intermediate skill with Python and C
+
+You might also have
+
+Experience working with Maya, Houdini, 3DSMAX, zBrush or C4D
+Create compelling 3D models or procedural animations or rigs
+Production experience shipping assets for games or VFX productions
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+Relocation support is not available for this position. Work visaimmigration sponsorship is not available for this position.
+LI-JP1 SENNote: Certain locations require a good faith disclosure of the base salary range for the role. The actual salary for the successful candidate may differ based on location, experience, and other job-related factors.Gross base salary108,900—147,400 CAD

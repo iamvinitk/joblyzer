@@ -1,0 +1,36 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe aims to deliver the best experience for businesses in the industry. Our high quality standards are what we pride ourselves on. A key component of that strategy is offering tools and technologies that make it delightful to build user experiences with Stripe. The Experience Platform teams are responsible for Stripes UX technology stack across web, mobile, messaging, and leverages strategic investments like internationalization, accessibility, design systems, and our app platform. We have an ambitious vision for the Stripe, and we need great engineering managers to help shape and realize that future.
+ 
+What youll do
+Were looking for a seasoned leader who has strong background in building successful products as well as passion for leading a team to solve challenging and new problems, as well as developing empathetic partnerships with other Stripe teams to understand their use-cases and unlock new capabilities. 
+Responsibilities
+
+Enable the team to work with a wide range of systems, processes, and technologies to own and solve problems from end-to-end.
+Support the engineering product teams in building great user experiences for businesses that range from high growth startups to leading global companies.
+Collaborate with stakeholders across the organization such as product, design, infrastructure, marketing and operations.
+Lead and manage processes to help the team do its best work and engage effectively with the rest of Stripe.
+Recruit great engineers, in collaboration with Stripes recruiting team
+Develop engineers on the team, helping them advance in their careers
+Contribute to engineering-wide initiatives as a member of Stripes engineering management team.
+
+ 
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Residence in Barcelona, Spain
+At least 3 years of experience managing teams that shipped high-quality products.
+An entrepreneurial mindset
+Successfully recruited and built great teams.
+Works effectively cross-functionally and is able to think rigorously, communicate effectively, and make or coordinate hard decisions and trade-offs.
+Thrives with a high degree of autonomy and responsibility in an ambiguous environment.
+Technical acumen to drive clarity with staff engineers about architecture and technical strategic decisions.
+Encourage a healthy and inclusive work environment thats both challenging and supportive.
+
+Preferred qualifications
+
+Strong written and verbal communication skills for different audiences (leadership, users, company-wide).
+Productively lead fully remote teams.

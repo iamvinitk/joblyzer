@@ -1,0 +1,31 @@
+This is an exciting opportunity for a software engineer passionate about open source software, Linux, and OpenStack. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+As a software engineer on the OpenStack Engineering team, youll be building Charmed OpenStack and Ceph, a suite of open source Python based charms for deploying and managing OpenStack and Ceph. Your work will bring cloud platform technologies to a wide range of users and computing environments, from desktops to bare metal servers. This role requires a python software developer with a passion for automating infrastructure as code.
+Applicants should be passionate about the future of the software defined datacenter, distributed systems, and open source. Canonical is a globally distributed team of engineers who share that passion, and you will need to work well in that context.  Engineers who thrive at Canonical are mindful of the dynamics of the open source ecosystem, and equally aware of the needs of large, innovative organizations. 
+This job involves international travel several times a year, usually for one week at a time. 
+What youll do
+
+Collaborate proactively with a distributed team
+Write high quality code to create new features
+Debug issues and produce high quality code to fix them
+Review code produced by other engineers
+Discuss ideas and collaborate on finding good solutions
+Ensure the success of OpenStack and Ceph on multiple architectures
+Work from home with global travel 2 to 4 weeks for internal and external events
+
+Who you are
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have experience with Python
+You have interest and experience with two or more of the following:Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, AIML, QEMUKVM, LXCLXD, Python, Go, C, Postgresql, Mongo, Debian packaging, scalable web services
+You have experience with non-x86 architectures, including s390, arm64, power and others
+You have experience with OpenStack, OVN, Openvswitch and other related cloud technologies
+
+ 
+We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.
+Keywords: python, agile, lean, distributed systems, openstack, ceph, containers, kubernetes, docker, scale-out, orchestration, linux, ubuntu, cloud, devops, open source, serverless, networking, home, remote job, software development, software engineering, openstack
+Reports to: OpenStack Product Engineering Manager
+Job location: Remote, home-based, Americas
+LI-Remote 

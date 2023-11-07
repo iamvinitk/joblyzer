@@ -1,0 +1,69 @@
+Astranis is on a mission to bridge the digital divide by connecting the four billion people worldwide who currently lack internet access. Were doing this by building the next generation of smaller, more cost-effective spacecraft to bring the world online. 
+As a team, weve launched two satellites into orbit,  signed ten commercial deals worth over 1 billion in revenue, raised over 500 million from top global investors, and recruited a team of over 300 world-class engineers. We all work out of our (legendary) San Francisco office, which was once used to build ships during the World Wars.
+Our satellites, which operate from geostationary orbit (GEO), weigh only 400 kg and utilize a proprietary software-defined radio payload. Each satellite can connect over two million people, and were very excited for the impact well soon have in the Philippines, Peru, Mexico, and more! 
+Backed by substantial funding and a passionate, collaborative team, we offer a rewarding work environment where youll learn and make a significant impact, no matter where you are in your career. 
+Apply and join us on our journey towards global connectivity!
+
+ 
+Four billion people do not have access to the internet. Astranis is going to change that. We are building the next generation of smaller, lower-cost telecommunications satellites to bring the world online. 
+ 
+
+As our Team Lead for Ground Software you will demonstrate experience helping build the careers of your team, managing conflict, and provide performance management across your organization. This person is hands-on technical, has to be able to contribute to design and code, ideally to the level you can be a true technical mentor to the team.  You will provide vision for growth, driving the longer term vision of our team and projects,  providing clear battle plans for our future state of Ground Autonomy. The ideal candidate is highly familiar with full-stack development and scaling systems. 
+
+ 
+
+
+
+Role
+
+Directly manage and grow a team of junior and senior software engineers
+Oversee the design, build, and implementation of our ground software system for Arcturus (our first satellite) and future programs.
+Manage a detailed schedule to ensure that software development is in sync with the overall program schedule
+Work across the full stack of ground systems, telemetry database, mission operations, etc.
+Work closely with our operations and satellite teams to build command interfaces and telemetry screens that enable safe, efficient, and elegant command and control of our satellite throughout its mission
+Design high-performance, reliable, mission-critical software that sends commands to space!
+Collaborate with multidisciplinary teams to define software requirements, architectures, and designs
+Support in recruiting, interviewing, and hiring additional teammates to our rapidly-growing team
+
+
+
+
+
+Requirements
+
+Experience building and responsible for high-performing teams
+8 years of experience in software development
+2 years of software engineering management experience
+Comfortable working with ambiguity and deriving requirements from cross-functional conversation and collaboration
+Experience with CC, Python, or other high-level object-oriented programming language(s)
+High understanding of JavaScript (React, Angular, or similar framework)
+Experience with system level architecture and big data design, and SQL databases in particular
+Highly motivated, self-starting, and able to perform duties autonomously without supervision
+No previous Aerospace Industry experience required!
+
+
+
+
+
+Bonus
+
+Experience developing proprietarycommercial or open source satellite operations software (e.g., COSMOS, Major Tom)
+Experience with Kubernetes
+Experience with Distributed Systems
+Experience in satellite operations
+Experience with tools such as JIRA, Jenkins, and Docker
+
+
+
+
+All our positions offer a compensation package that includes equity, robust benefits, and bonuses.What we offer: 
+Base pay is a single component of Astraniss total rewards package, which may also include equity in the form of incentive stock options, performance bonuses, high quality company-subsidized healthcare, disability and life insurance benefits, flexible PTO, 401(K) retirement, and free on-site catered meals.
+ 
+Astranis pay ranges are informed and defined through professional-grade salary surveys and compensation data sources. The actual base salary offered to a successful candidate will additionally be influenced by a variety of factors including experience, credentials  certifications, educational attainment, skill level requirements, and the level and scope of the position.
+Base Salary180,000—210,000 USDU.S. Citizenship, Lawful Permanent Residency, or RefugeeAsylee Status Required
+(To comply with U.S. Government space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U.S.C. 1324b(a)(3))
+ 
+Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger.
+
+ 
+All employees of Astranis are required to be vaccinated by the start of their employment. Mandatory vaccinations support our commitment to making our workplace and public facilities as safe and welcoming as possible. Reasonable accommodations will be made for individuals who are not able to get the vaccine due to qualifying medical or religious reasons.

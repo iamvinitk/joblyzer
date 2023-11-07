@@ -1,0 +1,28 @@
+Are you ready to ignite your career and embark on an exhilarating journey at the cutting edge of ML-enabled technologies? At Scale, we are pushing the boundaries of innovation in industries such as autonomous driving, drones, robotics, and generative AI. As we collaborate with the worlds leading self-driving car, AI and ML teams, we are revolutionizing the way data is annotated across Lidar, Camera, and text modalities.
+As our customer base expands exponentially, we are seeking passionate and dynamic Forward Deployed Engineers (FDEs) who will be the driving force behind integrating our computer vision and perception products with our most strategic customers. In this unique role, you will have the incredible opportunity to make a tangible impact on millions of dollars in revenue while nurturing and solidifying lifelong relationships with the worlds most innovative companies.
+As a Forward Deployed Engineer, you will be a master relationship-builder who always brings a positive and collaborative attitude to the table. Youll sit side by side with our most strategic customer in their office and build and own robust, production-grade data pipelines used to power advanced ML models and neutral networks. Your expertise in our products, codebase, and general technical knowledge in web development, APIs, and handling large volumes of data will allow you to create the necessary tools and documentation for scalable growth.
+This exciting role lies at the intersection of customer delivery and engineering, providing you with a wealth of experience and stimulating both sides of your brain. If youre ready to embark on a thrilling journey where you can make a real difference in the world of ML-enabled technology, apply now and join the Scale family!
+This role will report to the Head of Customer Engineering, and is based in Sweden.
+You will:
+
+Engineer robust, scaleable end-to-end data integrations that seamlessly synchronize customer data with Scales Data Engine platform, and vice versa.
+Meet regularly with customer teams onsite (strong preference) and virtually, collaborating cross-functionally with all teams responsible for their data pipeline.
+Own, document, troubleshoot, and optimize the customers entire data pipeline, including complex data transformations and processing, from raw sensor capture to model ingestion.
+Push production code in multiple development environments, writing and debugging code directly in both our customers and Scales codebases.
+Be the voice of the customer by capturing, documenting, and championing new customer requirements and feature requests with Scales internal Operations and Engineering teams. You will not stop until these requirements come to fruition and youre not afraid to build the tools yourself when needed.
+
+Ideally you have:
+
+At least a Bachelors degree in Computer Science, Mathematics, or another quantitative field (STEM) or equivalent strong engineering background.
+Excellent written and spoken English, suitable for effective communication with native English speakers and proficient in understanding and conveying complex technical concepts.
+Proven track record as an onsiteembedded customer-facing engineer or a similar role, with experience wearing multiple hats.
+Prior technical hands-on experience collaborating with both internal and external stakeholders in a post-sales capacity to achieve business objectives.
+Proficiency in developing with JavaScriptTypescript, Python, or other modern software languages.
+Strong project management skills combined with effective interpersonal and communication abilities.
+Intellectual curiosity, empathy, and the capability to operate at a high velocity.
+About Us:
+At Scale, we believe that the transition from traditional software to AI is one of the most important shifts of our time. Our mission is to make that happen faster across every industry, and our team is transforming how machine learning can build innovative products. Our products provide access to human-powered data for hundreds of use cases and are used by industry leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and many more. Weve recently raised 325 million in Series E funding at a valuation of 7B and are expanding our team to accelerate the development of AI applications.
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an affirmative action employer and inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance andor a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodationsscale.com. Please see the United States Department of Labors Know Your Rights poster for additional information.
+We comply with the United States Department of Labors Pay Transparency provision. 
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data.

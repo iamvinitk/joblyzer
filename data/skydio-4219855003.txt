@@ -1,0 +1,24 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:
+If you have a strong foundation in math, theory, and software development and you are interested in directly contributing to the development of the next generation of autonomy algorithms and pushing them into real products, we would love to hear from you.
+We are looking for interns for our Summer program.  You will be paired up with one or more members of our core software development team, assuming direct ownership of a project that meaningfully advances the capabilities of our planning and controls and product engineering teams.
+How youll make an impact:
+
+Enable rapid research and development of intelligent systems with advanced autonomous capabilities beyond anything that exists in the world today
+Research, prototype, and generally assess the feasibility of new approaches
+Imagine and then implement new features that unlock magic for our users
+Characterize and quantify the performance of core components of the software and hardware stack
+
+What makes you a good fit:
+
+Demonstrated enthusiasm for one or more of the following: motion planning, dynamics and controls, 3D graphics, computer vision, deep learning, distributed systems, toolsinfrastructure, mobile
+Solid software engineering foundation and a commitment to writing clean, well-architected code
+High proficiency in C andor Python
+Ability to thrive in a fast-paced, collaborative, small team environment
+
+Compensation Range: The hourly rate for this position is 41hr for Undergrad and 53hr for Graduate students Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience.
+ For some positions the pay may be dependent upon the individuals regional location.
+LI-AY1
+ 
+LI-PG1At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

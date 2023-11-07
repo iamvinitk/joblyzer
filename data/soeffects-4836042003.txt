@@ -1,0 +1,64 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Programs team is responsible for ensuring project success across the range of projects that SOE encounters. We work to improve project outcomes, maximize learning opportunities, identify new ways to support our clients, and drive efficiency of project execution. At the frontlines of every client engagement, we collect data on the efficacy of the SOE services engine to inform the development of seamless processes and to inform how groups like Engineering, Business Development, and Operations should spend their time across project execution, personal growth, and infrastructure development.
+Job Overview:
+As a Systems Engineer, you will work with other engineers and project managers to design efficient technical processes and implement them across multiple engineering projects. On a day to day basis, you will keep track of deliverables, risk, and scope for projects and be responsible for ensuring project delivery by bridging communication between engineering, customers, and other departments.
+What You Will Do:
+
+Manage requirements and system architecture design
+Drive action items with engineering and customer teams while maintaining and developing systems for requirements tracking and communication
+Facilitate and drive the creation of project budgets, work breakdowns, rough order estimates, task prioritization, and integration plans
+Work with project teams to develop processes and best practices to help deliver quality products
+Track work across multiple projects
+Research and recommend project management policies and practices
+Prepare reports and other associated systems for project andor program documentation
+
+What You Will Need:
+
+Bachelors Degree (Electrical Engineering, Computer Science, Physics, Math, related field)
+2 years of applied experience with engineering projects and system design
+Ability to recognize project risk, scope creep, and missing critical requirements
+Familiarity with the execution and labor breakdown of engineering projects; well-versed in the required skills to execute engineering projects involving end-to-end electrical system design
+Familiarity with project engineering tools like Smartsheet, Confluence, Jira, or Mavenlink; ability to implement low-overhead systems track work and effort
+High level of organization and excellent technical communications skills
+
+What Would Be Useful:
+
+Masters degree (Electrical Engineering, Computer Science, Physics, Math, related field)
+Working experience in highly technical electrical engineering project management capacity, spanning a range of products and industries (e.g., aerospace, automotive, industrial, consumer electronics, etc.)
+Experience with electrical engineering design work and strong knowledge of embedded systems, firmware, power electronics, analog control and discrete logic design, as well as related mechanical systems and packaging for aerospace, automotive, andor consumer electronics products
+Experience with aerospace and EMIEMC standards and knowledge of radiation effects
+Experience with automated test systems or qualification testing for aerospace or automotive
+Familiarity with Python andor MATLAB for data parsing and signal analysis
+Familiarity with quality control systems, such as AS9100 or ISO
+Comfort with Linux systems and desktop environments
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 90,000-130,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

@@ -1,0 +1,26 @@
+Trusted Concepts , A Division of Two Six Technologies is seeking a Windows CNO Developer.  Our CNO efforts are mission oriented and exclusively focused on delivering solutions against hard and enduring targets within difficult and challenging environments. Our vulnerability research and development teams consistently deliver across a multitude of devices and platforms. Candidates must be experienced software developers with a deep esoteric understanding of cradle-to-grave exploitation and attack mission scenarios comfortable supporting quick reaction capability development events.
+We are currently seeking a Windows CNO Developer for our Herndon or Chantilly, VA locations.
+Requirements:
+
+Three years of professional software development experience writing in:  C, C and Python
+Three years of experience in a CNO development environment
+Three years of demonstrated in-depth experience developing, testing and debugging software for Windows OS using Visual Studio IDE and Windows SDK
+Demonstrated in-depth understand of Windows Low Level Systems development and API
+
+Clearance Requirements:
+
+Active TSSCI 
+
+ 
+
+Looking for other great opportunities? Check out Two Six Tech Opportunities for all our Companys current openings! 
+Ready to make the first move towards growing your career? If so, check out the Two Six Tech Candidate Journey !  This will give you step-by-step directions on applying, what to expect during the application process, information about our rich benefits and perks along with our most frequently asked questions.  If you are undecided and would like to learn more about us and how we are contributing to essential missions, check out our  Two Six Tech News  page!  We share information about the tech world around us and how we are making an impact!  Still have questions, no worries!  You can reach us at Contact Two Six Tech , we are happy to connect and cover the information needed to assist you in reaching your next career milestone.
+ 
+
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

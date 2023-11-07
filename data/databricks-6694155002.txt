@@ -1,0 +1,51 @@
+Req ID: GAQ224R64
+Databricks is looking for a talented Manager for our Revenue Operations Team who has passion for process improvement and operational excellence. You will have a dual focus on overseeing daily operations and looking towards process optimization and improvement. You will think strategically on a process level and also be hands on. This role will report to the Senior Manager - Rev Ops.
+The impact you will have:
+
+Manage system set up of all sales contracts within relevant business systems (usage, subscription and amendment level) to ensure completeness and accuracy through monthly and quarterly close process
+Work with billing and collections to improve sales contract processing to minimize billing errors and improve efficiency
+Improve and implement best practices across the organization in relations to contract management, provisioning and preparation for accurate customer usage reporting and billing
+Work with your partners (Revenue Accounting, Deal Desk, IT, FPA, and Engineering) to initiate and implement process improvements to the quote-to-cash process to increase operational efficiencies while maintaining the integrity and accuracy of the underlying accounting records
+Build relationships with Deal Desk and Sales Leaders globally to support complex pricing and deal structures, and minimize deal rejection to support billing and revenue goals
+Work with teams to automate provisioning and establish traceable and auditable evidence for provisioning  order fulfillment, monthly usage rating and applicable reporting
+Ensure appropriate internal controls are in place and operating effectively, and ensure maintenance of control documentation for revenue related processes to ensure SOX compliance
+Create and publish metrics to capture, control and report Revenue Operations team effectiveness
+Provide audit support for control and substantive testing
+Perform month end and quarter end reconciliation activities as assigned
+Generate and maintain detailed documentation of policies and processes and assist with process improvementautomation initiatives as they arise
+
+What we look for:
+
+Bachelor degree
+7 years of experience in Order Management, Billing, or Finance Operations
+3 years experience in a managerialsupervisory role
+Working knowledge of best practices internal controls
+Experience managing high volume of transactions with nonstandard terms
+A team player, adept at building relationships across the organization
+Ability to adhere to deadlines in a fast pace environment without losing sight of accuracy
+Proficiency with Excel is required (pivot tables, Vlookups)
+Experience in subscription, consumption and professional services billings
+Experience with NetSuite, SalesforceCPQ, Financial Force and Salesforce
+
+Benefits
+
+Comprehensive health coverage including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Annual personal development fund
+Employee Assistance Program (EAP)
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range110,100—194,800 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

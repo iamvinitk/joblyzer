@@ -1,0 +1,35 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Compute is making it easy and safe for Stripe engineers to change their operating systems, giving them a high-quality base system and the tools to modify it safely. The team owns Stripe-wide OS lifecycle and tooling. The team is expanding scope to tackle Linux kernel projects, MicroVMs, OS management, and security at mass scale. We are also researching new generation operating systems like BottleRocket.
+What youll do
+Responsibilities
+
+Develop engineers on the team, helping them advance in their careers
+Enable Operating Systems to empower Stripe engineers to succeed by:
+
+Understanding what a high-quality developer experience works like
+Collecting and analyzing data to inform the teams approach
+Talking to our customers and learning about their challenges, and
+Guiding your team to deliver the right results
+
+Understand how low-level system details (such as kernel and OS versions, parameters, configuration, and code) impact the correctness, efficiency, security, and performance of Stripes production workloads
+Hire and grow Stripes to build a team of engineers
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+3 years of engineering management experience
+4 years of software development experience 
+2 years of cloud development or management experience
+Experience using in-depth knowledge of operating systems to solve technical problems
+Detailed technical knowledge of Linux performance and security
+Experience running highly efficient teams
+
+Preferred qualifications
+
+Experience managing remote and distributed teams
+Experience working closely across geographies, and managing a team where important partners are many timezones away
+Familiarity with managing a large fleet of Linux servers, Linux package management and distribution, andor deploying and coordinating Linux updates at scale

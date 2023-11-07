@@ -1,0 +1,35 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+We are currently seeking a highly proficient Senior Software Engineer to solve technical issues from Wt Digital and Wt FX users and work with the pipeline team.
+The Pipeline department build the software which help our crew make movies. We specialise in crafting and developing enterprise grade distributed systems that run on our large cluster compute setup with minimal downtime.
+Our ideal candidate is a Senior C developer wholl join our small, hard-working team here in Wellington. The successful candidate will be working on HiDef and its backend services. HiDef is our in-house review and playback application. It is a macOS application being re-written cross platform that lets you find, manage, and play media. HiDef is a key element in the iteration process that is at the heart of VFX with a strong expectation it will be performant and reliable.
+What youll be doing 
+
+Writing flexible, robust code that integrates an array of Weta-built custom libraries
+Delivering pragmatic solutions in a fast paced, constantly evolving environment
+Working with stakeholders and teammates to strategize the best solutions
+Coding, testing, integration, and release cycles
+
+What were looking for 
+
+An accomplished C developer
+Experience in API development, with a focus on performance and scalability
+Experience with SQL or NoSQL databases
+Excellent communication skills, a collaborative attitude
+Experience as a Software Developer.
+
+You might also have
+
+Golang, a scripting language (eg. Python)
+Experience with desktop GUI frameworks (eg. QT), Event-Driven Architectures, service deployment, eg. Kubernetes, Ansible, Docker
+Experience with video decoding, playback, and colour or VFX experience
+
+Only domestic relocation support is available for this position.
+Immigration - Work visaimmigration sponsorship is not available for this position.
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, disability, gender, or any other protected status in accordance with applicable law. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-ST2 SEN

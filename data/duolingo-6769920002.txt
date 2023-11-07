@@ -1,0 +1,39 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core language learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+We are searching for an AI Research Scientist experienced with recommendation systems to join our efforts to personalize learning. Duolingo has a unique opportunity to define the future of personalized education with one of the worlds largest datasets. As an AI Research Scientist, you will apply your background in AI and machine learning to invent the technologies that will define the future of education. In many cases, this means identifying entirely new research problems, or synthesizing work that spans several fields. You will find opportunities to improve existing systems  or reinvent them completely  to tackle Duolingos unique data. We are a fun and motivated team, building intelligent software used by millions of people around the world every day.
+You Will...
+
+Conduct cutting-edge AI research that pushes forward the field of education
+Work with a multi-functional team of award-winning designers, researchers, engineers, and others to build new research-based product features
+Assist in mentoring junior scientists and engineers
+Contribute to the broader research community by publishing and presenting about your work
+
+A few past projects from the group:
+
+The worlds largest student model Birdbrain (IEEE Spectrum paper)
+A method to jump-start adaptive language testing (EMNLP paper)
+Novel bandit algorithm for mobile notifications (KDD paper)
+The Duolingo English Test (TACL paper)
+
+You Have...
+
+PhD in machine learning, AI, computer science, or a related technical field
+2 years of industry experience except for exceptional senior faculty candidates
+Experience working with recommendation systems
+Experience implementing ML systems in Python, Java, Scala, or CC (i.e., not just R or MATLAB)
+Outstanding interpersonal communication and organizational skills
+Contributions to research communities and efforts, including publishing papers at conferences such as ACL, CVPR, EDM, ICML, NeurIPS, etc.
+
+Exceptional Candidates Will Have...
+
+Familiarity with educational andor assessment technologies
+Experience mentoring or managing junior scientists or engineers
+Strong publication record
+
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 197,500 - 374,000. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

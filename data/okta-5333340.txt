@@ -1,0 +1,44 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.Workforce Identity Cloud
+Okta Workforce Identity Cloud (WIC) provides easy, secure access for your workforce so you can focus on other strategic priorities—like reducing costs, and doing more for your customers.
+As Product Lab Manager, you will be tasked with building and maintaining a lab environment that will be used to test and demonstrate various use cases around Identity and Access Management.  In this hands-on role, you will build integrations to help the Product Management teams evaluate competing products to help find opportunities for Okta to deliver best of class solutions.  
+We are looking for an experienced, enthusiastic and hands-on technical resource who has broad experience across hardware and software.  
+ What youll be doing 
+
+Build  maintain various lab environments.
+Consult with Product teams to collect requirements to design  implement the lab solutions.
+Help determine budgeting for equipment, cloud, software and assembly costs
+Maintaining existing software and hardware in the lab and upgrade any that have become obsolete
+Provide network administration and support of various lab environments
+Perform hands on technical implementation and troubleshooting.
+Manage multiple concurrent projects.
+Facilitates effective team interaction between teams across the globe (e.g. India, USA)
+Communicates effectively across a global team.
+Effectively communicate technical information to non-technical audiences.
+Uses active listening skills to figure out and understand business goals, objectives and priorities.
+
+ 
+What youll bring to the role
+
+Knowledgeable in Identity  Access Management and Okta product offerings. 
+Working knowledge of Identity protocols (e.g. SAML, OAuth, OpenID, SCIM)
+Able to install and configure desktops and servers on both hardware and virtual machines (Windows, MacOS, ChromeOS, Linux)
+Configure and manage mobile devices (iOS, iPadOS, Android)
+Experience with Endpoint Management systems (SCCM, Intune, Jamf , VMware Workspace One)
+Knowledge of basic windows server administration (DNS, Networking, File Services, DHCP)
+Advanced knowledge of Microsoft Solutions: Active Directory, AD Certificate Services, AD Federated Services, Azure AD (Entra Identity), Azure AD Domain Services
+Ability to manage networks on-prem: Subnets, VPNs, Firewalls
+Working Knowledge of Cloud based networking: Google VPC, AWS VPC, Azure Virtual Networking
+Some knowledge of other cloud identity solutions such as: Ping, Forgerock, Jumpcloud, Google Cloud Identity, AWS Identity Services, etc.
+Ability to Multi-task and manage multiple concurrent engagements.
+
+LI-Hybrid
+LI-JB2What you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

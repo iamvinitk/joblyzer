@@ -1,0 +1,38 @@
+Solutions Architect
+About the team:
+At the Capco Technology Delivery Center, we are dedicated to the financial services industries. Our professionals combine innovative thinking with unrivalled industry and domain expertise to offer our clients consulting expertise, complex technology and package integration, transformation delivery, and managed services, to move their organizations forward. Through our collaborative and efficient approach, we help our clients successfully innovate, increase revenue, manage risk and regulatory change, reduce costs, and enhance controls. Our teams stay at the forefront of industry trends and technologies that are driving innovation. From strategy to launch, we are adept at delivering across the full product lifecycle. 
+About the Job:
+As a member of the Capco Technology Delivery Team, youll bring practical knowledge of agile development methodologies and engineering best practices. As a solutions architect, youll play an integral role: using your experience and skills to contribute to the quality and implementation of our software products for our customers.
+What Youll Get to Do:
+ 
+
+Design applications or platform software aligned to business and IT requirements, transferring business problems into technical solutions
+Work with other technical disciplines to harmonize requirements, ensuring the end solution is fit for purpose
+Guide and mentor implementation teams to successful delivery, providing technical leadership and developer support
+Ensure technical solutions are fully integrated into our clients heterogeneous infrastructure via automated pipelines
+Collaborate on problem analysis, solution architecture, MVP design, quality assurance, security analysis, and non-functional requirements
+Partner with internal teams and stakeholders to provide and drive industry thought leadership
+
+ 
+What Youll Bring with You:
+ 
+
+8 years IT solution architecture experience within the finance sector
+Proven delivery of complex, large-scale IT solutions
+Designs and drives distributed architectures through RESTful microservices
+Defines, designs, and owns the solutions non-functional requirements
+Excels at presenting to cross-functional andor executive level stakeholders
+Manages a suite of diverse tasks while meeting key objectives and timelines
+Understands and exemplifies Lean, Agile, and DevOps delivery principles
+Multiple enterprise languages frameworks, like Java Kotlin, Spring Boot
+Bachelors degree or equivalent in Computer Science, Engineering, or MIS field of study
+Experience in Angular, React, iOS Swift, Python, Go and other languages is a plus
+
+ 
+Why Capco?
+A career at Capco is a chance to help reshape the competitive landscape in financial services.  We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset, and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or  ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, including medical, dental and vision insurance, a 401(k) plan, tuition reimbursement, and a work culture focused on innovation and creation of lasting value for our clients and employees. 
+Ready to take the Next Step 
+If this sounds like you, we would love to hear from you.  This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.

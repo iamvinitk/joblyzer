@@ -1,0 +1,55 @@
+Circle is a financial technology company at the epicenter of the emerging internet of money, where value can finally travel like other digital data — globally, nearly instantly and less expensively than legacy settlement systems. This ground-breaking new internet layer opens up previously unimaginable possibilities for payments, commerce and markets that can help raise global economic prosperity and enhance inclusion. Our infrastructure  including USDC, a blockchain-based dollar  helps businesses, institutions and developers harness these breakthroughs and capitalize on this major turning point in the evolution of money and technology.
+What youll be part of:
+Circle is committed to visibility and stability in everything we do. As we grow as an organization, were expanding into some of the worlds strongest jurisdictions. Speed and efficiency are motivators for our success and our employees live by our company values: Multistakeholder, Mindfulness, Driven by Excellence and High Integrity. Circlers are consistently evolving in a remote world where strength in numbers fuels team success. We have built a flexible and diverse work environment where new ideas are encouraged and everyone is a stakeholder.What youll be responsible for:
+In 2020, Circle unveiled Circle APIs: a set of solutions and smarter technology to help businesses accept payments in a more global, scalable and efficient alternative to traditional banking rails (spoiler: were using USD Coin under the hood). The Circle Security Team works to protect Circle; our customers, clients, and partners; and the financial markets upon which we rely.  As a member of this team, youll lead projects and be responsible for key deliverables of the security program while collaborating across Circle teams.  You will continue to learn and stay current in a fun and rapidly changing environment.
+What youll work on:
+
+Proactively identify and respond to emerging security threats.
+Identify gaps in our infrastructure, and work with business partners to gain visibility through logging and detection.
+Respond to incidents and collaborate across teams to investigate and resolve.
+Develop detection techniques to identify anomalous behaviors and attacks across the environment.
+Configure and maintain security monitoring tools such as EDR or intrusion detection solutions.
+Drive development and improvements in Security Incident and Event Management, Case Management, and Automation.
+Provide security guidance to various organizations throughout the company.
+Support broader security team projects such as threat modeling, vulnerability scanning, audits, and custom tool building.
+Take on-call shifts to respond to critical alerts after-hours.
+
+You will aspire to our four core values:
+
+Multistakeholder - you have dedication and commitment to our customers, shareholders, employees and families and local communities.
+Mindful - you seek to be respectful, an active listener and to pay attention to detail.  
+Driven by Excellence - you are driven by our mission and our passion for customer success which means you relentlessly pursue excellence, that you do not tolerate mediocrity and you work intensely to achieve your goals. 
+High Integrity - you seek open and honest communication, and you hold yourself to very high moral and ethical standards.  You reject manipulation, dishonesty and intolerance.
+
+What youll bring to Circle:
+
+Strong ability to work collaboratively across teams during high-stress situations.
+Ability to manage multiple competing priorities and use good judgment to establish order of priorities on the fly.
+Self-motivated and creative problem-solver able to work independently with minimal guidance.
+Experiencefamiliarity with Slack, Apple MacOS and GSuite.
+
+Were looking for strong, impactful work experience, which typically includes:
+
+Bachelors degree in computer science, computer engineering, cybersecurity or related field.
+4 years of experience in detection, response, or security engineering.
+Knowledge of the Cybersecurity Act, MAS notices and guidelines on cybersecurity.
+Deep knowledge of SIEM, Case Management, and SOAR solutions.
+Experience leading security incidents of all levels.
+Knowledge of operating systems, file systems, and memory on MacOS.
+Experience working in a Security Operations Center (SOC) or dedicated security incident response team.
+Programming experience in Python, Golang, or similar programming languages.
+Experience with building Detections As Code.
+Experience working in an AWS environment required.
+Experience working in financial services or financial technology desired.
+Experiencefamiliarity with Slack, Apple MacOS and GSuite.
+
+You are the right person if you:
+
+View Security Detection  Response as a data and engineering problem.
+Exude positivity.
+Arent afraid to share your ideas.
+Meet problems head-on and view them as opportunities.
+Are self-reliant and motivated.
+Communicate fearlessly.
+We are an equal opportunity employer and value diversity at Circle. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Additionally, Circle participates in the E-Verify Program in certain locations, as required by law.
+LI-Remote

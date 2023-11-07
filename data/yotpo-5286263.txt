@@ -1,0 +1,59 @@
+If you shop online (and who doesnt these days?), then chances are youve already interacted with Yotpo. Were a leading eCommerce retention marketing platform, on a mission to help brands of all sizes turn one-time shoppers into customers for life. Loyalty programs, SMS and email marketing, subscriptions, and reviews are our bread and butter, but we have more solutions up our sleeve, too.
+We have teams across the world, including the US, Canada, UK, Israel, Bulgaria, and Australia — and were still growing. Our primary goal is to deliver the best technology in the industry.
+You can hear all about it in our latest brand video. 
+Sounds exciting? Then read on, because were in pursuit of the best and the brightest minds to help us achieve our vision.We are looking for a motivated Senior Team Leader  who is excited about growing, both personally and with the development team, as well as solving complex technical and business problems. The person is going to be working on adding features to the existing integrations (Shopify and Magento) and expanding our SaaS on new eCommerce platforms.
+Core responsibilities and day-to-day activities of the position:
+
+Leading the team in an agile environment, communicating with the Product Manager, balancing workloads, and positioning the team for scalability
+Setting of KPIs to ensure the proper delivery of the business goals
+Allocating time for a hands-on personal example of a great development
+Be part of the development of new features and maintain existing ones for our app on Shopify and Magento
+Be part of the team that develops Yotpo SMS  Email on brand new eCommerce platforms
+Be part of the team that builds and expands our API
+Works with different stakeholders in our team members (DevOps, FE  BE Devs, RD Manager, CEO)
+
+Main Requirements:
+
+Fluent use and understanding of PHP andor Java, and their use in scalable applications
+Extensive understanding of MVC, OOP, and essential Design Patterns
+Familiarity of MySQL, NoSQL
+Understanding how to use Docker Containers
+Significant and proven experience with with PHP frameworks like Symfony, Laravel, CakePHP, Spring Boot
+CICD experience, Bitbucket, Jenkins, GitHub Actions
+End to end testing experience
+
+ 
+Its nice to have (but not mandatory)
+
+Monitoring and Logging: Kibana, Elasticsearch, Cloudwatch, Grafana
+NodeJS orand Java understanding
+Experience with APIs and API specifications (OpenAPI, Swagger)
+Knowledge of AWS is a plus, ECS, S3, Lambda, SQS, SNS, API Gateway
+
+ 
+The perfect Candidate:
+
+Has proven leadership experience in engineering teams
+Loves what heshe is doing and building new things
+Low on Ego and High on Team Spirit
+Has strong collaboration skills
+Stays focused and achieves goals
+Excellent written and verbal communication skills in English
+
+ 
+What we offer:
+
+Track to success  work in a dynamic organization with ambient and laid-back office atmosphere  best coffee in town
+Individualized career development, rewards and recognition.
+Work-life balance  25 days paid vacation with add-ons for loyalty, regular team buildings and celebrations in and outside the country
+Additional health insurance package
+Internal mobility program and refer-a-friend program
+Managing a fixed monthly budget for social benefits thru Re:Benefit  a flexible online benefits solution
+Food vouchers  monthly
+E-learning portals and knowledge sharing sessions.
+Company backed Hackathons, Tech conferences, workshops events, etc
+Stocked kitchen and bar.
+Equity in options.
+We are now working in a flexible hybrid capacity.
+
+ LI-Hybrid

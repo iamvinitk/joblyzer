@@ -1,0 +1,29 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. We are seeking a talented and experienced Data Scientist to join our team and contribute to the enhancement and upleveling of our machine learning platform. If youre passionate about improving the lives of machine learning engineers and scaling our companys ML capabilities, as well as staying at the forefront of advancements in the field, then we encourage you to apply. Join our team and help us revolutionize the way we train, test, tune, manage, and deploy advanced ML models, while collaborating with a diverse and highly skilled team of data scientists and engineers who are dedicated to pushing the boundaries of ML innovation. The coding skills you bring to the table will give you the opportunity to mentor and guide other data scientists, fostering a culture of continuous learning and growth within the team.
+ 
+What youll do:
+
+Collaborate with machine learning engineers to identify pain points and challenges in the development and deployment of ML models.
+Research and implement innovative solutions to optimize the efficiency, scalability, and reliability of the machine learning platform.
+Analyze and evaluate the performance of existing machine learning models, identifying areas for improvement and optimization.
+Collaborate with cross-functional teams to gather requirements, align on project goals, and drive the implementation of new features and enhancements to the machine learning platform.
+Leverage our extensive and valuable metadata set to generate innovative suggestions and strategies, identifying efficient shortcuts to evaluate hypotheses and assess the potential of ideas.
+
+What were looking for:
+
+2 years of hands-on experience working as a data scientist, applied scientist, software engineer or ML engineer.
+Proven ability to design and implement machine learning models, as well as evaluate and optimize their performance on large datasets.
+The ability to write clean, efficient, and scalable code that can be easily maintained and extended by other team members.
+Proficiency in software development best practices, including version control systems such as Git, to ensure efficient collaboration, code management, and reproducibility in a data science environment.
+Familiarity with workflow management tools such as Apache Airflow to create and schedule data pipelines, allowing for automated and reliable execution of machine learning workflows.
+Enthusiasm and desire to work collaboratively in a team that is dedicated to enhancing the machine learning infrastructure and implementing best practices for model development, deployment, monitoring, and scalability.
+
+ 
+This position is not eligible for relocation assistance.
+ 
+LI-REMOTE
+LI-JT6At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only101,382—209,296 USDOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

@@ -1,0 +1,27 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:
+We are looking for interns for Summer 2024. Truly autonomous drones are a new product category that demands a new kind of mobile experience. Forget complex joysticks and awkward tilt-controls: we are crafting completely novel interactions that leverage Skydios onboard intelligence to empower a much broader, more diverse audience of drone users.
+An ideal intern candidate is a junior, senior, or MS-level college student with practical project andor industry experience developing mobile applications on Android. 
+How youll make an impact:
+
+Design, prototype, and refine advanced drone interfaces, and then polish a consistent mobile experience for release to the world.
+Contribute to the development of user interfaces for the worlds most advanced autonomous flying camera.
+Combine your knowledge of Android ecosystems with our Drone Intelligence API to help create a new gold standard for what a drone app should be.
+Improve user experiences by incorporating augmented reality, in-app content creation, and sharing capabilities.
+Iterate on designs based on user feedback, internal testing, and your own experiences piloting Skydio drones.
+
+What makes you a good fit:
+
+You have a passion for meticulously crafted interfaces that strike the correct balance between ease-of-use, elegance, and power.
+ For Android, we use (Java, Android Studio, Gradle, adb, Linux, and follow best practices for app development using Android Architecture Components.
+Experience in C and OpenGL a big plus. 
+Ability to create tools and automate your workflows using Python scripts
+You appreciate the value of code-review and other collaborative development practices.
+Bonus points: Youve shipped code to the App Store or Google Play store and have experienced the joys (and frustrations) of getting feedback from real users.
+Experience with IoT or embedded devices using Android NDK
+
+Compensation Range: The annual base salary range for this position is 41hr for Undergrad, 53hr for Graduate students, and 58 for PhD students. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.
+For some positions the pay may be dependent upon the individuals regional location.
+LI-AY1
+ At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

@@ -1,0 +1,78 @@
+About Us
+
+At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the worlds largest networks that powers approximately 25 million Internet properties, for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazines Top Company Cultures list and ranked among the Worlds Most Innovative Companies by Fast Company. 
+We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us! 
+About the department
+Cloudflares IT  Enterprise Engineering, Planning and Governance Team is a crucial pillar of the CIO Organization. It manages programs and initiatives across IT Infrastructure, Enterprise Systems, and Enterprise Engineering to enable Cloudflare internal teams to operate most efficiently. The team establishes end-to-end governance principles and frameworks, leads business partnering, drives program planning, execution and demand capacity management. 
+What youll do
+We are seeking an IT Business Partner, Finance  Legal Systems to lead a variety of strategic systems initiatives within Cloudflare. The IT business partner (ITBP)will serve as a trusted advisor, the strategic interface between Finance, Legal, IT, and Enterprise Engineering with the focus on business technology strategy development, solutions discovery, risk and service management. The ITBP will be the main technology functional expert for all finance and legal internal business systems, having a holistic view of the end-to-end process from a systems point of view. This means that while the role will primarily be a partner to the finance and legal teams, it would also have to partner with other functions, like PeoplePayroll, GTM, and  Post-Sales to ensure the overall finance and legal process operates effectively and cohesively.  The ITBP will proactively share knowledge of technology risks and opportunities to build competitive advantage and improve efficiency and effectiveness of business units. The candidate will partner with business leadership and other key stakeholders to define opportunities and identify and prioritize projects based on predefined criteria.  
+
+Operates as the main point of contact to both the business (finance and legal teams) and the IT delivery teams for overall Finance  Legal business system roadmaps ensuring the focus is on business scalability while limiting IT risk. 
+Gathers and documents business requirements and user stories through in depth stakeholder interviews and subject matter expert (SME) deep dives.  Obtains the necessary stakeholder sign-off before transferring projects to delivery teams.
+Provides knowledge transfers to technical teams and technical program managers (TPMs) ensuring clean and clear requirements are understood by those responsible for project management of implementation and go-live.
+Responsible for the finance and legal system portfolio and plots roadmap deliverables using a blend of business priority, end-to-end product strategy, and a holistic consideration of Cloudflares techstack.
+Maintains routine communication with the finance and legal teams and the IT delivery leads ensuring constant alignment on system roadmap placement and timelines.
+Track the technology market discovering and staying attuned to newly released finance and legal applications andor new product capabilities that align with existing technology in Cloudflares techstack.
+Jointly designs a long term vision of the finance and legal systems landscape along with based on business needs, and facilitates decision making relating to any trade-offs or shifts in priorities.
+Partner with the TPMs to maintain constant alignment of finance and legal projects health including leading any discussions regarding roadblock removals, risks, and dependencies.
+Adheres to and instills the IT Planning and Governance structure including hosting monthly finance and legal steering committee meetings, meeting with functional leaders on a routine basis, and providing routine alignment between finance, legal and IT teams.
+Leads weekly roadmap meetings with delivery leads to collaborate on business priorities and roadmap placement and works with the appropriate teams to manage risks and capacity related issues. 
+
+Examples of desirable skills, knowledge and experience
+
+BABS in Finance, Business Administration or Computer Science, or an equivalent combination of education and experience.
+Minimum of 7 years experience with finance and legal system experience including complex knowledge and deep understanding of finance and legal operations.
+Customer first attitude. 
+Strong sense of urgency, ability to manage priorities and tight deadlines in a fast-paced and ambiguous environment.
+Highly organized and able to juggle many tasks without losing sight of the highest priority items.
+Experience in implementing technology to solve business problems.
+Business knowledge of finance and legal functions and cycles (e.g. compensation payments, GL entries, travel  expense management, compliance screenings, etc.).
+Experience with finance and legal systems such as NetSuite, Concur, Stripe, Ironclad, Certa are required. 
+Strong leadership skills, being success oriented, and having a strategic mindset to bring business benefit and efficiencies through IT systems.
+Demonstrated ability to communicate clearly to technical and non-technical audiences, and project manage multiple concurrent projects with varying internal stakeholders and demands.
+Independent self-starter with history of accountability of project timeline and results.
+Excellent written and verbal communication skills with the ability to communicate effectively and efficiently in a global fragmented environment.
+
+Compensation
+Compensation may be adjusted depending on work location.
+
+For Colorado-based hires: Estimated annual salary of 149,000 - 183,000
+FFor New York City, Washington, and California (excluding Bay Area) based hires: Estimated annual salary of 167,000 - 204,000
+For Bay Area-based hires: Estimated annual salary of 176,000 - 215,000.
+
+Equity
+This role is eligible to participate in Cloudflares equity plan.
+Benefits
+Cloudflare offers a complete package of benefits and programs to support you and your family.  Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun!  The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.
+Health  Welfare Benefits
+
+MedicalRx Insurance
+Dental Insurance
+Vision Insurance
+Flexible Spending Accounts
+Commuter Spending Accounts
+Fertility  Family Forming Benefits
+On-demand mental health support and Employee Assistance Program
+Global Travel Medical Insurance
+
+Financial Benefits
+
+Short and Long Term Disability Insurance
+Life  Accident Insurance
+401(k) Retirement Savings Plan
+Employee Stock Participation Plan
+
+Time Off
+
+Flexible paid time off covering vacation and sick leave
+Leave programs, including parental, pregnancy health, medical, and bereavement leave
+What Makes Cloudflare Special?
+Were not just a highly ambitious, large-scale technology company. Were a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.
+Project Galileo: We equip politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflares enterprise customers--at no cost.
+Athenian Project: We created Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration.
+Path Forward Partnership: Since 2016, we have partnered with Path Forward, a nonprofit organization, to create 16-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one.
+1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Heres the deal - we dont store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers.
+Sound like something youd like to be a part of? Wed love to hear from you!
+This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.
+Cloudflare is proud to be an equal opportunity employer.  We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness.  All qualified applicants will be considered for employment without regard to their, or any other persons, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AAVeteransDisabled Employer.
+Cloudflare provides reasonable accommodations to qualified individuals with disabilities.  Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hrcloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.

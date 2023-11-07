@@ -1,0 +1,72 @@
+
+If youre here, its because youre looking for an exciting ride. 
+A ride that will fuel up your ambitions to take on a new challenge and stretch yourself beyond your comfort zone. 
+Well deliver a non-vanilla culture built on talent, where we work to amplify the impact on millions of people, paving the way forward together. 
+Not your usual app. We are the fastest-growing multi-category app connecting millions of users with businesses, and couriers, offering on-demand services from more than 170,000 local restaurants, grocers and supermarkets, and high street retail stores. We operate in more than 1500 cities across 25 countries. Every year, 200k merchants generate over 4B in sales through our platform and over 20M customers get their goods delivered in minutes.
+Together we revolutionize the way people connect with their everyday needs, from delivering essentials to connecting our ecosystem of users through innovative solutions powered by technology. For us, every day is filled with purpose.
+What makes our ride unique? 
+ Our culture and strong values. 
+
+We have an office-first culture and we place collaboration at the center of everything we do! 
+We have a non-vanilla personality and feedback mindset. We dont shy away from difficult conversations - we see them as a gift! 
+We work with high intensity and have fun along the way.  We also celebrate the wins (a lot!). 
+We celebrate diversity in all its forms and foster an inclusive culture where everyone can bring their authentic selves to work. 
+
+Our career development philosophy. 
+
+We are building a talent house of high performing teams and leaders. We invest in people who raise the bar and help others reach their full potential. 
+We take ownership of our career development. We dont believe in linear and predictable career paths - we create the job of our dreams! 
+We embrace opportunities to move the needle and make an impact beyond our scope. 
+
+Our commitment to being a force for good. 
+
+Our platform is an important economic tool for millions of people (customers, partners, couriers) and we are taking action to amplify our positive impact. 
+We invest in doing good by dedicating time and resources into social and environmental initiatives. 
+We have the ambition of being DIB role models across the tech industry. We are creating environments, systems, and processes that provide equal opportunities, break biases, and empower our communities.
+
+We have a vision: To give everyone easy access to anything in their cities. And this is where your ride starts.
+YOUR MISSION
+Glovo is looking for a passionate, proactive, data-driven and hands-on professional to support our Live Operations Analytics department in our headquarters in Barcelona. You will act and operate as a startup within a startup, providing both strategic thinking and analytical skills to help building excellence in Operations with focus into one specific regionTHE JOURNEY
+
+Understand the operations model in Glovo to provide advice to the different teams
+Contribute to the business discussion by suggesting different and novel analysis approaches
+Translate business queries into quantified  insightful reporting and KPIs to assess performance and determine the effectiveness of the implemented initiatives
+Ensure scalability of the reporting
+Own creation and structure of Live Operations KPIs, ensure they are properly implemented in the DDBB
+Define and design dashboards to give visibility to the top-management of the Live Operations performance
+Follow a data-driven decision-making process
+Report to the Operations Analytics Manager
+
+WHAT YOU WILL BRING TO THE RIDE
+
+Bachelor in Computer Science, MathsPhysics, Engineering
+Relevant internships or up to 1 year experience working on analytics in a similarrelevant industry
+Demonstrated proficiency in working with clean  optimized SQL, querying mid to large volumes of data
+Consulting experience is a plus
+Python is a plus
+Good understanding of how to extract insights from Data Warehouses
+Ability to summarize and represent data (e.g descriptive statistics and graphs)
+Ability to create robust, insightful, and story-telling visualizations using modern BI  Analytics tools and ability to identify data Issues
+Excellent problem-solving and analytical skills
+Comfortable working in a high growth and high performance start-up with a fast pace
+Itchy feet and continuous thrive on learning through different projects
+Professional English
+Understanding of AB test principles, in order to design, conduct and analyze different experiments
+
+Individuals representing diverse profiles, encompassing various genders, ethnicities, and backgrounds, are less likely to apply for this role if they do not possess solid experience in 100 of these areas. Even if it seems you dont meet our musts dont let it stop you, we are all about finding the best talent out there! Skills can be learned, and embracing diversity is invaluable.
+We believe driven talent deserves:
+
+ An enticing equity plan that lets you own a piece of the action.
+ Top-notch private health insurance to keep you at your peak.
+ Monthly Glovo credit to satisfy your cravings with zero delivery fees on all Glovo orders!
+ Cobee discounts on transportation, food, and even kindergarten expenses.
+ Discounted gym memberships to keep you energized.
+Flexible time off (uncapped vacation days) , the freedom to work from home two days a week, and the opportunity to work from anywhere for up to three weeks a year!
+ Enhanced parental leave, and office-based nursery.
+ Online therapy and wellbeing benefits to ensure your mental well-being.
+ An external learning budget to fuel your thirst for knowledge and personal growth.
+
+Here at Glovo, we thrive on diversity, we believe it enhances our teams, products, and culture. We know that the best ideas come from a mashup of brilliant diverse minds. This is why we are committed to providing equal opportunities to talent from all backgrounds - all genders, racialdiverse backgrounds, abilities, ages, sexual orientations and all other unique characteristics that make you YOU. We will encourage you to bring your authentic self to work, fostering an inclusive environment where everyone feels heard. 
+Feel free to note your pronouns in your application (e.g., sheherhers, hehimhis, theythemtheirs, etc).
+So, ready to take the wheel and make this the ride of your life? 
+Delve into our culture by taking a peek at our Instagram and check out our Linkedin and website!

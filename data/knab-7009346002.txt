@@ -1,0 +1,25 @@
+Software Engineer (C .NET Core)
+ Knab was founded in 2012 because we think banking should be different. Simpler, smarter and more advantageous for our customers. Because we believe we can help everyone maximize their financial affairs. Feel at ease when it comes to your finances. Every day. By combining smart technical solutions with a healthy dose of human intelligence, we create financial services that really meet your needs. Add to that some of the sublime personal service from our employees and you end up with something thats truly unique to the world of finance!
+The role in a nutshell
+You will work with the Digital Channels team. This is an expert center within Knab regarding online marketing and direct messaging. Think of Knabs public website, online campaigns (SAE, SEO, Display and social media), technical web analytics, direct messaging (in-app messages, push notifications, e-mail and SMS). As full stack developer you will support the team by working on existing solutions as well as working on new functionality (think of the public website, direct messaging APIs and more) and align with colleagues across the IT community.
+ 
+What you bring to the table
+
+3 years experience with .NET (preferably .NET 6 or above);
+Experience with building and maintaining Web APIs;
+Experience with modern web development (ReactJS, Emotion, Headless CMS, Server Side Rendering);
+Experience with cloud platforms, preferably AWS (think of Fargate, EC2, CloudFront, S3);
+You own your freedom to give suggestions to your peers and the principals, challenge them, ask questions;
+Curiosity to initiate changes you might not know the answer to yet, for the greater good;
+Used to owning applications and being self-sufficient;
+You can use Terraform for IaC and Azure DevOps for CICD;
+You know your way around containers and container orchestration, and a microservices based distributed architecture;
+Familiar with Networking principles such as load balancing, DNS, Reverse Proxy;
+Own Storage technologies (SQL, NoSQL).
+
+ 
+Diversity Statement
+Come as you are. Knab is an open workplace with positive vibes. We are inclusive of all nationalities, ethnicities and genders. We feel comfortable bringing our authentic whole selves to work and like you to do so too. 
+Work with us!
+If you come to work with us, Knab will become a significant part of your life. Therefore, we make sure the ambiance is just as exciting as your job. Check the benefits here!
+We dont collaborate with third parties to fulfill this role, nor are we open to freelance or contractors.

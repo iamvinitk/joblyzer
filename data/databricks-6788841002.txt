@@ -1,0 +1,83 @@
+P-943
+Databricks, the leading Data and AI company, is looking for a motivated, technology minded Partner Technical Advisor (Solutions Architect) to join our dynamic Product Partnerships team. As a Partner Technical Advisor, you will pioneer building a vibrant, Modern Data and AI Stack partner ecosystem. These include traditional ISVs, Built-on partnerships, and Marketplace providers. With over a hundred Technology Partners already on board, Databricks accelerates innovation for our customers.
+Responsibilities
+
+
+You will become a technical expert on the full range of the Databricks platform
+
+
+Stay informed on new products, features, and capabilities
+
+
+You will Curate self-service onboarding materials with updated guidance to reduce time to value for partners
+
+
+You will advise partners on best practices and architectures for building scalable solutions with the Databricks platform that extract value for our mutual customers
+
+
+You will provide technical leadership in the delivery of partner solutions, including best practices, and removing technical roadblocks
+
+
+You will Educate providers on Marketplace  listing requirements
+
+
+You will Educate ISVs on the integration lifecycle
+
+
+You will guide Built-on Partners through initial architecture that facilitate identified value propositions 
+
+
+Manage the expectations of partners and advocate for the perpetual progress of their solution: From initial design to MVP to its continued evolution
+
+
+You will develop reference architectures, presentations, and demos for field organizations and technical marketing purposes
+
+
+You will help measure key performance indicators (KPIs) of partnerships
+
+
+You will contribute to the evolution of the partnership ecosystem in a fun, fast-paced, hyper-growth environment
+
+
+Travel to partner and Databricks conferences
+
+
+ 
+Qualifications
+
+
+Software enterprise architecture skills in the context of data products (data engineering, AIML, or BI)
+
+
+2-5 years of experience in a partner or customer-facing pre-sales, technical architecture, or consulting role
+
+
+1 year experience building distributed data systems
+
+
+1 year experience Coding using Python, Scala, or Java
+
+
+Basic SQL experience
+
+
+1 years of experience with Big Data Technologies such as Spark, Hadoop, Kafka, and Storm
+
+
+Familiarity with cloud platforms (AWS, Azure, or GCP)
+
+
+1 years of experience presenting to technical audiences
+
+
+Comfortable with domestic and international travel
+
+
+LI-Onsite puravidaAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

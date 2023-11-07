@@ -1,0 +1,34 @@
+About Us:
+Were on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us cant build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+Weve been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, were growing fast and excited for new teammates to join us who are the best at what they do. Were passionate about building a company as diverse and creative as the millions of people Notion reaches
+About The Role
+Imagine yourself in the 1970s or 80s thinking through how computing should look and feel for people who had never seen one before. Thats what were trying to do at Notion — make software that feels timeless, with the craftsmanship of German cameras, playfulness of Japanese toys, and mass appeal of Coca-Cola.
+Working with teams across Notion, especially Marketing and Product, youll help us systematically understand our customers — both current and potential. Youll also deliver insights on brand sentiment, marketing campaigns, and messaging in and outside our product. The ideal candidate will be an expert in both quantitative and qualitative research methods, as well as designing and implementing recurring customer sentiment surveys.
+What Youll Achieve:
+
+Design and implement market research from project definition to post-launch evaluation and iteration, working at both a strategic and tactical level.
+Identify high-impact research opportunities around customer needs, attitudes, and engagement.
+Translate insights into recommendations that drive brand sentiment, communications, marketing strategy, user acquisition, retention, and engagement.
+Integrate alternate data sources (primary and secondary research, campaign analytics, attribution metrics, etc.) to inform and support research insights
+Build strong cross-functional relationships, partnering with Marketing, Brand, Product, and other teams across Notion.
+Share research findings, leveraging clear communication strategies and advanced storytelling, and adapting your approach for different audiences.
+
+Skills Youll Need to Bring:
+
+You have 5 years of professional industry experience in Marketing Research or Consumer Insights and a Bachelors Degree in Marketing, Communication, Human-Computer Interaction, Psychology, Behavioral Economics, Anthropology, Sociology, or similar.
+You are comfortable working on highly technical products and excel at partnering closely with Product Marketing Managers, as well as Growth Marketing and Brand Teams. You observe and internalize all inputs and feedback to help you reach an optimal decision and prioritize wisely.
+You have a deep understanding of research methods such as focus groups, MaxDiff, brand tracking, segmentation, campaign evaluation, in-depth interviews, conjoint analysis, etc. as well as experience with data analysis software such as SPSS or R, and survey programming tools such as Qualtrics
+Hands-on experience independently designing and running both quantitative and qualitative research from beginning to end, including questionnaire  discussion guide creation, survey programming, sampling, data analysis (data cleaning, weighting, etc.), and reporting
+
+Nice to Haves:
+
+Masters or PhD Degree in Human-Computer Interaction, Psychology, Behavioral Economics, Anthropology, Sociology, or similar.
+Passion for working and learning in a fast-growing company.
+Experience with SQL or Python
+Experience communicating research to executive stakeholders
+Youre familiar with the work of computing heroes like Douglas Engelbart, Alan Kay, Bret Victor, etc. — and understand why were big fans.
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If youre excited about a role but your past experience doesnt align perfectly with every bullet point listed in the job description, we still encourage you to apply. If youre a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the roles scope and complexity, and the candidates experience and expertise, and may vary from the range provided below. For roles based in San Francisco and New York City, the estimated base salary range for this role is 185,000 - 235,000 per year.
+LI-ONSITE

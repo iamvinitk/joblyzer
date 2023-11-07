@@ -1,0 +1,24 @@
+Vimeo is looking for a Sr. Front End Developer to join our AI Applications team.
+The AI applications team is working as an end-to-end value stream function, delivering product solutions from the very beginning of an idea towards the final user experience, where the main expertise is around products that require AI abilities.As a Front End Developer, you will be responsible for designing, developing, and maintaining Vimeos AI-based user experiences on a variety of destinations on the Vimeo platform. You will be a part of a multidisciplinary team of AI researchers, data scientists and Machine learning (ML) Engineers, you will work with the most recent AI tools and abilities in the industry and will take a key role in shaping how those will make an impact on Vimeo customers. 
+Qualifications:
+
+Minimum of 5 years as a Front End developer, showcasing expertise in React, Redux, and related tools.
+Proven history of working with modern Front End frameworks and libraries.
+Implementation of performance optimizations for seamless user experiences.
+Exceptional understanding of RESTful APIs and JSON.
+Excellent communication skills to facilitate collaboration across various teams.
+Great communication skills and a proven record of working across disciplines.
+Established track record of successful interdisciplinary teamwork.
+Experience adhering to best practices, but setting new standards.
+
+Specific KnowledgeSkills:
+JavaScript, TypeScript, React, Redux, CSS, HTML
+Bonus Points :
+
+Familiarity with Back end development (PHP, Python).
+Experience with video services.
+Passion for AI applications.
+
+LI-MB1About Us:
+Vimeo (NASDAQ:VMEO) is the worlds most innovative video experience platform. We enable anyone to create high-quality video experiences to connect better and bring ideas to life. We proudly serve our growing community of nearly 300 million users — from creative storytellers to globally distributed teams at the worlds largest companies. Learn more at www.vimeo.com.
+Vimeo is headquartered in New York City with offices around the world. At Vimeo, we believe our impact is greatest when our workforce of passionate, dedicated people, represents our diverse and global community. Were proud to be an equal opportunity employer where diversity, equity, and inclusion is championed in how we build our products, develop our leaders, and strengthen our culture.

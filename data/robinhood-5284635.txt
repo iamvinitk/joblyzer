@@ -1,0 +1,66 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role 
+Our mission is to allow our customers to invest in whatever asset they want (equity, option, crypto), whenever they want (24 hours a day), and however they want at the best execution quality while ensuring market integrity.
+We own critical services that facilitate the routing of trades to exchanges and market makers. Our Order Routing infrastructure encompasses several critical components, including:
+
+Order Routing Service: This high availability, low latency, scalable service efficiently routes trades to exchanges  3rd parties, while ensuring correctness and reliability.
+Order Execution Management System (OEMS): Our OEMS enables Trading Ops to manage time-sensitive trading exceptions, which are essential for a smooth trading process and regulatory compliance.
+Order Risk Checks System: This system enables risk management at the firm-wide level for assets, venues, and trading sessions.
+Smart Order Router: Ensures the highest quality trade execution.
+
+Were a fast-moving team that is the engine for innovation for the company! Our team brought extended hours trading and more recently 24 hour trading to the masses. Our charter is to further develop additional capabilities within the trading platform (including new assets, order types, and new execution partners), empowering product teams to introduce novel features for our customers.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Technical Leadership: Drive technical direction by keeping a pulse on the teams projects to provide feedback, perform architecture reviews, and help make key decisions as needed.
+Lead the Reliability Strategy: Strategize, conceptualize, and drive advancements aimed at creating a scalable, dependable, and high-performance platform that is sustainable in the long run.
+On-Call Excellence: Provide leadership during on-call, setting the standard on reliability and operational excellence for the entire team. Leverage strong problem-solving skills in diagnosing and resolving issues in real-time, minimizing downtime and reducing overall firm risk. Use live-site debugging skills to drive deep into incidents to uncover underlying causes and identify overarching trends that enhance the overall reliability and stability of our systems.
+Operational Excellence: Deeply understand the operational challenges the team faces and collaborate to create new, self-sustaining processes that adhere to industry standards.
+Engineering Excellence: Drive engineering excellence in our team, particularly in the areas of code base enhancement, design principles refinement, and testing practices elevation. Analyze and seek improvements in routing systems, addressing bottlenecks, reducing latency, and ensuring optimal resource utilization.
+Mentorship: Lead and mentor a team of junior software engineers, providing technical guidance, reviews, and generally up-leveling the team.
+New Feature Development: Take a hands-on approach by owning and implementing large projects with critical andor particularly complex business requirements.
+Collaboration: Navigate conversations and align on tough decisions with numerous stakeholders while representing this critical, foundational service.
+
+What you bring 
+
+Experience architecting and designing large scale, low latency distributed systems.
+Past experience leading reliability or operational excellence or engineering excellence initiatives within the team.
+Ability leading platform teams of 6 or more engineers to drive technical improvements, while continuing to have business-wide impact.
+Strong proficiency in Go or equivalent language, and experience with large areas of the teams tech stack (Postgres, Kafka, gRPC, K8s or similar technologies).
+Showcase a history of producing high-quality, well-structured, and maintainable code. Their commitment to writing clean and efficient code demonstrates attention to detail and professionalism.
+Strong communication and collaboration abilities, with a proven track record of working effectively in large, cross-functional teams.
+Stay current with industry trends, emerging technologies, and best practices. Look for candidates who demonstrate a commitment to continuous learning and improvement.
+
+Bonus points
+
+Experience at a fintech company or financial firm working on Order Routing systems.
+Past experience in Financial Information eXchange data protocol.
+Experience in Algorithmic trading, Market making or building an exchange.
+
+Technologies we use
+
+Go
+Postgres
+Kafka
+Kubernetes
+AWS
+gRPC
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more! 
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.
+US Zone 1: 217000 - 255000US Zone 2: 190000 - 224000US Zone 3: 169000 - 199000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

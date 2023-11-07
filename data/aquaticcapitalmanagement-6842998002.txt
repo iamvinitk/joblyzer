@@ -1,0 +1,44 @@
+At Aquatic, we are actively recruiting for a Software Engineer experienced in developing, managing, and maintaining a full-stack platform with emphasis on the front-end user experience. In this role you will partner with the Trading and Operations team to collaboratively design, build, and implement a platform for global operations. This role will work closely with other platform leads to provide an integrated experience across the Trading, Risk, and Post-Trade functions.
+Role Details
+
+Develop and manage the user interface and control platform for trading and operations.
+Design a best-in-class application with respect to performance, reliability, and scalability. 
+Integrate the platform with internally developed front, middle, and back office systems.
+Connect to external APIs and incorporate into the system for external transaction generation and data consumption.
+Improve the workflow and efficiency of operations through automation.
+Build tools and applications that facilitate the post-trade lifecycle.
+Work with researchers to develop our risk monitoring and analysis applications.
+Develop reporting and visualization for high-visibility PNL and risk publication.
+
+Technical Experience: 
+
+At least 5 years of full-time professional software development experience with team and platform responsibilities.
+Previous experience with building and maintaining production applications andor real-time data visualizations.
+Strong background in software engineering
+Expertise in modern full-stack technologies such as PostgreSQL, Express.js,React, and Node.js or equivalents.
+Experience with messaging architectures such as Kafka and access via Kafka.js
+Python experience is not required but preferred
+Comfortable with iterative software development; high standards for software quality and hygiene.
+
+Candidate Qualities: 
+
+Strong bias for action
+Driven by accountability and internal urgency
+Desire to independently seek best solutions
+Preference for working in a team that focuses on delivering results aligned with Trading and Operations goals.
+Comfortable providing and receiving actionable feedback in a collaborative team setting
+Motivated by an ambitious environment and driven colleagues 
+
+The base salary for this role is anticipated to be between 150,000 and 300,000, which is based on information at the time of posting. This position may also be eligible for additional forms of compensation, such as a discretionary bonus, and benefits. Discretionary bonus can be a significant portion of total compensation. Actual compensation for successful candidates will be carefully determined based on a number of factors, including their unique skills, qualifications and relevant experience.
+Benefits:
+
+Benefits: Fully paid medical, dental, and vision for employees and dependents, competitive 401k plan, employer-paid life  disability insurance
+Perks: Wellness programs, casual dress, snacks, lunch, game room, team and company events
+Development: Open environment to maximize learning and knowledge sharing
+Time: Generous PTO, paid holidays, competitive paid caregiver leaves
+
+Aquatic Capital 
+Aquatic is a quantitative trading and investment company recently launched by Jon Graham. Prior to founding Aquatic, Jon was a Partner and Senior Managing Director at Citadel, where he worked for more than 13 years. At Citadel, Jon held numerous senior positions over the years, including head of Statistical Arbitrage and Equity High Frequency, culminating in leading the highly successful Global Quantitative Strategies business.  
+Aquatic develops systematic investment strategies, enabled by a leading-edge research and development platform. The vision is simple: to build a world class, quantitative trading company with a collaborative team of highly capable researchers and engineers.
+This role represents a unique opportunity to join a quantitative investment manager at the foundational level of building a world class operation from scratch. The firms culture will be shaped by collaboration, meritocracy, ambition, and calm determination. 
+Aquatic is a proud equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identityexpression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.

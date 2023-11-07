@@ -1,0 +1,75 @@
+Nous croyons que la collaboration et la qualit de notre travail sont optimales lorsque nous partageons un environnement physique commun. Chez Unity, nous avons adopt une approche hybride qui favorise la cohsion et la connexion, tout en conservant les avantages de la flexibilit. Nos employs sont demands de travailler depuis nos bureaux en moyenne 3 jours par semaine, sauf en cas daccord contraire avec lentreprise ou dispositions spcifiques dans leur contrat de travail.
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+Lopportunit
+Nous sommes  la recherche dune personne dynamique pour rejoindre notre division Ingnierie de la fiabilit de production! Nous jouons un rle central en fournissant les outils, les services et lexpertise ncessaires pour acclrer la productivit des quipes de dveloppement et tablir une culture de la fiabilit dans lensemble de Unity.
+Dans ce nouveau rle, vous devrez assurer un soutien technique et suivre les produits au sein de notre organisation. Vous apprcierez les dfis lis  lamlioration continue des domaines de la fiabilit, de linfrastructure infonuagique etou de la vlocit des dveloppeur(se)s de manire volutive, reproductible, efficace et quilibre. Vous profiterez galement de lautonomie et de la chance de produire un impact au sein de Unity.
+Ce que vous allez faire
+
+Vous travaillerez sur un ou plusieurs des domaines suivants en fonction de vos forces et de vos intrts :
+Dveloppement de la fiabilit : en permettant aux quipes de dveloppement datteindre leurs objectifs en matire de fiabilit (disponibilit, performance, capacit et scurit)
+Infrastructures et services infonuagiques : en dveloppant et maintenant les normes, les services et les plateformes dans le domaine de linfrastructure infonuagique sur lesquels les quipes de dveloppement de Unity peuvent sappuyer pour faire fonctionner leurs services de production
+
+
+Dterminer les besoins du produit etou les lacunes techniques, et obtenir les rsultats souhaits grce  un leadership technique, une approche axe sur les produits et la mise en place dune cohrence
+Travailler sur des initiatives qui peuvent prsenter un haut niveau dambigut, et qui sont souvent de nature  faire intervenir plusieurs quipes ou organisations
+
+Ce que nous recherchons
+
+Une matrise des langages modernes comme Golang, avec des environnements infonuagique , des solutions infonuagique et des technologies de conteneurs, comme GCP, Azure, AWS, GKE, AKS, EKS, etc.
+Une matrise des outils dinfrastructure en tant que code et de CICD (par exemple Terraform, Jenkins, Helm, etc.)
+Une exprience de Linux et des outils standard (Bash, Git, etc.)
+Une exprience dans le soutien de systmes ou de services de production critiques
+De solides comptences interpersonnelles et de collaboration, ainsi quune aisance  communiquer des ides et  partager des enseignements avec un public vari
+
+Vous avez peut-tre galement
+
+Une exprience dans le domaine du dveloppement de la fiabilit
+Une exprience dans le dveloppement et le soutien de plateformes bases sur une infrastructure, qui ont t adoptes avec succs
+Une aisance dans un environnement dynamique
+
+Informations complmentaires
+Le soutien  la relocation internationale nest pas disponible pour ce poste
+La vie chez Unity
+Unity (NYSE: U) est la plateforme la plus utilise au monde pour la cration et lexcution interactive de contenu 3D en temps rel (RT3D). Des crateur(rice)s, notamment des dveloppeur(se)s de jeux vido, des artistes, des architectes, des concepteur(rice)s automobiles, des cinastes et bien dautres professionnel(le)s, utilisent Unity pour donner vie  leurs projets. Unity constitue la base sur lesquelles sont crs les contenus numriques les plus remarquables au monde. Plus prcisment, la plateforme de Unity offre un ensemble complet de solutions logicielles pour crer, excuter et montiser du contenu interactif 2D et 3D en temps rel pour les tlphones mobiles, les tablettes, les ordinateurs, les consoles et les appareils de ralit augmente et de ralit virtuelle.
+Au quatrime trimestre de lanne 2022, plus de 70 des 1000 meilleurs jeux mobiles qui ont t fait avec Unity sont drivs dun nombre combin des 1000 meilleurs jeux du Google Play Store et de lApp Store dApple. En 2022, les applications Made with Unity ont eu plus de 4 milliards de tlchargements par mois. Pour en savoir davantage, veuillez consulter le site www.unity.com.
+Unity est un employeur fier de garantir lgalit des chances. Nous nous engageons  favoriser un environnement inclusif et innovateur et  clbrer nos employs  travers lge, lthinicit, la couleur, lascendance, lorigine nationale, la religion, le handicap, le sexe, lidentit ou lexpression de genre, lorientation sexuelle ou tout autre statut protg conformment  la loi applicable. Nos diffrences sont des forces nous permettant de rpondre aux besoins croissants et volutifs de nos clients, partenaires et collaborateurs. Veuillez remplir ce formulaire si vous ncessitez des accommodations particulires pour rendre votre exprience dentrevue agrable et positive.
+Les chasseurs de ttes et les agences de recrutement ne peuvent pas soumettre rsumesCV par ce site Web ou directement aux superviseurs. Unity naccepte pas des chasseurs de ttes non sollicits et des rsums (CV) dagence. Unity ne payera pas dhonoraires  aucune agence tierce ou entreprise qui na pas sign dententes avec Unity.
+La protection de votre vie prive est importante pour nous. Veuillez prendre un moment pour consulter nos politiques de confidentialit pour les prospects et les candidats. Si vous avez des questions concernant la protection de votre vie prive, veuillez nous contacter  DPOunity.com.
+_____
+The opportunity
+We are looking for a dynamic and upbeat individual to join our Production Reliability Engineering team! We play a central function that provides tools, services, and expertise to accelerate development teams velocity and establish a culture of reliability across Unity.
+In this new role, you will be expected to provide technical leadership and product input within our org. You will enjoy the challenges of making continuous improvements in the Reliability, Cloud Infrastructure, andor Developer Velocity space in a scalable, repeatable, efficient, and balanced way. You will also enjoy autonomy and the rare chance to create impact across Unity.
+What youll be doing 
+
+You will work on one or more of the following areas depending on your strengths and interests:
+Reliability Engineering: enabling development teams to achieve their reliability goals (Availability, Performance, Capacity, and Security)
+Cloud Infra and Services: developing and maintaining standards, services, and platforms in the cloud infrastructure space that Unity development teams can rely on to run their production services
+
+
+Identify product needs andor technical gaps, and deliver the desired outcomes through technical leadership, product-led approach, and alignment building.
+Work on initiatives that can have a high level of ambiguity, and are often cross-team or cross-org in nature
+
+What were looking for 
+
+Proficiency in modern languages like Golang, with cloud environments, cloud solutions, and container technologies, such as GCP, Azure, AWS, GKE, AKS, EKS, etc.
+Proficiency with infrastructure-as-code and CICD tools (e.g. Terraform, Jenkins, Helm, etc)
+Experience with Linux and standard tooling (Bash, Git, etc.)
+Experience in supporting critical production systems or services
+Strong interpersonal and collaboration skills, and comfortable with communicating ideas and sharing takeaways with large audiences
+
+You might also have
+
+Experience in the space of reliability engineering
+Developed and supported infrastructure-based platforms with successful adoption
+Comfortable with working in a fast-paced environment
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Relocation support is not available for this position.
+International relocation support is not available for this position.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-AR1 SEN

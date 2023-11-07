@@ -1,0 +1,72 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join:
+BizTech Content Products is responsible for developing and maintaining Airbnbs Content Platform. This platform combines various off-the-shelf and custom services to power crucial content, taxonomy, and knowledge functions across Airbnb. Were in search of an experienced individual who excels in versatility, with the ability to handle a wide range of responsibilities. If our mission aligns with your interests, we look forward to hearing from you.
+The Difference You Will Make:
+Our team works closely with stakeholders to create and maintain scalable content solutions, including the content foundation powering the Airbnb Help Center and Host Resource Center. We collaborate with engineering teams across the organization to fulfill content management and delivery needs. This includes spearheading initiatives to simplify and standardize technology stacks, ultimately reducing time and cost to delivery. We specialize in developing custom solutions and seamlessly integrating services. This involves tasks ranging from extending front-end services, allowing content authors to interact with Airbnb internal systems from within SaaS applications, to incorporating common metadata of controlled taxonomy across multiple services. Additionally, we collaborate with SaaS vendors to align product roadmaps precisely with stakeholder and partner requirements.
+We seek a systems engineer to actively propel these initiatives, weighing and balancing stakeholderpartner needs and delivering solutions that are efficient, effective, secure, and sustainable. Your engagement with diverse stakeholders and teams will grant you a comprehensive outlook. This expanded perspective will enhance your ability to assess requirements and devise solutions from a platform-oriented stance, and to drive governance and architecture design towards repeatable and sustainable solutions.
+A Typical Day:
+
+
+Consult with stakeholders planning new content capabilities, providing quick and accurate feedback as to feasibility, level of effort, and similar existing solutions.
+
+
+Design back-end solutions to improve service performance, reliability, and observability, while reducing resource allocation and cost.
+
+
+Develop back-end solutions to enable secure service-to-service communication across service meshes.
+
+
+Expand reporting and analytics capabilities, including exposing as or importing from external data sources.
+
+
+Create reusable tooling to automate common platform tasks.
+
+
+Troubleshoot with and guide stakeholders towards solutions addressing issues arising from any stage in the content lifecycle and tech stack.
+
+
+Support our taxonomy and content management platforms with rotating on-call responsibilities, responding to incidents and triage
+
+
+Your Expertise:
+
+
+6 experience with end-to-end complex systems design and implementation across a broad domain of environments
+
+
+Broad knowledge of topics relevant to the Content Platform, including CMS, taxonomy, and knowledge base.
+
+
+Expertise with a public cloud provider (AWS, GCP, Azure)
+
+
+Service orchestration experience is preferable using Terraform, and Kubernetes.
+
+
+Experience developing front-end and back-end software, preferably including JavaScript or TypeScript, with frameworks such as React and runtimes including Node.js.
+
+
+Familiarity with the command line, including Bash shell scripting.
+
+
+Experience working with authentication and authorization protocolsframeworks (OpenID Connect, OAuth, LDAP etc.)
+
+
+Exposure to architectural patterns of large, high-scale web applications, such as well-designed APIs, high volume data pipelines, and efficient algorithms.
+
+
+You have experience with, and inclination for, operating and executing as part of a distributed team using asynchronous workflows and communications.
+
+
+Strong communication skills and the ability to communicate effectively with stakeholders across a variety of roles and communities.
+
+
+Experience working with conflicting interests and requirements, in resolving these conflicts, and in designing, scoping, and timely delivering platform solutions.
+
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range155,000—199,000 USD

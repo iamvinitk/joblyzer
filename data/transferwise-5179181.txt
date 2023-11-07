@@ -1,0 +1,57 @@
+Your mission
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the worlds first platform to offer true multi-currency banking.
+
+Heres how youll be contributing to the Treasury team
+
+You will be accountable for the Treasury ledger which is the basis for all FX and liquidity management data
+You will develop reasonable processes, controls and products that enable us to
+
+Onboard product changes to the ledger safely and quickly
+Continually monitor ledger health and accuracy
+Provide real time metrics and positions to Treasury teams
+
+
+
+You will work with the ledger team to define the long term vision for Treasury ledger 
+Youll work with engineers and analysts to quantify the health of the ledger in terms of accuracy, availability and real timeliness
+Youll identify the most impactful opportunities for us to improve ledger product, controls and processes
+Youll get to know our product flow of funds well and how they impact liquidity and FX
+Where possible you will automate controls and processes so that we can continue scaling
+
+
+This role will give you the opportunity to
+
+Impact all of Wises customers - everything you do will impact millions of people across the globe
+Choose your path to impact - we believe people are most empowered when they can act autonomously. So rather than telling you what to do, youll work with your team to create a vision of your own. Of course, you can always gather feedback from smart, curious people across  Wise but youll have the freedom to make your own calls
+Youll have the opportunity to travel and work with our teams in Tallinn, Austin and Singapore as well as meet various partners and organisations when needed
+Grow as a product person and a leader  Grow and inspire your team and others to join our mission
+
+
+A bit about you
+
+You are a seasoned Product person with experience of inspiring others and with the ability in building products where theres high degree of ambiguity on what to build in order to drive growth or mitigate risk
+Youre hands on, and youd do everything needed to make the team and the product successful. You get it done by thinking strategically and executing tactically
+You understand financial engineering and can clearly articulate and optimise trade offs between financial risks
+You are hands-on with data and enjoy coaching analysts and supporting developers in prioritising technical debt and bugs versus building new features
+You have empathy for your customers and can quickly identify the problems worth solving, explaining your rationale with data (rather than assumptions)
+You have a record of managing data platforms or back end services
+Youre not afraid of learning skills you dont know yet to unblock yourself and your team. You dont stick to a by the book product lead role definition.
+
+
+Beneficial, but not mandatory experience
+
+Finance, Payments or Treasury experience particularly in Liquidity and FX or familiarity with accounting terminology and frameworks
+Experience of building controls on financial data and working with real time data needs
+Experience with using SQL
+
+
+Our Offer
+
+Base salary:  83.000 - 110.000 gross  year base (based on experience  interview outcomes)
+Restricted Stock Units (RSUs): https:www.wise.jobswhat-we-doour-offer 
+Numerous amount of other benefits:  https:www.wise.jobs20200707benefits-in-our-london-office 
+Salary (annual)83,000—110,000 GBPWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

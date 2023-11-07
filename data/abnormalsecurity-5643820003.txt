@@ -1,0 +1,51 @@
+About the Role
+ 
+Abnormal Security is looking for a Senior Product Designer to drive forward new product initiatives. At Abnormal, we keep our customers—ranging from Fortune 500 organizations to small businesses—safe from complex and cutting edge attacks that have the potential to cause financial loss and disrupt business operations. Our novel approach to email security, account takeover detection, and other use cases has resulted in us becoming one of the fastest-growing and best-regarded SaaS companies.
+ 
+As part of our continued growth, we will need to develop brand new solutions to pressing customer problems, launch these offerings, and iterate based on market feedback. To deliver on this roadmap, you will drive a significant portion of Abnormals overall design work, while helping us scale our Design function further over time.
+ 
+What you will do 
+ 
+
+Drive design work for some of Abnormals top strategic initiatives
+
+Own the visual experience for all of these projects, ensuring a high quality UX that delights our customers
+Iterate with PM and Eng to balance vision, craft, and feasibility of execution
+
+Collaborate with leadership and cross-functional partners
+
+Interface with leaders and execs at Abnormal to gain context on priorities and get feedback on mocks
+Provide input into requirements and product direction based on learnings from customers and vision for the user experience
+Collaborate closely with PM and Engineering counterparts to ensure we ship on time and with pixel-perfect execution
+Engage with GTM stakeholders to align design work across the end to end customer journey (e.g. website  Sales materials  product)
+
+Build process and establish culture for our Design function
+
+Iterate on our design system to create new patterns that are scalable, consistent, and user friendly
+Develop new processes to maximize the efficiency and effectiveness of Design at Abnormal
+Actively contribute to candidate sourcing and recruiting as we scale the Design function
+
+
+ 
+Must Haves 
+ 
+
+4 years of experience building end to end user experiences to support enterprise customers
+Able to understand and engage with personas such as security analysts and CISOs, and empathize with their unique needs
+History of working on large and strategic projects spanning multiple teams and stakeholders 
+Ability to craft high quality user experiences with autonomy and velocity
+Proven listener and collaborator who can work well with cross functional stakeholders and business leaders, while serving as a strong advocate for the product and our customers
+High proficiency with Figma
+BS degree in Computer Science, HCI, Graphic Design, or a related field
+
+ 
+Nice to Haves
+ 
+
+Prior B2B SaaS experience
+Have designed and built products with small teams in a startup environment in the past
+Experience building operating systems for Design to improve consistency, quality, and quantity of work produced by the team
+Technical background
+
+ 
+LI-ML1At Abnormal Security certain roles are eligible for a bonus, restricted stock units (RSUs), and benefits. Individual compensation packages are based on factors unique to each candidate, including their skills, experience, qualifications and other job-related reasons. We know that benefits are also an important piece of your total compensation package. Learn more about our Compensation and Equity Philosophy on our benefits and perks page.Base salary range:152,200—175,000 USD

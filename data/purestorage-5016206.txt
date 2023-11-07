@@ -1,0 +1,49 @@
+BE PART OF BUILDING THE FUTURE.
+What do NASA and emerging space companies have in common with COVID vaccine RD teams or with Roblox and the Metaverse? 
+The answer is data, -- all fast moving, fast growing industries rely on data for a competitive edge in their industries. And the most advanced companies are realizing the full data advantage by partnering with Pure Storage. Pures vision is to redefine the storage experience and empower innovators by simplifying how people consume and interact with data. With 11,000 customers including 58 of the Fortune 500, weve only scratched the surface of our ambitions. 
+Pure is blazing trails and setting records:
+
+For ten straight years, Gartner has named Pure a leader in the Magic Quadrant 
+Our customer-first culture and unwavering commitment to innovation have earned us a certified Net Promoter Score in the top 1 of B2B companies globally
+Industry analysts and press applaud Pures leadership across these dimensions
+And, our 5,000 employees are emboldened to make Pure a faster, stronger, smarter company as we go
+
+If you, like us, say bring it on to exciting challenges that change the world, we have endless opportunities where you can make your mark.SHOULD YOU ACCEPT THIS CHALLENGE...
+The FlashArray Team builds the industrys most innovative, high-performance, and highly available portfolio of products that are designed for the most demanding mission critical applications.  While we deliver a hardware storage array, over 90 of our engineering staff are software engineers. Our customers are the most important part of our business and they love FlashArray for its simplicity of management, the constant flow of new and exciting upgrades, and ability to live on the cutting edge of technology while never taking downtime, ever. Most recently, we extended the value of our FlashArray capabilities into the cloud with CloudSnap and Cloud Block Store for AWS. These new innovations enable our customers to leverage the agility of the public cloud for both traditional IT and cloud-native applications. 
+What You Will Be Doing...
+
+Directly manage a development team focused on projects related to Linux kernel development, new Flasharray platforms, NVMe fabrics protocols and features
+Work closely with Program managers, Release managers and other peer teams contributing to cross functional projects
+Drive execution in conjunction with the above teams to ensure that we are achieving product development milestones.
+Work with partners and vendors to integrate third party deliverables into the product
+In coordination with Purity software teams - drive detailed software plans for Purity releases.
+Develop plans for continuous integration, and phased execution.
+
+What You Bring To The Team...
+
+BS in computer science or equivalent
+3 plus years of technical lead or management experience, while staying hands-on in development
+5 plus years of Linux kernel or protocol development experience in servers, networking or storage, ideally on x86 NUMA systems.
+Experience in technologies and industry standards such as NVMe, NFS, iSCSI, Fiber Channel, SCSI, or protocols such as SMB,NFS.
+Experience in Agile development and continuous integration in development projects.
+Proficiency in CCJava and scripting languages such as pythonshell
+Working knowledge of Linux virtualization tools, or data path technologies such as DPDK
+Proven expertise in managing projects throughout the entire SDLC,  delivering products to market on schedule, and ensuring feedback loops from customers into development
+Strong customer focus
+Data driven, with experience in extracting operational insights from metrics
+Solid knowledge of end-to-end quality best practices
+Demonstrated strong analytical and problem solving skills
+Excellent written and verbal communications skills
+
+You will be based in Santa Clara. As this is an office-centric role, you are expected to be present in the office for 3 days a week. As outlined in Pures Hybrid Work Policy, there will be variations over periods of time, depending on business need.
+The salary range for this position is: 194,000-292,000 per year. Salary ranges are determined based on role, level and location. For positions open to candidates in multiple geographical locations, the base salary range is reflective of the labor market across the applicable locations. This role may be eligible for incentive pay andor equity. And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events - check out purebenefits.com for more information.
+LI-BR1BE YOU—CORPORATE CLONES NEED NOT APPLY.
+Pure is where you ask big questions, think differently, and make an impact. This is not just a job, but a place where you have a voice and can accelerate your career. We value unique thoughts and celebrate individuality, and with ample opportunity to learn, develop yourself, and expand into different roles, joining Pure is an investment in your career journey.
+Through our Pure Equality program, which supports a flourishing field of employee resource groups, we nourish the personal and professional lives of our team members. And our Pure Good Foundation gives back to local and global communities through volunteering and grants.
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events.
+PURE IS COMMITTED TO EQUALITY.
+Research shows that in order to apply for a job, women feel they need to meet 100 of the criteria while men usually apply after meeting about 60. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+Pure is proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire. 
+If you need assistance or an accommodation due to a disability, you may contact us at TA-Opspurestorage.com.
+APPLICANT  CANDIDATE PERSONAL INFORMATION PRIVACY NOTICE.
+If youre wondering how or why Pure collects or uses information you provide, we invite you to check out our Applicant  Candidate Personal Information Protection Notice.

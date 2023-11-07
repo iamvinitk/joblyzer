@@ -1,0 +1,46 @@
+Design, develop and contribute to a mature distributed systems Go code base. Were looking for experienced Go developers who can show strong technical leadership and engineering rigour. Own the design, delivery and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale. 
+As a software engineer on the Juju team, youll be working on a large open source Go project that powers complex distributed software systems across the world. Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes and bare-metal. Combined with the Charmed Operator framework, Juju provides a complete solution for applications and infrastructure management. 
+If you love solving interesting technical challenges in elegant, high-performance ways, come join our globally-distributed team of software engineers in building the future of the software-defined datacenter on the Ubuntu platform. 
+Many internal and external teams depend on Juju to deliver their products and services - from Canonical Infrastructure Services, our Openstack and cloud delivery teams, to Fortune 500 companies
+What we are looking for in you
+
+Proven track record of professional software delivery using Go, C, C or similar.
+Hands-on experience developing highly concurrent distributed systems
+Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+Solid networking background and experience
+Degree level education in a technology field  
+Experience with agile software development methodologies
+Experience of the Linux and free software world
+Working knowledge of cloud computing and experience with highly-concurrent distributed systems
+Excellent communications skills in the English language, both verbal and written, especially in online environments
+Ability to effectively interact with a diverse group of people (both technical and non-technical)
+Ability to be productive in a globally distributed team through self-discipline and self-motivation, delivering according to a schedule, and to motivate and mentor others to do the same
+
+Additional skills that you might also bring
+
+Passionate about software quality and testing
+Experience with packaging (debian, snappy)
+Programming with and operating MongoDB
+Experience working on a distributed team on an open source project -- even if that is outside work open source contributions.
+Demonstrated track record of Open Source contributions
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

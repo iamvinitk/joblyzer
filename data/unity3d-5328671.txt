@@ -1,0 +1,38 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Unity is hiring an HRIS Workday Tech Analyst to supervise HRIS functions such as system configuration, updates, security roles, reports, development, and training. This role will support and enhance global Workday projects to optimize their performance and growth.
+The HRIS Tech Analyst role is responsible for supporting HRIS technologies used by the IT Team. This role will act as an IT technical representative for all projects within the Business Systems team. As a technical solution owner, you will be expected to provide domain expertise for projects requiring technical development and integration. In addition, the role will provide support to other administrative functions of the HRIS Landscape including access, configuration changes, and issue resolution.
+What youll be doing 
+
+Work with third-party vendors, internal resources, and business owners to effectively implement global solutions of varying complexities; support Data Migration efforts from legacy applications during implementation processes
+Provide technical expertise across HRIS applications with the ability to understand and define technical solutions agnostic of a platform; develop detailed technical requirements and establish traceability to the business vision
+Work closely with business analysts and partners to understand and develop technical solutions to meet captured requirements and Unity standards
+Lead and implement smoke, unit, and integration testing in required situations
+Work with integration teams to ensure ongoing efficiency  effectiveness in communication between critical applications
+
+What were looking for 
+
+Experience creating, updating, and maintaining Workday inboundoutbound integrations using EIBs, Core Connectors, Packaged Integrations, and Workday Studio
+Experience migrating historical and current data sets into HRISHCM applications; familiar with sophisticated Workday reporting using all report types including SQL or other querying languages
+Experience creating and maintaining complex calculated fields and custom objects
+Global Platform Production Support  Issue Resolution experience
+Familiar with common system administration tasks including annual release cycles, general access controls
+
+You might also have
+
+Global, Enterprise HRISHCM Implementation Experience preferably with Workday Certifications in related disciplines
+Broader development experience in a variety of languages andor custom applications
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this Web site or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Relocation support is not available for this position. Le support  la relocalisation nest pas disponible pour ce poste
+International relocation support is not available for this position. Le support  la relocalisation internationale nest pas disponible pour ce poste.
+Work visaimmigration sponsorship is not available for this position. La sponsorisation de visa de travail nest pas disponible pour ce poste
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-DJ2 MID
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary94,400—127,700 USD

@@ -1,0 +1,32 @@
+Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.
+Founded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.  
+Aptos (Ohlone for The People) encompasses our mission and ethos for why we build.About The Role
+As part of the Ecosystem team, you will be responsible for partnering with external customers and internal customers on building novel and capable smart contracts across one or more programming languages.  You will also be working closely with the programming languages team to prioritize and co-develop programming language improvements and tweaks and also build and improve tools for development.  These applications will have an emphasis on quality, safety, and interoperability with other Aptos tools. The scope, as it currently stands, is open-ended, but some projects will be likely from the following areas: governance, tokenomics, decentralized finance, games, social.
+This role sits in our Palo Alto, CA office.
+What youll be doing:
+
+Writing smart contracts in one or more programming languages that provide new and powerful functionality for a variety of internal and external applications
+Developing tooling for smart contract development and deployment
+Guiding and onboarding new developers into the ecosystem
+Develop and maintain high quality software engineering practices and principles in a highly visible open-source project
+
+What were looking for:
+
+7 years of experience as a hands-on software engineer
+Experience with a low-level programming languages such as Rust, Go, Swift, or CC
+Interest or familiarity in smart contract languages such as Move and Solidity
+Code auditing experience
+
+ 
+The base salary range for this full-time position is 180k - 280k. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in the Bay Area at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.Our Benefits
+
+100 insurance premium coverage for medical, dental, and vision for you and your dependents (US Employees)
+Equipment of your choice
+Flexible vacation time, 11 holidays, and floating company days off 
+Competitive Salary
+Equity (RSUs)
+Protocol Token Grants
+401k matching (US Employees)
+Fun and inclusive in-person and digital events
+
+Aptos is committed to diversity in the workplace, and were proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.

@@ -1,0 +1,85 @@
+
+If youre here, its because youre looking for an exciting ride. 
+A ride that will fuel up your ambitions to take on a new challenge and stretch yourself beyond your comfort zone. 
+Well deliver a non-vanilla culture built on talent, where we work to amplify the impact on millions of people, paving the way forward together. 
+ 
+Not your usual app. We are the fastest-growing multi-category app connecting millions of users with businesses, and couriers, offering on-demand services from more than 170,000 local restaurants, grocers and supermarkets, and high street retail stores. We operate in more than 1500 cities across 25 countries. Every year, 200k merchants generate over 4B in sales through our platform and over 20M customers get their goods delivered in minutes.
+Together we revolutionize the way people connect with their everyday needs, from delivering essentials to connecting our ecosystem of users through innovative solutions powered by technology. For us, every day is filled with purpose.
+What makes our ride unique? 
+ Our culture and strong values. 
+
+We have an office-first culture and we place collaboration at the center of everything we do! 
+We have a non-vanilla personality and feedback mindset. We dont shy away from difficult conversations - we see them as a gift! 
+We work with high intensity and have fun along the way.  We also celebrate the wins (a lot!). 
+We celebrate diversity in all its forms and foster an inclusive culture where everyone can bring their authentic selves to work. 
+
+Our career development philosophy. 
+
+We are building a talent house of high performing teams and leaders. We invest in people who raise the bar and help others reach their full potential. 
+We take ownership of our career development. We dont believe in linear and predictable career paths - we create the job of our dreams! 
+We embrace opportunities to move the needle and make an impact beyond our scope. 
+
+Our commitment to being a force for good. 
+
+Our platform is an important economic tool for millions of people (customers, partners, couriers) and we are taking action to amplify our positive impact. 
+We invest in doing good by dedicating time and resources into social and environmental initiatives. 
+We have the ambition of being DIB role models across the tech industry. We are creating environments, systems, and processes that provide equal opportunities, break biases, and empower our communities.
+
+We have a vision: To give everyone easy access to anything in their cities. And this is where your ride starts.
+
+YOUR MISSION :
+As a Fraud  Risk Data Science Manager you will be responsible for envisioning, leading and building an all-star team of Data Scientists working closely with key business and product leaders, analysts and engineers. You and your team lead the development of Fraud  Risk strategies, and preventive and predictive ML solutions to mitigate losses while establishing a balance between risk  customer experience. You will leverage our big data platform and use state-of-the-art machine learning algorithms and statistical models to deliver robust and highly scalable algorithmic products and solutions that have a direct impact on our global user base and our business. 
+THE JOURNEY : 
+
+Recruit, lead and manage an all-star team of Data Scientists of different seniority levels. 
+Collaborate with business, product and engineering stakeholders to prioritise the most impactful work and ensure data science needs are accounted for.
+Manage the entire lifecycle of your teams projects; from exploratory analysis to evaluation, deployment and iteration.
+Create the channels and tools for communicating results and monitor key metrics.
+Lead by example and motivate your team while bringing in new ideas on how to improve their ways of working.
+Ship fast and often measuring the impact using a robust experimentation framework.
+Coach and mentor your team to advance their careers and improve their professional skills.
+Act as data science evangelist, proactively looking for new opportunities to impact the business using data science tools and promoting its adoption
+Act as data translator, being able to connect business problems with technical solutions and to architect them to be implemented by your team
+
+Actively collaborate with your colleagues and learn from each other in a supportive environment that allows you to grow, develop and make a difference
+
+
+WHAT YOU WILL BRING TO THE RIDE
+
+2 years of experience in a similar role, managing a data science team (5 people) or multiple data science projects. Preferably in the digitaltech space.
+2 years of strong hand-on experience as an individual contributor in industry or academia.
+At least an MSc, and preferably a PhD in a scientific discipline such as Physics, Statistics, Computer Science or Mathematics.
+You have intimate level of ability and proven record of success managing fraud risk, fraud prevention and detection with a team of data professionals
+Deep theoretical and applied knowledge in one or more of the following areas: supervised and unsupervised learning, deep learning, reinforcement learning, game theory, statistical inference, bayesian statistics, causal inference, time series analysis, decision theory, mathematical optimisation
+Demonstrable experience at productizing models; from inception to deployment.
+Knowledge and experience working with modern machine learning platforms  deployment technologiesvendors. (MLFlow, SageMaker, etc.)
+Full proficiency on Python and SQL; can write, inspect and review code.
+Good understanding of modern application and data stacks (Microservices, Event Streaming, Data Lakes, Container-orchestration)
+Experience with big data (e.g. Scala and Spark) and cloud technologies (AWS, Azure, Google Cloud, Databricks).
+Experience in start-up andor RD environments.
+Excellent spoken and written communication skills (English).
+
+We are always looking for the best candidates, so if you think you would be a good fit even if you dont meet 100 of the requirements we would love to hear from you!
+ 
+
+Individuals representing diverse profiles, encompassing various genders, ethnicities, and backgrounds, are less likely to apply for this role if they do not possess solid experience in 100 of these areas. Even if it seems you dont meet our musts dont let it stop you, we are all about finding the best talent out there! Skills can be learned, and embracing diversity is invaluable.
+We believe driven talent deserves:
+
+ An enticing equity plan that lets you own a piece of the action.
+ Top-notch private health insurance to keep you at your peak.
+ Monthly Glovo credit to satisfy your cravings with zero delivery fees on all Glovo orders!
+ Cobee discounts on transportation, food, and even kindergarten expenses.
+ Discounted gym memberships to keep you energized.
+Flexible time off (uncapped vacation days) , the freedom to work from home two days a week, and the opportunity to work from anywhere for up to three weeks a year!
+ Enhanced parental leave, and office-based nursery.
+ Online therapy and wellbeing benefits to ensure your mental well-being.
+ An external learning budget to fuel your thirst for knowledge and personal growth.
+
+Here at Glovo, we thrive on diversity, we believe it enhances our teams, products, and culture. We know that the best ideas come from a mashup of brilliant diverse minds. This is why we are committed to providing equal opportunities to talent from all backgrounds - all genders, racialdiverse backgrounds, abilities, ages, sexual orientations and all other unique characteristics that make you YOU. We will encourage you to bring your authentic self to work, fostering an inclusive environment where everyone feels heard. 
+Feel free to note your pronouns in your application (e.g., sheherhers, hehimhis, theythemtheirs, etc).
+So, ready to take the wheel and make this the ride of your life? 
+Delve into our culture by taking a peek at our Instagram and check out our Linkedin and website!
+
+
+
+Glovo is transforming the way consumers access local goods, enabling anyone to get almost any product delivered in minutes. Our on-demand logistics connect customers with independent local couriers who acquire goods from any restaurant or store in a city, as well as deliver urgent packages for a variable fee. For additional information on Glovo, please visit https:about.glovoapp.com

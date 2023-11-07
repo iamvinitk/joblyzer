@@ -1,0 +1,34 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team: 
+The preferred location for this position is in or around Robinhoods offices in Menlo Park, CA or New York, NY with in-office work capabilities, as may be required by management.
+Robinhood is a metrics driven company and data is foundational to all key decisions from growth strategy to product optimization to our day-to-day operations. We are looking for a Data Engineer to build and maintain foundational datasets that will allow us to reliably and efficiently power decision making at Robinhood. These datasets include application events, database snapshots, and the derived datasets that describe and track Robinhoods key metrics across all products. Youll partner closely with engineers, data scientists and business teams to power analytics, experimentation, and machine learning use cases. We are a fast-paced team in a fast growing company and this is a unique opportunity to help lay the foundation for reliable, impactful, data-driven decisions across the company for years to come.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do day-to-day:
+
+Help define and build key datasets across all Robinhood product areas. Lead the evolution of these datasets as use cases grow.
+Build scalable data pipelines using Python, Spark and Airflow to move data from different applications into our data lake.
+Partner with upstream engineering teams to enhance data generation patterns.
+Partner with data consumers across Robinhood to understand consumption patterns and design intuitive data models.
+Ideate and contribute to shared data engineering tooling and standards.
+Define and promote data engineering best practices across the company.
+
+About you:
+
+4 years of professional experience building end-to-end data pipelines
+Proven ability to implement software engineering-caliber code (preferably Python)
+Expert at building and maintaining large-scale data pipelines using open source frameworks (Spark, Flink, etc)
+Strong SQL (Presto, Spark SQL, etc) skills.
+Experience solving problems across the data stack (Data Infrastructure, Analytics and Visualization platforms)
+Expert collaborator with the ability to democratize data through actionable insights and solutions.
+
+Bonus points:
+
+Passion for working and learning in a fast-growing company.
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.US Zone 1: 157000 - 185000US Zone 2: 139000 - 163000US Zone 3: 122000 - 144000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

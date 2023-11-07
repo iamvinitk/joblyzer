@@ -1,0 +1,36 @@
+ABOUT DSC:We disrupted the shaving industry in 2011 by delivering great blades at an awesome price, right to your door. From razors, we quickly grew into a mens self-care brand offering oral care, hair styling, deodorant, skincare, and fine fragrance along with services and content designed to help guys take care of their minds and bodies so they can be their best selves.We spend our days working to eliminate the stigma around being a man and wanting to take care of yourself. In turn, we hope that you will come to us in your most vulnerable moments. Here, you will find answers to your questions, from Club Pros who know what it takes to make you look, feel, and smell your best. You got a problem? Weve got a solution. Welcome to the Club.
+ROLE SUMMARY:
+We are looking for a Senior Analytics Engineer to lead the development of our analytics framework. Youll play a key role in amplifying our data-driven culture, architecting our reporting infrastructure, and partnering with the business to derive maximum value from our data. Youll work with Data Engineering and business end-users to make sure that data sources and key reports are accessible and discoverable, manage data source development and maintenance, data modeling, governance, and report design.RESPONSIBILITIES:
+
+Partner with business stakeholders to establish and refine key metrics, creating dashboards that empower stakeholders to make data-informed decisions
+Curate and publish standardized data sources for Explorers and Creators to access via Tableau Cloud
+Develop, maintain, and manage data models that underlie Tableau data sources using dbt, leveraging tests and data development best practices
+Design and implement Tableau Cloud data and workbook security model, and partner with IT to manage access, user roles, and permissions
+Work with business partners to develop new reports and dashboards as needed and  optimize key reports
+Draft and maintain comprehensive documentation detailing data models, data dictionaries, and related database specs
+Lead the charge for making data discoverable by making documentation available and navigable for end-users so they can self serve
+Work with end-users to educate them about getting the most out of Tableau
+Collaborate with cross-functional teams, understanding their data needs and architecting tailored solutions
+Proactively solve issues or errors within the data pipeline
+Ensure data integrity, security, and adoption of best data management practices
+Continuously evaluate and introduce cutting-edge technologies that enhance efficiency and value addition
+
+REQUIREMENTS:
+
+5 years of experience in data and analytics
+3 years of experience with Tableau, with at least one year in an administrative capacity
+2 years of experience working with dbt
+Proficiency in SQL and experience with modern databases like Redshift, Snowflake, Postgres, MySQL, or Google BigQuery
+Experience with data modeling and query performance optimization
+Advanced experience in Tableau Desktop and Tableau Online or Tableau Server
+Excellent problem-solving and quantitative skills, including the ability to identify root causes and recommend solutions
+Familiarity with git workflows
+A proactive, solution-oriented mindset with a predisposition towards collaboration and communication
+Strong knowledge of data manipulation, database design, foundational data analytics and data platform structures; ability to manage large data sets and databases
+
+POSITION TYPE:This is a full-time exempt position.WORK ENVIRONMENT:This is a hybrid role for our Headquarters in Los Angeles.
+SALARY:
+125,000 - 145,000
+
+Dollar Shave Club is an Equal OpportunityAffirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identification, national origin, disability, or protected veteran status.Reasonable Accommodation: Dollar Shave Club provides reasonable accommodation so that qualified applicants with a disability may participate in the selection process. Please advise us of any accommodations you request in order to express interest in a position by e-mailing: accommodationsdollarshaveclub.comPlease state your request for assistance in your message. Only reasonable accommodation requests related to applying for a specific position within Dollar Shave Club will be reviewed at the e-mail address supplied.Dollar Shave Club will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.Thank you for considering a career with Dollar Shave Club 
+Privacy Notice for California Job Applicants

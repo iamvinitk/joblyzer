@@ -1,0 +1,48 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+SOFTWARE ENGINEER (GROUND SEGMENT)
+The SpaceX Ground Segment team is responsible for mission-critical space to ground communications and tracking of our Falcon, Dragon, and Starship vehicles. They design, build, and operate an Earth ground station network, including launch site and recovery RF communications and optical tracking. For NASA missions, the team is responsible for NASA mission control interfaces, including command, telemetry, voice and video. Additionally, as the focus turns towards the human space exploration beyond low Earth orbit, the team is working on developing the infrastructure that will be used to communicate with our vehicles and teams on the moon and beyond.
+As a software engineer on the Ground Segment team, you will be responsible for designing, developing, and testing the software that is used to control SpaceX communications and tracking assets for Falcon, Dragon, and Starship. You will develop projects through their full product life cycle. You will be expected to work alongside operators in Mission Control. You will demonstrate extreme ownership of this software through deep understanding of system requirements and interfaces while pushing to meet aggressive timelines. You will also closely collaborate with other disciplines and think at a system level to ensure a high level of reliability for mission critical tracking and data on systems that include ones used in support of human spaceflight.  
+RESPONSIBILITIES: 
+
+Design, test, and integrate highly reliable software systems that run on both commercial and SpaceX developed hardware
+Develop continuous integration and testing systems in order to confidently deploy new software to a production environment
+Develop prototypes to evaluate new designs and hardware and provide quantitative analysis for decision making
+Partner with avionics, flight operators, GNC, and other stakeholders to identify and execute software solutions
+Perform post operation data analysis to evaluate system performance and inform continuous improvement
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in computer science, engineering, math, or science discipline and 2 years of experience in software development; OR 6 years of experience in software development
+2 years of experience in Python or C
+2 years of experience working in a linux environment
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+2 years of experience with spacecraft, ground station, or other communication system operations
+2 years of project or industry experience with RF, controls, spacecraft, andor communications systems
+Developed, debugged and deployed software that has been used in real world applicationsprojects
+Experience working on technical teams in a rapidly changing, highly demanding environment
+Experience with networking protocols (UDP, TCP, etc)
+Solid fundamental knowledge of networks, electronics, math, engineering, and physics
+Strong skills in debugging, performance optimization, and unit testing
+Creative approach to problem solving, engineering, and design with exceptional analytical skills
+Excellent communication skills both written and verbal
+Experience with web technologies and user interface design
+Electromechanicalmechatronics software system design and development
+Working knowledge of control theory
+Experience designing fault tolerant software
+Thorough knowledge of computer architecture and networks
+Ability to work independently and in a team, take initiative, and communicate effectively
+
+ADDITIONAL REQUIREMENTS:
+
+Extended hours and weekend work may be required to support critical project and mission milestones
+
+COMPENSATION AND BENEFITS:        Pay Range:    Software EngineerLevel I: 120,000.00 - 145,000.00per year    Software EngineerLevel II: 140,000.00 - 170,000.00per year        Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short  long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation  will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.    
+ITAR REQUIREMENTS
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

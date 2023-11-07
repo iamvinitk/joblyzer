@@ -1,0 +1,49 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.Senior Software Engineer, Web Platform
+The Community You Will Join:Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnbs various functions embody the companys innovative spirit and our fast-moving team is committed to leading as a 21st century company.
+The Difference You Will Make:
+The Web Platforms mission is to empower engineers at Airbnb working within our Typescript monorepo to deliver innovative features with high velocity and quality by providing foundational libraries, frameworks, and tools for development, testing, and release. With a focus on web-specific technologies and integrations, the team serves as a nexus between product engineers and platform-agnostic infrastructure teams, as well as shaping and ensuring the health of the monorepo itself. 
+The surface area of the team includes things like testing frameworks, developer environments, bundler and build system implementations, CI jobs, client libraries for observability and experimentation, editor integrations, and an internal web service framework. Projects on this team directly impact the productivity and experience of Airbnb developers working on web code. 
+ 
+A Typical Day: 
+As an engineer on Web Platform, you will work on technologies that help shape an industry-leading end to end developer experience. In this role you will:
+
+Contribute across the teams surface areas to directly move our core metrics (developer experience, developer velocity, debuggability, performance, and reliability) while reducing cost and providing new functionality to help make our teams vision, and that of our broader org, a reality. Upcoming projects include modularizing our client observability libraries, code editor developer experience improvements, bundler enhancements, and improving CI debuggability. 
+Partner with Airbnb product teams to understand their pain points, pilot proposed solutions, and encourage adoption of tools and frameworks
+Collaborate with a wide variety of infrastructure teams as well as support product foundation teams as they build additional capabilities on top of the teams offerings. 
+Participate in all phases of software development from architecturedesign through implementation, testing, and on-call
+Support teammates in enabling code quality, operational excellence, and shared learning
+
+Your Expertise:
+
+6 years of experience in a hands-on software engineering role, including frontend web development 
+Strong expertise with TypeScriptJavaScript 
+Strong communication skills and experience working closely with other engineering teams across complex interfaces
+Love collaborating via code reviews and architecture discussions, and are motivated to improve their teammates productivity
+[Bonus] Prior experience developing code leveraged by other developers
+[Bonus] Experience (beyond configuration) working with bundlers, testing frameworks, editor integrations, frontend buildCI systems, observability tooling, or developer environments.
+
+Benefits:
+
+Stock
+Competitive salaries
+Quarterly employee travel coupon
+Paid time off
+Medical, dental,  vision insurance
+Life insurance and disability benefits
+Fitness Discounts
+401K
+Flexible Spending Accounts
+Apple equipment
+Commuter Subsidies
+Community Involvement (4 hours per month to give back to the community)
+Company sponsored tech talks and happy hours
+Much more
+
+ 
+How Well Take Care of You:
+Our job titles may span more than one career level. The starting base pay for this role is between 200,000 - 254,000. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+If you need assistance, or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodationsairbnb.com.

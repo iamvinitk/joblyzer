@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Executing operationally is an unheralded superpower for Stripe as a financial technology company. Businesses that run on Stripe - from fledgling upstarts to household names - place significant trust in Stripe to be a reliable, compliant and safe financial platform. 
+Underpinning Stripes world-class platform are a wide variety of operational processes that are critical to delivering a great customer experience, maintaining regulatory compliance, minimizing risk and meeting legal obligations. The High Performance Operations team is a newly formed team chartered to uplevel all operational work at Stripe to be executed effectively, efficiently and at a consistently high level of quality.
+What youll do
+As the Product Manager of the High Performance Operations (HPO) team in Romania, youll be responsible for defining and building the technology platform that will enable every team at Stripe to execute those operational processes with the same level of rigor, effectiveness and efficiency as Stripes largest operational teams. 
+Day to day youll be working closely with a local team of engineers as well as operational process experts from the Operations organization. Youll collaborate with peers in the Support Experience, Capital for Platforms, Risk Experience and many others to craft the vision for the future of operational tooling at Stripe. 
+Responsibilities
+
+Develop a deep understanding of the operator persona at Stripe. 
+Become an expert in the landscape of operational work at Stripe across a diverse set of products and business areas, e.g. Capital for Platforms, Risk,  Financial Crimes, Legal, People etc. 
+Partner closely with Stripes existing Operations teams, including Workforce Management, Strategy  Analytics, Operations Technology, and more. 
+Build the vision and define the strategy for High Performance Operations at Stripe 
+Help to craft a strong, independent team culture with your engineering colleagues
+Have a profound impact on the trajectory of the Stripe business by unlocking operational scale.
+
+Who you are
+Our ideal Product Manager will be entrepreneurial, user-focused, comfortable in ambiguity, and willing to jump into a messy problem space and create order. Ideally youve worked with operational teams in the past and have a sense of what great looks like.
+Minimum requirements
+
+6 years of relevant product management experience with a track record of delivering excellent results
+Experience managing technical software products from kick-off to ship
+Strong stakeholder management skills - including the ability to influence stakeholders across organizations and borders
+Strong communications skills - you can summarize and express complex requirements in an accessible and precise manner
+Ability to navigate ambiguous situations, gather data, build intuition and develop strategy.
+
+Preferred qualifications
+
+Computer Science background or equivalent technical experience
+Experience working with operational teams.

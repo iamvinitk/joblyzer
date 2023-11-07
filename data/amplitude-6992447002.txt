@@ -1,0 +1,51 @@
+Amplitude is a leading digital analytics platform that helps companies unlock the power of their products. More than 2,300 customers, including Atlassian, Jersey Mikes, NBCUniversal, Shopify, and Under Armour, rely on Amplitude to gain self-service visibility into the entire customer journey. Amplitude guides companies every step of the way as they capture data they can trust, uncover clear insights about customer behavior, and take faster action. When teams understand how people are using their products, they can deliver better product experiences that drive growth. 
+As an organization, we approach challenges with humility, take ownership of our contributions, and embrace a growth mindset that pushes us to constantly improve ourselves, each other, and the value we bring to customers and partners.
+Amplitudes Commitment to Diversity Equity  Inclusion (DEI): Amplitude believes that diversity enables the creation of better products, improves the ability to solve complex problems, and drives more powerful solutions. We strive to create an environment of inclusion—one focused on psychological safety, empathy, and human connection—that will allow employees of all backgrounds to thrive.As a Technical Support EngineerSpecialist, you will provide enterprise-level experience to our customers through our extensive product knowledge of Amplitude.  An agent leverages their specialized knowledge and skills to research, diagnose, troubleshoot, and resolve customer issues in an accurate and timely manner. People will rely on your tech expertise with analytical thinking to educate them on our product, locate and  diagnose problems, and then recommend the best course of action. Our goal is to remove blockers to product adoption and drive value realization for Amplitudes customers. The team also partners cross-functionally with Product and Engineering to advocate for our customers and ensure a high-quality experience through their lifecycle as an Amplitude customer. In addition to being a product expert, youll have the opportunity to take on projects that will help our company scale and grow. 
+ As a Technical Support Engineer, you will: 
+
+Answer andor escalate all support tickets via email and chat
+Drive resolution by digging in and escalating challenging tickets
+Ensure that all tickets meet our service level agreements 
+
+Including an on-call weekend support once per quarter
+
+Work closely with Customer Success Managers to drive data trust in key accounts
+Provide customers a great experience using Amplitude and working with our team
+Create and update non-technical and technical documentation as the product evolves
+Report to the company any common themes or questions that arise and driving change
+Develop and improve support processes  
+
+ 
+Youll be a great addition to the team if you have:
+
+Completed your Bachelors Degree
+Track record in a similar customer-facing role OR strong ability to empathize with customers and be their advocate
+Experience with using SDKs and APIs
+The ability to present yourself with professionalism, friendliness, and a willingness to assist
+Ability to learn and explain a technical product or concept
+Natural curiosity and are a problem solver
+Passion about analytics and the problems they solve
+Familiarity with Support tools such as Zendesk, Intercom, Confluence, and Jira
+Fluent French speaker
+
+ 
+Who We Are
+The Company: Amplitude is filled with humble, life-long learners who are eager to help one another and the company succeed. Our values of growth mindset, ownership, and humility are core to the way we work: were tenacious in the face of challenges, we take the initiative to solve problems that drive our shared success, and we operate from a place of empathy and openness, seeking to understand many points of view. 
+We care about the well-being of our team: along with excellent health insurance, we offer flexible time off, a monthly wellness stipend, a 12-week parental leave, a subscription to Modern Health, and a generous Learning  Development stipend. 
+The Product: Amplitude is a digital optimization system  we help companies understand their users, rapidly release better product experiences, and ultimately grow their business. Were super proud of what weve built and continue to expand: a platform that empowers companies to thrive in the digital era. 
+ 
+Other fun facts about Amplitude: 
+ 
+
+Amplitude is a tech company to bet your career on in 2021, according to Business Insider.
+Amplitude went public via a direct listing in September 2021 and is now trading under the ticker AMPL. 
+Amplitude is the 1 product analytics solution according to G2.
+Founded in 2012, Amplitude is backed by Benchmark Capital, Sequoia Capital, IVP, Battery Ventures,, Y Combinator and other top tier investors.
+Not only are tech leaders like PayPal, Shopify and Square using Amplitude, but so are some of the biggest, most enduring companies in the world like Walmart and NBC Universal.
+Were a global and fast-growing team! Weve hired more than 300 people in 2021 and have operations in San Francisco (HQ), New York, Amsterdam, London, Paris and Singapore.
+Our mascot is the datamonster, who loves to chow down on numbers, charts, and graphs. Nom nom.
+
+ 
+Amplitude provides equal employment opportunities (EEO). All applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation.
+ 
+Amplitudes DI Commitment: Amplitude believes that diversity enables creation of better products, ability to solve complex problems, and drive more powerful solutions. In order to make diversity possible, we commit to striving to create an environment of inclusion: an environment focused on psychological safety, empathy, and human connection, which will allow employees of all backgrounds to feel the care they need to thrive.

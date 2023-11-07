@@ -1,0 +1,27 @@
+What were building and why were building it. 
+Theres a reason Fetch is ranked top 10 in Shopping in the App Store. Every day, millions of people earn Fetch Points buying brands they love. From the grocery aisle to the drive-through, Fetch makes saving money fun. Were more than just a build-first tech unicorn. Were a revolutionary shopping platform where brands and consumers come together for a loyalty-driving, points-exploding, money-saving party.
+Join a fast-growing, founder-led technology company thats still only in its early innings. Ranked one of Americas Best Startup Employers by Forbes two years in a row, Fetch is building a people-first culture rooted in trust and accountability. How do we do it? By empowering employees to think big, challenge ideas, and find new ways to bring the fun to Fetch. So what are you waiting for? Apply to join our rocketship today!
+Fetch is an equal employment opportunity employer.The Role!
+Fetchs next step in evolving the shopping experience will require growing the engineering team. Were looking for an Android Mobile Engineer Apprentice to contribute immediately and work on real features that impact our customers and partners.  You will build highly performant mobile applications to integrate seamlessly with our backend services. Youll be working on a small, multi-functional team that may include other engineers, a designer, product manager, data scientist and other roles. Success in this role requires the ability to take on challenging problems and design  develop an amazing solution with light mentorship of an experienced team member.
+In your tool-bag:
+
+An understanding of functional or object-oriented programming
+Ability to learn quickly
+A desire to work in a fast-paced and challenging environment
+Effective communication, including the ability to translate and explain technical issues to non-technical team members
+Must be Graduating from College within a month, and able to work full-time hours!
+
+You have experience with:
+
+Object oriented or functional programming languages (we use Kotlin)
+Mobile Development (Android)
+Modern App Architecture (MVVMMVC)
+Version control system (Git)
+
+Bonus Points:
+
+Full-stack development (Kotlin, Javascript, React, Swift)
+Both Android and iOS experience
+Personal app release
+Test writing and quality assurance
+Comfortable working Full Time after the Internship is completed!

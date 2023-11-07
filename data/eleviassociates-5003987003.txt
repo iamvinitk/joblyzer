@@ -1,0 +1,32 @@
+Because You Deserve More Than Just a Job
+To be an ELEVI team player you will need: 
+
+You must hold a current  Poly clearance
+Ten (10) years experience as a DBE in programs and contracts of similar scope, type, and complexity is required. Bachelors degree in a technical discipline from an accredited college or university is required.
+Five (5) years of additional DBE experience may be substituted for a bachelors degree.
+Security or higher required
+Nifi experience required
+
+ 
+Some of your day-to-day activities include but not limited to:  
+
+Support the database design, development, implementation, information storage and retrieval, data flow and analysis activities 
+Support the analysis and evaluation of system improvements, optimization, development andor maintenance efforts
+Support the development of long and short term requirements for database administration and design
+Assist in developing databases, database parser software, and database loading software
+Translate a set of requirements and data into a usable database schema by creating or recreating ad hoc queries, scripts and macros, updates existing queries, creates new ones to manipulate data into a master file
+Assist in developing database structures that fit into the overall architecture of the system under development
+Lead development of database structures that fit into the overall architecture of the system under development
+Lead development of databases, database parser software, and database loading software
+Develop requirement recommendations from a projects inception to its conclusion for a particular Business and IT subject matter area (i.e. simple to complex systems)
+Develop a database structure that fits into the overall architecture of the system under development and has to make trades among data volumes, number of users, logical and physical distribution, response times, retention rules, security and domain controls
+Direct fulfillment of requirements from a projects inception to it conclusion
+Direct organization of requirements and data into a usable database schema by directing development of ad hoc queries, scripts, macros, updates to existing queries
+Direct the overall database structure that fits into the overall architecture of the system under development and has to make trades among data volumes, number of users, logical and physical distribution, response times, retention rules, security and domain controls
+Direct the development of complex systems using queries, tables, Open Database Connectivity and database storage and retrieval using Cloud methodologies
+
+Why Work at ELEVI? 
+ To become an ELEVI employee is to become an integral part of the team. From Federal to Commercial, ELEVI offers our employees the ability to expand skills and fully engage their minds and passions. Each member of the team enjoys the opportunity to expand their career to meet their individual goals and objectives. We celebrate the ideas that bring about positive change, and the diverse talents and backgrounds that come together to create those ideas.
+Our benefit packages encompass competitive compensation, financial and counseling services, retirement options, and health insurance programs. Coupled with worklife benefits to address significant life problems as well as everyday problems involved in juggling work, family, and life.  We trust you to take the time you need when you feel its appropriate. No need to keep track or save up. We trust our employees and empower them to shape their work themselves so that we can achieve the best possible results.
+ 
+Were an equal opportunity employer (EOE) that empowers our people. It is the policy of ELEVI to provide equal employment opportunities to all employees and employment applicants—without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. We fearlessly drive change, because without diversity of thought and a commitment to equality for all, there is no moving forward. Reasonable accommodations are available for qualified individuals with disabilities, upon request. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.

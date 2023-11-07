@@ -1,0 +1,46 @@
+Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial exchanges and over 25 of retail order flow in the US. is serviced by Virtu. 
+ 
+Our team is a dedicated group of traders, quants and developers that are inspired by the unique and exciting challenges we solve every day. Our culture combines the creativity of a fast paced start up, with the stability of a disciplined financial services firm. We are a flat organization and encourage our people to innovate and lean on their teammates for support and collaboration. We have fun, work hard and strive to be virtuous in all we do. 
+
+DEVELOPER INTERNSHIP
+
+
+Virtus internship program offers students an extraordinary opportunity to learn about the firm and the worlds financial markets. We have built a thoughtful and challenging curriculum that introduces students to all aspects of Virtus business through a company-curated global training week, real world development projects to complete and engaging social events to get to know our team and culture. 
+
+Location: Austin, New York
+Dates: 10 week program, starting June 10th, 2024 - August 16th, 2024 (with flexibility if needed)
+Training: Ongoing training throughout the summer and a training week held in New York or Austin 
+Projects: Real problems to solve throughout the program. Interns will work from a list of projects and have several senior mentors throughout the summer program.
+
+
+
+
+Our development team is a highly talented group of versatile software engineers. These engineers are responsible for the design, development and optimization of our proprietary, low-latency trading systems as well as our propriety trading algorithms. This team also creates powerful trading tools, which facilitate all trading stages of our high-performance system which is deployed in financial marketplaces around the world.
+As an intern, you will complete a variety of challenging development projects. Youll work alongside our senior team to improve scalability, performance and efficiency of our cutting edge trading systems. This is a rare opportunity for students to learn first hand how to design and architect a trading system for scale and to support the massive amounts of data that flow through Virtus trading systems daily.   
+REQUIREMENTS
+
+
+
+Excellent academic background in Computer Science, Electrical Engineering or related field
+Strong programming skills in Python and either Java or C
+Experience with Javascript a plus
+Some lower level programming experience a plus but not required
+Outstanding quantitative problemsolving skills and mathematical aptitude
+Being comfortable with a wide variety of projects (frontendbackend, different programming languages)
+A physicalizer; a person who identifies issues and creates solutions without rigid direction or fanfare
+Highly motivated and tenacious individual, with a proven ability to take initiative and work independently and within a team
+Team player: authentic, genuine person who is capable of working collective goals.
+
+
+
+THE PROCESS
+ 
+After applicants pass an initial resume screening, an online programming test will be sent via email. This test is from a service called Codility so please be on the lookout. After passing the programming test, we will contact you to arrange a phone screen. We are looking forward to meeting you!
+ 
+Salary Range: 3,000 - 4500 weekly (salary range is inclusive of sign on bonuses, housing, meals, benefits or any other forms of compensation) 
+
+
+
+Virtu Financial is an equal opportunity employer, committed to a diverse and inclusive workplace, welcoming you for who you are and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+

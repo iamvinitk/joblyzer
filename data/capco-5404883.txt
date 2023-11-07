@@ -1,0 +1,55 @@
+Lead DevOps Transformation Advisor
+About Capco 
+Capco is a fully independent, global management and technology consultancy. For 25 years we have combined innovative thinking with deep industry knowledge to deliver business consulting, digital transformation and technology services to Finance and Energy markets. Our collaborative and efficient approach helps clients reduce costs and manage risk and regulatory change while increasing revenues. We are thinkers, innovators, and disruptors. We are small enough to care but large enough to matter.
+Joining Capco means joining an organisation that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table  so wed love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.
+
+We arehave:
+
+Experts in banking and payments, capital markets and wealth and asset management
+Deep knowledge in financial services offering, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking etc.
+Committed to growing our business and hiring the best talent to help us get there
+Focused on maintaining our nimble, agile and entrepreneurial culture
+
+
+DevOps at Capco
+Capco is looking for seasoned DevOps transformation advisors who can advise and support our clients, in particular Tier1 banks, on their DevOps transformation and advancements journeys.
+We are looking for DevOps transformation advisors who combine industry and consulting experience in large DevOps transformations, know what advanced DevOps on an enterprise level looks like, and are passionate about supporting organizations transform. We do not expect you to be a hands-on DevOps engineer; but you must definitely be a strong technologist, who has practical experience with establishing technological capabilities to foster a DevOps adoption.
+This role is of multidimensional nature. You will spend some of your time on DevOps client business development activities, some more will go on our internal DevOps practise development, while you will also have to lead DevOps engagements on our clients side.
+You will be working on projects ranging from Tier1 banking applications that are used daily by millions of people, to greenfield start up projects developing the financial services apps of tomorrow.
+Skills  Expertise
+Mandatory Experience:
+
+Strong conceptual and capability awareness of technologies that are used in DevOps transformations such as; CICD pipelines, observability tools, cloud native technologies, security tools, quality engineering tools and more
+Experience with cloud migration projects towards any of the of the most well used public cloud providers; Azure, AWS or GCP
+Expertise on several DevOps concepts from a contextual and practical implementation perspective, such as; Continuous delivery, developer experience, compliance as code, cloud native, value stream management, observability, site reliability engineering, microservices architecture and quality engineering
+Several years of leadership experience either from; a Head position in the industry, a programme manager role, a consulting practise lead role, as a principal engineerarchitect or a combination.
+You have implemented DevOps at scale, in at least one large organization.
+Excellent communication and presentation skills. You should need no more than 15 min to impress our clients and answer to their exam questions.
+Strong senior stakeholder management skills; you should be able to act from an engineer to a director level.
+
+Highly Desirable Experience:
+
+Knowledge of financial services products, applications, business flows and the regulatory environments, will be considered an asset; but it is not a prerequisite
+Experience on co-leading the evolution of a tech management consulting practise.
+Have worked with C-Level stakeholders
+You have held tech consultingadvisory positions before; and have contributed to RFIs and RFPs
+Experience with managing business cases from a costreturn of investmentbenefit realization perspective
+Ability to understand very technical concepts and reference architectures and provide improvements input
+Experience on hiring DevOps professional of various seniority levels and locations
+Experience and fluency on public speaking
+
+Key Responsibilities:
+
+Work side by side with our Head of DevOps on further growing our practises, win new client work and deliver DevOps transformations on our client side
+Mentor and incubate our internal DevOps practise professionals
+Advance our client and practise collateral in terms of our DevOps services catalogue, go to market concepts and client credentials
+Actively support the hiring of new DevOps practise members
+Build internal alliances with other Capco consulting practices (Enterprise Agility, Cloud, Architecture etc) and Capco client accounts (the largest banks you can think of); across the UK and the Globe
+
+Capco offers you:
+
+A work culture focused on innovation and building lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+Enhanced and competitive family friendly benefits, including maternity  adoption  shared parental leave and paid leave for sickness, pregnancy loss, fertility treatment, menopause, and bereavement

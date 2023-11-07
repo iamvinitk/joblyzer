@@ -1,0 +1,33 @@
+Unity is looking for a versatile Senior Integration Developer to join our multifaceted IT team. In this role, you will be responsible for designing, developing, and implementing sophisticated integration solutions that seamlessly connect various systems and applications within our organization.
+The opportunity
+This role is responsible for supporting Enterprise technologies used by the IT Team. As a key member of the Enterprise Technology team, you will own the development and support of integration and automation solutions, provide technical expertise, and collaborate with multi-functional teams to deliver scalable and efficient integration solutions. Your deep understanding of integration patterns, APIs, and best practices will be crucial in optimizing the orchestration workflows and supporting our business processes!
+What youll be doing 
+
+Capture and understand requirements, conduct design sessions with Architects for technical solutions. Enable teams to self serve integrationautomation needs.
+Build and support integrations in various business areas such as Finance, HR and Legal and communicate optimally with internal teams, business partners
+Develop, test, and document integration solutions and data migration elements of business applications in the CPQ, CRM, ERP, HRIS domains
+Build and maintain integration strategy and repository based on principles of reusability, security, scalability and quality.
+Build common frameworks for monitoring, logging and alerting.
+
+What were looking for 
+
+Expertise in developing application integration solutions using tools such as Workato, Zapier, Tray.io, MuleSoft, on cloud service providers like AWSGoogle Cloud.
+Knowledge of enterprise integration patterns and approaches (APIs, Microservices, File based integration, PubSub, Batch, Streaming, etc.).
+Knowledge of integration capabilities of applications like Salesforce, Workday, NetSuite, Zuora, etc. and knowledge of advanced troubleshooting techniques in integration layer and across these systems.
+Hand on experience on one of the programming language such as Node.js, Python, Go or Java.
+
+You might also have
+
+Certified developerarchitect in any of the iPaaS platforms (i.e. Workato, MuleSoft etc.)
+Adopt new technologies and work with various tools and technologies to achieve desired functionality in integrationautomations space. Ability to program in at least one of the following: Node.js, Python, SQL, Ruby and experience in process flow orchestration using Salesforce flows
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com. 
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+International relocation support is not available for this position. Le support  la relocalisation internationale nest pas disponible pour ce poste.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-DJ2 SEN
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary117,800—159,500 USD

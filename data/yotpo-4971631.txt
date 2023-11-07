@@ -1,0 +1,53 @@
+If you shop online (and who doesnt these days?), then chances are youve already interacted with Yotpo. Were a leading eCommerce retention marketing platform, on a mission to help brands of all sizes turn one-time shoppers into customers for life. Loyalty programs, SMS and email marketing, subscriptions, and reviews are our bread and butter, but we have more solutions up our sleeve, too.
+We have teams across the world, including the US, Canada, UK, Israel, Bulgaria, and Australia — and were still growing. Our primary goal is to deliver the best technology in the industry.
+You can hear all about it in our latest brand video. 
+Sounds exciting? Then read on, because were in pursuit of the best and the brightest minds to help us achieve our vision.We are:Yotpos DevOps group. Were responsible for everything that happens from the point the code is merged to the point someone starts using it. Yotpo DevOps  is all about letting the developers do as much as they can on their own. Dev teams have end to end ownership of the product; full ci-cd; no qa department(!)Ownership has two sides: With freedom, comes responsibility. With autonomy, comes accountability.
+Our environment :1. 2500-4000 AWS servers2. 80 workload runs on spots3.2,000,000 requests per minute(!)4. We are Fully dockerized 
+You are:
+
+You are a Software Engineer with 8 years of Experience in Python  Java  Golang or similar, You love OOP design, design patterns and clean code.
+You are a DevOps Engineer with 4 years of production hands on experience in SaaS platforms
+You have BSc in computer science or equivalent 
+Autodidact - You are not afraid to deep dive into new technologies.
+For you, Everything is code - there is no manual work.
+Independent worker - You can take a subject and own it - end to end.
+You are a team player with a strong sense of ownership. We win together, We do what it takes, we figure it out, we help each other  and we win, as a team.
+Strong design, architecture and troubleshooting skills (hands-on)
+Experience with Kubernetes at scale -  You talk about k8s on dates
+Experience in cloud - AWS or equivalent.
+High Technical Knowledge  Experience in Infra as code ( Terraform, Cloud Formation). No manual labor here.
+Experience in designing and building GitOps CICD pipelines ( ArgoCD, ArgoRollouts, GitHub Actions, Jenkins or equivalent )
+
+ 
+Bonus Points:
+
+Experience with Helm
+Experience with Hashistack (Terraform, Terraform cloud, Consul, Vault, Nomad)
+Experience with CDNs (Akamai, EdgeCast)
+Experience with databases (MySQLMongoDBElasticSearch)
+Experience with monitoring tools (PrometheusGrafanaNewRelicCoralogix)
+
+ 
+You will:
+
+Lead the DevOps Group from a techsoftware development perspective.
+Mentor and Educate the DevOps group, bring the Dev in to Ops in all the 3 DevOps team in Israel, Ukraine and Bulgaria, Do:
+
+Architecture reviews  Design reviews - make sure the solutions are scalable and robust.
+Code reviews
+Introduce clean code  design patterns
+Introduce the perspective of the day-to-day of the developer. 
+
+Take part in increasing developer velocity by designing and creating self service tools for the RD
+
+Introduce APIs first methodology
+Introduce TDD on Infra As Code (IaC)
+
+Define Standards, and enforce them in the DevOps Group.
+Help Define the Technical vision and Roadmap for the DevOps
+Collaborate closely with the Chief Architect on Cross RnD initiatives 
+Mentor RnD on DevOps best practices, and enforce them.
+Continuously improve the DevOps group - find tools, frameworks and technical processes that will make us even better.
+Build and design the companys infrastructure to help Yotpos ever growing scale
+On Call - Take part in resolving and preventing production issues 
+LI-Hybrid

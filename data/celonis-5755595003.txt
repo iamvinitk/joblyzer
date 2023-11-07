@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The Team:
+As part of the Engineering Product Excellence (EPE) team, you work with a group of people that have deep expertise in their fields and build the processes that shape the Celonis product. Youll work closely with many engineering roles including Developers, SREs, SDETs, and QEs, advocating shift left and building the practices that make high quality, reliable systems part of our DNA. Youll work with the Product team to understand the areas of our system that are high risk based on usage and historical data. And youll get a chance to grow your career while working with industry leaders to build a product that can scale 100x its current user base. 
+At Celonis, We Live for Customer Value. We want a product that consistently delivers at or above expectations for our customers, and were looking for your keen insights to help us deliver on that promise!
+The Role:As a Senior Quality Engineer you have a keen understanding of what it takes to deliver a high quality product. You will define the overall effort to ensure that innovations from our development team will be implemented in the right way in our software. At Celonis, the whole team owns quality - and with your experience youll drive defining a collaborative test strategy. Youll work closely with Product to understand and advocate for the end user experience, and closely with Developers to ensure we are testing efficiently and avoiding duplication at each test level. You are not bothered by getting your hands dirty with manual testing, but are bothered by repetitive tasks and capable of coming up with creative solutions to avoid repetition.  Hands-on experience means you understand the role of test automation, and can create scripts independently or pair with other members of our chapter on larger projects. You believe in doing the job well - but you also understand the balance between elegant solutions, time to market, and product quality so you focus on lean, clear approaches. Proud of the approach youve driven, you can provide clear data on the quality of the project to drive code deployment.
+The work youll do:
+
+Operate independently as part of a team delivering test services, working with project delivery teams to consistently advocate push left practices and drive customer satisfaction of our product offerings.
+Own responsibility for one or more complex areas of testing.
+Deliver robust, complete test coverage with minimal overlap between tests on different layers
+Drive high quality test coverage in the team, ensuring definition of done includes minimal but sufficient automation and recognize the level of automation necessary to reach the goals.
+Collaborate across the EPE Chapter, contributing to efforts to improve overall process and quality. 
+Live by data not opinions, ensuring your agile team consistently meets auditability goals and that your team KPIs reflect the truth of overall quality status.
+
+The qualifications you need:
+
+Demonstrated track record as a test engineer with a minimum of 3 years focusing on backend service testing and test automation.
+Creating robust automated API testsSystem integration tests within microservice architecture having in mind Test Pyramid and layered approach to testing
+Expertise in defining platform quality needs, identifying quality risks, ensuring mitigations by testing and other methods, reporting results and proposing solutions on how our platform can be improved
+Working experience with Continuous Integration and Continuous Deployment tools
+Working knowledge of DockerKubernetes, Linux Bash, andor other similar tools and technologies
+Working understanding of Distributed Systems, Cloud Technologies
+Proficient programming using JavaPython or other similar programming languages
+Excellent English verbal and written communication skills
+Ability to collaborate cross-functionally and effectively with diverse fast-paced teams
+
+ What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

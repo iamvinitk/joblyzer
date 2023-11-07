@@ -1,0 +1,49 @@
+Ingnieur Backend
+Chez Lyft, notre mission est damliorer la vie des gens grce au meilleur moyen de transport au monde. Pour crer la meilleure exprience de transport pour tous, nous commenons dans notre propre communaut en crant une organisation ouverte, inclusive et diversifie o tous les membres de lquipe sont reconnus pour ce quils apportent. Nous croyons qu chaque trajet, nous changeons la faon dont fonctionne notre monde. Nous imaginons un monde o les villes redeviennent petites, o le transport et la technologie rassemblent les gens au lieu de les sparer. Nous voyons lavenir comme ax sur la communaut.
+Bien que nous proposions un solide service de covoiturage aux tats-Unis et dans quelques villes canadiennes, nous savons que le transport ne se limite pas aux voitures, cest avant tout une question de plaisir, quelle que soit la mthode. Cest pourquoi Lyft a mis laccent sur la micromobilit, en sassociant dabord en 2018  la socit montralaise 8D Technologies (issue de Motivate) et plus tard en 2022  PBSC, base  Longueuil, prenant ainsi la place de leader mondial dans le partage de vlos. Nous voulons offrir des solutions que les gens adorent et dont les villes ont besoin.
+Nos bureaux du Grand Montral ont dvelopp le premier systme de partage de vlos automatis en Amrique (Bixi), un systme qui a depuis t dploy dans plus de 51 villes de 15 pays, dont Barcelone, Buenos Aires, Chicago, Duba, Londres, Mexico, Monaco, Montral, New York, San Francisco, Toronto, pour nen citer que quelques-unes. Il sagit galement de certains des plus grands systmes de partage de vlos au monde, et la liste continue de sallonger !
+Responsabilits :
+
+Travailler au sein de nos quipes de produit pour concevoir, construire et dployer des fonctionnalits passionnantes et des produits dans les applications Lyft Rider pour les vlos et les trottinettes Lyft.
+Aider  tablir une feuille de route et une architecture base sur la technologie et nos besoins.
+Rdiger un code bien conu, bien test, lisible et maintenable dans nos dpts Python de linterface utilisateur pilote par le serveur (SDUI) et de la plateforme centrale.
+Travailler sur lensemble de la pile, des services backend pour lexprience mobile aux services centraux alimentant notre plateforme dadhsion.
+Collaborer avec les gestionnaires de produits, les concepteurs et les ingnieurs clients (iOS, Android, Frontend) pour offrir la meilleure exprience utilisateur possible et travailler en troite collaboration avec les collgues locaux et internationaux.
+tendre et mettre en uvre nos API  laide de Google Protocol Buffers et gRPC.
+AWS, y compris S3 et DynamoDB, Elasticsearch et Kibana, comptence SQL
+Mettre en place une couverture complte de tests unitaires.
+Rsoudre des problmes complexes de transfert de donnes en temps rel et de synchronisation.
+Dcouvrir, valuer et mettre en uvre en permanence de nouvelles technologies pour maximiser lefficacit des dveloppeurs.
+Encadrer et soutenir dautres dveloppeurs de votre quipe grce  des revues de code, des retours de conception et dautres conseils et orientations.
+
+Exprience :
+
+Plus de 3 ans dexprience en tant que dveloppeur serveur.
+Lexprience en tant que chef dquipe technique est un atout.
+Connaissance avance de Python.
+La familiarit avec SDUI est un atout.
+Comprhension approfondie de larchitecture serveur et des modles de conception.
+Familiarit avec les meilleures pratiques en matire de surveillance et dobservabilit.
+Exprience dans le dveloppement et la maintenance dapplications serveur  grande chelle.
+Un excellent sens du produit ; vous accordez de limportance  la convivialit et au bon design du dbut  la fin.
+Bilingue (anglaisfranais) ; capacit  communiquer efficacement en anglais (pour les collgues anglophones en dehors du Qubec).
+Langues :
+La matrise du franais et de langlais, tant  loral qu lcrit, est requise pour ce poste, car il ncessite des interactions avec les employs de Lyft et les parties prenantes dans dautres provinces canadiennes et les bureaux mondiaux de Lyft.
+
+Langues :
+La matrise du franais et de langlais, tant  loral qu lcrit, est requise pour ce poste, car ce rle ncessite des interactions avec les employs de Lyft et les parties prenantes dans dautres provinces canadiennes ainsi que dans les bureaux de Lyft  lchelle mondiale.
+Avantages :
+
+Options tendues de couverture en matire de sant et de dentaire, ainsi que des prestations dassurance vie et dinvalidit.
+Prestations en matire de sant mentale.
+Prestations pour la construction de la famille.
+Accs  un compte dpargne sant.
+En plus des jours fris provinciaux observs, les membres de lquipe bnficient de 15 jours de cong pays, avec un jour supplmentaire pour chaque anne de service.
+4 jours fris flottants par anne civile, proratiss en fonction de la date dembauche.
+10 jours de cong de maladie pays par an, quel que soit la province.
+18 semaines de cong parental pay. Les parents biologiques, adoptifs et daccueil sont tous admissibles.
+Repas et collations gratuits sur place.
+Bilingue (anglaisfranais) ; Capacit  communiquer efficacement en anglais (pour interagir avec des collgues anglophones en dehors du Qubec)
+
+Lyft est un employeur offrant lgalit des chances et laction positive, engag dans un environnement inclusif et diversifi. Tous les candidats qualifis seront pris en considration pour lemploi, sans gard  la race, la couleur, la religion, lorientation sexuelle, lidentit de genre, lorigine nationale, le statut de handicap, le statut de vtran protg ou tout autre fondement interdit par la loi. Nous considrons galement les candidats qualifis ayant des antcdents criminels conformment aux lois fdrales, tatiques et locales applicables.
+ partir de septembre 2023, ce poste sera en prsentiel selon un modle hybride. Les membres de lquipe devront travailler au bureau 3 jours par semaine, les lundis, mercredis et jeudis. De plus, les rles hybrides offrent la flexibilit de travailler de nimporte o pendant jusqu 4 semaines par an.

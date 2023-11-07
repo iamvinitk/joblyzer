@@ -1,0 +1,25 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripes mission is to increase the GDP of the internet: we build economic infrastructure for internet businesses of every size in pursuit of this mission. The Global Merchant Onboarding (GMO) team is responsible for operationalising the onboarding partner requirements for Stripes merchants globally. 
+We are looking for an experienced program manager to join our GMO team, leading our efforts to further the mission of building operational processes to seamlessly onboard merchants to Stripe and building partner trust. In this role, you will be responsible for liaising with a variety of cross-functional internal and external stakeholders to identify and assess regulatory, contractual, and partner risk. Further, you will work on building out scalable operational processes to ensure compliance with service level agreements, routine reporting, and overall risk mitigation.  
+The right candidate for this role will be passionate about cultivating relationships, educating others in a complex area of risk, possess a strong desire to challenge the status quo, and fervently advocate for creative solutions that support Stripes business. Successful candidates for the role will have a minimum of seven years experience in risk, compliance, or legal within payments, fintech, or financial service spaces.  
+You Will:
+
+Lead key strategic projects to improve existing operational processes and build new controls ground up within the onboarding space 
+Partner with teams across Stripe - engineering, policy,etc to make merchant onboarding experience seamless 
+Use data analysis and strong problem solving skills to understand complicated processes and advocate for the right fixes improvements to be implemented
+Be a thought partner and subject matter expert on all things onboarding at Stripe 
+Develop and maintain regional objectives and key results for the GMO team
+
+Were looking for someone who has:
+
+7 years of relevant experience with the financial ecosystem;
+Excellent written and verbal communication skills;
+Advanced proficiency in SQL or other data analysis tools;
+Intrinsically motivated; proactively looking to solve problems before they are even identified.
+
+You should include these in your application: 
+
+Your resume andor LinkedIn profile;

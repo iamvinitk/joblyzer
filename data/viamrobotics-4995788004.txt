@@ -1,0 +1,51 @@
+Viam is a software platform that makes it easy to turn great ideas into production-ready smart machines  robots at scale. Viam works with any hardware and has modern architecture, easy developer APIs, cloud connectivity and tools, and enterprise-grade security to give even the leanest teams the power to launch and manage their smart machine businesses.
+Viam makes building, deploying, and monitoring smart machines a more flexible, affordable, and user-friendly experience, allowing developers to do more with smart machines while getting them to market faster. By making smart machines more accessible, Viam is attracting talent and investment to the industry so that more people start building automated products and services that improve our quality of life.Viams products are built by engineers, for engineers. We want to build a platform we would want to use ourselves.
+As a senior full-stack engineer on our Fleet Management team, you will be responsible for building cloud-based functionality to enable remote configuration, control, management, and operation of a fleet of robots. Configuring one robot manually in a lab is one thing, but managing a fleet of 1000s of robots in the wild is what this product is for. The team is also responsible for building the foundation of the cloud management web site that will allow us to add richer features in the future.
+In this role, you will be responsible for writing and reviewing code, working closely with and mentoring other engineers, providing feedback on and proposing technical designs, and supporting the team in identifying and triaging priority tasks. Fleet Management is currently split into 2 teams and examples of this teams immediate focus areas include:
+
+Implementing communication protocols for different parts of the system architecture
+Displaying smart machine configuration, connectivity, and availability status on the Viam website
+Maintaining login and user management flows (written in Svelte and Vue) on the Viam website as well as the authentication backend
+Managing concurrent background job execution
+
+All current members of Fleet Management are based in New York, NY and are in office full-time. We are looking for team members who come into the office at least 3 days per week. We are not looking for full remote employees at this time.
+Youll be:
+
+Working on a small team that iterates quickly for an enormous impact on our web application
+Shaping our broader application architecture and technical roadmap 
+Expected to truly work across the stack. Our backend stack is Golang with MongoDB running on Linux and our frontend stack is currently mostly in Vue, in the process of migrating to Svelte
+Learning about communication with a heterogeneous set of clients  at Viam, we dont just have browsers connecting to a service, we also work with smart machine clients such as robots, mobile devices, and language-specific SDKs. gRPC, webRTC, and HTTP are all part of our protocol stack
+Given opportunities to dive deeper into robotics, Internet of Things, and other areas where software meets hardware
+
+Were looking for someone who: 
+
+Has experience with both backend and frontend stacks (no need to be a perfect 50-50 split!)
+Is energized through collaboration and looks forward to being part of a team
+Is comfortable adjusting to evolving product goals and being flexible with their planning
+Has experience with distributed systems andor the design and architecture of a modern, scalable web application
+Enjoys mentoring and teaching more junior engineers and seeks out cross-organizational impact
+Is comfortable with in-person collaboration as well as async
+
+Benefits:
+
+100 covered medicaldentalvision insurance plans, commuter benefits
+Competitive salary  equity packages (see below)
+Reproductive Health Benefits including Fertility Benefits and Abortion Access Travel Benefits
+25 days paid vacation and generous holiday observances
+One Medical Membership
+Citi Bike memberships
+Monthly wellness stipend to be used for a variety of fitness-related items like gym memberships, fitness classes, fitness equipment, apparel, and more
+Free lunch everyday that youre in the office
+Paid parental leave
+
+The starting salary for this role is between 157K-213Kyear. Your exact offer will vary based on a number of factors including experience level, skillset, market location, and balancing internal equity relative to peers at the company. We recognize that the person we hire may be less experienced, or more senior, than this job description as posted. In these situations, the updated salary range will be communicated with you as a candidate. In addition to cash compensation, Viam offers a comprehensive Total Rewards package that includes equity grants, health benefits, and more.
+Values:
+
+Vision Driven
+Collaborate Openly
+Act Decisively
+Succeed Through Diversity
+Hold Ourselves Accountable
+Lead with Curiosity
+
+Learn more about our values here! 

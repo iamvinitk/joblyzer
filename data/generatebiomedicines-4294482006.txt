@@ -1,0 +1,44 @@
+About Generate Biomedicines
+Generate Biomedicines is a new kind of therapeutics company  existing at the intersection of machine learning, biological engineering, and medicine  pioneering Generative Biology to create breakthrough medicines where novel therapeutics are computationally generated, instead of being discovered. Generate has built a machine learning-powered biomedicines platform with the potential to generate new drugs across a wide range of biologic modalities. This platform represents a potentially fundamental shift in what is possible in the field of biotherapeutic development.
+We pursue this audacious vision because we believe in the unique and revolutionary power of generative biology to radically transform the lives of billions, with an outsized opportunity for patients in need. We are seeking collaborative, relentless problem solvers that share our passion for impact to join us!
+Generate was founded in 2018 by Flagship Pioneering and has received nearly 700 million in funding, providing the resources to rapidly scale the organization. The Company has offices in Somerville and Andover, Massachusetts with over 275 employees.
+The Role:
+We are seeking to expand our DNA and Library Sciences team to support high throughput data generation efforts at Generate by recruiting an innovative and experienced Senior Scientist I, Library Design  Construction. In collaboration with the Computational Protein Generation, Protein Engineering, Data Science and Quantitative Biology teams, the successful candidate will work to streamline and advance the design, construction and testing of DNA libraries consisting of millions of defined protein variants. In addition, the candidate will oversee the application of these technologies to multiple pipeline projects. We are searching for a passionate, creative and scientifically rigorous individual who thrives in a fast-paced, entrepreneurial environment. An ideal candidate will have extensive experience in synthetic biology, large scale pooled assays and NGS. Expertise with protein display technologies and bioinformatics analysis of NGS data is a plus.
+Heres how you will contribute:
+
+Work with bioinformatics team to translate machine learning hypotheses into libraries of testable proteins and automate the design of defined and combinatorial libraries.
+Drive the build of such libraries, including design of vectors, inserts, and cloning methodologies.
+Develop novel construction methods for massive-sized libraries.
+Actively engage with protein engineering, platform innovation, NGS and data sciences teams to determine library build and NGS strategies for developing large scale quantitative assays to generate data for machine learning models.
+Provide intellectual and technical expertise on other synthetic biology related workflows and tech dev projects, such as vector design, gene assembly etc.
+
+The Ideal Candidate will have:
+
+Ph.D. in Microbiology, Molecular Biology, Bioengineering, Biochemistry, Biophysics or related field with at least 4 years of post degree related experience; industry experience preferred.
+Strong hands-on experience in designing and creating large scale libraries (defined, combinatorial, DMS, etc.)
+Extensive experience with multi-part DNA assembly cloning techniques (Golden Gate, Gibson Assembly, in vivo recombination, etc.) and DMS library creation techniques (nicking mutagenesis, PFunkel, etc.)
+Experience developing and implementing pooled high throughput assays (bacterial directed evolution, pooled CRISPR screen, AAV screening, displayed antibody selections, etc.)
+Experience generating and interpreting NGS data (Illumina, nanopore, PacBio) in the context of pooled assays.
+Strong analytical skills for troubleshooting experiments.
+Excellent collaboration skills and ability to work cross-functionally and balance multiple projects in a dynamic environment.
+Excellent presentation and written communication skills.
+
+Nice to have:
+
+Display technology (phage, yeast, bacterial, ribosomal, mammalian, etc.) experience.
+Bioinformatic skillset for analyzing NGS data.
+Experience with microfluidics for ultrahigh-throughput reactions.
+Lab automation experience.
+
+Who Will Love This Job: 
+
+Protein engineering, synthetic biology, or experimental ML-based protein design scientist interested in generating massive amounts of data to validate and drive cutting edge machine learning models of protein function.
+Scientist excited to collaborate with and learn from experts in allied disciplines
+
+ 
+Generate Biomedicines is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+COVID Safety:
+Generate Biomedicines enforces a mandatory vaccination policy for COVID-19. All employees must be fully vaccinated and have received a booster.  The purpose of this policy is to safeguard the health of our employees, their families, and the community at large from infectious disease that may be reduced by vaccinations.  The company will make exceptions to this policy if required by applicable law and will consider requests for an exemption from this policy due to a medical reason, or because of a sincerely held religious belief, or any other exemptions that may be recognized by applicable.
+Recruitment  Staffing Agencies: Generate Biomedicines does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Generate Biomedicines or its employees is strictly prohibited unless contacted directly by Generate Biomediciness internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Generate Biomedicines, and Generate will not owe any referral or other fees with respect thereto.
+ 
+LI-KC1

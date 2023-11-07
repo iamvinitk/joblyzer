@@ -1,0 +1,31 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+Duolingo is looking for a world-class authority in psychometrics, with the desire and ability to support psychometric foundational and operational research, and operational excellence for a mobile English proficiency test. You will join Duolingos growing research team and contribute to agile, ongoing development of the test, supporting our efforts to advance Duolingos mission through science.
+You Will...
+
+Work with dedicated assessment researchers, engineers, and designers to bring psychometric operational excellence principles to life for cutting-edge, research-driven assessment instruments
+Help develop (computational) psychometric methodology for a high quality language assessment, such as adaptive assignment algorithms, quality control processes to monitor test item and score integrity, and psychometric models for complex tasks
+Work with partners inside and outside of Duolingo to design, conduct, and document validity studies of test scores
+Share research findings with a variety of stakeholders: through blogs, technical reports, conference presentations (AERANCME, IMPS, IACAT, ML conferences, etc.), and peer-reviewed journals (Journal of Educational Measurement, Language Testing, Language Assessment Quarterly, Psychometrika, etc.)
+
+Requirements
+
+PhD in psychometrics, educational measurement, or a related field
+Research expertise and publication record in the fields of psychometrics, educational measurement, statistics, or machine learning
+Outstanding interpersonal communication and organizational skills
+Evidence of innovation in psychometric researchanalysis
+Excellent skills in open-source data science tools, such as R and Python
+A desire to make the world a better place through technology
+Ability to relocate to Pittsburgh, PA or NYC
+
+You will have...
+
+Outstanding candidates will have 3-5 years of post-PhD experience working in an education-related field, experience with the design, development, and analysis of computer-adaptive tests, experience with machine learning and natural language processing techniques, and an open mind as to how these techniques can be integrated with more traditional psychometrics.
+
+ 
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

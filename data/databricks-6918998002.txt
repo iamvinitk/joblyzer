@@ -1,0 +1,28 @@
+Req ID: SLSQ424R259
+You will drive the development of territory management processes, managing our inbound ticketing process, CRM systems, execution tools, and data integrity.
+The impact you will have:
+
+Execute ideal sales team account coverage models
+Maintain the tools and processes that ensure sales territories remain as designed through organizational changes
+Own data-driven analyses and reporting to drive insights for strategy teams
+Own the Sales Ops inbound ticketing process. Triaging tickets to the right team and optimizing the process to make it more efficient
+Assist in building processes and tools to help the business scale
+Develop technical solutions for territory management, CRM, planning tools, and data integrity by evaluating external and internal resources.
+Create sustainable processes and policies.
+
+What we look for:
+
+1 to 3 years of experience in Sales Operations, Revenue Operations, Data Management
+You are technical and fluent in data. Whether its analyzing data sets with tools like Tableau or SQL queries, or creating complex models and prototype tools, data is a core part of your toolkit.
+You are proficient in Salesforce reporting and business processes.
+You love building processes at scale and are familiar with automation.
+You enjoy designing processes that serve the needs of the company and its participants.
+You excel in a collaborative environment. You translate team member needs into clear tasks and deliverables for contributors. You work through dependencies, bottlenecks, and tradeoffs with ease.
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

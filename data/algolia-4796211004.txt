@@ -1,0 +1,44 @@
+Algolia is on a mission to empower every company to create delightful Search  Discovery experiences. We power over 1.5 trillion searches annually for more than 17,000 customers from 100 countries. Thats 4 times more than Bing, Yahoo, DuckDuckGo, Baidu and Yandex combined!
+About the Role :We are seeking a seasoned Staff Product Manager to join our Search Scale team.The Search Scale team is responsible for providing a scalable platform that adapts dynamically and transparently to the data profiles, usage patterns and indexing patterns of our customers. This includes both an Orchestration  Distribution Platform and Retrieval Engines (Keyword, Vector Engines), enabling the best AI Search in the World.The Search Scale team primarily serves internal teams by building our core engine used as the foundation for our search, discovery and browse use case. They also need to understand our customers to ensure we can scale and serve a wide range of configurations, from small businesses to large enterprises.
+YOUR ROLE WILL CONSIST OF:
+
+Lead, define and communicate the strategy and vision for the Search Scale team with all stakeholders
+Working hand in hand with engineers and product managers from other teams to build your roadmap and empower them to deliver search fast and at scale.
+Identify areas in the product that can be platformized so we can maximize our impact when building new capabilities
+Understand the cloud and infrastructure landscape in-depth.
+Work with engineering to define the most suitable technical solution to support our growing range of customers. 
+Find solutions to challenging use cases while keeping the platform simple to use.
+Communicate complex technical concepts to the rest of the organization including non-technical people.
+Train internal stakeholders on the platform to let them leverage it at its full potential
+Develop alliances with third-parties to build a successful product at the best cost possible and identify new opportunities.
+Work with engineering, design, product marketing, GTM sales, and customer support to help launch new products and support existing ones. 
+
+YOU MIGHT BE A FIT IF YOU HAVE:
+
+7 years of experience in product management building developer first products.
+5 years of technical knowledge: multi-tier distributed architecture, enterprise software infrastructure and related technologies
+5 years experience with Web, Cloud, and Infrastructure Technologies
+Outstanding written and verbal communication skills
+Familiarity with search engines and search technologies
+Familiarity with MLAI technologies
+Experience writing code - for fun, college, or work - is a plus. 
+Preference for candidates with experience at our current stage and beyond (over 10,000 customers, 200-500M ARR range, high growth, lots of change and building internal infrastructure).
+
+WERE LOOKING FOR SOMEONE WHO CAN LIVE OUR VALUES:
+
+GRIT - Problem-solving and perseverance capability in an ever-changing and growing environment.
+TRUST - Willingness to trust our co-workers and to take ownership.
+CANDOR - Ability to receive and give constructive feedback.
+CARE - Genuine care about other team members, our clients and the decisions we make in the company.
+HUMILITY - Aptitude for learning from others, putting ego aside.
+
+LI-Hybrid LI-RemoteREMOTE STRATEGY:
+Algolias flexible workplace model  is designed to empower all Algolians to fulfill our mission to power search and discovery with ease. We place an emphasis on an individuals impact, contribution, and output, over their physical location. Algolia is a high-trust environment and our team members have the autonomy to choose where they want to work and when. We know community comes in many forms and strive to create opportunities for intentional in-person connection in our offices and virtually for our remote colleagues around the world. 
+We have a global presence with physical offices in San Francisco, NYC, Paris, London, Sydney and Bucharest.
+ABOUT US:
+Algolia prides itself on being a pioneer and market leader offering an AI-powered, API-First Search  Discovery platform that empowers 17,000 businesses to compose customer experiences at internet scale that predict what their users want with blazing fast search and web browse experience. Algolia powers more than 30 billion search requests a week  four times more than Microsoft Bing, Yahoo, Baidu, Yandex and DuckDuckGo combined.
+Algolia is part of a cadre of innovative new companies that are driving the next generation of software development, creating APIs that make developers lives easier; solutions that are better than building from scratch and better than having to tweak monolithic SaaS solutions.
+In 2021, the company closed 150 million in series D funding and quadrupled its post-money valuation of 2.25 billion. Being well capitalized enables Algolia to continue to invest in its market leading platform, to better serve its thousands of customersincluding Under Armor, Petsmart, Stripe, Gymshark, and Walgreens, to name just a few. 
+WHO WERE LOOKING FOR:
+Were looking for talented, passionate people to build the worlds best search  discovery technology. As an ownership-driven company, we seek team members who thrive within an environment based on autonomy and diversity. Were committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background.
+READY TO APPLY?If you share our values and our enthusiasm for building the worlds best search  discovery technology, wed love to review your application!

@@ -1,0 +1,64 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Data Science Organization is a central team that partners with all parts of Stripe: Product, Finance, Risk, Operations, Infrastructure, and GTM. We use data to make sure that we understand our users, their users, the Stripe business, and are making near optimal decisions (both automated within the product and strategically). Data Science at Stripe is a mix of ML focus, strategic planning, and analytical depth and were excited for you to be a part of it.
+What youll do
+Responsibilities 
+
+
+Identify Stripe-wide problems and opportunities that can be tackled through data science; develop evidence of the validity and utility of data science solutions (e.g. through prototypes or MVP); work with relevant teams to design and build the data science components that deliver outsized value to our users and our business
+
+
+Provide senior technical direction to working teams and inspire a larger community from across Stripe working in the data science space; assume hands-on leadership, especially when helping teams resolve complex problems and setting the vision for longer term direction coupled with iterative execution
+
+
+Be part of the Data Science leadership team, contributing to overall strategy  roadmap
+
+
+Evangelize and inspire best practices across data science; lead by example to build a culture of craftsmanship and innovation
+
+
+Provide mentorship to our data science talent to help them grow technically and professionally
+
+
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+
+12 years of Data Science experience OR equivalent combined workacademic experience in a quantitative field.
+
+
+Demonstrated experience of leading company-wide initiatives spanning multiple teams and organizations OR leveraging deep domain expertise to influence tech roadmap planning and execution
+
+
+Demonstrated ability to effectively collaborate across multiple teams and stakeholders to drive business outcomes 
+
+
+Demonstrated ability to balance execution and velocity with research, statistical depth, and scalable design.
+
+
+Experience, mentoring, and investing in the development of scientists, engineers, and peers
+
+
+Preferred qualifications
+
+
+Experience with forecasting systems and frameworks
+
+
+Experience thinking about marketplace dynamics and complex systems
+
+
+Experience with deep learning model development and best practices
+
+
+Experience with experimental design and analysis
+
+
+Experience with metric development and usage
+
+
+ 

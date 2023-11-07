@@ -1,0 +1,58 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.THE WORK:
+Ripple is the worlds best-in-class enterprise blockchain solution for global payments. Today the world sends more than 160 trillion across borders. Ripple connects banks, payment providers, corporates and digital asset exchanges via RippleNet to provide one frictionless experience to send money globally.
+Today, we are delivering a cost-effective, instant, and frictionless customer experience to enable our enterprise customers to manage cross-border payments at scale. Given the explosive growth and complexity, we, the payments engineering organization, embarked on our journey to scale the systems to 10X. We are looking for senior engineering talent to help us evolve and define the future state architecture to achieve our audacious goal. The challenge lies in delivering magical customer experience, incremental business value, strengthening engineering fundamentals, building intelligent systems, and growing future leaders  all in a measurable and incremental way.  You will work closely with the engineering leaders and play a critical role in achieving these goals. This is a very high visibility role with lots of opportunities to grow.
+WHAT YOULL DO:
+
+You will be responsible for defining the future state system architecture and engineering best practices.
+You will be a key technical leader contributing to the definition and evolution of our Payments at 10X roadmap and will play a critical role in executing to that goal.
+As a technical leader for payments engineering, you will represent us in Ripple enterprise level engineering decisions and ensure we are aligned with the overall direction.
+You will work closely with product managers and other customer facing functions to ensure the product engineering approach creates a frictionless and differentiating customer experience.
+You will define and orchestrate engineering forums that will elevate engineering standards, inspire engineers and enable continuous improvements.
+You are hands on and know what it takes to build highly available, scalable, distributed systems and you cherish every opportunity to share your experience and knowledge with the engineering community.
+You have an operator mindset. You understand the value of delivering incremental value to the business and engineering fundamentals.
+Your strength lies in the ability to bring clarity to ambiguous situations and the ability to influence people at all levels and across organizations come natural to you.
+You keep an eye on the industry evolution in the blockchain and crypto world from the payments standpoint and ensure our offerings continue to stay ahead.
+You love mentoring and providing guidance and assistance in the career development of others,
+
+WHAT YOULL BRING:
+
+At least 12 years experience in designing and developing complex distributed systems with at least 5 years of experience contributing to large scale projects as an architect or as a key individual contributor.
+5 years of experience in Java is required. Working experience with Python, NoSQL, RDBMS is preferred.
+Experience crafting or contributing to multi-year engineering roadmap based on product strategies.
+Experience in mentoring and growing engineers at all levels.
+Experience working with private and public clouds (AWS, GCP) and capacity management principles.
+Prior experience in migrating systems from a monolith architecture to microservices based systems is preferred.
+Have prior experience leading software evaluation and decision making processes. 
+Excellent verbal and written communication skills and experience presenting to broad audiences and to senior leadership.
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

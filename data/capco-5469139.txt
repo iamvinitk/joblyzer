@@ -1,0 +1,58 @@
+Front End Developer 
+About the team:
+At Capco Technology Delivery Centre, we are dedicated to the financial services industries. Our professionals combine innovative thinking with unrivalled industry and domain expertise to offer our clients consulting expertise, complex technology and package integration, transformation delivery, and managed services, to move their organizations forward. Through our collaborative and efficient approach, we help our clients successfully innovate, increase revenue, manage risk and regulatory change, reduce costs, and enhance controls. Our teams stay at the forefront of industry trends and technologies that are driving innovation. From strategy to launch, we are adept at delivering across the full product lifecycle.
+About the Job:
+As a member of the Capco Technology Delivery Team, youll bring practical knowledge of agile development methodologies and engineering best practices. As a Senior Front-End AngularReact Developer, youll use your experience and skills to contribute to the quality and implementation of our software products for our customers.
+ Primary Purpose:
+Leads the creation of a comprehensive end-to end detailed solution with overall accountability for the technical design and delivery of the System Design Specification (SDS) and is largely focused on large-scale, complex or enterprise projects. May also be accountable for complex programming  coding.
+Responsibilities:
+
+Responsible for developing and documenting detailed solution design within SDS and act as an application SME through the design and development lifecycle ensuring alignment with Architecture
+May also be accountable for complex applicationssystems development, programming coding
+Lead the creation of solution options and ultimately a comprehensive end-to-end solution and coordinate relevant stakeholders, as required to support development initiatives
+Provide estimates for new projects and initiatives for the development  design component of the overall plan working with relevant team members  stakeholders
+Develop functional, technical and user interface designs for an application  system that meets the defined requirements (business, enterprise architecture direction, system performance and development standards)
+Consult on development of the System Requirements Specification (SRS) and apply functional knowledge of business functions to design optimal software  systems
+Review technical deliverables throughout detailed design and development phase to ensure quality adherence and identify gaps or redesign requirements as needed
+Work with the Technology Project Manager, Business Analysts  Systems Analysts, and other team members to define metrics and performance goals for the application
+Comply with well-defined enterprise technology delivery practices and standards and project management disciplines, business technology architecture, and risk and production capacity - including development of project documentation of system requirements, estimates of scope and cost, etc.
+Deliver effective and efficient solutions by meeting key project milestones and ensure that the project deliverables are on time, within budget, and adhere to the corporate quality and security standards
+Assist in the identification of opportunities to minimize cost, provide recommendations andor deliver corresponding strategic solutions to support cost effectiveness and to enhance stakeholder experience
+Conduct code reviews to ensure adherence to quality, standards compliance, reusability and ease of maintenance, Operational Readiness Reviews, and supporting gating and review sign-offs for solution design
+Support knowledge management processes for LOB  portfolio and ensure knowledge is codified, monitored, tracked and managed
+Ensure design leverages existing reusable components and has traceability to business requirements and ensure new modules are designed with reusability as a key requirement
+Identify and address application and data issues and cross-capability and cross-release issues that affect application integrity
+Provide technical support for escalated incidents  outages to ensure that they are resolved efficiently with minimal impact to stakeholders
+Continuously enhance knowledge  expertise in own area and keep current with leading edge technologies, emerging trends  developments and grow expertise of the business, applications, infrastructure, analytical tools and techniques
+Prioritize and manage own workload in order to deliver quality results and meet timelines
+Support a positive work environment that promotes service to the business, quality, innovation and teamwork and ensure timely communication of issues points of interest
+Identify and recommend opportunities to enhance productivity, effectiveness and operational efficiency of the business unit andor team
+Establish effective relationships across multiple business and technology partners, program and project managers
+Participate in knowledge transfer within the team and business units
+Performs complex to difficult technical tasks independently
+Advanced knowledge of the business , technical environment, processes, tools, various and multiple programming languages, operating systems, solutions design and other relevant technology areas
+Subject matter expert in at least one area of discipline and consults with clients  or project teams on all aspects of research, analysis, design, hardware  software support, development of technical solutions andor testing
+Works independently as the senior developer on a diverse range of activities and provides technical guidance to others to help resolve issues within area of expertise
+Leads the development of detailed, complex andor comprehensive project plans and understands impact  risk of integrating third party solutions
+
+Skills and Experiences
+
+Undergraduate degree or Technical Certificate
+5-8 years relevant experience
+Angular 10REACT
+Very Strong knowledge and working experience with Flutter, Cross Platform Native experience, web and mobile experience.
+JavaScript, Typescript,, NGRX (State Management) , RXJS,, SCSSHTML
+Very strong design, architecture and development skills with an ability to switch over to new technology with ease. Skills needed to determine which is the best technology stack to be chosen for the problem statement and be able to quickly learn and adapt to it.
+Very strong skills to work on all aspects of an application platform covering front end, with understanding of back end, database, cloud services, tools and frameworks. Able to embrace new technology with ease.
+An absolute hands on approach to problem solving is critical to deliver in the short timeline development cycle.
+Apply best practices even while developing in short burst development cycles using concepts related to devOps, design and architecture, testing etc.
+Git, GitHub, AJAX, JSON, REST API
+
+Why Capco? 
+A career at Capco is a chance to help reshape the competitive landscape in financial services. We launch new banks, transform existing ones, and help our clients navigate complex change. As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset, and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or ability to focus on our clients and make a difference to the business. We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+Ready to take the Next Step  
+If this sounds like you, we would love to hear from you.  This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory. 
+For more information about Capco, visit www.Capco.com.
+Capco is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, marital status, genetic information, national origin, disability, veteran status, and other protected characteristics.

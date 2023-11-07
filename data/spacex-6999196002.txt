@@ -1,0 +1,56 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+GNC ENGINEER (TOP SECRET CLEARANCE)
+SpaceXs goal of becoming a multi-planetary species has created many platforms, systems, and solutions that bring unparalleled capability to both in-space and terrestrial regimes. Falcon 9, Falcon Heavy, Starlink, Dragon, and Starship are game-changing systems in and of themselves. When used together in creative ways, they can create even greater capabilities for space exploration, satellite refueling, constellation replenishment, and other related missions.
+In this role, you will work across the program life cycle to develop and analyze guidance, navigation and control (GNC) algorithms, models and simulations of various launch vehicles, spacecraft, and sensors performing challenging missions. The GNC discipline itself is a mesh of many other fields (e.g. Aerospace Engineering, Software Engineering, etc.) and frequently collaborates across functional disciplines, offering a unique opportunity to work with many areas.
+You will have great latitude to be creative, conceiving and testing various approaches to determine which approach is best suited to meet technical and programmatic objectives. In your analysis, you will identify key performance parameters and constraints that enable mission success. During development, you will work with a multi-disciplinary team to develop algorithms, integrate them into software solutions, and deploy operational flight software solutions.
+We are looking for engineers who enjoy solving complex problems, can work effectively in a fast-paced environment, and are passionate about advancing the space industry. This is a high-impact role that contributes to SpaceXs mission to get humans to Mars
+RESPONSIBILITIES:
+
+Build software tools and perform analyses of various architectures that include space vehicles, satellites, sensors, communications, and ground infrastructure, evolving or creating new approaches based on analysis results
+Develop algorithms for designing and optimizing finite thrust trajectories
+Develop guidance parameters, verified via analysis to meet mission requirements subject to mission and vehicle constraints
+Develop statistical orbit determination algorithms
+Develop attitude planning algorithms for satisfying various mission and vehicle constraints
+Create a library of system models of space and ground systems, for inclusion in the simulation environment
+Evaluate the effectiveness of various approaches, balancing mission objectives against factors such as development and operational costs
+Communicate across engineering disciplines and technology areas to integrate capabilities you identify as the most beneficial to SpaceX
+Communicate technical capabilities and analyses with internal stakeholders and external customers
+Play an integral part of an agile team that will continuously iterate on spacecraft and mission design through all phases of the program
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in an engineering discipline or physics
+Experience with orbital mechanics, classical dynamics, modeling and simulation
+1 year of experience with writing modern C (14 and beyond)
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Masters degree or PhD in physics or an engineering discipline
+Professional experience in launch vehicle andor spacecraft systems
+Demonstrated background in space mission planning, GNC, or trajectory design
+Demonstrated experience in developing state estimation algorithms
+Background in multi-disciplinary optimization techniques
+Demonstrated experience in developing high-fidelity 6DOF simulations
+Experience with writing scalable software in a team setting
+Experience in developing and presenting compelling analyses of complex trades
+Capability to solve complex problems with little to no supervision on schedule as an individual or as a member of an integrated team
+Passion for advancing the commercial space industry and human spaceflight
+Excellent communication skills both written and verbal
+
+ADDITIONAL REQUIREMENTS:
+
+Active TS or TSSCI clearance. Note that an active clearance may provide the opportunity for you to work on sensitive SpaceX missions. If so, you will be subject to pre-employment drug and random drug and alcohol testing
+Must be available to work extended hours and weekends as needed
+Must be able to travel, 10 of the time
+
+ COMPENSATION  BENEFITS:    
+Pay range:GNC EngineerLevel I: 120,000.00 - 145,000.00per year
+GNC EngineerLevel II: 140,000.00 - 170,000.00per year         
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short  long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation  will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

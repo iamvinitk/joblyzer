@@ -1,0 +1,33 @@
+Req ID: GAQ324R122
+Databricks is looking to fill the position of Order to Cash Transformation Analyst reporting to the Director, OTC Finance Transformation. As a strategic owner driving innovation and efficiency at scale, you will partner with the Finance team across Revenue Operations, Billing, Credit  Collections, Technical Accounting, Revenue Assurance and FPA.
+Planning, leading and executing on global, cross-functional, enterprise-wide projects that impact the Finance organization should be your passion. The ability to plan and execute effectively while collaborating across teams and locations will be key to success in this role. In this role you will remove friction for the Finance team by optimizing process and technology improvements. 
+You will develop deep knowledge of financial impacting processes in order to identify and build scalable solutions. You will need to build cross-functional relationships and drive results.
+
+Design and improve processes through analysis of current state, capturing pain pointsgaps, developing future state process flows, and executing roadmaps
+Become a trusted advisor and partner with subject matter experts to understand their goals, processes, and pain points to deliver solutions
+Drive standardization of Order-To-Cash processes and identify automation opportunities
+Build and support reporting to facilitate Order-to-Cash processes and analyses
+Manage end-to-end UAT activities by driving cross-functional coordination, maintaining testing assets, documenting results and guiding solutions
+Build and and maintain project plans to track, analyze and communicate project milestones and statuses
+Lead all aspects of assigned OTC projects and ensure projects achieve desired goals and benefits, including operational effectiveness, compliance and reporting requirements.
+Manage program risks and develop mitigation strategies to meet goals and timelines
+Collaborate across the organization, including stakeholder teams, Finance Systems, FPA, BSE, IT, and the Data Team to understand the requirements of your team and ensure the team has the resources it needs to succeed from project scoping to change management. 
+
+What we look for:
+
+Bachelors degree in Business, Finance, Accounting or related field
+5 years of experience working in Finance or Accounting function
+Strong experience in process design, mapping and optimization
+Expert-level Microsoft Excel Skills
+Experience with data transformation and visualization tools such as Microsoft Power Query and Power BI, Alteryx or Tableau; Experience with SQL and Python a plus
+Understanding of global Quote-to-Cash processes including order management, billing, collections, cash application, and revenue recognition
+SaaS industry experience
+Experience with project management principles and methodologies
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

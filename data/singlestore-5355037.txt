@@ -1,0 +1,37 @@
+Position Overview
+As a Software Engineer, Intern, youll have the opportunity to spend 12 weeks working on one (or more) of the engineering teams at SingleStore. As an intern, you will be at the forefront of real-time technology thats revolutionizing how companies run their businesses every day. With release cycles throughout the year, our engineers are accustomed to moving quickly in a rapid production environment. To do this successfully, we work collaboratively and creatively across teams to maximize our opportunity for impact. We also believe its important to celebrate our wins together whether it be at local spot or getting out of the city for some exploring.
+As a Software Engineer Intern, you will be empowered to own your projects end-to-end and be an active contributor throughout the product life cycle. To expedite your growth path, you will partner with engineers who deeply care about your success and will lend their expertise to your professional development. Our engineers are not just technical partnersmentors, but are also business partners who are exposed to all areas of the business, working with teams such as product, marketing, and sales.
+Role and Responsibilities
+Our Software Engineers work on small, collaborative teams to help drive our company forward. Whether youre building new features using cutting-edge technologies like Kubernetes, building a reliable and scalable distributed cloud database, or productive developer experiences such as Jupyter Notebooks, state of the art SQL Query editor, Database schema management etc for SingleStore. Our interns are responsible for projects that are deployed into production in the next release after your internship. Your work will include everything from writing to testing software, and youll gain a significant understanding of both the product and the business. 
+Required Skills and Experience
+
+Enrolled in a B.S. Degree in Computer Science, Electrical Engineering, Computer Engineering, or related discipline
+Deep understanding of C.S. fundamentals
+Strong programming skills with C or C or Golang or TypeScript
+Passionate about building highly reliable software
+Firm grasp of algorithms and data structures
+
+Software Engineer Interns can expect the following:
+
+A fully paid internship with an opportunity to work on challenginginteresting projects throughout the summer
+Post internship opportunities (new grad opportunities andor additional internships)
+Exposure to a hyper growth Silicon Valley scale up
+One on one mentorship through our mentorship program to ensure our interns have all the necessary support in addition to having high level access to managers
+Working on projects that matter: opportunities for projects to go live down the line
+Hackathon - being able to work on an intern only team for the hackathon (with some help from our full time engineers)
+Feedback system throughout the internship and at the end, including weekly one on ones with mentors and managers
+Company funded events in order to bond with fellow interns and full time employees (i.e baseball games, bowling, escape rooms)
+A full service office in San FranciscoSeattle which includes catered lunches
+
+Other:
+
+Employment Status: Internship
+Work Authorization: Eligibility to work for a US based employer
+LocationWorking classification: San Francisco or Seattle
+
+SingleStore delivers the cloud-native database with the speed and scale to power the worlds data-intensive applications. With a distributed SQL database that introduces simplicity to your data architecture by unifying transactions and analytics, SingleStore empowers digital leaders to deliver exceptional, real-time data experiences to their customers. SingleStore is venture-backed and headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Lisbon, Hyderabad, Dublin, and Singapore. 
+Consistent with our commitment to diversity  inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.
+To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.
+SingleStore values individuals for their unique skills and experiences, and were proud to offer roles in a variety of locations across the United States. Salary is based on permissible, non-discriminatory factors such as skills, experience, and geographic location, and is just one part of our total compensation and benefits package. Certain roles are also eligible for additional rewards, including merit increases and annual bonuses.
+SingleStores base salary range for this position, is: 25 - 50hour USD
+For candidates residing in California, please see our California Recruitment Privacy Notice. For candidates residing in the EEA, UK, and Switzerland, please see our EEA, UK, and Swiss Recruitment Privacy Notice.

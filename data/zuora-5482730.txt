@@ -1,0 +1,34 @@
+About Zuora, Inc.
+Zuora is a SaaS company and the worlds foremost evangelist of the Subscription Economy. Zuoras leading subscription relationship management platform helps enable businesses in any industry to launch or shift products to subscription, implement new pay-as-you-go pricing and packaging models, gain new insights into subscriber behavior, open new revenue streams, and disrupt market segments to gain competitive advantage. Zuora serves more than 800 companies around the world in every industry. The Subscription Economy Index (SEI) demonstrates that SEI companies are growing revenues approximately nine times faster than the SP 500. Headquartered in Silicon Valley, Zuora also operates offices in Atlanta, Boston, Denver, San Francisco, London, Paris, Beijing, Sydney and Tokyo. To learn more visit www.zuora.com.
+ 
+Description: The Senior Solution Architect will deliver and integrate enterprise-level software deployed within the context of larger technical solutions. She will leverage strong communication and
+relationship building skills to identify requirements, craft solutions, and secure client approval. More specifically, the Senior Solution Architect will be responsible for the following job duties:
+-Analyze customer business processes and functional requirements;
+-Translate customer business requirements into detailed technical designs;
+-Develop database-driven web applications to support dynamic content and integration with back-end systems;
+-Design, development, testing interface programs, reports, and forms using Oracle tools;
+-Design, develop, or modify data conversion, data integration customizations, and reports as needed per customer business requirements;
+-Design and develop software applications, along with reviewing system architecture and functional architecture;
+-Design and develop complex SQL, PLSQL procedures, and packages in order to integrate the back-end to the front-end of the application;
+-Implement Oracle applications solutions, and system integrations;
+-Implement Revenue Automation solutions;
+-Provide implementation support to customers during project milestones, including CRP (Conference Room Pilot), UAT (User Acceptance Testing), Cut-Over, and Post-Go-Live; and
+-Test and debug applications, ensuring compliance of project specifications, and compiling documentation for describing programs.
+ 
+Education  Experience Requirements: 3 years of post secondary education, and 5 years experience as a Computer Systems Analyst, Applications Software Developer, or IT Professional. Special Requirements:  
+-Five (5) years of experience with accounting concepts around Revenue Recognition.
+-Five (5) years of experience with Oracle EBS (Financials).
+-Five (5) years of experience with SQLPlus, PLSQL.
+-Five (5) years of experience designing and implementing transactional interfaces.
+-Two (2) years of experience with systems analysis and design of revenue accounting automation software including familiarity with GAAP terminology and practices.
+ 
+Salary: 170,955 year
+Job Location: Based out of Zuora offices at 101 Redwood Shores Parkway, Redwood City, CA 94065.
+ 
+To Apply:  E-mail resume and cover letter to immigrationzuora.com.  
+ 
+ 
+ 
+ 
+ 
+LI-DNI

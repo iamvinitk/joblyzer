@@ -1,0 +1,51 @@
+About the team:
+Capcos Data Team helps our clients transform every aspect of their business.  We are highly skilled at formulating data strategy, defining business and technology initiatives across the data management lifecycle, and aligning multi-year strategic roadmaps with clients business goals. As digital technologies advance and regulations tighten, todays consumers  and, therefore, todays businesses  are becoming more aware of the importance of good quality data. We work to establish holistic ways to effectively manage data through the modern data supply chain and facilitate consumption through analytics, modelling, AI, machine learning, dashboarding, and reporting. 
+About the Job:
+As a member of our Data Team, you will work across Capcos different domains and solution offerings to help break down large problems, develop approaches and solutions. As a Data Privacy and Protection Consultant, you will work at the intersection of rapidly expanding and evolving data regulations and our clients most business-critical data.  
+What Youll Get to Do:
+
+Work at the increasingly technical forefront of new rights in personal data
+Apply your knowledge of data governance and technology to growing and changing data privacy and protection requirements
+Join a collaborative team of security and privacy professionals answering compliance challenges and simultaneously innovating to unlock new value and capabilities in trusted data
+Learn to embed holistic privacy and security by design into governance, technology, and processes
+Develop, implement, and integrate new privacy programs and processes
+Customize governance, privacy and protection policies to align with clients organizational risk profiles and culture
+Grow your technical expertise, obtain certifications and industry credentials in this high-demand field through formal and informal training and other educational programs
+
+What Youll Bring with You:
+
+7 years of experience in assessing, implementing, configuring, and integrating data security, privacy, and protection programs and frameworks
+Success working with one of several privacy program components, including but not limited to:
+
+Privacy and data protection requirements gathering
+Data discovery and PI inventory
+Data mapping and lineage
+Data protectionprivacy impact assessments
+Record of processing activities
+Privacy policies and notices
+Consent and cookie management
+Data subject requests
+Data transfer impact assessments
+Third party risk management
+Cross-border data transfer mechanisms (e.g. standard contractual clauses, binding corporate rules)
+Security for privacy and privacy by design principles and practices
+Data protection training and awareness
+Incident response
+Leading practice control frameworks (e.g. NIST, ISO)
+Data protection metrics and reporting
+
+
+Superior ability to digest, map, and analyze overlapping sets of regulatory requirements, program components, and control frameworks to steer and ensure strong data protection outcomes and compliance
+Strong knowledge and awareness of data protection laws and regulations (e.g. EU-GDPR, CCPACPRA, CDPA, PIPEDA, LGPD, HIPAA, GLBA, COPPA, ePD)
+Strong knowledge and awareness of privacy and data protection frameworks and standards (e.g. NIST, ISO, Nymity, GAPP, DCAM)
+Working knowledge of data privacy and data protection aspects of data governance
+Working knowledge and experience with data protection technologies (e.g. BigID, Informatica, OneTrust, Securiti.ai, Collibra)  relevant certifications a plus
+Experience with data discovery, data lineage, and data flow inventory tools
+Proven ability to reach across clientorganizational units and partner successfully on cross-functional efforts
+
+Why Capco?
+You will join a company that supports and encourages an entrepreneurial outlook and independent thinking. Capco is not about organizational charts and layers  we operate with little hierarchy because we want all employees to feel that Capco is their firm.  
+We offer highly competitive benefits, including medical, dental and vision insurance, a 401(k) plan, tuition reimbursement, and a work culture focused on innovation and creation of lasting value for our clients and employees. 
+Ready to Take the Next Step?
+If this sounds like you, we would love to hear from you.  This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.
+ 

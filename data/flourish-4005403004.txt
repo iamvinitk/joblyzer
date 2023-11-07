@@ -1,0 +1,42 @@
+
+
+
+
+Flourish was founded in 2017 with the goal of helping financial advisors to better secure the financial futures of their clients. We focus on independent Registered Investment Advisers (RIAs), delivering financial products that advisors cant easily access today through beautiful, scalable, and easy-to-use technology.
+Today, we work with over 600 RIAs that collectively represent more than 1.5T in assets under management across two products: Flourish Cash, a cash management solution with more than 3B in deposits, and Flourish Crypto, a turnkey cryptocurrency offering built for financial advisors and their clients. Headquartered in New York City, we are an independent subsidiary of MassMutual Life Insurance Company1.
+Read on if you are interested in joining a small, highly collaborative, rapidly growing startup—backed by the support and stability of a Fortune 500 company.
+
+
+
+About You
+You are an engineer, first and foremost. You can rapidly build products that will delight users, with best practices in terms of both development and security. You thrive in a work environment that requires strong problem solving skills and independent self-direction, coupled with an aptitude for team collaboration and open communication. You are a strong communicator, explaining complex technical concepts to designers, support, and other engineers is no problem for you.
+You possess strong computer science fundamentals: data structures, algorithms, programming languages, distributed systems, and information retrieval. And finally, your accomplishments are much more important than your paper credentials.
+About the Role
+Our mission is to provide innovative access to financial products that help RIAs secure their clients financial futures and the Flourish Engineers play a key role in doing just that. Were seeking backend and full-stack engineers to help build a scalable platform. Cross functional collaboration is key to success and you will collaborate with teams across the organization, including Product, Design, Operations and Risk.
+You will develop a deep understanding of at least one business line and partner with product managers, business leaders, and fellow engineers to solve complex business problems with software and deliver commercially feasible and viable solutions. Working with other engineers, you will bring ideas from the whiteboard to reality, making key architectural decisions, extending existing features, designing and developing entirely new services and applications, and performing code and architecture reviews. You have deep knowledge of distributed systems and application service frameworks, and are excited to work throughout the tech-stack to deliver a delightful experience for customers and coworkers.
+Basic Requirements
+
+Bachelors Degree in Computer Science, Math, Physics, or Engineering or equivalent working experience
+5 years of software engineering experience
+Strong experience designing and building distributed systems
+5 years experience programming in Python, Java, Kotlin, or TypeScript
+Solid understanding of modern database technology (Redis, Postgres, RedShift, BigQuery)
+Ability to design intuitive and performant RESTful APIs
+Ability to work independently and as part of a fast moving team
+Ready to learn, but just as ready to teach
+
+Nice to Haves
+
+MS or PhD in Computer Science, Math, Physics or Engineering
+Understanding of common SSO protocols (OAuth, OIDC, SAML)
+PandasSciPyDjango experience
+NoSQL experience (We use DynamoDB and Redis)
+DockerKubernetes experience
+Open source contributions
+GraphQL experience (We use Apollo  Typescript)
+Interest in financial planning and fintechinsurtech
+
+At Flourish, we focus on ensuring fair, equitable pay by providing competitive salaries, along with bonus and incentive opportunities and benefits for all employees.
+Base Salary Range: 134,800 - 209,700 plus bonusDisclosures:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+1 The Flourish business is owned by Massachusetts Mutual Life Insurance Company (MassMutual). Flourish Financial LLC and Flourish Digital Assets LLC are indirect, wholly-owned subsidiaries of MassMutual.

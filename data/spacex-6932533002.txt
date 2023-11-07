@@ -1,0 +1,62 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+STARLINK INTEGRATION SUPERVISOR
+The Starlink Enterprise team is looking for an operations supervisor to manage a team of technicians and specialists for hardware assembly, test, integration and repair for all Starlink Enterprise products, including: mobility, ground-systems, commercial products, and test equipment. This individual will be responsible for the execution of all integration operations for enterprise-related applications.
+RESPONSIBILITIES: 
+
+Lead a team responsible for Enterprise and Aviation-related integration and test operations, including:
+
+Integration and repair of Starlink systems for all enterprise systems (Aviation, maritime, automotive, locomotive, ground systems)
+Mechanical and electrical assembly, activation of mission-specific development and continuous-integration test systems for all of Starlink enterprise platforms
+Certification and development test execution and coordination, including: Vibration, Thermal, RF Performance, EMI
+Correspondence with certification and regulatory agencies to ensure quality of Starlink services for various enterprise applications
+
+
+Interface with area leadership and prioritize work based on production schedule and organizational goals
+Troubleshoot hardware issues in real-time, push feedback to correct owners to eliminate repeat issues
+Ensure product quality and conformance to specifications and coordinate the disposition of non-conforming product. Aid in investigations and root-cause analysis of any non-conformances
+Ensure all build, integration and test operations are conducted in compliance with all regulatory and safety protocols at all times
+Act as technical decision maker and advisor to the team, making impactful strategic decisions that affect overall business outcome, driving:
+
+Personnel training and development
+Development and implementation of efficiency improvement projects
+Root cause analysis and implementation of corresponding corrective action plans
+Reduction of downtime for product and personnel
+
+
+Work closely with development and design engineers, machine shops and external vendors to make parts that are designed for manufacturability with high reliability
+
+BASIC QUALIFICATIONS:
+
+Associates degree and 5 years of experience in a manufacturing and test environment, or 10 years in a manufacturing and test environment
+2 years of working hands-on with safety-critical systems, mechanical assemblies or heavy equipment
+2 years of professional experience leading a team
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Bachelors degree
+Aviation Mechanic certificate: Airframe and Powerplant (AP)
+Lean manufacturing training and experience
+Demonstrated ability to read, interpret controlled documentation and processes such as: cable harnesses, wiring diagrams, layout drawings, mechanical drawings, GDT, assembly procedureswork instructions, schematics, engineering drawings, and parts lists
+Familiarity with Design for Manufacturability, Kaizen, Lean Manufacturing, Six Sigma, and Failure Mode Effects Analysis
+Experience preferred in fast-paced production environment with flight quality hardware
+Six Sigma Certification
+Able to adapt to constant changing work assignments and fast-paced work environment
+Proficient with computers, the ability to use MS Office, shop floor management software (ERP) and related programs
+
+ADDITIONAL REQUIREMENTS:
+
+Must be willing to work extended hours and weekends as needed
+Standing for long periods of time, climbing up and down ladders, bending, grasping, sitting, pulling, pushing, stooping, and stretching may be required to perform the functions of this position
+Must be able to lift up to 25lbs. unassisted
+
+COMPENSATION AND BENEFITS:
+Pay range: 
+Starlink Integration SupervisorSupervisor: 105,000.00 - 135,000.00per year
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.
+ 

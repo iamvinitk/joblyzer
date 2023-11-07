@@ -1,0 +1,40 @@
+Who We Are: 
+The Engineering team at SmithRx is developing the next-generation modern pharmacy benefits management (PBM) platform that will change how companies administer and manage pharmacy benefits. Our unified technology platform provides real-time actionable insights that drives cost savings, powers clinical services and results in a brilliant customer experience. A unified technology platform exists nowhere in the pharmacy benefit ecosystem to programmatically solve widespread deficiencies. SmithRx delivers unmatched service quality and operational efficiencies that exceed all industry standards.
+As a Senior Front-End Software Engineer, you will play a key role in the entire software development lifecycle from FE design, build, test and maintain our SmithRx web product suite. You will work with Product and other stakeholders (Business, Backend, UX, etc) and bridge the gap between UIUX design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.  You will advocate and bring best practicesmethodologies, coding standards and large-scale web design perspectives to our team.  We need our engineers to be versatile and driven, display leadership and ownership qualities, and be enthusiastic to take on new challenges as we continue to push technology forward.
+What you will do:
+
+Taking the lead on designing, developing and maintaining SmithRx frontend features with a strong depth of knowledge in JavaScript, React, and GraphQL while leveraging CICD to iterate quickly
+Collaborate with stakeholders and technical leads to understand functional and technical feasibility of UIUX designs to produce high-quality, performant, decoupled, and scalable code
+Continually apply software development best practices, design patterns, tools and technologies 
+Troubleshoot production issues by performing triages for issues that arise and performing root cause analysis to prevent future occurrence of issues.
+Coachmentor junior team members in their assigned engineering projects by performing design and code reviews
+Work with senior leadership to turn technical vision into a tangible roadmap
+Be the cornerstone of a collaborative learning culture through knowledge sharing, mentorship, code reviews, and exploration of new frameworks and paradigms
+
+What you will bring to SmithRx:
+
+BS or advanced degree in computer science
+5 years of software development experience working on client-side applications
+Expertise in JavaScript, React, GraphQL, HTML, CSS and various front-end frameworks
+Proven experience in client-side software design, implementing reusable components, and ability to work on features independently
+Experience using Git in a professional environment
+Experience in writing automated tests using testing frameworks such as Cypress or Selenium
+Some industry experience with CICD pipeline, Docker, and a common cloud service provider
+Understanding of typical web application, SOA and micro services patterns a plus
+Experience at a high-growth startup a plus
+
+What SmithRx Offers You: 
+
+Total Rewards package that includes incentive bonus and stock options
+Highly competitive wellness benefits including Medical, Pharmacy, Dental, Vision, and Life Insurance 
+Flexible Spending Benefits 
+401(k) Retirement Savings Program 
+Short-term and long-term disability
+Discretionary Time Off 
+13 Paid Holidays
+Wellness benefits- Spring Health, Gympass, and Headspace
+Commuter Benefits 
+Paid Parental Leave benefits
+Employee Assistance Program (EAP)
+Well-stocked kitchen in office locations
+Professional development and training opportunities

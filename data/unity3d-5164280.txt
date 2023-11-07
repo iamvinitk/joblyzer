@@ -1,0 +1,35 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Unity Engine is used by millions of creators around the world to build powerful and engaging real-time experiences. At the heart of this is graphics, from the initial point of content creation down to the final pixels on the target device.
+In the platform graphics team, we focus on bringing the state of the art graphics features on all the platforms Unity supports now and in the future! Our mission is to enable Unity developers to write rendering code without foreknowledge of what API it will ultimately be running on.
+As a Graphics Engineering Manager, you will be in an outstanding position working alongside other graphics teams in Unity to improve the quality of the rendering systems, the performance of cross platform high level graphics architecture.
+This role is primarily people-focused, but will also require hands-on technical leadership. The right person will help us attract and retain high quality engineering talent. If you thrive on shaping software that is loved and used by millions, and leading the engineers who build and maintain it, then weve got a great job opportunity for you!
+What youll be doing 
+
+Take ownership of and drive the technical strategy and roadmap of the team
+Collaborate with product management, design, and architecture teams across the platform and graphics organizations
+Communicate your teams vision internally and externally to various partners
+Support the members of your engineering team as they advance in their career goals
+
+What were looking for 
+
+Experience leading a team
+Strong collaboration and communication skills
+Understanding of the modern engine systems and rendering architectures and experience of working on real-world productions or large multi-platform engine
+Past experience as an engineer, and a working familiarity with CC
+
+You might also have
+
+Prior experience using the Unity Engine
+Experience with low-level modern graphics APIs DX12, metal
+Prior XR development experience andor passion for VR
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com. 
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-LM4 SEN
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary158,100—213,900 USD

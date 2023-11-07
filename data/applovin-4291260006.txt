@@ -1,0 +1,39 @@
+About AppLovin
+AppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end software and AI solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.
+To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.
+Fortune recognized AppLovin as one of the Best Workplaces in the Bay Area 2022, and is a Certified Great Place to Work in 2021, 2022 and 2023. Check out the rest of our awards HERE.Introduction:
+We are looking for a Senior Data Analyst to join our Product Analytics team reporting into the Manager of Product Analytics. In this role, you will have the opportunity to work with exciting featuresproducts in the mobile AdTech space and partner with senior leadership across the business. We are looking for candidates who are quick learners, enjoy working in a horizontal fast paced environment, have strong problem-solving skills, and are passionate about using their technical prowess to build processes and reports that monitor and automate our advertising business and provide technical support for our advertising partners. This candidate should be self-motivated, results-oriented and sharp. 
+Responsibilities:
+
+Partner with internal business leads and external advertising customers to solve complex technical problems. Being a strategic critical thinker who is excited about tackling challenging open-ended problems and enjoys coming up with innovative solutions is key to this role. 
+Analyze  debug data discrepancies between us and our partners. Taking end-to-end ownership of customers technical issues, including initial troubleshooting, identification of root cause and issue resolution and external communication is a key part of this role. 
+Automate internal processes and script reports and alerts to monitor performance metrics that are key to the business. 
+Write clear, detailed, and high quality project specs. Proactively manage timelines and priorities and carry an execution oriented mindset to work through tasks efficiently. 
+Work cross functionally with engineering, business operations and business development to tackle various requests and manage the entire project from solution ideation, development, testing, deployment, measurement and refinementiterations.
+Contribute to the development of support resources such as internal knowledge base articles and troubleshooting documentation to enhance the teams efficiency.
+
+Basic Qualifications:
+
+BABS degree in computer science, engineering, math, economics, finance, statistics or a related technical discipline OR previous experience writing code. 
+4 years of experience in a technical or analytical problem solving role ideally working with a software product (doesnt have to be a job).
+Have a deep and technical understanding of the Ad Tech ecosystem, clients, partners, and marketing technology
+Proficient with Python and writing SQL queries
+Exceptional analytical literacy and quantitative problem-solving skills. Has the ability to make data-driven decisions but can also look beyond the data and holistically assess situations.
+Experience collaborating with highly technical engineering teams and driving complex projects from ideation to go live.
+Excellent organizational and project management skills. An ideal candidate will be able to scope projects, estimate timelines, and coordinate with stakeholders to get the job done.
+Able to be self sufficient, proactive and execute quickly when given autonomy. This is a small team that sits at the cross section of many other teams. Candidates need to be driven, independent, comfortable researching, building, and debugging solutions on their own.
+
+Preferred Qualifications:
+
+Previous experience in the mobile or AdTech space, ideally at a mobile measurement partner in a technicalsupport role
+Prior experience in a startup environment
+Experience with Salesforce
+Experience with REST APIs. 
+
+Interested? Send us your resume and lets talk!AppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.Bay Area base pay range; Total compensation package commensurate with experience115,000—187,000 USDAppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here.
+ 
+If you need assistance andor a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at accommodationsapplovin.com.
+ 
+AppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law.  If youre applying for a position in California, learn more here.
+ 
+If you are a California resident, read our CA Privacy Notice to learn more about how AppLovin processes your personal information.

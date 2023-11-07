@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Before Stripe, every growing internet platform had a payments team. Today, every growing internet platform has an Identity team to verify KYC. Identity verification is a core piece of economic infrastructure for online businesses that enables businesses to digitally verify the users Identity (through ID document, Passport, DL) for fraud, regulatory and trust  safety purposes. Great identity solutions can help platforms automate the process of satisfying KYCregulatory obligations while keeping their users safe. 
+Were looking for people with a strong background or interest in building successful products while keeping user first perspective, who have the ability to deal with ambiguity, exquisite attention to detail and who are comfortable learning new technologies and systems. 
+Join us to build the Stripe Identity product that empowers platforms to take the burden and cost out of identity verifications, while scaling globally with ease.
+What youll do
+Responsibilities
+Engineers on the team will build features for Stripes Identity Product and services. We are seeking engineers who design, build, and maintain the core infrastructure and plan for growth. You will help drive sound technical decision making and lead technical conversations with other teams across Stripe. Build a great customer experience for people using your infrastructure.
+
+Design, build, and maintain beautiful, robust, and high-performance APIs and services
+Ensure our infrastructure is extensible, scalable, reliable, and meets SLAs for both external and internal users
+Collaborate with cross-functional partner teams to deliver delightful user experiences 
+Hide complexity from our users behind simple yet powerful abstractions
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Strong technical background, including 2 years of experience designing, implementing, and operating large-scale, high-performance APIs and services
+Empathetic, collaborative, and user-first mindset in everything you build
+Preference for simple solutions and designs over complex ones, and having a good intuition for what is lasting and scalable
+Experience proactively seeking feedback from users, teammates, and subject matter experts
+The skills to build holistically  from specs and documentation to implementation, testing, deployment, and measuring impact
+The ability to balance speed, complexity, and scope in service of user needs
+
+Preferred qualifications
+
+Prior experience building distributed systems or a microservices architecture
+Passion for helping those around you grow and learn, as well as a passion for working with those who do the same
+Propensity to ask questions, assume good intentions, and defaulting to transparency

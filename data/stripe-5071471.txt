@@ -1,0 +1,39 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career. 
+About the team 
+Our Revenue and Finance Automation (RFA) suite gives businesses power over the entire life cycle of their cash flow. By coordinating billing, tax, reporting, and data services in one modern stack, Stripes revenue and finance automation suite eliminates the inefficiencies of legacy finance tools and supports revenue growth.
+While the internet has been a boon to productivity, the gains have been uneven. Common financial processes like billing, tax, and quarterly reporting are still painfully inefficient and manual. Theyre also typically spread across a dozen or more software tools. The result: one-third of finance leaders reopen their books at least once a quarter because of accounting errors, and half spend 10 hours a month manually correcting discrepancies.
+Stripes RFA suite relieves those burdens by equipping finance leaders with revenue management tools that are as sophisticated as the businesses they run. The suite automates manual work and improves accuracy across the cash flow life cycle, from payments and billing to tax, reporting, and reconciliation.
+ 
+Our portfolio is growing rapidly and we are expanding our RFA suite to serve the diverse spectrum of Stripes users, from brand new startups to public companies. Simultaneously we are investing in foundations for an extensible platform solution, including integrations with external systems that will let us scale our reach and capabilities by orders of magnitude over the next few years.
+What youll do
+Were looking for a seasoned machine learning engineer to join our new ML accelerator team within RFA where you will help grow the use of applied ML and newer LLM-based models for building new products and capabilities. You will partner with many functions at Stripe, with the opportunity to both work on infrastructureplatform systems, as well as produce direct user-facing business impact.
+Responsibilities
+
+Incorporate LLM-based technologies into Stripes Data and Reporting products.
+Build new ML models for improving predictive analytics.
+Understanding our users business needs in order to evaluate model Performance and LLM approaches.  Tune models and LLM prompts to improve recommendations and outcomes.
+Propose new products and capabilities using ML based technologies to improve end-user insights.
+Capture new patterns and approaches for bringing applied ML into our products, and evangelize these patterns across the larger RFA team.
+Collaborating with our machine learning infrastructure team to buildsupport for new model types into our scoring infrastructure.
+Mentor engineers earlier in their technical careers to help them grow.
+
+Who you are
+Were looking for ML engineers with a background and passion for building products and services incorporating applied ML technologies. You are comfortable in dealing with changes. You love to take initiatives, have bias towards action, and enjoy sharing learnings with others.
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+You are motivated, action oriented with at least 8 years of practical industry experience.
+You both enjoy using your full-stack engineering experience and are experienced in leveraging applied ML experience.
+Knowledge of data manipulation to perform analysis, including querying data, defining metrics, or slicing and dicing data to evaluate a hypothesis.
+The ability to thrive in a collaborative environment involving different stakeholders and subject matter experts.
+Pride in working on projects to successful completion involving a wide variety of technologies and systems.
+Comfort working directly with your users, and have empathy and a strong customer focus
+Enjoyment in working with a diverse group of people with different expertise.
+
+Preferred qualifications
+
+An advanced degree in a quantitative field (e.g. stats, physics, computer science).
+Practical experience or interest in building LLM-enabled products and services.
+Experience in building Financial oriented data products.

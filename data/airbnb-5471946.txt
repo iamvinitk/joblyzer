@@ -1,0 +1,29 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join:
+Data represents the voice of Airbnbs users at scale. The Workflow Orchestration team is responsible for the data workflow orchestration solution, which powers a big range of data use cases from offline data analytics, experiments, to AIML model developments, trainings. We are the founding team of Apache Airflow and a team with rich and diverse experience in different orchestration solutions
+A Typical Day:
+
+Work with data infra engineers, data engineers, data scientists and product managers to design and build frameworks to support data development workflows.
+Developing and maintaining automation tools to streamline deployment and management of our platform.
+Maintain and evolve data engineering tooling to ensure high availability, reliability, usability and performance.
+Collaborate with data engineering and analytics teams to understand their needs and requirements to create a paved path for interacting with the data warehouse.
+Design  implement frameworks (applications) for processing data at scale such as a metrics platform, SQL generation framework or a data quality framework.
+
+Your Expertise: 
+
+10 years of experience in software engineering, with a focus on data infrastructure or supporting data engineers andor data scientists.
+Strong programming skills in one or more of the following languages: Java, Python, or Scala.
+Experience building data applications that create and implement higher-level abstractions on top of the lower-level data infrastructure to simplify complex data operations, improve scalability, and enhance overall system performance.
+Experience working with data storage and distributed processing technologies (i.e. Hive, Spark, Trino, Flink or other SQL databases, etc )
+Experience with data modeling, database design and various SQL dialects.
+Experience with containerization technologies such as Docker and Kubernetes.
+Extensive background in workflow orchestration solutions such as Apache Airflow, Luigi, Azkaban, Oozie, Prefect or Kubeflow.
+Utilize experience in Data Engineering to optimize processes and bring forth new ideas and technologies that enhance our data capabilities.
+Excellent communication skills and the ability to collaborate with cross-functional teams to build empathetic tools and platforms. 
+Excellent analytical and problem solving skills. 
+BSMSPhD in Computer Science, a related field, or equivalent work experience preferred.
+
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—275,000 USD

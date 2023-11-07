@@ -1,0 +1,42 @@
+
+About Kinaxis  
+Kinaxis is the global leader in modern supply chain management. We serve supply chains and the people who manage them in service of humanity. Our software is trusted by renowned global brands to provide the agility and predictability needed to navigate todays volatility and disruption. We combine our patented concurrency technique with a human-centered approach to AI to empower businesses of all sizes to orchestrate their end-to-end supply chain network, from multi-year strategic planning through down-to-the-second execution and last-mile delivery. For more news and information, please visit kinaxis.com or follow us on LinkedIn. Vice President, Cloud Services
+Job location:  Our office in Ottawa, Canada. We work in a hybrid model where the expectation is to work a minimum of 3-4 days in the office.
+About the role
+As the Vice President,Cloud Services, you will lead the team that designs and implements automated cloud services to provide a secure and highly available environment for Kinaxis Inc. RapidResponse Software as a Service offering.
+What you will do
+
+Responsible for the Kinaxis Inc. Cloud Engineering offering delivery and management of operational planning, strategic efficiency measures, infrastructure availability, and security policies implementation.
+Collaborate with senior executives across Kinaxis Inc. to develop and drive the long-term cloud services strategy to accomplish the organizations business objectives.
+Uses internal system and user data to drive new business case opportunities for efficiency for operation effectiveness of the Kinaxis Inc. SaaS platform.
+Takes the initiative to develop strategies that will anticipate trends and drive business decisions for new measurements of success.
+Acquire a thorough understanding of the industry, business, and its clients, including specific challenges, anticipating industry trends, risks, and potential impacts, and using information to identify strategic opportunities for new services or manage organizational risk.
+Select appropriate Cloud Services to design and deploy an application based on given requirements for Kinaxis Inc. software.
+Manage and orchestrate the migration of enterprise products from data centers to public cloud providers and guide the development of infrastructure automation tooling.
+Ensure high availability of the platform through thoughtful monitoring, release practices, and an efficient incident management system.
+Define annual and quarterly priorities of projects for the department; ensure follow-up and successful execution of projects within the defined timeframes.
+Deliver operational efficiency and transparency through metric-driven strategies and reporting.
+
+What we are looking for
+
+10 years of experience in progressive cloud services experience.
+5 years at the senior leadership level.
+Extensive experience with private and public cloud solutions.
+Ability to communicate complex, technical concepts to executive staff, business sponsors, and technical resources concisely.
+Extensive experience in presenting and narrating business outcomes to senior executives through complex data sets.
+Experience collaborating with technology RD teams and leaders to develop infrastructure and operational solutions, including deployment and automation for new products and services.
+Proven experience migrating  implementing both cloud and container technologies.
+Experience managing Cloud Services data centers in multiple countries.
+Strong problem-solving and vendor management skills; highly organized, detail-oriented, and able to work effectively in a fast-paced, dynamic environment.
+Successful track record of balancing internal and external customer needs.
+Interpersonal and leadership skills, collaboration, facilitation, and negotiation skills.
+A passionate leader with expertise in people and leadership development, with a demonstrated history of driving strategic talent and skills programs that enable team growth.
+What we have to offer
+
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never done. Thats because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems theyre passionate about.
+Great People - We take our work seriously, but we dont take ourselves too seriously! Its in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+
+For more information, visit the Kinaxis web site at www.kinaxis.com or the companys blog at http:blog.kinaxis.com.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprogramskinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.

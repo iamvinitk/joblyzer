@@ -1,0 +1,52 @@
+About Us
+
+At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the worlds largest networks that powers approximately 25 million Internet properties, for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazines Top Company Cultures list and ranked among the Worlds Most Innovative Companies by Fast Company. 
+We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us! 
+Please note: This is post-sales position, not pre-sales.
+As a Customer Solutions Engineer (CSE), you will be the trusted technical advisor throughout a customers lifecycle. You are a product expert and will leverage your knowledge to ensure our Enterprise customers understand and utilize the Cloudflare platform to its fullest extent. Your goal is to help customers be successful and derive the most value possible from their Cloudflare investment.
+As a CSE, you strive to understand customer requirements and issues at the molecular level. No matter your background, you have natural curiosity and desire to identify root causes of strange problems and the most elegant and efficient solutions. Fundamentally, you are enamored with how the internet works. 
+You will work closely with the Customer Success Manager (CSM) as well as every other team at Cloudflare, from Sales and Product to Engineering and Customer Support. Customer success will drive you through the entire organization as you seek out and implement scalable solutions for your customers needs.
+Responsibilities:
+As a critical member of the Account Team you will serve as a trusted technical advisor, help expand existing business, and ensure the success of our customers:
+
+You will be part of a regional team and will work closely with CSMs supporting the regional book of business
+From a technical perspective, as part of the account team, your primary responsibilities will be to deliver a timely and organized onboarding for customers, ensure customers see the full value in Cloudflares products, and advise on technical best practices
+Ensure customer retention and expansion through relationship building and participation in periodic account reviews to contribute your expertise on technical topics
+Provide customers with clear proactive technical guidance and expertise across all our products
+Collaborate with Customer Support, Engineering, and other teams to assist with technical escalations
+Proactively identify opportunities for expansion for existing customers
+Promote retention by capturing and communicating gaps in product or features
+Contribute towards the success of the CSE organization through knowledge-sharing activities such as contributing to internal and external documentation, answering technical QA, and helping iterate on best practices
+The role requires 20-50 travel to attend meetings with customers, attend conferences, and other industry events, and to collaborate with your Cloudflare teammates (post-COVID)
+
+Experiences might include a combination of the skills below:
+
+Fluent English and 2nd European language 
+Minimum 5 years of prior post-sales customer relationship management
+Deep understanding of how the internet works and the desire to expand that knowledge. For example:
+
+Layers and protocols of the OSI model, such as TCPIP, TLS, DNS, HTTP
+Reverse and forward proxies and the applications of both
+Security aspects of an internet property, such as Firewalls, WAFs, Bot Management, Rate Limiting, (M)TLS, Zero Trust
+Performance aspects of an internet property, such as Speed, Latency, Caching, HTTP2, TLSv1.3
+Enjoying the adventure of troubleshooting and solving technical problems
+Understanding why Cloudflare plays an increasingly important role on todays internet
+
+Ability to proactively identify and solve problems then build sustainable solutions to prevent recurrence
+Demonstrated experience with a scripting language (e.g. Python, JavaScript, Bash) and a desire to expand those skills
+Technical curiosity and passion: Cloudflare is at the cutting edge of internet technology, and our CSEs are viewed as subject-matter experts. Its incumbent on us to stay up to date not only with Cloudflares specific products, but with industry trends.
+Ability to manage a project, work to deadlines, and prioritize between competing demands
+
+Preferred but not required:
+
+Understanding of, or experience with, regulatory requirements such a PCI DSS, HIPAA, and SOC-2
+What Makes Cloudflare Special?
+Were not just a highly ambitious, large-scale technology company. Were a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.
+Project Galileo: We equip politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflares enterprise customers--at no cost.
+Athenian Project: We created Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration.
+Path Forward Partnership: Since 2016, we have partnered with Path Forward, a nonprofit organization, to create 16-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one.
+1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Heres the deal - we dont store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers.
+Sound like something youd like to be a part of? Wed love to hear from you!
+This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.
+Cloudflare is proud to be an equal opportunity employer.  We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness.  All qualified applicants will be considered for employment without regard to their, or any other persons, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AAVeteransDisabled Employer.
+Cloudflare provides reasonable accommodations to qualified individuals with disabilities.  Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hrcloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.

@@ -1,0 +1,43 @@
+Senior Systems Engineer  VMware (L2)
+This role within the Global Windows Platform  Services team is responsible for planning, designing, automating, orchestrating, and implementing the entire stack of VMware solutions in our data centers and eventually in the Microsoft Cloud. You will need to have expert knowledge of VMware technologies, Microsoft Windows Operating Systems and related technologies such as SAN storage, VPN Networking, InfoBlox DNSDHCP and Windows 10 3rd party supporting applications.
+ 
+Daily Duties Include:
+
+Create logical, physical design and architecture for all VMware-based server and virtual desktop solutions (ESXi  vCenter, Horizon, NSX-T, AppVolumes, Dynamic Environment Manager)
+Troubleshooting skills with Active Directory Infrastructure, Group Policies, ADInfoblox DNS, Microsoft PowerShell, Windows Server 2012, 2016 and 2019 and Windows 10
+Gather and document business requirements, assess technical capabilities and analyze findings to translate into the engineering of technology solutions.
+Perform in-depth technical research and analyze results to recommend suitable approaches for solving complex and challenging technical and integration problems.  Follow policies and procedures for change, problem, and incident management.
+Proactively participate in L2 problem escalations and resolve desktop and server support issues.
+Participate in the 24x7 on-call rotation and planned maintenance activities after hours and on weekends when needed.
+Should have a strong operational working knowledge of Horizon View 7.x VDI End user support. Includes operational maintenance of infrastructure such as vSAN, App Volumes, Dynamic Environment Manager in addition to Horizon
+Strong working knowledge of vCenter, ESXi, esxcli commands, ESXi updatestroubleshooting, Windows 10 golden image creation with the usage of clones and templates.
+
+ 
+Key Technical Skills  Competencies:
+
+8-15 years of hands-on IT Engineering experience
+5 year in-depth VMware ESXivCenter and Horizon experience
+5 years of experience in a similar role (VMware design and engineering, complex implementations and operational background)
+Minimum 5 years of experience in a global financial organization (e.g., Brokerage, Trading, or Investment Management)
+Excellent verbal and written communication skills. Strong customer service and professional client facing skills.
+Excellent attention to detail and proven strong analytical  troubleshooting and multi-tasking skills.
+Strong time management and organizational skills and ability to meet project deadlines.
+Ability to learn new technologies and adopt new tools and techniques to increase automation, performance and scalability.
+Ability to work autonomously and as part of the IB global Windows team.
+VMware Certifications (VCP-DCV, VCP-DTM) are a strong plus and some will be required within a year of joining IB.
+Understanding of networking concepts, LANWAN, DNSDHCP, routing, switching and firewalls within the scope of the VMware technology stack
+Expert experience in Windows Server 200820122016, Microsoft SQL  Windows clustering technologies, Active Directory, Group Policy and DFS file systems.
+
+Company Benefits  Perks
+
+Salary commensurate with experience. Performance based cash bonus and stock grant.
+Excellent health and wellness benefits including medical, dental, vision, retirement plan with a company match, paid time off.
+Hybrid work model 
+Daily company-paid lunch and healthy snack options throughout the day. 
+Corporate events including team outings, dinners, volunteer activities and company sports teams.
+Education reimbursement and learning opportunities.
+
+LI-RB1Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

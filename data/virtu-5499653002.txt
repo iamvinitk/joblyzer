@@ -1,0 +1,27 @@
+Virtu is a leading financial firm that leverages cutting edge technology to deliver liquidity to the global markets and innovative, transparent trading solutions to our clients. As a market maker, Virtu provides deep liquidity that helps to create more efficient markets around the world. Our market structure expertise, broad diversification, and execution technology enables us to provide competitive bids and offers in over 19,000 securities, at over 235 venues, in 36 countries worldwide.
+THE ROLE
+Virtus Site ReliabilityCore Operations Engineers form a small, fast-paced global team dedicated to managing the deployment, maintenance, and enhancement of a sophisticated electronic trading system operating on hundreds of venues around the world. They are positioned at the very forefront of our technologys interaction with the financial markets, requiring them to work well under high-stress situations and have an ability to react decisively and quickly in time-sensitive situations. This team is the first point of contact for all our external trading connections and, as such, they perform a dynamic mix of functions. This includes everything from counter party support to risk management and system triageoptimization. 
+Our Site ReliabilityCore Operations Engineers operate at a high-level in a WindowsLinux environment to solve complex technical problems and work with traders and exchanges to understand micro-market structure. A strong interest in the markets and technology is a must. This is a unique job opportunity to become an integral part of a fast-paced electronic trading environment.
+THE CANDIDATE: 
+
+Minimum 3 years of experience working experience, preferably in a site reliability engineering role
+Excellent working knowledge of WindowsLinux environments
+Ability to be cool under pressure and at ease in high-stress, time-sensitive environments
+Interest in high transaction environments andor low-latency systems.
+Excellent communication skills
+Strong academic record
+Technical agility; interest in innovative technologies
+
+DESIRED BUT NOT REQUIRED:
+
+Working with financial systems or knowledge of the global financial market place
+Competence in at least one programming language  preferably Python  Bash  Perl  Go or similar.
+Experience with OMSESM order flow
+Experience with SQL  
+Experience with configuration management platforms (i.e. Ansible, Puppet or Salt)  
+Knowledge of networking, both TCP and UDP  
+
+ 
+Salary Range: 125,000 - 150,000 (salary range is exclusive of bonuses, benefits or other categories of compensation)
+Virtu Financial is an equal opportunity employer, committed to a diverse and inclusive workplace, welcoming you for who you are and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+ 

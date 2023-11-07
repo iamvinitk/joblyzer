@@ -1,0 +1,51 @@
+BE PART OF BUILDING THE FUTURE.
+What do NASA and emerging space companies have in common with COVID vaccine RD teams or with Roblox and the Metaverse? 
+The answer is data, -- all fast moving, fast growing industries rely on data for a competitive edge in their industries. And the most advanced companies are realizing the full data advantage by partnering with Pure Storage. Pures vision is to redefine the storage experience and empower innovators by simplifying how people consume and interact with data. With 11,000 customers including 58 of the Fortune 500, weve only scratched the surface of our ambitions. 
+Pure is blazing trails and setting records:
+
+For ten straight years, Gartner has named Pure a leader in the Magic Quadrant 
+Our customer-first culture and unwavering commitment to innovation have earned us a certified Net Promoter Score in the top 1 of B2B companies globally
+Industry analysts and press applaud Pures leadership across these dimensions
+And, our 5,000 employees are emboldened to make Pure a faster, stronger, smarter company as we go
+
+If you, like us, say bring it on to exciting challenges that change the world, we have endless opportunities where you can make your mark.What You Will Be Doing...
+Pure Storage co-locations are a unique blend of development lab and production data center environments under one roof. We are our own largest customer, and believe that proper utilization of our own products in both development and production capacities are key to our continued growth and success as a company.
+In order to achieve success in your role as Data Center Operations Manager, you should expect to collaborate with and facilitate proper communication between multiple colocation stakeholders and data center operations teams on a regular basis. Stakeholders include representatives from various internal teams such as software engineering, hardware development, devops, and manufacturing. As such, you will ensure smooth operations of the facilities and its services to engineering. In order to achieve this, among other things, you should expect to collaborate with various employees and partners.
+You will be responsible for leading an existing  growing team of 19 geographically distributed employees composed of Data Center Systems Engineers, supervisors, and contractors in our Sunnyvale Data Center. Leading these teams through implementation standards, infrastructure automation, best practices, and overall vision will be critical to our operational success as we scale to keep up with company demands.
+In this role, it is our hope that you will enjoy learning about and contributing to the process of developing a leading edgeinnovative storage technology from the ground up. We are committed to a culture of openness and transparency in both strategy and operations that in turn allows employees a deeper level of engagement in engineering and business decisions.
+What You Bring To The Team...
+
+5 years of experience leading a team responsible for a complex data center environment for both highly available, customer-facing applications as well as internal engineering environments
+Demonstrated understanding of data center managementoperations (i.e. environmental management, power management, compute deployment, and space management)Ability to gather and communicate meaningful operational metrics (employee workload, system utilization, system uptime, deployment times, etc).
+Familiarity with DCIM, IPAM and other data center centric monitoring solutions (i.e. network monitoring, power monitoring, etc)
+Vendor management with colocation providers, building relationships, and establishing site strategy
+Understanding of industry security practices and complianceKnowledge of colocation and internet service providers products and technologies
+The ability to provide leadership, direction, team building, coaching, and decision-making with employees and peers
+
+Desired Experience...
+
+Proven success in Interacting with a variety of customers, employees and partners on a regular basis
+Experience with managing and facilitating proper communications among multiple geographically distributed teams.
+Properly balancing priorities between multiple business units  customers, while identifying and resolving possible future conflicts between said stakeholders.
+Managing multi-million dollar capex and opex budgets
+Familiarity with proper root cause analysis and post mortem procedures regarding power, network or other data center related outages
+Experience designing rack level systems and network architecture    
+
+Bonus Qualifications...
+
+Cisco CCNP Data Center certification or demonstrated equivalent knowledge of large scale IP networks.
+Familiarity at least conceptually, if not first hand, with configuring enterprise grade storage appliances. NAS, Fiber Channel  iSCSI SAN, NVME, etc.
+Willingness to travel between local locations in the bay area 1-2 times per week (Sunnyvale  Mountain View) as well as quarterly trips to Utah.
+3 years of Linux Systems administration  scripting  automation experience
+
+The annual base salary range is: 117,000 - 176,000. Salary ranges are determined based on role, level and location. For positions open to candidates in multiple geographical locations, the base salary range is reflective of the labor market across the applicable locations. This role may be eligible for incentive pay andor equity. And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events - check out purebenefits.com for more information.
+LI-BR1BE YOU—CORPORATE CLONES NEED NOT APPLY.
+Pure is where you ask big questions, think differently, and make an impact. This is not just a job, but a place where you have a voice and can accelerate your career. We value unique thoughts and celebrate individuality, and with ample opportunity to learn, develop yourself, and expand into different roles, joining Pure is an investment in your career journey.
+Through our Pure Equality program, which supports a flourishing field of employee resource groups, we nourish the personal and professional lives of our team members. And our Pure Good Foundation gives back to local and global communities through volunteering and grants.
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events.
+PURE IS COMMITTED TO EQUALITY.
+Research shows that in order to apply for a job, women feel they need to meet 100 of the criteria while men usually apply after meeting about 60. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+Pure is proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire. 
+If you need assistance or an accommodation due to a disability, you may contact us at TA-Opspurestorage.com.
+APPLICANT  CANDIDATE PERSONAL INFORMATION PRIVACY NOTICE.
+If youre wondering how or why Pure collects or uses information you provide, we invite you to check out our Applicant  Candidate Personal Information Protection Notice.

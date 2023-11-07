@@ -1,0 +1,40 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core language learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+We are searching for an AI Research Engineer experienced with recommendation systems to join our efforts to personalize learning. Duolingo has a unique opportunity to define the future of personalized education with one of the worlds largest datasets. The AI Research Engineer role at Duolingo is quite broad, with responsibilities ranging from engaging with the research community via publishing papers and attending conferences, to bringing the latest advances in AI to our product by collaborating with our research scientists and software engineers. 
+Research engineers are expected to both innovate and implement. As such, we look for applicants with both an accomplished research portfolio as well as a strong software engineering background. AI research engineers often own projects from end-to-end, beginning with ideation, data collection, RD, and culminating in putting your work in front of our learners.
+You Will...
+
+Solve our most ambitious problems with the right tool for the task
+Collaborate cross-functionally to bring your ideas to life in the product
+Identify problems, prototype solutions, evaluate their return on investment, and then implement the best solution at scale to improve the lives of our millions of learners each day
+Share your findings both within Duolingo as well as to the broader research community
+
+You Have...
+
+A creative, interdisciplinary, and entrepreneurial approach to RD
+Strong debugging and critical thinking skills
+
+Requirements: 
+
+M.S.Ph.D. in machine learning, AI, computer science, or a related technical field
+2 years of industry experience
+Experience working with recommendation systems
+Outstanding interpersonal communication and organizational skills
+Experience implementing AI systems at scale
+Ability to relocate to New York, NY or Pittsburgh, PA
+
+Exceptional Candidates Will Have...
+
+5 years of post-doctoral andor industry experience
+Experience mentoring or managing junior scientists or engineers
+A strong publication record
+
+ 
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 166,500 - 273,000. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+ 
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

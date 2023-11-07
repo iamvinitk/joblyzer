@@ -1,0 +1,64 @@
+
+About Kinaxis  
+Kinaxis is the global leader in modern supply chain management. We serve supply chains and the people who manage them in service of humanity. Our software is trusted by renowned global brands to provide the agility and predictability needed to navigate todays volatility and disruption. We combine our patented concurrency technique with a human-centered approach to AI to empower businesses of all sizes to orchestrate their end-to-end supply chain network, from multi-year strategic planning through down-to-the-second execution and last-mile delivery. For more news and information, please visit kinaxis.com or follow us on LinkedIn. Business Application Developer, ServiceNow
+Job location: Chennai, India
+About the team
+The Business Application Developer, ServiceNow contributes to the work on highly integrated applications and platforms that drive the business forward. Partnering with senior developers and business analysts, the incumbent supports the team in developing new user experiences and creating digital solutions to solve challenges within ServiceNow. The incumbent ensures that business applications meet compliance requirements and provides efficient solutions to team members within Corporate IT on the necessary support and enhancement of our business applications.
+What you will do
+
+Support the implementation of new application projects, and provide support for our platforms and business applications, specifically ServiceNow, including upgrades, enhancements, fixes, and features, in collaboration with business SMEs, and team members within Solution Architecture and Business Analysis.
+Participate in delivering system testing; configuring, automating, documenting, and performing test cases and test scripts to identify and correct issues or to verify desired functionality.
+Design, develop, and document solutions on new platforms and applications, and support the testing of new features and capabilities on existing applications and platforms, providing best practices and analysis to the rest of the team.
+Contribute to code reviews, adopting and documenting code and configuration management best practices.
+Work in collaboration with your team to deliver projects on Agile methodology.
+Act as the technical subject matter expert on some of the ServiceNow Modules such as: 
+
+IT Service Management
+IT Operations Management
+HR Service Delivery
+Strategic Portfolio Management
+Employee Center Pro
+
+
+What we are looking for
+
+Minimum 5 years of experience in ServiceNow development and administration activities for below ServiceNow Modules:
+
+
+
+IT Service Management
+IT Operations Management
+HR Service Delivery
+Strategic Portfolio Management
+Employee Center Pro
+
+
+
+Bachelors Degree in Computer Science, Information Technology, Management Information Systems, or related field.
+Excellent communication and interpersonal skills, including change management expertise and the ability to translate complex, technical requirements for a non-technical audience.
+Strong relationship-building and influencing skills and the ability to prioritize business requirements appropriately through a collaborative partnership approach.
+Ability to anticipate technical implications of decisions on platforms and applications, and proactively plan for the future.
+Knowledge of cybersecurity and privacy considerations in systems.
+
+Role Specific Skills and experience
+
+Experience consuming andor creating APIs
+Experience in designing, configuring, supporting, testing, and implementing enhancements as well as supporting maintenance items for various business applications.
+Experience developing test cases and performing all levels of testing and defect management.
+Experience with systemdata integration.
+Experience working with ITOMCMDB is an asset
+Experience developing with programming languages like C, Java, PHP, Microsoft.net framework, RESTful and SOAP based API web. services and authentication protocols and technologies.
+Experience in Web programming (HTML5, Java scriptjQuery, JSON, XML, CSS etc.).
+Experience with SQL server  MySQL, developing stored procedures, complex queries, optimizing queries, designing databases.
+Authentication protocols and technologies such as OAuth, SAML, open ID .
+Expertise developing on specific application platforms supported by the team.
+
+ What we have to offer
+
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never done. Thats because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems theyre passionate about.
+Great People - We take our work seriously, but we dont take ourselves too seriously! Its in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+
+For more information, visit the Kinaxis web site at www.kinaxis.com or the companys blog at http:blog.kinaxis.com.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprogramskinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.

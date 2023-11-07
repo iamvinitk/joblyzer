@@ -1,0 +1,42 @@
+About Medallion
+Healthcare is going through an unprecedented transformation towards digital care. Medallion provides the critical administrative infrastructure to make that change possible. Our platform enables organizations to license their providers in new states, verify existing credentials, and get in-network with health plans. In just over three years, our platform has become an industry standard powering hundreds of healthcare companies to reduce administrative burden for tens of thousands of providers across the country. To date, Medallion has saved over 500,000 administrative hours for our customers!
+Founded in 2020, Medallion has raised 85M from world-class investors like Sequoia Capital, Google Ventures, Spark Capital, Optum Ventures, and Salesforce Ventures.
+About the Role:
+As a Field Engineer at Medallion, youll combine technical expertise with client-focused skills. Collaborating closely with cross-functional teams, youll help clients build robust data pipelines, conduct platform demos, and troubleshoot technical issues. This role blends software development with client engagement, making a significant impact in a dynamic environment. This individual is technically proficient, an adaptable problem solver and is willing to travel up 10 to 30 of the time to client sites. You will be an integral part of a small, dynamic team that is dedicated to working closely with our most strategic customers. This position represents a unique opportunity within Medallion, as it involves shaping the blueprint for how Strategic Pods are developed and maintained in the future. Think of it as a startup within Medallion, where youll have the chance to contribute to the growth and success of this new initiative.
+Core Responsibilities:
+
+Collaborate closely with Product, Engineering, and Operations teams to guide existing customers in building production-grade data pipelines
+Rapidly prototype collaborating closely with Strategic Pod and EPD resources
+Travel to client sites as needed
+Deeply understand customer use-cases and develop necessary tooling and documentation to support scalable growth. Ability to conduct platform demos for clients.
+Cultivate expertise in Medallions products and codebase, with a general technical proficiency in web development, API usage, and handling large data volumes.
+Implement end-to-end data integrations.
+Create, maintain, and enhance playbooks, internal tools, and Medallions documentation to expedite customer onboarding and long-term success.
+Collaborate with Software Engineers to troubleshoot technical challenges faced by customers, including debugging technical issues and managing customer escalations.
+Take ownership of the customers technical journey with Medallion. Be the voice of the customer! 
+Work alongside Account Executives (AEs) and Product Managers (PMs) to identify and address customer-specific feature requests.
+Startup mentality 
+
+Requirements:
+
+2 years of software development experience (preferably Python and Javascript, or other modern software languages)
+The ideal person is a software engineer generalist who enjoys working with clients directly, taking ambiguous requirements and issues, and quickly designing and building sustainable solutions in close collaboration with the Product and Engineering teams
+Willingness to travel up to 10 to 30 of the time to client sites.
+Track record of success as a hybrid customer-facing engineer or similar function, wearing multiple hats along the way
+Prior hands-on technical experience in client interactions, either in pre or post-sales capacities, to achieve business objectives.
+Strong engineering background preferably in Computer Science, Mathematics, or other quantitative fields
+Strong  project management and interpersonal skills
+Ability to present with technical credibility when communicating with executives and front-line engineers.
+Excellent communication skills across internal and external organizations.
+Experience working in classified environments
+Thrives on tackling complex challenges
+Prefers collaborative work in agile, small teams
+Demonstrates a passion for developing solutions from foundational principles
+
+Plusses:
+
+Expertise in AI
+Startup experience
+
+ 
+LI-Remote

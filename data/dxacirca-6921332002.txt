@@ -1,0 +1,38 @@
+
+Weber Shandwick, a leading global communications agency, is seeking a talented and an enthusiastic Intern in Washington, DC, to work with our Analytics practice.
+Our Analytics internship is a full-time, paid program designed to complement and enhance academic studies through participation in a variety of assignments and professional responsibilities. Interns work side by side with the firms diverse team of strategists, analysts, producers, designers, developers and campaign activators.
+The intern assigned to our analytics team will work on a range of projects from communications reporting and automation to machine learning, and big data integration. Youll work on clients of all types, using data to solve strategic business and communications problems. As a data engineering intern, youll leverage your knowledge and skill to access data from multiple data sources, build scalable and reusable data pipelines and process data that can be easily used for modeling and mining needs.
+General Responsibilities:
+
+Understand client background and needs, including general business strategy, industry issues, products and services, key customers and competitors in the marketplace
+Participate in strategic brainstorming sessions when invited by account leads or supervisors
+Assemble large, complex data sets that meet business requirements through web scraping or APIs
+Assist in the design, implementation, and maintenance of large-scale processing systems using tools like Apache Kafka and Apache Spark.
+Aid in the management of our data warehouse solutions, ensuring the timely and accurate provision of data to stakeholders.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Mine and analyze data to drive optimization and improvement of campaign management, marketing techniques and business strategies
+Coordinate with different teams to implement models and monitor outcomes
+
+Basic Qualifications:
+
+Education: Bachelors degree
+Availability: 40 hours a week preferred; part-time candidates will also be considered
+
+Additional Qualifications: Ideal Analytics intern candidates will possess some combination of the following. Please note: you do not have to have ALL of these qualifications, just some combination of them, in order to be a viable Analytics candidate.
+
+Experience with some or all of the following: AWS or GCP platform, Python, SQL, R
+Experience with extraction and integration of data from multiple data sources
+Familiarity with databases (e.g., SQL, NoSQL) and data warehousing concepts.
+Basic understanding of distributed systems and big data technologies like Hadoop, Spark, etc.
+Experience with data visualization tools like Tableau
+Interest in data-based storytelling
+Basic understanding of intersection of traditional and digital PR and familiarity with developments in the media industry
+Strong verbal and written communication, organizational, time-management, and critical-thinking skills
+Experience working with or interest in web analytics, social and traditional media monitoring, and social media analytics platforms
+Experience working with or interest in data visualization tools and creative ways to display information
+Keen eye for data trends and the ability to solve strategic business and communications problems
+Familiarity with developments in the media industry, plus knowledge of a variety of social platforms (i.e. Facebook, Twitter, LinkedIn, Instagram, Snapchat, etc.) and the latest news and trends affecting these channels
+
+Weber Shandwick is proud to be an Equal OpportunityAffirmative Action employer. Weber Shandwick recruits qualified applicants without regard to race, color, religion, gender, age, ethnic or national origin, protected veteran status, physical or mental disability, sexual orientation, gender identity, marital status or citizenship status.
+LI-LC1 
+We make our careers website accessible to any and all users. If you need an accommodation to participate in the application process, please contact us at JobAppAccommodationipgdxtra.com. This email address is not for general employment inquiries or vendors; rather it is strictly for applicants who require special assistance accessing our employment website. Due to volume, messages sent to this email address that are not related to an accommodation cannot be answered.

@@ -1,0 +1,37 @@
+Data Scientist - Pricing Algorithms 
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+The Marketplace team at Lyft is responsible for accelerating the growth of the business and for delivering our top businesscompany goals around financial metrics and marketplace performance. The team provides analysis and use cases to support Product teams on building automated tools to manage growth investments. 
+We are looking for a Data Scientist with chops in Economics, Statistics, Machine Learning or other quantitative fields to join the Pricing vertical of the Marketplace team that is responsible for rideshare pricing. You will influence existing and future roadmaps with your data analysis, modeling and experimentation skills while building domain expertise in state of the art pricing theory.  Were looking for a data  process-driven individual who has extraordinary attention to detail and a track record of analytical problem-solving.
+Responsibilities:
+
+Partner with other scientists and colleagues in the pricing team, and with external teams to frame problems mathematically and within the business context
+Perform exploratory data analysis to gain a deeper understanding of problems
+Develop and fit statistical, machine learning, or optimization models
+Write production model code; collaborate with Software Engineers to implement algorithms in production
+Design and implement both simulated and live experiments
+Analyze experimental and observational data; communicate findings; facilitate launch decisions
+
+Experience:
+
+M.S. or Ph.D. in Economics, Statistics, Operations Research, Mathematics, Computer Science, or other quantitative fields
+0-3 years of professional experience for PhDs or 2-5 years for Masters in a data scientist role 
+Passion for solving unstructured and non-standard mathematical problems
+End-to-end experience with data, including querying, aggregation, analysis, and visualization
+Proficiency with Python, or another interpreted programming language like R or Matlab
+Proficiency in SQL - able to write structured and efficient queries on large data sets
+Ability to collaborate and communicate with others to solve a problem
+Strong oral and written communication skills, and ability to collaborate with cross-functional partners 
+
+Benefits:
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Access to a Health Care Savings Account
+In addition to provincial observed holidays, team members get 15 days paid time off, with an additional day for each year of service 
+4 Floating Holidays each calendar year prorated based off of date of hire
+10 paid sick days per year regardless of province
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+Lyft proudly pursues and hires a diverse workforce. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy.  Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process.  Please contact your recruiter now if you wish to make such a request.
+This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Toronto — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.

@@ -1,0 +1,43 @@
+Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. Thats where Chainalysis comes in. We provide complete knowledge of whats happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.The Intelligence Solutions team at Chainalysis Government Solutions is made up of world class cryptocurrency investigators who build trust in blockchains by mapping cryptocurrency activity to real-world entitiesranging from regulated exchanges to criminal networks. 
+The ideal Data Scientist candidate will have a deep understanding of blockchain technology, strong analytical skills, and expertise in deriving insights from large datasets. We measure  success in this role through the impact of the Data Scientists data-driven insights in  network discovery and characterization and their unique intelligence insights as they relate to behaviors and patterns of life derived from blockchain activity.
+This candidate is excited to engage with investigators in joint blockchain forensic efforts, takes ownership of their work, and proposes creative solutions to both unique and recurring problems. As such, the candidate exercises insatiable curiosity when theyre extracting, analyzing, and interpreting blockchain data and constantly seeks ways to optimize the investigations process.
+Priorities in your first year include:
+
+Utilized huge datasets to identify criminal fingerprints across multiple blockchains
+Used Chainalysis tools and data to reveal and characterize relationships between entities on the blockchain
+Performed complex research into unique data sets to identify and process collections for investigative leads
+Built data science subject matter expertise amongst your teammates and clients
+Are a certified cryptocurrency professional with all relevant Chainalysis certifications
+
+Responsibilities:
+
+Provided valuable insights directly to customers through the use of data analytics improving their user experience and deepening existing relationships
+Anticipated customer needs and developed solutions for them while identifying opportunities for product improvements 
+Become a master of our rich datasets allowing visibility into our data both internally and externally
+Have successfully balanced ad-hoc requests in addition to ongoing projects and can quantify the impact of your work
+Built a strong relationship with our Product, Engineering, and Data teams to ensure our analytics align with the needs of our customers
+Designed and launched new innovative solutions to ever expanding customer and company use cases
+
+Qualifications: 
+
+3 years of demonstrated expertise in data querying languages (e.g. SQL), scripting languages (e.g. Python), or statisticalmathematical software (e.g. R, SAS, Matlab, etc.)
+Background knowledge of blockchain analytics or forensic investigations
+Data-focused investigative research experience in an intelligence, law enforcement, or academic capacity
+Prior experience using data analytics to solve real world problems, often requiring the ability to communicate well to technical and non-technical audiences
+Experience producing investigative reports within the cybersecurity or geopolitical fields
+Self-starter with strong organizational skills and attention to detail
+
+At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun. 
+You belong here.
+At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways were ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Womens Day, Juneteenth, Harvey Milk Day, and International Migrants Day, and a commitment to continue revisiting and reevaluating our diversity culture. We encourage applicants across any race, ethnicity, gendergender expression, age, religion, ability, experience and more. We cant wait to meet you.
+ 
+FOR US POSITIONS ONLY: 
+This job listing may cover more than one job level. To provide greater transparency to candidates, we share base salary ranges for all United States based job listings. We set standard base salary ranges for all roles based on function, level, and location, benchmarked against technology companies. Individual pay decisions are based on a number of factors, including qualifications for the role, relevant work experience, skillset, internal equity, and other factors, consistent with applicable law. The salary range for this position is dependent on where you live within the United States. Chainalysis maintains two pay zones: Zone 1 includes team members in the New York City metro area and team members in the San Francisco Bay Area. Zone 2 encompasses all other parts of the United States. The salary ranges are:
+Zone 2: 117K - 143K
+Base salary is just one part of our total rewards package which additionally includes equity, performance bonus or commissions for eligible roles, and competitive benefits. This position is ineligible for visa sponsorship.At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.
+You belong here. 
+At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways were ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Womens Day, Harvey Milk Day, World Humanitarian Day, and UN International Migrants Day, and a commitment to continue revisiting and reevaluating our diversity culture. 
+We encourage applicants across any race, ethnicity, gendergender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, dont hesitate to let us know. You can learn more here. We cant wait to meet you.  
+Applying from the EU? Please review our Chainalysis Applicant Privacy Policy.
+  
+By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment.  I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference.  I understand any future employment will be contingent on the Company receiving satisfactory employment references.

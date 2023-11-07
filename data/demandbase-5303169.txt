@@ -1,0 +1,42 @@
+About Demandbase: 
+Demandbase is the Smarter GTM company for B2B brands. We help marketing and sales teams overcome the disruptive data and technology fragmentation that inhibits insight and forces them to spam their prospects. We do this by injecting Account Intelligence into every step of the buyer journey, wherever our clients interact with customers, and by helping them orchestrate every action across systems and channels - through advertising, account-based experience, and sales motions. The result? You spot opportunities earlier, engage with them more intelligently, and close deals faster. 
+As a company, were as committed to growing careers as we are to building world-class technology. We invest heavily in people, our culture, and the community around us. We have offices in the San Francisco Bay Area, New York, Seattle, and teams in the UK and India, and allow employees to work remotely. We have also been continuously recognized as one of the best places to work in the San Francisco Bay Area.
+Were committed to attracting, developing, retaining, and promoting a diverse workforce. By ensuring that every Demandbase employee is able to bring a diversity of talents to work, were increasingly capable of living out our mission to transform how B2B goes to market. We encourage people from historically underrepresented backgrounds and all walks of life to apply. Come grow with us at Demandbase!
+About the Role:
+Demandbase is looking for a Product Manager with experience building SaaS products and creating new revenue streams. Our Sales Intelligence platform delivers the three essential components of account intelligence—data, insights, and connections—that help salespeople find the best opportunities, identify the right buying group, and reach out to prospects with a compelling message. With Sales Intelligence, our customers are enabled to find more leads, win more deals, and retain and grow more customers.
+The base compensation range for this role is: 130,037 - 202,555.
+What youll be doing:
+
+Understand the strategic and competitive position in the market through customer interactions, partner relationships, and market research
+Define strategy, bringing customer feedback and pain points forward in prioritization, feature definition, and roadmap development
+Identify, evaluate, and manage partnerships aligned with the roadmap 
+Work closely with sales engineers, designers, the GTM organization, support, and other product managers to identify the most important problems that our customers face, define solutions, and help drive cross functional solutions to deliver a whole product experience for customers
+Understand and continuously gather intelligence about the current and future trends in B2B data and intelligence in order to deliver innovation
+Collaborate with multiple stakeholders to establish product requirements and priorities, guide projects through development, and bring high quality products to life
+Deeply understand users, customers, technology, and competitors and synthesize that into product strategy
+Integrate usability studies, research, and market analysis into product requirements to enhance user satisfaction
+Develop detailed, crisp business requirements and user stories that can be used to create product specifications and architecture for each product and application
+Define and analyze metrics that inform the success of products around growth, engagement, retention, and monetization
+
+What were looking for:
+
+5 years of Product Management experience in an agile development environment; background with Data, Sales, or Marketing technology is a huge plus
+Experience with SaaS products or B2B environments
+Able to navigate medium-large organizations
+Deep understanding of CRM andor MAP applications and data models is a plus
+Experience working with customers and partners to gather product requirements
+Analytical experience and product prioritization decision-making experience
+Experience with agile, scrum, project management, and story-drafting
+Comfort and ability to present to both internal and external audiences, from executive decision makers to technical personnel
+Experience writing concise and clear definitions (user stories) of prioritized features for technical team implementation
+Ability to translate and articulate complicated business problems into easily understood solutions and functional requirements
+Experience working cross-functionally, with a distributed team, across Engineering, Design, Customer Success, Marketing, Support, and Business Development
+Experience working with colleagues across time zones (e.g. San Francisco, Austin, New York, Hyderabad)
+Excellent communication skills with demonstrated ability to navigate a complex organization and generate buy-in for ideas and plans
+
+Benefits:
+Our benefits include options for up to 100 paid Medical and Vision premiums for employees, flexible PTO policy, no internal meeting Fridays, Modern Health mental wellness platform, and 11 paid holidays and 2 additional weeks where all Demandbase employees take off (the week of July 4th and the week of Thanksgiving). Plus 401(k), short-termlong-term disability, life insurance, and all those good things.
+Our Commitment to Diversity, Equity, and Inclusion at Demandbase
+At Demandbase, we believe in creating a workplace culture that values and celebrates diversity in all its forms. We recognize that everyone brings unique experiences, perspectives, and identities to the table, and we are committed to building a community where everyone feels valued, respected, and supported. Discrimination of any kind is not tolerated, and we strive to ensure that every individual has an equal opportunity to succeed and grow, regardless of their gender identity, sexual orientation, disability, race, ethnicity, background, marital status, genetic information, education level, veteran status, national origin, or any other protected status. We do not automatically disqualify applicants with criminal records and will consider each applicant on a case-by-case basis.
+We recognize that not all candidates will have every skill or qualification listed in this job description. If you feel you have the level of experience to be successful in the role, we encourage you to apply!
+We acknowledge that true diversity and inclusion require ongoing effort, and we are committed to doing the work required to make our workplace a safe and equitable space for all. Join us in building a community where we can learn from each other, celebrate our differences, and work together.Personal information that you submit will be used by Demandbase for recruiting and other business purposes. Our Privacy Policy explains how we collect and use personal information.

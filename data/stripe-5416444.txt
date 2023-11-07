@@ -1,0 +1,25 @@
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripes most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background. 
+What youll do
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripes rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum Requirements
+
+2-8 years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problems
+Proficiency in SQL and Python
+Strong statistical knowledge
+Expertise in visualization and using data insights to make recommendations and achieve goals
+Proven ability to manage and deliver on multiple projects with great attention to detail
+Ability to clearly communicate results and drive impact
+Comfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.
+
+ 
+Preferred qualifications 
+
+Masters degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.
+Prior experience at a growth stage internet or software company.
+Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.
+Good understanding of development processes and best practices like engineering standards, code reviews, and testing.

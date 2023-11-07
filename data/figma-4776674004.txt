@@ -1,0 +1,56 @@
+Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether its consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!Were looking for a generalist with a strong grasp of Computer Science fundamentals to make Figmas Infrastructure platform secure, powerful and fast. Youll be combining industry best-practices and first-principles approach to design and build scalable Infrastructure systems and services that power Figmas design and collaboration tool. You will work with a world-class team of engineers on deploying and operating existing systems, and building new ones for problems that are unique to our problem space. Check out this recent blog post for a deeper dive into Infra  Figma!
+We are currently hiring engineers in following areas:
+ 
+Databases
+The Database team is responsible for all of the Database interfaces and experiences that Figma engineers use on a daily basis. The goal of the Database team is to make it incredibly easy to build scalable, reliable applications that depend on Figmas Database. This team is also responsible for exposing the database architecture as a platform, giving developers insights into how they are using the databases and ways that can improve that interaction. How easy it is to use these interfaces is directly related to how productive Figma engineers feel.
+ 
+Scaling our Database architecture is both a complex and exciting task that is essential for Figma success. Check out this blog that talks about how we addressed some of the growing pains of databases at Figma and gives a peak into the future work. We are looking for engineers who are excited by challenging distributed system problems, data abstractions and wants to focus on internal developer experience.
+ 
+
+Data Infra
+The Data Infra team is responsible for building the data platform for Figma.  Our goal is to provide teams at Figma access to all the analytical data they require to build the features and gain the data insights they need to succeed. In practice, our responsibilities span a vast surface area ranging from streaming and batch ingestion from dozens of different sources into our data warehouse to building reverse ETL pipelines that feed analytical data into our product applications. Our key stakeholders include the Data Science org, the Engineering org (both Infra and Product teams), and the ML org, amongst many others.
+ 
+We are looking for experienced engineers who would like to help craft the strategic vision for this team and build the foundations for enabling data-driven decision-making at Figma. Given the scope of our responsibilities, we are seeking individuals who are excited about working cross-collaboratively with our many stakeholders as well as defining the vision for what will likely be several teams in the coming years. 
+ 
+
+What youll do at Figma:
+
+Design, build and operate scalable data systems and services that power Figmas innovative tools for design and collaboration.
+Improve engineering standards, tooling, and processes.
+Work with engineers across the company to build innovative new features that operate at scale.
+Help debug production issues across services and multiple levels of the stack.
+
+ 
+
+Wed love to hear from you if you:
+
+Have 5 years of experience building infrastructure components  services at scale. You have a proven grasp of Computer Science fundamentals and have a strong interest in distributed systems.
+Are driven by impact. You are willing to work on grungy problems if they have a high impact on the business or the health of the infrastructure.
+Care deeply about the quality of the software  systems you build. You have an artisan mentality and are always looking to improve your craft. At the same time you are able to strike the right balance between idealism and pragmatism.
+Have excellent problem solving skills. You use a systematic and thorough approach. You think from first principles and have a bias for action.
+Have excellent technical communication skills.
+Finally, Figma is a close-knit company with a strong culture that promotes inclusivity and collaboration, taking ambitious goals and having fun doing so. You deeply value these traits and see yourself actively contributing to it. 
+
+ 
+
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If youre excited about this role but your past experience doesnt align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+
+
+ 
+Read more about our team 
+
+Investing in Figma: The Decade of Design
+How work is changing at Figma
+Figmas next product is a multiplayer whiteboard called FigJam
+A new collaboration with Adobe
+
+LI-Remote
+
+Pay Transparency Disclosure
+If based in Figmas San Francisco or New York hub offices, this role has the annual base salary range stated below.  
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80 and 100 of range. Please discuss your specific work location with your recruiter for more information. 
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental  vision, retirement with company contribution, parental leave  reproductive or family planning support, mental health  wellness benefits, generous PTO, company recharge days, a learning  development stipend, a work from home stipend, and cell phone reimbursement.  Figma also offers sales incentive pay for most sales roles. Figmas compensation and benefits are subject to change and may be modified in the future.Annual Base Salary Range (SFNY Hub):168,000—350,000 USDAt Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identityexpression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+We will work to ensure individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions, and to receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-extfigma.com.
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figmas Privacy Policy. 

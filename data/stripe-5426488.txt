@@ -1,0 +1,29 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Supportability Intelligence teams mission is to build technology to enable legal and legitimate new business opportunities, protect Stripes reputation among our partners, and minimize disruption to good users while maximally blocking bad actors. We will use an AI-first approach to build and employ best in class systems that will understand and analyze merchants on Stripe.
+What youll do
+Responsibilities
+
+Proposing and implementing product ideas that directly reduce Stripes risk exposure.
+Building systems that evaluate businesses for risk and take appropriate actions.
+Working with our partner teams to launch new policies that directly impact Stripes bottom line.
+Helping engineers across the company to develop technologies for scaling our infrastructure.
+Debugging production issues across services and multiple levels of the stack.
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Have at least 5 years of professional software engineering experience 
+Enjoy and have experience building scalable, high performance backend systems 
+Hold yourself and others to a high bar when working with production systems
+Take pride in working on projects to successful completion involving a wide variety of technologies and systems 
+Take pride in taking ownership and driving projects to business impact
+Thrive in a collaborative environment
+
+Preferred Qualifications
+
+Have experience in Python, Java, Scala (Spark), or Ruby
+Have experience interfacing with ML systems

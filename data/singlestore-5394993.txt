@@ -1,0 +1,30 @@
+Position Overview
+Our customers are at the forefront of some of the most interesting data in the world, using SingleStore to push the boundaries every day. To do this well, they leverage the expertise of our Support Engineering Team, composed of technical subject matter experts on the frontlines of critical customer issues. 
+This Support Engineering role skews far more towards engineering than typical technical support as you will need to delve into database internals and memory allocators, investigate Linux and host-related configurations, and diagnose SQL query behavior, all in the name of resolving complex database issues. Our Support Engineers are constantly learning a wide range of customer systems and technical concepts and are thrilled by the new and exciting challenges that they encounter on a regular basis. 
+To accurately identify the source and solution of an issue, this team will take the time to learn about the customers business and systems while helping to improve their fundamental SingleStore and database operational knowledge. This often requires additional research and time spent on learning new technologies and tools outside of SingleStore while also being deeply engaged with multiple departments including development teams, query performance engineering, product management, infrastructure SREs, etc.
+Required Hours
+
+The hours required are from 2pm - 11pm IST
+Participate in our on-call rotation that may include weekends and holidays.
+
+Role and Responsibilities
+
+Provide email and live technical support to our enterprise customers, acting as the first line of defense for complex technical issues, bug diagnosis, or resolving critical outages.
+Identify and reproduce product issues, perform QA, and submit formal bug reports or feature requests to the appropriate Engineering team.
+Collaborate closely with software developers, sales engineers, and technical account managers to keep all teams up to date with current issues a customer may be facing.
+Work to streamline and improve various Support and Engineering processes and tools, author new internal run-books or public documentation, and help the team continually improve efficiency and effectiveness.
+Ensure customers have a positive support experience during every interaction.
+
+Required Skills and Experience
+
+3 years of advanced customer-facing technical support experience.
+Experience with MySQL or MySQL-like (MariaDB, Aurora, etc) database and SQL Query Optimization. 
+A solid sysadminQATesting skill set. That means you are comfortable testing software and finding its limits, hands-on with Linux, checking utilization of system IO, measuring network throughput, and are comfortable navigating large log files. Bonus points for familiarity with Kubernetes and past TestingQA experience.
+Experience with a scripting or coding language. Whether its Python, Bash, or Go, you should have a go-to solution for quick and dirty problem-solving and be able to navigate through our code base.
+Familiarity with distributed systems and AWSGCP. You understand how organizations deploy and maintain distributed applications and services across multiple machines Bonus points for knowing how to analyze them for performance bottlenecks and remove single points of failure.
+Strong written and verbal English communication skills. Have the ability to explain technical concepts to a wide range of end-users.
+
+
+SingleStore is one platform for all data, built so you can engage with insight in every moment. Trusted by industry leaders, SingleStore enables enterprises to adapt to change as it happens, embrace diverse data with ease, and accelerate the pace of innovation. SingleStore is venture-backed and headquartered in San Francisco with offices in Portland, Seattle, Boston, Bangalore, London, Lisbon, and Kyiv. Defining the future starts with The Database of Now.
+Consistent with our commitment to diversity  inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.
+To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.

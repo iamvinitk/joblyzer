@@ -1,0 +1,41 @@
+We are looking for a native Android developer to join our Real Time Infrastructure team at Motional. If you are someone who naturally embodies communication, collaboration, self-evaluation, and a desire to improve, placing high importance on adhering to good engineering practices, we have an opportunity that you simply cannot ignore - to shape the future of mobility!
+What youll be expected to do:
+
+Collaborate with colleagues from other disciplines, including test engineers, product owners, UXUI designers, and software engineers in our Cloud and Edge teams to define, design and ship new features
+Design and build robust codebase that enables rapid exploration and evaluation of different approaches
+Ensure the best possible performance, user experience, quality, and responsiveness of applications
+Define test cases for development testing, verification and validation
+Proactively explore and adopt new technologies for enhanced development efficiency, while staying abreast of industry trends to integrate best practices into our mobile development process
+
+What we hope youll come with:
+
+MS, BS or BA in Computer Science  Engineering
+Minimally 3 years of native Android development experience, ideally in a product development environment
+Proficiency in Java is a must, otlin is a strong bonus
+Advanced knowledge of software engineering principles including requirements gathering, software design, source control management, build processes, code reviews, testing methods
+Strong knowledge of the Android SDK (including Android Jetpack) and related UI design principles, guidelines, patterns, and best practices
+Experience with third-party libraries and APIs
+Ability to analyze, identify and resolve performance bottlenecks
+Ability to work independently and as part of a collaborative team
+Excellent problem-solving and communication skills.
+
+Bonus points:
+
+Experience with the Android NDK and C
+Experience with publishing Android libraries
+Experience with LibGDX, OpenGL, Unity or Unreal Engine
+Deep knowledge of network communication principles and protocols
+Experience in multi-threaded programming, GPU programming
+Experience with functional reactive programming
+Experience with Docker and Linux as a development platform
+Experience working with both hardware and software systems is a plus
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. Were driven by something more.
+Our journey is always people first.
+We arent just developing driverless cars; were creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+Were creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; its not only good for our business, its the right thing to do.  
+Scale up, not starting up.
+Our team is behind some of the industrys largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the worlds first robotaxi pilot, and operation of the worlds longest-standing public robotaxi fleet. Were driven to scale; were moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+ 
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.

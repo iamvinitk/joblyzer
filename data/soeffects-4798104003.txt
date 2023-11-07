@@ -1,0 +1,76 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+SOE Seattle is Second Order Effects first expansion office. Established in January 2022, SOE Seattles goals are to build an office with skills in mixed signal electrical design, signal processing firmware, and sensor systems. As an early member of the team, you will be pivotal in the success of this office and future expansions.
+The Advanced Projects team is a cross-functional, multidisciplinary group that handles requirements-driven hardware development projects. We are focused on engineering design, developing custom electronics to fulfill our clients needs, and identifying the best components and techniques to implement the desired functionality, while emphasizing quality and reliability. Our projects tend to be larger, longer-term engagements, though team members often split time across multiple projects.
+We are looking for people who know how to get things done, who are always looking to grow their capabilities and deepen their knowledge, and who challenge assumptions, constantly pushing for better solutions and finding novel approaches to problems old and new. If that sounds like you, youve come to the right place.
+Job Overview:
+As an Electrical Engineer (Generalist), you will find the best solutions and implementations for the problems at hand by considering both hardware- and software-based approaches. Ideally, you have a background in electronic hardware design and embedded firmware or HDL development and are an enthusiastic problem solver who can learn, invent, and execute creative solutions to drive forward difficult projects to ensure success.
+(SOE also has openings for more specialized engineers, and we encourage you to apply to whichever role best suits your background and experience.)
+What You Will Do:
+
+Drive design efforts for electronic systems, including architecture and implementation details of circuitry and softwarefirmware
+Perform component selection and trade studies of different implementation options to best generate and satisfy design requirements
+Capture schematics and design PCB layouts, create component symbols and footprints
+Circuit simulation and thermal analysis of designs, including sizing of thermal management systems
+Develop firmware in CC for microcontrollers, or digital design in Verilog HDL for FPGAs
+Write and execute test plans for device validation and performance characterization
+Take ownership of the design, development, testing, and end-to-end technical support for projects
+Assess design risks and develop mitigation strategies
+Create documentation for hardware, software and systems
+Interface with internal teams and external clients to conduct design reviews for hardwareelectronic systems and code reviews for softwarefirmwareHDL
+
+What You Will Need:
+
+Bachelors Degree (Electrical Engineering, Computer Science, Physics, Math, or related field)
+3 years of applied experience with a demonstrated passion for engineering and technology development
+Excellent written and verbal technical communication skills; ability to explain technical concepts and their implications to non-technical audiences
+Experience in any common ECAD tool, such as Altium Designer, KiCad, Cadence, PADS, EAGLE, etc.
+Experience with CC firmware development or Verilog HDL development
+Experience in modeling, simulation, and testing of electronics
+Familiarity with standard digital communication methods including serial  UART, SPI, and I2C
+Expertise with one or more of the following: analog circuits, mixed-signal designs, embedded programming, RF, power electronics, or optical systems development
+
+What Would Be Useful:
+
+Masters degree (Electrical Engineering, Computer Science, Physics, Math, related field) or 5 years of relevant experience
+Experience in team-based design and build projects (e.g., Formula SAE, Solar Car, CubeSat, Rover Challenge, etc.)
+End-to-end electronics design experience: taking designs from requirements generation through schematic, layout, fabrication, and hardware bringup
+Experience with analog small-signal circuit design (filters, op-amp circuits, signal conditioning) andor power electronics designs: regulators, load drivers, supply filters, protection circuitry
+Knowledge of PCB fabrication and assembly process, design for manufacture and design for assembly (DFM  DFA), familiarity with IPC andor JEDEC standards
+Experience interfacing with PCB and assembly vendors to have designs fabricated
+Large-format or high-density or high-layer-count PCB design experience, preferably for aerospace, automotive, medical, or other high-reliability applications
+Expertise with Altium Designer or KiCad
+Familiarity with Python andor MATLAB for data parsing and signal analysis
+Familiarity with LTSpice for circuit simulation
+Experience with a range of ARM Cortex-M devices (e.g., STM32, NXP S32K, TI TMS570, etc.) and Lattice or Xilinx FPGAs
+Excellent understanding of OS fundamentals (e.g., schedulers, memory management, network stacks, file system architectures, etc.) and computer architecture or digital design fundamentals
+Experience with continuous integration and testing (CICD) or related high-reliability software development strategies
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in Redmond, Washington, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 90,000-130,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

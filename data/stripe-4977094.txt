@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Workflow Engine team provides critical infrastructure for Stripes business, by allowing engineers to write asynchronous, stateful workflows that are both reliable and fault-oblivious. Our platform abstracts away challenging distributed system complexities and enables engineers to focus on the critical business logic theyre responsible for. Workflows power products such as Stripe Capital, Billing, and Connect, as well as many mission critical control planes.
+What youll do
+As a technical leader on the Workflow Engine team, you will help guide our service platforms asynchronous execution capabilities, making asynchronous systems easy to build, resilient, and scalable. You will care deeply about the productivity of the engineers using our systems and lead the engineering organization towards ensuring a thoroughly considered ergonomic developer experience.
+Responsibilities
+
+Design, build, and maintain the core infrastructure used by all of Stripes engineering teams to asynchronously process financial data and transactions.
+Liaise with teams using this core infrastructure to ensure it meets their needs and expectations
+Debug production issues across services and levels of the stack, including managing an on-call pager rotation
+Plan for the growth of Stripes asynchronous infrastructure
+Analyze existing software for performance optimizations and quality assurance testing
+Mentor other engineers in the organization and review code
+Manage projects, including measuring impact and success of the project, and creating a maintenance and reliability plan for the future
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Minimum 8 years of engineering experience or equivalent combined work experience reflecting domain expertise 
+Demonstrated experience of leading initiatives spanning multiple teams and leveraging deep domain expertise to influence tech roadmap planning and execution
+Demonstrated ability to effectively collaborate across multiple teams and stakeholders to drive business outcomes
+Experience, mentoring, and investing in the development of engineers and peers
+
+Preferred qualifications
+
+Demonstrated expertise with Temporal, Cadence, or other workflow orchestration systems.
+Expertise with tackling complex, distributed systemsinfrastructure challenges at scale
+Deep familiarity with API design for large scale distributed systems
+User-centric orientation and track record for productizing elegant infrastructure solutions for complex problems

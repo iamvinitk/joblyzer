@@ -1,0 +1,41 @@
+GAQ124R78
+Our Databricks Business Systems Team is looking for a Salesforce Developer to manage our Salesforce platform and be a strategic partner in using this core system across the business. Reporting to the Senior Manager of Business Systems, you will own the process for design, test, build and implementation. Additionally you will help guide the business in process development and enhancement and work on future implementation needs. We want someone passionate about leveraging Salesforce to achieve success and value across the business. We want someone who is excited about being a crucial part of a high-growth company with an incredible product.
+You will be the lead resource on a team where you will leverage your skills and expertise to enhance and evolve the value of our Salesforce instance across the business. You will partner with other teams to bring sustainable maturity to our use of the Salesforce platform. With the support of your team, you will be in the position to guide the business to be more efficient with Salesforce and products that connect to and rely on Salesforce.
+The right person for this role will have analytical and problem-solving skills with a proven background in Salesforce development, configuration, and governance standardisation. They should be able to help translate GTM and CS business needs to system configuration.
+The impact you will have:
+
+DesignStrategy: Build core platform functionality on the Salesforce platform including the way Salesforce interacts and is leveraged by other key business systems.
+Collaboration: You are the lead for helping our business leverage and use Salesforce. You will work with other teams and will have a seat on the IT Portfolio Working Group.
+Analytics: You will play an analytical role in quickly and thoroughly analysing business requirements for reporting and subsequently translating the emanating results into good technical data designs. In this capacity, the System Analyst configure, develops technical specification documentation for all processes.
+
+What we look for:
+
+3 or more years of experience with Salesforce in a high-growth environment. Experience in Salesforce administration and other applications like financial force, learning management systems
+Knowledge of security and governance (profiles, permission sets, data visibility, sharing settings )
+Experience with the Life Cycle of Development including Salesforce DeploymentPackaging using Metadata API, ChangeSet and code coverage
+Experience implementing Salesforce Portal (Community portal), Service Console, Lightning components is required
+Hands-on experience in Salesforce development skills with good command on Triggers, Configuration, SOQL, REST APIs etc
+Experience with application development like ReactJS, JQuery is plus
+
+Benefits
+
+Private medical insurance
+Accident coverage
+Employees Provident Fund
+Equity awards
+Paid parental leave
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+
+
+ 
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

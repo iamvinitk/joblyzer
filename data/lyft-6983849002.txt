@@ -1,0 +1,44 @@
+At Lyft, community is what we are and its what we do. Its what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring.
+The Payment, Identity and Integrity(Pii) team is core to how Lyft operates. Within the Pii Strategy and Solution team, youll partner with our external vendors along with our peers in Product, Engineering, Finance, and other cross-functional areas as part of a continuous feedback loop, so that we can deliver the best possible Rider and Driver experience. You will work with multiple cross-functional teams to manage Pii initiatives across the company and will need to have a deep working knowledge of payment and fraud product offerings in the US.
+From enabling passengers to take rides to paying the drivers, we ensure frictionless interactions on our platform. The team is responsible for every dollar that moves through our acquiring partners, our networks, and our internal systems. The Pii teams mission is to reduce fraud and make payments efficient, effective, and low-cost for Lyft. Trusted payment is fundamental to Lyfts marketplace, and the Pii team is charged with ensuring all money flows through our payments system reliably and accurately. The engineering challenge and opportunity is to enable a superior and secure experience through the Lyft app for passengers and drivers resulting in a near instantaneous flow of funds for all participants. The Pii team has a history of enabling rich and creative features that set the standard for the entire sharing industry. In addition to launching new features, the Pii team is also the architect and owner of a robust and flexible payment and risk platform which enables other teams at Lyft to leverage.
+Were looking for a rockstar to join a fast-paced and transformational company to manage various relationships and programs with our payment processors, fraud partners and internal business lines. Youll build our innovative payment and risk platforms to optimize for a frictionless user experience.
+Responsibilities:
+
+Manage the strategy and solutions for payments and fraud partners by owning all key relationships and managing all components of the relationship including onboarding, escalation, and day-to-day management
+Collaborate with Pii leadership by defining, executing, and communicating operational processes, standards, and best practices that work flawlessly and minimize firefighting
+Act as Subject Matter Expertise (SME) for end to end payment processing or Fraud solutions such as Tokenization, Authorization, Capture, Settlement, Reconciliation, Dispute Management (Chargeback), Risk decisioning.
+Support cross-functional teams for Pii platforms to build out critical tools, create and automate processes where possible, and address longer-term or recurring issues
+Own Pii issues from beginning to end by working with Engineering and external partners to troubleshoot and resolve issues in a systematic, timely fashion
+Execute programs effectively by supporting implementation teams within Pii and across the entire company as a subject matter expert across payments and fraud.
+Work with internal and external stakeholder to optimize for increasing revenue while managing costs
+
+Experience:
+
+Bachelors degree; MBA preferred
+8 years of experience across Fraud and Payments 
+Knowledge of backend payment and fraud systems across payment processors and fraud partners
+Experience managing external partners in the payment and fraud ecosystem 
+Ability to think strategically and adapt nimbly in a high-energy, fast-paced environment
+Strong organizational and time management skills, including managing multiple competing priorities, scheduling, and meeting deadlines
+Work with internal teams to build new capabilities and implement complex initiatives
+Excellent cross-functional collaboration skills with the ability to impact and influence outcomes in a matrixed environment
+Analytical approach to problem solving and a track record of driving results through continuous improvement
+Data driven approach for ongoing operational performance measurement and tracking
+Ability to operate autonomously and take the lead on Payment or Fraud initiatives
+Positive attitude and willingness to roll up sleeves and dig deep to achieve goals
+Expertise on internal working of banking systems and card networks preferred
+
+Benefits:
+
+Great medical, dental, and vision insurance options
+Mental health benefits
+Family building benefits
+In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
+401(k) plan to help save for your future
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Pre-tax commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunityaffirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.  
+Starting in September 2023, this role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.
+The expected range of pay for this position in the San Francisco area is 139,500 - 155,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.

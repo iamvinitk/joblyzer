@@ -1,0 +1,35 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+Search is pivotal to the Airbnb marketplace, and Understanding Who are our Guests and What they want is at the heart of providing thoughtful personalization and a high quality user experience. The core of the Airbnb platform is hospitality and we aim to become the ultimate host for our users, at every detail. To achieve such a goal, the Data Science team mines various collections of behavioral data to design and build machine learning models to understand our user experience and to optimize the useful presentation of our product. This derived understanding of our users informs product improvements that make the steps from search to booking easy and fast for guests.
+The Difference You Will Make:
+As one of the most senior Machine Learning Scientists in the team, you will be the hands-on Science lead on prototyping untapped AI, LLM, and search recommendations techniques to unlock and communicate new and deeper understanding of user behavior around navigating our site:
+
+Work closely with Search team as Science partner on technical projects to understand user preferences.
+Build data products, model, and identify user intent at various stages of the user product journey.
+Collaborate with a strong team of engineers to improve barriers and frictions in our online user experience.
+Research, present, and publish internally and externally, to engage and advance Airbnbs standing in the scientific community.
+
+Our team works on interesting problems across a diverse collection of Airbnbs largest datasets and we are committed to applying innovation and creativity towards extracting a foundational understanding of our user, amidst the richness and heterogeneity of their complex behaviors and preferences.
+A Typical Day: 
+
+Focus time  To build machine learning prototypes, develop data mastery to uncover learnings, and formulate structured frameworks to classify our users online product experience and interpret their behaviors.
+Autonomy  To apply and investigate state-of-the-art innovations to uplevel Airbnb status-quo approaches to technical problems.
+Regularly present work internally at monthly meetings to technical, engineering and product stakeholders to iterate and generate excitement on roadmap progress.
+Publish externally and engage with the scientific community to advance Airbnbs standing.
+
+Your Expertise:
+
+9 years of relevant industry experience (e.g. ML scientist, tech lead, junior faculty) and a Masters degree or PhD in a quantitative field.
+Hands-on builder experience with recommendations and search problems. Also a plus, proficiency with LLMs andor related AI, NLP, UGCcontent understanding topics including deep learning, information retrieval, or knowledge extraction. For example, BERT, LaMDA, GPT-234, LLaMA.
+Strong fluency in Python or R for hands-on IC work and advanced data analysis in SQL at scale.
+Comfort to collaborate with software engineers to understand complex systems and abstracted logs.
+Proven ability to communicate clearly and effectively to audiences of varying technical levels.
+Publications or presentations in recognized journalsconferences, demonstrating an eagerness to learn and share. Proven mix of strong intellectual curiosity with high level of pragmatism and engagement with the technical community.
+Ability to take a product-oriented mindset in using conceptual and innovative thinking to develop and apply solutions taking into consideration the user experience.
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range185,000—245,000 USD

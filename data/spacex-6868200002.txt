@@ -1,0 +1,50 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+LAUNCH OPERATIONS ENGINEER (STARSHIP)
+At SpaceX, our commitment to reliability begins with design but is realized through exhaustive testing and high future launch cadence at our Starbase, TX facility. In order to thoroughly vet hardware and ensure vehicle quality, the launch operations team pushes our hardware to its limits in as close to flight like conditions as possible; then sends it to orbit! Launch Operations Engineers are ultimately responsible for the entire operational process. They develop test requirements, develop launch plans, integrate the on-pad flighttest articles, perform on-console operation of the entire launch system, conduct tests, analyze data to confirm performance and inform the vehicle and ground designproduction process, and are the primary flight controllers for launch events.
+ RESPONSIBILITIES:
+
+Serve as on-console flight controllers during launch events
+Test integrated rocket hardware to determine suitability for flight
+Provide on-console engineering support for technicians during daily testlaunch stand operations
+Write and review control logicautomation for test  launch systems
+Perform real-time and post-op data review to evaluate the performance of launchtest article and stand systems (software, fluid, structural, thermal, electrical). This includes documenting operations results and recommending areas for upgrades and improvement
+Find innovative ways to create, review, and optimize test  launch processesprocedures to increase launch system capability and rate
+Identify and characterize system pitfalls and potential hazards; then work to resolve these by collaborating with design, production, and ground system engineers on improvements for flight hardware and processes
+Serve as the final authority to ensure all operations are conducted in a safe manner
+Perform other related duties, as assigned, for the purpose of ensuring an efficient and effective work environment
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in mechanical engineering, electrical engineering, chemical engineering, aerospace engineering, or other engineering field
+1 years of hands-on engineering experience (full time positions, internships, leading contributor in clubextra-curricular activities qualifies)
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+3 years of hands-on experience with complex andor low-margin mechanical, structural, fluid, electronic, systems
+Ability to thrive in ambiguous requirements and aggressive timelines
+High levels of personal autonomy and self-driven motivation
+Strong interpersonal skills and ability to work effectively in a team environment, accomplishing tasks with limited resources at a rapid pace
+Demonstrated history of working efficiently with hazardous systems (high pressure, high voltage, cryogenic, toxic, flammable, hypergolic, pyrophoric)
+High level of familiarity with complex system control and instrumentation
+Experience with analytical data review tools and numerical methods to solve real world problems (Python, R, MATLAB, NI LabVIEW)
+Demonstrated experience of effective root cause and failure analysis
+Experience writing and optimizing high risk technical procedures and work instructions
+Ability to read, understand and apply technical drawings, data reports, mechanical schematics, electrical schematics, and design specifications
+
+ADDITIONAL REQUIREMENTS:
+
+Flight hardware is typically built in tight quarters and physical dexterity is required
+Physical effort including sitting or standing for extended periods of time, lifting and carrying weight such as materials or equipment (up to 25 lbs. unassisted)
+Work performed in an environment with exposure to fumes, odors and noise
+Occasionally exposed to work in extreme outdoor environments (heat, cold, rain)
+Hours vary depending on site operational needs; flexibility required
+
+COMPENSATION AND BENEFITS:        Pay range:    Launch Operations EngineerLevel I: 95,000.00 - 115,000.00per year    Launch Operations EngineerLevel II: 110,000.00 - 130,000.00per year    
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.   
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

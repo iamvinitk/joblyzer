@@ -1,0 +1,35 @@
+
+ABOUT GLEAN:
+
+
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+
+
+ABOUT THE ROLE:
+ 
+Glean is looking for BackendInfrastructure engineers to build a highly performant, scalable, secure, permissions-aware system that makes all the relevant enterprise knowledge readily available to employees in all contexts of their work. The role provides ample opportunities to work on various aspects of building a modern cloud-native application stack using the latest best practices  - examples of some technical challenges you can work on are building a scalable, reliable distributed system and underlying storage, a unified application framework and data model that makes it easy to index diverse sources of information, end-to-end aspects of security - application layer, platform layer as well as IT security, laser focus on making the experience feel instant, while at the same time balancing the system cost implications, and tooling for comprehensive monitoring and deployment of the system in multiple cloud environments.
+ 
+What you will do and achieve
+
+
+Own impactful infrastructure problems from inception and architecture to production launch
+Write well thought out design documents and robust, high-quality and well-tested code
+Work collaboratively with a strong team to identify the most impactful projects we should be prioritizing in our roadmap
+Mentor more junior engineers or learn from battle tested ones
+
+Who you are
+
+BABS in computer science, or related degree
+Experience working on infrastructure for distributed systems or cloud-native applications
+
+Key knowledge and skills
+
+Thrive in a customer-focused, tight-nit and cross-functional environment - being a team player and willing to take on whatever is most impactful for the company is a must
+A proactive and positive attitude to lead, learn, troubleshoot and take ownership of both small tasks and large features
+Strong coding skills (for example in GoPythonJavaC etc) with an emphasis on designing for reliability and scale, and writing well-tested components
+Familiarity with cloud native development practices in GCPAWSAzure is a plus
+
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. Were committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.

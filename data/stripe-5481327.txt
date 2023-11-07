@@ -1,0 +1,40 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Incident Ops team is a global 247 team responsible for driving incident response and management of incidents from detection to resolution. Stripe is proud of its five 9s reliability and this team is at the forefront of ensuring we keep it that way - working hand-in-hand with Reliability Eng and across the Tech Org. This team of incident response managers (IRM) is defined by our sense of ownership and how we drive incidents to resolution - marshaling the necessary cross-functional resources to respond to and resolve service outages, critical bugs, security attacks and anything that significantly impacts the users of our products. The team is user-first and ensures appropriate external communications from Stripe and senior management to keep our users informed of disruption to their experience of Stripe. The team is skilled in program management, communications, incident handling and technical adeptness as incidents can arise from anywhere and cut across products and orgs in Stripe.
+What youll do
+As the Manager of Incident Response Managers, youll evolve a world class incident response team in AMER to maintain a high bar of reliability expected of Stripe and by Stripes users. Youll work hand-in-hand with regional IRM teams in APAC and EMEA to ensure solid 247 coverage for how we detect, respond to incidents, communicate to users, improve related tooling and measure impact. You will lead and nurture a high-performing IRM team based in North America who has a strong sense of urgency, focused on identifying incident impact, rapidly assembling incident responders, driving incident communications, and mitigating impact as quickly as possible.  As a result, youll be seen as the protector of our users - in minimizing the impact of incidents on their business and ensuring that Stripe is always thinking of our users.
+Responsibilities
+
+Manage a team of frontline incident response managers
+Provide coaching and development to each team member
+Coordinate and manage incident resolution with speed, cross-functional collaboration, and accuracy, with a global and broad set of stakeholders
+Facilitate post incident reviews to identify technical or process problems which need to be remediated
+Contribute to incident root cause analysis, identifying remediation opportunities for Incident Operations, partner teams on operations and engineering to execute upon
+Formulate strategy and deliver on communications to both internal stakeholders and Stripes users 
+Collaborate with engineering and operations teams to align on and execute upon on-going improvements to processes, tooling, metrics, and the Incident Management framework 
+Influence and make decisions through interpretation of data and consolidation of input from multiple stakeholders
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+5 years of direct people management experience
+3 years of experience within a Major Incident Management team
+Passion for employee and team development
+Enjoy a fast paced work environment, crafting strategic and rapid fixes to high intensity problems with a keen eye for detail and a high bar for quality
+Comfort navigating ambiguity, while identifying areas for process improvement and establishing best practices
+Strong written and verbal communication skills, able to deliver effective messaging to all levels of a technical organization
+Can problem solve and translate complicated technical issues into solutions, while keeping a users-first mindset
+Ability to execute on and deliver complex operational projects involving multiple stakeholders especially in partnering with engineering
+
+Preferred qualifications
+
+Have technical background, are proficient in SQL, Splunk, or equivalent query languages and the ability to use data to drive business decisions based on analytical research
+Experience using infrastructure and application monitoring tools such as Signalfx, Prometheus, Sentry, Grafana and others
+Experience at a high-growth technology company, especially within the payments or e-commerce space in particular for incident response
+Experience working with both cloud and third-party solution providers
+Experience with managing user-facing communications strategy during sensitive situations such as outages
+
+ 

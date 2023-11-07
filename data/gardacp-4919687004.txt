@@ -1,0 +1,20 @@
+Garda Capital Partners (Garda) is a multi-billion dollar alternative investment firm with over 19 years of experience deploying relative value strategies across fixed income markets for institutional investors. Garda has offices in Wayzata, New York City, West Palm Beach, Geneva, Zug, Copenhagen, Singapore, and Scottsdale.Garda is looking for a Quant Development Intern in its Research and Technology (RT) group based out of our Singapore office for Summer 2024. This is an exciting position offering opportunities to gain exposure to enterprise infrastructure including analytics, portfolio, and risk management at a global hedge fund.
+Position Responsibilities:
+
+Assist the RT team in designing, developing, and supporting upgrades to our analytics platform as well as building out our data platform
+Help develop a new line of business solutions using Python, C, Excel, and SQL (Oracle  Postgres)
+Provide support for in-house and 3rd party applications
+Learn to diagnose and fix issues with trading desk systems (In-house analytics, Bloomberg, TradeWeb, other vendor and proprietary systems)
+
+Required Qualifications:
+
+Pursuing a Bachelors, Masters Degree or PhD in Computer Science, Mathematics, Finance, or a related field
+Experience programming in C, C, Java, or Python
+Experience with Excel
+Familiarity with object-oriented programming concepts
+Familiarity with financial instruments including bonds, futures and other derivatives
+Strong quantitative, analytical, and problem-solving skills
+Detail-oriented with strong verbal and written communication skills
+Passionate about programming and technology, and the financial industry
+Comfortable working independently with minimal supervision
+Ability to work effectively in a high-energy, time-sensitive team environment

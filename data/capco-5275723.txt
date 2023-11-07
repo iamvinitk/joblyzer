@@ -1,0 +1,29 @@
+About Capco
+Capco, a Wipro company, is a global technology and management consultancy specializing in driving digital transformation in the financial services industry. With a growing client portfolio comprising of over 100 global organizations, Capco operates at the intersection of business and technology by combining innovative thinking with unrivalled industry knowledge to deliver end-to-end data-driven solutions and fast-track digital initiatives for banking and payments, capital markets, wealth and asset management, insurance, and the energy sector. Capcos cutting-edge ingenuity is brought to life through its Innovation Labs and award-winning Be Yourself At Work culture and diverse talent.
+Job Requirements
+
+Strong proficiency in front-end technologies such as HTML, CSS, JavaScript, and related frameworks (e.g., React, Angular, or Vue.js).
+Strong knowledge in Node JS, TypeScript, JavaScript
+Familiarity with RESTful API, GraphQL, gRPC
+Knowledge of code versioning tools (e.g., Git) , DevSecOps, CICD pipelines.
+Familiarity with Cloud, Container
+Familiarity with databases (e.g. MySQL, MongoDB, SFDC), web servers (e.g. Apache), Application Servers (e.g. JBoss)
+Strong sense of UXUI
+Strong knowledge on Web Performance optimization and improvement
+Strong knowledge of Web Analytics
+Superb communication and collaboration skills
+Strong leadership as tech lead, coach, and provide recommendations to support business
+Ability to translate business use cases into good taxonomy design
+Passionate about website usability with great instincts for improving customer support experience Strong program or project management skills.
+Strong organizational proficiency and attention to detail Excellent verbal and written communication skills including preparation and delivery of presentations.
+workshop design and facilitation Experience working with geographically distributed teams
+Demonstrate the ability to independently handle projects and communicate clearly with partner teams
+Ability to express ideas clearly, expertly, and diplomatically
+
+Education  Experience
+
+Engineering Degree in Computer Science or related field
+At least 7 years experience in software development with specific experience building software applications end to end.
+Experienced in business processes and forms solutions
+Experience in Banking  Financial Services industry
+Experienced in requirement management tools

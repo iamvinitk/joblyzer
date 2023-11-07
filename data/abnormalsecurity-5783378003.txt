@@ -1,0 +1,54 @@
+About the Role
+ 
+Abnormal Security is looking for a Threat Intel researcher to join the Detection team. As a leading cybersecurity company, it is imperative we find, analyze, and report on threat actors and techniques and leverage that knowledge to enhance and improve our platforms capabilities to catch new and novel attacks. This role will be responsible for analyzing attacks to identify new threat actors and providing continuous feedback to our Detection Engineering teams on enhancing our detection capabilities. You will also be responsible for crafting and owning the processes for how Detection engineers incorporate threat intel findings into quarterly goals and department-level strategy. The ideal candidate will have the ability to find the needle in a haystack and be able propose solutions in a cross-functional, collaborative manner.  
+ 
+Who you are
+
+Strong oral and written communication skills along with presentation skills; the ability to quickly build rapport with internal and external stakeholders.
+Analytical skills, with the ability to identify patterns, trends, and anomalies in large and complex data sets.
+Team player, collaborative work style.
+High attention to detail, process, and organization.
+Outstanding analytical skills and exercises good business judgment
+Demonstrated experience presenting detailed, technical concepts to both technical and non-technical audiences
+Results-oriented, values collaboration, self-motivated, and willing to adapt to change in a fast-moving environment.
+Ability to manage multiple priorities and meet deadlines in a fast-paced environment.
+Operate within an agile environment, and provide leadership to adapt to dynamics in technology, industry, cyber threats, and our own business.
+
+ 
+What you will do 
+
+Conduct research to support durable detection investments and improve customer experience. Research will include analysis of email threats, which are included but not limited to phishing attacks, Phishing as a service (PhaaS), spear phishing, business email compromise (BEC), and ransomware campaigns.
+Develop and maintain a comprehensive understanding of the evolving tactics, techniques, and procedures (TTPs) used by threat actors in email-based attacks. Stay current with industry trends, security vulnerabilities, and email security best practices to anticipate and counter emerging threats effectively.
+Identify external sources of information that could improve email understanding, including domain data, IP data, and IOC feeds. Own the process of procuring and validating the usefulness of these tools in the threat hunting use case. 
+Collaborate with Detection teams to investigate and analyze suspicious emails and campaigns, providing actionable insights and recommendations for detection and response.
+
+Operate and mature an iterative Threat hunting cycle, which involves searching our data for threat trends and creating reports of these trends to inform Detection investment.
+Own and operate a 30-60 minute threat deep dive process in which this individual walks the members of Message Detection (Machine Learning Engineering) team through threats that have been missed.
+Serve as the threat intelemail understanding expert in the room during FN reviews with the Message Detection (Machine Learning Engineering) team.
+
+
+ 
+Must Haves 
+
+Bachelors Degree in Information Security, Computer Science, Digital Forensics, Cyber Security, or equivalent years of professional experience to meet job requirements and expectations.
+5 years of experience in the security domain, including both a detailed understanding of attacker techniques and tracking the threat actors behind specific campaigns.
+3 years of direct experience in security research, malware analysis, or incident response
+2 years working within the email threat landscape.
+Experience working with and understanding phishing kitsPhaaS providers (e.g., Caffeine)
+Direct experience querying and analyzing large datasets (e.g., SQL, Python, KQLAzure Data Explorer, Excel, PowerBI, etc.)
+Experience analyzing email headers and emailweb security protocols.
+Malware analysis (PE Files, Script Files, Office Files)
+Yara, RegEx, or comparable rule-writing experience
+Scripting languages (e.g., Python, PowerShell)
+Understand OWASP  MITRE ATTCK framework
+For non-NAM candidates: must be willing to work NAM hours (around 3-5 meetings per week in NAM hours)
+
+ 
+Nice to Have 
+
+Advanced degree in Computer Science, Engineering, or Cybersecurity.
+OSCP, OSCE, or GPEN, GCIH, GCPN, GWAPT certifications.
+Experienced with security assessment tools, including Nessus, OpenVAS, Metasploit, Burp Suite Pro, Cobalt Strike, Bloodhound, Empire, Mimikatz, Impacket, etc.
+
+ 
+LI-MT1

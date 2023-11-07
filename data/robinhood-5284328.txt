@@ -1,0 +1,39 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role 
+The Reliability team is a rapidly growing team serving a highly ambitious engineering organization. The Reliability Engineering team provides a specialization within engineering focused on designing, engineering, evolving, and safely making changes to large-scale distributed systems; these systems are often composed of disparate components which are each individually complex. In the process of that work, they are also responsible for analyzing, repairing, and preventing unexpected issues that emerge from such systems.
+As Staff Software Engineer you will be responsible for building systems, tools, and setting the direction of Reliability Engineering at Robinhood.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Combine software and systems knowledge to engineer distributed systems in a reliable, scalable, and fault-tolerant manner.
+Act as an owner and leader of Robinhoods infrastructure by ensuring project infrastructure needs are met and working proactively with customer teams to help them improve reliability.
+Continually optimize systems and workflows by improving architecture, infrastructure, automation, CICD, and observability.
+Develop backend services and platforms using Go and Python
+Provide mentorship both formally and informally to engineers at Robinhood, define and formalize the architecture design process and guide the overall architectural direction.
+
+What you bring 
+
+8 years of experience working with highly distributed systems with an emphasis on Reliability.
+Fluent in one or more programming languages (e.g. Go, Python, Java).
+Experience authoring and operating high-scale services.
+Experience with scalable distributed systems, either built from scratch or on public Cloud (e.g. AWS) primitives.
+A focus on software engineering best practices such as testing, static analysis, continuous integration, delivery, and deployment.
+Willingness to learn and use new technologies, and to learn the ins-and-outs of the financial system.
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.US Zone 1: 217000 - 255000US Zone 2: 190000 - 224000US Zone 3: 169000 - 199000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

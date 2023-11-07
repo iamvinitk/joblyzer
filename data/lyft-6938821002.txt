@@ -1,0 +1,39 @@
+Lquipe de Lyft  Montral recherche un ingnieur logiciel en tests automatiss pour rejoindre son quipe logicielle TBS LUS Kiosque et Paiement. Notre objectif est de poursuivre le dveloppement de notre logiciel de station de partage de vlos et de notre logiciel de services de paiement, damliorer leur fiabilit et leur scurit, dvoluer leur architecture logicielle et damliorer notre interface et lexprience utilisateur.
+Les entretiens et les interactions avec les autres bureaux de lentreprise se droulent en anglais. Cependant, lenvironnement de travail  Montral est bilingue.
+Responsabilits:
+
+Mettre en place et maintenir le cadre de test automatis du service de paiement.
+Exploiter le cadre de test automatis existant pour les kiosques afin damliorer la couverture actuelle de tests.
+Participer, avec le reste de lquipe,  la conception et  larchitecture des diffrents cadres de test.
+Effectuer occasionnellement des tests manuels du service de paiement.
+Rdiger un code bien conu, bien test, lisible et maintenable.
+Avoir une bonne comprhension et la capacit dexpliquer les diffrents compromis pris dans les dcisions.
+Dbloquer, soutenir, communiquer efficacement et obtenir ladhsion des diffrentes quipes pour atteindre les rsultats souhaits.
+
+Experience:
+
+BaccalauratMaster en Gnie Informatique, Informatique ou domaine connexe.
+2 annes dexprience en ingnierie en tant que dveloppeur de tests automatiss ou autre exprience pertinente.
+Exprience avec Python.
+Exprience avec le framework pytest.
+Exprience avec Java est un atout.
+Exprience avec les services de paiement et PSP est un atout.
+Exprience avec Restful API est un atout.
+Exprience avec les bases de donnes relationnelles et SQL est un atout.
+Exprience avec elasticsearch est un atout.
+Exprience avec les systmes embarqus est un atout.
+Doit tre fluent en anglais parl et crit et avoir une comptence de travail en franais.
+
+Avantages sociaux :
+
+Options dassurance maladie et dentaire largie, ainsi quune assurance vie et une assurance invalidit
+Avantages sociaux en matire de sant mentale
+Avantages sociaux pour le dveloppement de la famille
+Accs  un compte dpargne pour soins de sant
+En plus des jours fris observs par la province, les membres de lquipe obtiennent 15 jours de cong pays, avec un jour supplmentaire pour chaque anne de service
+Quatre jours fris flottants par anne civile, calculs au prorata en fonction de la date dembauche
+Dix jours de congs de maladie pays par an, quelle que soit la province
+Dix-huit semaines de cong parental pay; les parents biologiques, adoptifs et daccueil sont tous admissibles
+Et dautres avantages spciaux lis  nos propres services!
+
+Lyft est fire dappuyer la diversit de son personnel. Lyft croit que chaque personne a droit  des occasions gales demploi sans discrimination base sur la race, la gnalogie, le pays dorigine, la couleur de la peau, lethnicit, la citoyennet, les croyances, le sexe, lorientation sexuelle, lidentit de genre, lexpression de genre, lge, ltat civil, la situation familiale, le handicap, les condamnations pardonnes ou toute autre qualit protge par la loi applicable ou la politique de lentreprise. Lyft tient aussi  offrir un environnement de travail sain et scuritaire, et interdit toute forme de harclement. Nous fournirons des accommodements aux personnes handicapes qui en font la demande, conformment  la loi applicable, durant les processus de postulation et dembauche. Veuillez communiquer avec votre recruteur ds maintenant si vous souhaitez faire une telle demande.

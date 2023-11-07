@@ -1,0 +1,41 @@
+With millions of diners, tens of thousands of restaurants, and 23 years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue
+Every employee at OpenTable has a tangible impact on what we do and how we do it. Youll also be part of a global network that includes OpenTable and KAYAKs portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+The Hospitality team is all about taking care of others, and it defines our culture. Youll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed. Our products help restaurants provide world class hospitality for their diners, building loyalty and sustainable businesses.
+Were hoping that you, an engineering manager a few years into your management career, can come help us drive our team to new heights. Youll mentor our talented frontend and backend engineers, partner with our senior engineers on project execution, work directly with our smart product managers to define roadmaps, coordinate the teams work with other engineering managers, and build a strong culture together with everyone on the team.
+We build our services on the JVM using Java and on the .NET platform using C. Our data is stored in SQL and NoSQL databases. Our frontend applications are written in modern React with Hooks and Redux using TypeScript. Our services run on an in-house Kubernetes cluster for large-scale distributed applications.
+Youll be responsible for:
+
+A well functioning engineering team consisting of smart and compassionate frontend and backend engineers
+Continuously improving our processes using your experience and creativity
+Delivering impactful initiatives that improve the lives of restaurateurs
+Providing development updates to stakeholders within and outside of the team
+Mentoring engineers through 1:1s and performance reviews
+Hiring new engineers as needed, and helping other teams with their hiring goals
+Ensuring projects are delivered at a high standard and on time
+
+Youll fit right in if:
+
+You have an empathetic mindset and enjoy working with developers, designers and product owners of all career levels
+Youre driven and obsessed with continuous improvement
+You are a senior engineer with at least 5 years of coding experience 
+You have managed engineering teams in the past
+You have driven successful projects from technical planning all the way to production
+You see communication as the cornerstone of building sustainable teams
+You enjoy mentoring and coaching other engineers in their career journey
+
+Please consider applying if this role sounds interesting to you even if you dont meet all the requirements. A computer science degree is not required to join OpenTable.
+Benefits and Perks
+
+Generous paid vacation
+1 floating day off per year to celebrate your birthday or another occasion of choice!
+Company matched retirement plans
+Health, dental and vision insurance plans
+Flexible Spending Accounts
+Mental Health Well-being: 6 company paid therapy sessions, subscription to Headspace app, wellbeing speaker series and resources.
+Drinks, coffee, snacks, games
+Flexible hours
+Universal Paid Parental leave
+
+ 
+Diversity, Equity, and Inclusion
+We aspire to have a workplace that reflects all of the diverse communities we serve. We know that when we have diverse teams we produce more creative ideas, products, and better outcomes for our team members. OpenTableKAYAK is proud to be an Equal Opportunity Employer, and we welcome and encourage candidates from all backgrounds and experiences to apply for roles on our team. Whoever you are, just be you.We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

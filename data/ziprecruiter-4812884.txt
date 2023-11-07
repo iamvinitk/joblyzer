@@ -1,0 +1,38 @@
+We offer a hybrid work environment. Most US-based positions can also be performed remotely (any exceptions will be noted in the Minimum Qualifications below.)For Israel-based positions, we encourage working from our Sarona, Tel Aviv office a few days a week, meeting your colleagues, and having a flexible work environment.
+ 
+Our Mission: 
+To actively connect people to their next great opportunity. 
+Who We Are: 
+ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects job seekers with millions of businesses of all sizes through innovative mobile app, web, and email services, as well as partnerships with the best job sites on the web. ZipRecruiter has the 1 rated job search app on iOS  Android. 
+Summary of Job:
+ZipRecruiter is changing the way job seekers get hired and how small businesses manage their HR. Our RD center in Tel Aviv offers an empowering, fun, and collaborative culture where talented individuals who think like business owners and entrepreneurs are invited to join our growing team.  
+We use models and algorithms of machine-learning and deep-learning to find candidates for a job, and get the job information to reach the candidate as quickly as possible to allow the employer to reach the best candidates in the least possible time.
+With data such as a billion historical job postings, tens of millions of active job seekers interacting with our system, and hundreds of billions of impression and click events, there are incredible opportunities to use your skills to build new data-driven features. Working at ZipRecruiter, you will be helping literally millions of people find their dream job.This is a unique opportunity to work as a software engineer with data scientists on various ML disciplines like search, recommendations, NLP and more. You will help improve and optimize our platforms for ML pipelines and data infrastructure, develop data pipelines for ML processes, and develop serving layers for ML models and algorithms.
+Key focuses:
+
+Develop, integrate and optimize end-to-end ML solutions (data pipelines, training workflows, and serving infrastructure) 
+Oversee the quality and performance of ongoing models
+Partner with researchers and domain engineering teams for the exploration and development of ML-driven products  
+Deploy, monitor, and support models and services that run in high load for mission-critical products.
+
+Minimum Qualifications:
+
+At least 6 years of coding experience with Python  Java
+Experience with design, architecture, coding, integration, deployment, and monitoring stages
+Experience with Linux environment, AWS, and Kafka
+Experience in distributed data systems
+Team player with excellent communication skills
+
+Preferred Qualifications:
+
+Experience with ML packages, such as TensorFlow, Scikit-learn, etc.
+Model optimization techniques - familiarity with testing and hyperparameter optimization tools and frameworks
+Familiarity with concepts of NLP  Deep Learning
+
+As part of our team youll enjoy:
+
+Competitive salary
+A fun environment where work-life balance is valued
+
+ ZipRecruiter is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.
+Privacy Notice: For information about ZipRecruiters collection and processing of job applicant personal data for this job, please see our Privacy Notice at: https:www.ziprecruiter.comcareersjob-applicant-privacy-notice

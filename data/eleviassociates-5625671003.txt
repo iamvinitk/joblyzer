@@ -1,0 +1,26 @@
+Because You Deserve More Than Just a Job
+In order to join the ELEVI Team you will need
+
+You must be willing to work in the Fort Meade, MD, area.     
+YOU MUST HOLD A CURRENT  POLY CLEARANCE 
+Twenty (20) years experience as a SWE in programs and contracts of similar scope, type, and complexity is required. Bachelors degree in Computer Science or related discipline from an accredited college or university is required.
+Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelors degree.
+TKO is seeking a software Engineer to support the DNA TTO in updating and maintaining a software application that supports cyber threat intelligence automation.
+Required Skills: Java and Spring Working in an agile environment Providing code reviews Git Interest in learning new-to-them technologies is important
+Desired: Angular andor Nifi
+
+ Some of your day-to-day activities:
+
+Gather information and designcreateconfigure tools for monitoring
+Develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements.
+Works individually or as part of a team.
+Reviews and tests software components for adherence to the design requirements and documents test results.
+Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardwaresoftware trade- offs, software reuse, use of Commercial Off-the-shelf (COTS)Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components
+Additional responsibilities may include support for system internals, data flow, Web user interface (UI), andor results processing and analysis
+Work closely with systems engineers to define and implement system infrastructure that will support hosted mission capabilities.
+
+ Why Work at ELEVI? 
+To become an ELEVI employee is to become an integral part of the team. From Federal to Commercial, ELEVI offers our employees the ability to expand skills and fully engage their minds and passions. Each member of the team enjoys the opportunity to expand their career to meet their individual goals and objectives. We celebrate the ideas that bring about positive change, and the diverse talents and backgrounds that come together to create those ideas.
+Our benefit packages encompass competitive compensation, financial and counseling services, retirement options, and health insurance programs. Coupled with worklife benefits to address significant life problems as well as everyday problems involved in juggling work, family, and life.  We trust you to take the time you need when you feel its appropriate. No need to keep track or save up. We trust our employees and empower them to shape their work themselves so that we can achieve the best possible results.
+ 
+ Were an equal opportunity employer (EOE) that empowers our people. It is the policy of ELEVI to provide equal employment opportunities to all employees and employment applicants—without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. We fearlessly drive change, because without diversity of thought and a commitment to equality for all, there is no moving forward. Reasonable accommodations are available for qualified individuals with disabilities, upon request. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.

@@ -1,0 +1,59 @@
+ 
+ Sigma is SaaS, next-generation business intelligence and data exploration platform that is changing the analytics landscape. Sigma offers a spreadsheet-like interface that enables all decision makers to securely analyze up to billions of rows of live data with the unlimited scale and speed of the cloud. With Sigma, everyone can quickly answer their own questions to make and visualize accurate, data-driven decisions. This is an exciting time to join a world - class company and team. We are growing rapidly.
+ABOUT THE ROLE
+Sigma Computing is seeking a highly motivated Lead Cyber Security Specialist to join our Information Security Team. As a specialist you will be leading various security programs and also mentor other Security Engineers. This position will be responsible for implementing and managing all aspects of Cyber Security. As such, you must have a strong  proven technical background and leverage it to become a trusted Security Expert in the Company.
+We are looking for a Cyber Specialist who can design, define and execute the security architecture, standards, configuration, and monitoring of cloud services  technologies at Sigma Computing. You will be working with a  talented team of engineers with a shared mission to make Sigma secure and drive our customer success under the direction of Sigmas Head of Security, IT,  GRC.
+WHAT YOU WILL BE DOING
+
+Support cybersecurity risk program strategy and projects.Identify cyber risks and drive business security requirements across Sigma.
+Drive Secops methodology across all of Engineering and work with various stakeholders for the security needs and initiatives.
+Represent the organization as a Subject Matter ExpertLeader in Security Engineering requirements.
+Mature Sigma security program for our different initiatives in Cloud Security.
+Stay abreast of the latest security risks and disclosures and ensure Sigma infrastructure is sufficiently protected.
+Mature various Security tools and technologies to implement overall data, cloud, and endpoint security.
+Providing tactical oversight to ensure IAM and Security services remain fully operational, up to date, and consistently monitored.
+Lead the Security Engineering  Operations organization, focusing on piloting and developing new security solutions to address critical risks.
+Design,Manage, Implement, Support technologies like SASE, ZTNA,CASB, WAF, IAM, Malware Analysis, SIEM, WebUrl Filtering,Email Security, Vulnerability Management, Cloud Security etc
+Research, evaluate, design, test, recommend or plan the implementation of new or updated information security software, and analyze its impact on the existing environment; provide technical expertise for the administration of security tools.
+Lead, mature, and maintain operational components of the cybersecurity incident and response program.
+Collaborate with various stakeholders to complete cyber risk assessments and plan remediations across the organization.
+Build automations and internal processes for Threat Intel.
+Support IT and Development Teams as-need with cloud architecture and configuration advice and support
+
+MINIMUM QUALIFICATIONS WE NEED
+
+Bachelor or Masters degree in the relevant field.
+Minimum of 8 years of experience in Information Technology, specifically Cyber security, while demonstrating a steady growth of skills and responsibilities required to lead the programs.
+Strong Cloud technologies Implementation experience with a broader ecosystem of multiple tools - defining technical integrations, APIs and other automated connection methods.
+Strong Hands on Security Tooling and Cloud experience - Cloud Security, Vulnerability Management, Malware Detection Analysis, SIEM, DLP, CASB, SASE, ZTNA, Privilege Access, DAST, WAF, IPSIDS, Firewall, Email Security,, URL Filtering, Container Security, AWS, GCP or Azure, Kubernetes, Terraform or other IAC
+Experience in leading the Cyber security initiatives, and mentor the team members. Proven experience in NIST, cybersecurity, MITRE ATTCK, implementation, and red teaming.
+Experience with Cloud Security platforms- CWPP, CSPM,DSPM,CNAPP
+Experience in threat Intelligence  hunting, Incident response including host and cloud forensics.
+Exceptional communication skills, writing skills and the ability to build strong relationships enables driving results.
+Ability to conduct Cloud Network Penetration Testing and manage 3rd party consultants.
+You have excellent organizational skills and the ability to effectively execute multiple projects simultaneously.
+Strong Experience in either of the Cloud platforms - AWS, GCP or Azure
+Experience automating security detection and response using scripting or other means.
+CISA, CISM, CISSP certification or comparable IT security accreditation preferred.
+Leads by example and takes ownership of decisions
+
+Additional Job details
+The base salary range for this position is 190k - 250k annually.
+ Note: The world around us is changing, but we at Sigma Computing are growing and scaling. We raised our Series C in Dec 2021. With that, and us being able to 3X our revenue year on year, hiring and building out the best version of our product is priority. That is why we want to talk to you.
+About us:
+At Sigma Computing, our mission is to empower everyone to make the best possible decisions at every turn by removing the barriers that prevent people from analyzing data across sources and delivering the full spectrum of self-service cloud analytics and business intelligence.
+We raised a 300M Series C from Co-Leads D1 Capital Partners and XN, Existing Investors Sutter Hill Ventures and Altimeter Capital, and Snowflake Ventures.
+Come join us to help us be smarter and grow together!
+Benefits For Our Full-Time Employees:
+
+Equity
+Generous health benefits
+Flexible time off policy. Take the time off you need!
+Flexible schedule, do the work you need to get done in the time you have to get it done
+At least 12 weeks of paid bonding time for all new parents
+Traditional and Roth 401k
+Commuter and FSA benefits
+
+Sigma Computing is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow.
+Note: We have an in-office work environment in both of our SF  newly opened NYC office.
+ 

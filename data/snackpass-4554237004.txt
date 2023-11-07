@@ -1,0 +1,52 @@
+Who we are Snackpasss mission is to unify the physical and digital world for local commerce.
+We power mobile order pickup and social commerce for restaurants, modernizing the customer experience while making restaurant operators successful.
+Opportunity 
+Snackpass is one of the fastest growing marketplaces (a16z top marketplaces), and a top 100 YC company. We are backed by Andreeson Horowitz, Y Combinator, General Catalyst, First Round Capital, Craft Ventures and many others. We are hiring people who are humble and hungry to join us in any of our hubs (NYC, SF, LA) or remotely. 
+Our vision is to be the dominant platform for pickup, a 750B market globally.
+About the Role  
+What were looking for 
+
+3 years of experience developing front-end consumer experiences.
+Experience with server-side business logic, APIs, NoSQL databases, and DevOps tooling.
+Experience with architectural patterns of complex web applications (e.g., well-designed APIs, high reliability, performant interactivity)
+Passion for extreme ownership, within and outside your domain, effectively driving business impact.
+An attitude of humility, embracing a learners mindset, and approaching diverse opinions with curiosity and openness.
+
+What youll be working on 
+
+Build the best restaurant operating system — self-serve first, superior product design, and mobilizing customer data. Tens of thousands of restaurants will run their businesses and manage their customers with the tools you build. You will be why their customers have a self-serve first, technology-first experience in ordering, picking up, and providing feedback for their meals.
+Development stack includes: React, React Native, Typescript, MongoDB, 
+Take part in shaping the culture of a high-growth company.
+
+Benefits 
+
+Health, dental, and vision insurance 
+Unlimited paid time off and 12 paid holidays
+Remote friendly
+Home office stipend
+Professional development stipend
+Flexible hours
+Ample Snackpass swag
+12 weeks of paid parental leave
+Employee referral bonus program
+
+Cash Compensation for this role: 139,000 - 209,500 
+Please note: Multiple factors, including prior experience, expertise, and leveling, determine final offer amounts. The final offer amount may vary from the amount above. Please note that this range does not represent additional compensation benefits (such as equity, 401K, medical, dental, or vision insurance).
+
+
+
+ 
+
+
+
+What You Will Get From Us:
+You will receive competitive compensation, a generous equity grant in a high-growth start-up, and benefits like healthcare, medical  dental coverage, unlimited PTO, a home office budget, wellness budget and more. 
+Importantly, you will also receive an unparalleled amount of ownership over the work you do here. We are a small team, so the opportunity to make a large impact, work on a broad spectrum of challenges and grow your personal skill-set awaits you here.
+Finally, you will get a diverse and inclusive work environment where you will be surrounded by hungry and humble colleagues.
+Snackpass is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. In fact, we are confident that the most inclusive and diverse teams accomplish the most extraordinary results.
+
+
+
+
+ 
+

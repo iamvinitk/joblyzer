@@ -1,0 +1,51 @@
+Position Overview
+Hands-on Sr.Manager or Director of Solutions Engineering for EMEA. Solution Engineers (SEs) at SingleStore are solving some of the most cutting-edge technical challenges in todays data-driven world. When customers evaluate SingleStore, SEs are their trusted technical experts who evaluate, identify, and demonstrate how SingleStore can solve their mission-critical business needs. As key contributors to our sales organization, Solution Engineers add tremendous value to the customer journey and directly impact company growth and revenue.
+In this role, you will be responsible to build and nurture a best in class solutions engineering team and will be responsible for identifying the technical requirements necessary to deliver business value for our Fortune 1,000 customers. Working in partnership with Enterprise Account Executives, you will help to acquire new customers and expand existing accounts. You will do this by leveraging your technical skill set and business acumen to understand complex solutions and create high-quality demos that resonate with our customers.
+Role and Responsibilities
+
+Lead, mentor, and develop the teams sales, technical, and business skills.
+Partner with Account Executives to close new business (logos) and expand existing accounts
+Design, develop, and deploy Proofs of Concept (POCs) with prospective customers 
+Drive the technical evaluation stage of the sales cycle, acting as the technical leadsubject matter expert (query tuning, load testing, etc.)
+Partner with internal teams (Product, Engineering, etc.) to share feedback on customer needs and requests
+
+Required Skills and Experience
+
+SE leadership experience, with a track record of motivating and driving high-performing technical teams
+Experience successfully selling infrastructure software, preferably a database, distributed system, or similar product
+Firm understanding of database fundamentals, including both analytic and transactional processing 
+Expertise executing POCs, with experience designing and deploying complex technologies into existing customer environments
+In-Depth understanding of databases, including various competitive products (Oracle, SAP, MySQL, Teradata, etc.)
+Familiarity with cloud environments, container setup, deployment, orchestration (including Kubernetes) 
+Proficient programming skills in Python, PHP, or other programming language
+Ability to travel within the region and internationally
+Bachelors Degree in Computer Science or other technical field
+
+Benefits
+
+Company Wide
+
+Technology Stipend for New Employees 
+Monthly Cell Phone and Internet Stipend
+Health and Wellness benefit 
+Company and team events 
+Flexible time off 
+Volunteer time off
+Stock Options 
+
+
+As employees are located in many different countries around the world, some benefits may differ from country to country. In all cases, we do our best to provide equitable perks and benefits across our locations.
+
+SingleStore delivers the cloud-native database with the speed and scale to power the worlds data-intensive applications. With a distributed SQL database that introduces simplicity to your data architecture by unifying transactions and analytics, SingleStore empowers digital leaders to deliver exceptional, real-time data experiences to their customers. SingleStore is venture-backed and headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin and Kyiv. 
+Consistent with our commitment to diversity  inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.
+Please note that SingleStores COVID-19 vaccination policy requires that team members in the United States be up to date with the current CDC guidelines for their vaccinations with one of the United States FDA-approved vaccine options to meet in person for SingleStore business or to work from one of our U.S. office locations. [It is expected that this will be a requirement for this role]. If an exemption andor accommodation to our vaccination policy is requested, a member of the Human Resources department will be available to begin the interactive accommodation process.
+ 
+To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.
+ 
+li-remote remote-li 
+ 
+SingleStore values individuals for their unique skills and experiences, and were proud to offer roles in a variety of locations across the United States. Salary is based on permissible, non-discriminatory factors such as skills, experience, and geographic location, and is just one part of our total compensation and benefits package. Certain roles are also eligible for additional rewards, including merit increases and annual bonuses. 
+ 
+Our benefits package for this role includes: stock options, flexible paid time off, monthly three-day weekends, 14 weeks of fully-paid gender-neutral parental leave, fertility and adoption assistance, mental health counseling, 401(k) retirement plan, and rich health insurance offerings—including medical, dental, vision and life and disability insurance. 
+ 
+For candidates residing in California, please see our California Recruitment Privacy Notice. For candidates residing in the EEA, UK, and Switzerland, please see our EEA, UK, and Swiss Recruitment Privacy Notice.

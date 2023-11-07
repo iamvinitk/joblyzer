@@ -1,0 +1,78 @@
+Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether its consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!The Figma Editor is the heart and soul of our core product and has set a new standard for whats possible on the web. Our users spend hours in the Editor each day brainstorming, iterating on designs, crafting prototypes, and getting feedback at all stages of the creative process. Figma is the only professional design tool that empowers entire teams to design together in real time via a high-performance browser-based graphics application—even with intermittent internet connectivity and network bandwidth—which presents unique technical challenges around how we craft our UX and data models.
+ 
+Everything you see on the canvas in the Figma Editor uses C, which compiles to WebAssembly to run in the browser and offer more control over performance, memory management, and rendering. We use Typescript and ReactRedux for the UI around the canvas, where key elements like the properties panel, toolbar, and modals live. Typescript gives us type checking capability, more guardrails around code correctness, and allows us to generate HTML and CSS in order to take advantage of more standard UI patterns. We have a service-oriented architecture and use RubySinatra, Go, and Rust on the backend for Figmas main API server. Professional experience with these languages and technologies is not a requirement. We encourage candidates to use the programming language that theyre most comfortable with during interviews—new hires will be ramped in our codebase during onboarding.
+ 
+Figma is a highly collaborative organization and most projects are owned by small teams of 2-3 people. Youll form strong relationships with product managers and designers, and can expect to partner regularly with engineers and leaders beyond your immediate team. We strive to foster an inclusive culture that promotes equity and belonging, and use the following values to guide how we work together: communicate early and often, lift your team, focus on craftsmanship, and prioritize impact. You can learn more about our engineering values and how we developed them here.
+ 
+This is a full-time role that can be held from one of our US hubs or remotely in the United States.
+What youll do at Figma:
+In 30 days, you will
+
+Be paired with an onboarding buddy on your team who will help you ramp in our codebase and get to know Figma. Youll move from starter tasks meant to familiarize you with our workflows to joining your teammates on larger projects.
+Get to know your Figmates across the company via team building activities, participating in our Give a Fig philanthropy efforts, joining one of our Employee Resource Groups, creating something amazing during Maker Week, or having hangs over Zoom (or in person once were back in one of our San Francisco or New York hubs).
+
+In 60 days, you will
+
+Work closely with teammates and partners in Product, Design, Marketing, User Research, and Data Science to build new features and achieve roadmap goals. We prioritize collaboration and cross-functional partnerships, so you wont operate in silos.
+Craft performance objectives with your manager that align to company priorities and career development opportunities.
+Help grow Figma by interviewing candidates for teams across the Engineering organization.
+
+In 90 days(and beyond), you will
+
+Be a mentor and provide thoughtful feedback to your peers, and benefit from strong personal and professional mentorship opportunity yourself
+Contribute to org-wide initiatives like new hire onboarding, developing interview processes, and Diversity, Equity, and Inclusion efforts
+Continue ramping and learning. The technical challenges in the Editor are unique, fun, ambitious, and ever-evolving.
+
+
+Some projects you could work on:
+
+Building new features in a real time, multiplayer system with a complex data model that enables collaboration across files
+Solving for performance and memory optimizations—we want to keep pushing the limits of what its possible to create in a browser while maintaining a highly performant UX
+Building tooling for authoring prototype behavior in the Editor, allowing users to create dynamic, interactive designs
+Extending and scaling the Editor and full stack system behind our design system features, enabling teams to build best-in-class design systems that work well with production components
+Contributing to mapping out an accessibility strategy, which may include improvements to the Figma UI (contrast, keyboard navigability, etc.) as well as tools to help people generate accessible content as they do their own work
+
+
+
+Wed love to hear from you if you have:
+
+At least 3 years of professional experience shipping features or products as a full-stack developer, andor operating in a tech lead capacity
+Demonstrated fluency with one or more programming languages, including but not limited to: TypescriptJavascript, C, Python, Java, Objective-C, Go, or Rust
+proactive communication skills and a desire to work in a collaborative environment
+An interest in mentorship, learning from others, and digging into new challenges
+An inclusive approach towards building features, solving problems, investing in culture, and growing teams
+
+Our end to end process will cover, at a high level: 
+
+An initial non-technical call with a recruiter
+A live practical technical screen with an engineer using the programming language of your choice
+A video-based conversation with the manager of your potential team
+A fully virtual onsite interview with both technicalcoding and non-technicaldiscussion-based areas of focus
+
+
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If youre excited about this role but your past experience doesnt align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+
+
+
+Read more about our team: 
+
+Behind the feature: shedding light on shadow spread
+How to build a plugin system on the web and also sleep well at night
+How Figmas multiplayer technology works
+Behind the feature: the making of the new Auto Layout
+Investing in Figma: The Decade of Design
+How work is changing at Figma
+Figmas next product is a multiplayer whiteboard called FigJam
+Software Design Startup Figma Is Now Worth 10 Billion
+
+LI-Remote
+
+
+Pay Transparency Disclosure
+If based in Figmas San Francisco or New York hub offices, this role has the annual base salary range stated below.  
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80 and 100 of range. Please discuss your specific work location with your recruiter for more information. 
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental  vision, retirement with company contribution, parental leave  reproductive or family planning support, mental health  wellness benefits, generous PTO, company recharge days, a learning  development stipend, a work from home stipend, and cell phone reimbursement.  Figma also offers sales incentive pay for most sales roles. Figmas compensation and benefits are subject to change and may be modified in the future.Annual Base Salary Range (SFNY Hub):168,000—350,000 USDAt Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identityexpression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+We will work to ensure individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions, and to receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-extfigma.com.
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figmas Privacy Policy. 

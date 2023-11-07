@@ -1,0 +1,66 @@
+Wise is one the fastest growing companies in Europe and were on a mission: to make money without borders the new normal. Weve got 16 million customers across the globe and were growing. Fast.
+Current banking systems dont let us send, spend or receive money across borders easily. Or quickly. Or cheaply. 
+So, were building a new one.
+About the role 
+We are looking for a Software Engineer with a service mesh focus to join our core service connectivity team.
+Our team develops and operates Wises Envoy-based service mesh on top of Kubernetes (instrumented by our custom Java-based control plane), as well as our core ingress and egress pipelines (built on Cloudflare and various proxy software). Other teams build on these so hundreds of distributed microservices can communicate reliably and securely with each other, and also handle incoming requests from users or reach third-party services.
+How we work
+We operate on a strong belief in automation, programmatic implementation, and reusable design. Were looking for people who can step back and think holistically about the ecosystem, but also follow through and help implement the design; drawing on the resources across the rest of the platform tribe.
+As we grow, the demand for creating and connecting new environments grows as well, and use-cases get more complex. We need to sustain this growth by continuously iterating on the services we run, with a focus on availability, security, and ease of use. Were looking for an engineer with relevant experience who can analyse complex requirements and deliver simple solutions to help our teams achieve our mission with speed and confidence. 
+As we scale we continue to push our teams to run autonomously. They are closest to our customers, so theyre empowered to decide what to prioritise and deliver, without being told what to do by leadership. This means they can move fast and run multiple projects at the same time.
+At Wise we split our time between the office and home focusing on using the most appropriate place for our activities. Think about coming together in person for events which focus on coaching, community and collaboration.
+You will, together with us
+
+Extend our service mesh to various workloads across diverse environments
+Develop our Java-based mesh control plane further
+Rebuild our ingress and egress pipelines using reliable L4 and L7 proxies
+Contribute upstream to the Envoy project
+Participate in a team on-call rotation
+
+Desirable Knowledge
+
+Proficiency in Java coding, testing and production aspects
+Reading familiarity with Golang andor C (writing wont hurt either!)
+Kubernetes microservices and networking experience
+Networking protocols from L3 to L7  application-level concerns.
+Troubleshooting system  networking troubles on the Linux command line
+
+Nice to have
+
+Operating reliable software-based L4 and L7 proxies (e.g. Envoy, Nginx)
+eBPF-based packet filtering and tooling experience
+Familiarity with transport layer security and certificate management
+
+We expect that you
+
+ work efficiently in a team to bring projects to completion
+ are a strong communicator, written and verbal
+ feel drive to automate manual operations
+ think about risks, security and reliability
+ are open to both mentoring others as well as learning from them
+ look for opportunity to add impact and challenge the norm
+
+What you get back:
+
+ RSUs in a growing company 
+ An annual self-development budget
+ Statutory maternity leave, with a perk of 18 fully paid weeks of parental leave for birth or adoption
+Paternity leave for 18 weeks at full pay
+3 fully paid me days per year to help you manage life
+ A paid 6-week sabbatical leave after four years
+
+Salary: 60,000-80,000  RSU
+Find out more about our benefits in our London office
+Interested? Find out more:
+How we work  a practical guide
+TransferWise Vlogs: Omar, Engineering Lead
+Engineering team blog
+Scaling our Infrastructure; how we make it work
+Wise Tech Stack.
+And for a sneak peek into the Wise world of (Platform) Engineering check out our Tech Blog: Platform Engineering Blog. 
+ 
+LI-AB3Salary (annual)60,000—80,000 GBPWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

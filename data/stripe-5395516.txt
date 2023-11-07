@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Observability team builds the platform that all Stripe engineers use to diagnose the health of their services at scale. The teams scope includes:
+
+Logging
+Distributed Tracing
+Metrics Collection, Storage and Dashboarding
+Alerting
+
+What youll do
+You will support a team of engineers focused on building the next generation of monitoring systems at Stripe. In addition to helping define the roadmap for the next 3-5 years, you will be interacting with many other managers and their teams at Stripe, who rely on the Observability platform to deliver stable and scalable services to our customers.
+Responsibilities
+
+Drive the roadmap and priorities for the team, and work with other engineering teams across the company.
+Support the team in achieving a high level of technical excellence and stability.
+Be an active contributor to the teams codebase and play a primary role in technical decision making
+Hire and develop talent on the team
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Bachelors degree or equivalent practical experience with minimum 5 years of experience with software development.
+Minimum 2 years of experience in a technical leadership role, preferably managing infrastructure teams and projects
+Interest in engaging with many other teams at Stripe, listening to their needs, and translating them into requirements for your team 
+
+Preferred qualifications
+
+Experience leading monitoring  observability teams
+Experience using Prometheus, Grafana and time-series databases

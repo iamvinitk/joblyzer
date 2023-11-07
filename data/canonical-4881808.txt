@@ -1,0 +1,44 @@
+Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.
+We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on whats possible with automation by embracing a universal operator pattern and model-driven operations.
+To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.
+Site Reliability Engineer
+Our site reliability engineers bring Python software-engineering skills and rigour to the operations domain. We practice devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.
+To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.
+As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.
+What Canonical Offers
+
+Technical management team that understands the details of what we are developing
+A culture of openness and inclusiveness
+Helpful and talented engineers who are world-class experts in many fields
+Teams focused on good work life balance with long average retention rates
+A wide range of engineering disciplines and career paths that can move between divisions
+Fully remote company for career growth without relocation requirements
+
+Requirements
+
+Software Engineering or Computer Science degree
+Linux experience and familiarity with Linux networking and storage
+Python software development experience
+Demonstrated drive for continual learning
+DevOps experience
+
+Nice to haves
+
+Experience with OpenStack or Kubernetes deployment or operations
+We hope that youll join us in helping to shape and build the future of free software together
+
+Of course we also offer...
+
+Learning and Development
+Annual Compensation Review
+Recognition Rewards
+Annual Leave
+Priority Pass for travel
+Flexible working option
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-Remote 

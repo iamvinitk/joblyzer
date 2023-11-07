@@ -1,0 +1,64 @@
+About MasterControl:MasterControl Inc. is a leading provider of cloud-based quality and compliance software for life sciences and other regulated industries. Our mission is the same as that of our customers to bring life-changing products to more people sooner. The MasterControl Platform helps organizations digitize, automate and connect quality and compliance processes across the regulated product development life cycle. Over 1,000 companies worldwide rely on MasterControl solutions to achieve new levels of operational excellence across product development, clinical trials, regulatory affairs, quality management, supply chain, manufacturing and postmarket surveillance. For more information, visit www.mastercontrol.com.
+Summary
+As part of our team, youll be deploying cutting-edge data management solutions for MC clients. Imagine a scenario where MC Data Engineers devise a ground-breaking solution for automatically reading, processing, and categorizing thousands of documents. The solution performs flawlessly in a development environment, but how should it be transitioned into production? How will end users interface with the solution? How will it scale to processing millions of documents? What tools or platforms should we and our clients use for monitoring? A DataOps engineer at MC must address these questions AND implement the solution.
+The job is NOT for you if 
+
+You dont aspire to build a career in Data Operations. Mastery and staying updated in this technology will demand substantial self-motivation.
+Youre not interested in hands-on work. Although architecture and strategy are integral parts of the job, youll be required to write first-rate production software.
+You prefer the comfort and predictability of working on the same problem or code base for years. Given the rapid changes in tools, best practices, architectures, and problems, youre expected to acquire new skills swiftly and adapt.
+
+ 
+Responsibilities
+
+Deploy and manage services and infrastructure to support our clients data at scale.
+Transform capabilities built by Data Engineers into real-world data production systems.
+Develop and deploy scalable tools and services for our clients to manage their data within MasterControl.
+Identify and evaluate novel technologies to enhance performance, maintainability, and reliability of our data systems.
+Implement software engineering best practices to data management, including CICD, automation, etc.
+Support all our data activities focusing on auditability, versioning, and data security.
+Enable the development and deployment of proof-of-concept data systems.
+
+ 
+Key Qualifications
+
+Experience maintaining and managing data systems. 
+Robust software engineering skills in intricate, multi-language systems.
+Comfort with Linux administration.
+Experience working with cloud computing and database systems.
+Experience managing and operating custom integrations between cloud-based systems using APIs.
+Experience maintaining and operating data systems built with open-source tools.
+Experience developing with containers and Kubernetes in cloud computing environments.
+Strong understanding of mechanisms for robust observability.
+Strong understanding of software testing, benchmarking, and continuous integration.
+Knowledge of data processing methodology and best practices.
+Familiarity with data modeling frameworks.
+
+ 
+Additional Qualifications
+Experience with Infrastructure Build tools, enabling developers to create and modify infrastructure in a secure and efficient environment (Terraform).
+ 
+Education  Experience
+
+5 years experience building, deploying, and maintaining production-quality software.
+Bachelors or Masters degree andor equivalent professional experience.
+
+ 
+Why Work Here?WhyWorkAnywhereElse?MasterControl is a place where Exceptional Teams come together to do their best work. In fact, hiring Exceptional Teams is a core value of ours. MasterControl employees are surrounded by intelligent, motivated, and collaborative individuals. We like to call it TheBestTeamOnThePlanet.We work hard to develop and challenge our employees skillsets, recognize their contributions, encourage professional development, and offer a one-of-a-kind culture. This is why we say WhyWorkAnywhereElse?MasterControl could be your next (and last) career move!Here are some of the benefits MasterControl employees enjoy:
+
+Competitive compensation
+100 medical premium coverage (yes, you read that right!)
+401(k) plan with company match
+Generous PTO packages that increase with tenure
+Schedule flexibility
+Fitness clubs (you get paid to have fun and be active!)
+Company parties and employee recognition programs
+Wellness programs (free Fitbit, gym membership and athletic shoe reimbursements, etc.)
+Onsite physician and massage therapist
+Innovation center and gaming rooms at the office
+Dentalvision plans
+Employer paid life insurance policy
+Much, much more!
+
+Applicants must be currently authorized to work in the United States on a full-time basis.
+ 
+The US base salary range for this full-time position is 110,000-160,000  equity  benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.MasterControl is an Equal Opportunity Employer. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact MCTalentMasterControl.com or call (801) 942-4000 and ask to speak with a member of Human Resources.

@@ -1,0 +1,42 @@
+ 
+
+About Glean
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same.
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+Developer Productivity Engineer Role
+As a Developer Productivity Engineer, your role is to enhance the efficiency, effectiveness, and overall productivity of the development process. You work closely with software developers, quality assurance engineers, and other stakeholders to streamline workflows, improve tools, and optimize build and test processes. Here are some common responsibilities associated with this role:
+
+Tooling Development: Develop and maintain tools and frameworks that support the development and testing processes. This may involve creating custom build systems, automation scripts, code generators, or specialized testing frameworks.
+Build Process Optimization: Analyze and optimize the build process to reduce build times, improve code compilation and linking, and minimize dependencies. This may involve parallelizing build steps, optimizing build configurations, and implementing caching mechanisms.
+Continuous Integration and Deployment (CICD): Work with teams to establish and enhance CICD pipelines, ensuring smooth and automated software delivery.
+
+Its important to note that the exact responsibilities can vary depending on the specific project requirements. However, the primary goal remains the same: to enable developers to work efficiently, reduce time-consuming tasks, and enhance the overall development process.
+You will thrive at this role if:
+
+You possess a bachelors in Computer Science or equivalent with at least 3 years of industry experience.
+You are an expert in one or more of the following: CICD optimization, release engineering, on-call system management, dev tooling or test automation framework development
+You have experience in Bazel.
+You possess strong technical problem solving skills including the ability to isolate an issue to its root cause
+You are proficient in Python and have experience with building end-to-end tools.
+You have prior experience in at least one of the following disciplines: Software Engineering, SDET, DevOps, Deployment Engineering, Developer Productivity
+You have experience with implementation of Cloud technologies in at least one of the following: Google Cloud Platform (GCP), Amazon Web Services (AWS) or Microsoft Azure.
+You excel in communicating effectively with both customers as well as internal teams
+You are Well-organized and able to handle multiple tasks and priorities
+
+Bonus skills:
+
+You have experience in designing, implementing and maintaining test automation frameworks is a plus
+You have practical experience with Search technologies, Knowledge technologies and SaaS-based system integrations
+
+Benefits
+
+Competitive compensation
+Healthcare
+Flexible work environment
+Transparent culture
+Learning and development opportunities
+Company events
+Free meals 
+

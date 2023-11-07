@@ -1,0 +1,56 @@
+FEQ124R41
+While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other US-based locations.
+Databricks is leading the next paradigm shift in solving problems with data and is looking for a Field Engineering Manager to lead our Databricks lakehouse expansion. Reporting to a Director of Field Engineering, the Manager, Solutions Architects will help lead a team of SAs with the Manufacturing GTM vertical. You will lead and promote a dynamic team focusing on enterprise software, big dataanalytics, data engineering, and data science. Leading the technical split-focused team (70 pre-sales, 30 hands-on solutions development), you will partner with Sales and your technical peers to increase revenue and help customers become wildly successful. Youll scale and maintain an outstanding Field Engineering team that is efficient in its operations to help accelerate Databricks growth in the market.
+The impact you will have:
+
+
+You will grow a team of Solutions Architects for a company in high-growth mode.
+
+
+You will maintain a hiring pipeline for ongoing hiring needs throughout the year.
+
+
+Crush your regions sales target - by making sure your SA team knows how to build a comprehensive technical point of view to establish the lakehouse architecture across a wide array of business units, identify valuable business-impacting use cases and validate consumption demand, and establish themselves as trusted advisors by building strong relationships with technical partners.
+
+
+Make your customers in your region extremely successful by driving priorities with sales and alignment with the other databricks technical functions (Specialist, PS and CS)
+
+
+Establish relationships across the business to make your customers and team successful.
+
+
+What we look for:
+
+
+5 years of experience in the data space with a technical product (i.e. data warehousing, big data, or machine learning).
+
+
+Experience leading technical pre-sales teams - hiring, onboarding, and supporting pre-sales professionals, building a territory; up-selling strategic accounts; and exceeding annual quotas.
+
+
+Lead a team through best practices for technical account strategy, architecture discussions, and solution advocacy in a customer environment.
+
+
+Experience hiring candidates, ramping them up to be successful, and promoting them into larger roles.
+
+
+Create positive morale for the team, establish work-life balance and help foster a healthy and productive working relationship within the team and between Field Engineering, Sales, and other important internal partners.
+
+
+Experience working with other teams such as Sales, Product Management, Industry Got to Market and Customer Success.
+
+
+Experience with driving executive alignment in accounts that guides strategic data infrastructure decisions and establish partnerships through adoptions and growth.
+
+
+ 
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range182,000—322,000 USDZone 2 Pay Range182,000—322,000 USDZone 3 Pay Range182,000—322,000 USDZone 4 Pay Range182,000—322,000 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

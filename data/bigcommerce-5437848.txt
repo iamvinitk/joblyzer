@@ -1,0 +1,43 @@
+BigCommerces mission is to help merchants sell more at every stage of growth, from small startups, to mid-market businesses to large enterprises. We focus on being the best ecommerce platform so our customers can focus on what matters most: growing their businesses.
+We are equally passionate about growing our employees careers and providing them an incredible experience as we rapidly expand across the globe. We are proud to have been recognized numerous times for our product and workplace culture. We empower our people and customers to build, innovate and grow, so together we can redefine the ecommerce industry.We are seeking an Enterprise Data Steward Lead to be accountable for establishing, operating, monitoring and improving the businesss data governance compliance and process efficiency under our centralized Data Strategy team. Youll define data elements and help establish and enforce policies and procedures related to the collection and accuracy of data, and perform quality checks on data systems using our Data Platform Services (DPM) system. This individual is motivated by big growth opportunities that require large scale changes, is enthusiastic about data and documentation, and is eager to share their perspective and knowledge with others.
+What Youll Do
+
+Establish a trusted relationship with senior leaders throughout the company to help them identify data use cases that align with the data strategy roadmap to aid the team in understanding business problems in the organization and how data can help solve them. 
+Proactively identify gaps in enterprise data and socialize learnings with business partners and data teams to help guide discussion on new data use cases. Use learnings to evolve the data strategy roadmap.
+Collaborate effectively with cross-functional teams, including business stakeholders, Operations, IT teams, and data experts, to develop and maintain a deep understanding of the end-to-end business function within the assigned domain to govern how data assets are created, processed, and used to support business operations.
+Create Data Definitions and Quality Rules: Develop and maintain data definitions, data quality rules, and relevant documentation for the assigned domain, including business glossaries and process flows.
+Attribute Ownership: Take ownership of data attributes within the different domains, subject to approval by the Data Governance Council, to ensure accuracy and consistency.
+Compliance and Governance: Collaborate with the Data Domain Working Lead to ensure compliance with governance policies and standards. Establish and enforce data collection and accuracy policies and procedures.
+Business Requirements: Capture, validate, and document business requirements for data management technology solutions to align data initiatives with business needs.
+Data Quality Monitoring: Monitor Data Quality (DQ) reporting and define issue remediation plans to enhance data quality, supporting effective business processes.
+Mentor and train other employees within Operations in similar roles, providing training to new employees, assisting with understanding the business  process, data domain conventions, etc. 
+
+Who You Are
+
+8 years of previous work experience in a technology background is desired, preferably in maintaining data quality within a database, resolving system discrepancies, and account master data
+A bachelors degree in a quantitative field (Statistics, Math, Business Administration, Finance, Economics), or applicable career experience 
+Fluent in English
+Data stewardship or Operations experience preferred
+Master Data Management (MDM) experience with Reltio, Informatica, TAMR, Alation, or similar applications 
+MS Office Suite (particularly MS Excel)
+Experience with BI tools, a plus
+Ability to display independent judgment to make decisions where no clear precedents exist; adjusts plans and deliverables with the right approvals and the business goals in mind.
+Strong analytical skills, SQL, or similar coding skills, a plus
+Experience with eCommerce andor SaaS subscription models and related metric, a plus
+An energetic and creative problem solver who couples a scientific quantitative approach with business acumen
+Curious, hungry, absorbs information quickly and seeks answers in a tactful and efficient way
+An engaged, people person with experience in cross-functional roles and indirect influencing with impeccable verbal and written communication skills
+Ambitious, self-motivated, goal-oriented, proactive, comfortable independently solving problems despite ambiguity and collaborating as necessary
+A builder, a person who enjoys creating infrastructure to help teams unlock their best work
+Excellent verbalwritten communication and interpersonal relationship skills
+Ambitious, self-motivated, goal-oriented and analytical
+Excellent time-management skills
+
+ 
+LI-GL1
+LI-RemoteDiversity, Equity  Inclusion at BigCommerce
+ 
+Our employees make the difference. At BigCommerce, we believe that celebrating the unique histories, perspectives and abilities of every employee makes a difference for our company, our customers and our community. We are an equal opportunity employer and the inclusive atmosphere we build together will make room for every person to contribute, grow and thrive.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions and to receive other benefits and privileges of employment. If you need an accommodation in order to interview at BigCommerce, please let us know during any of your interactions with our recruiting team.
+Learn more about the BigCommerce team, culture and benefits at https:careers.bigcommerce.com.

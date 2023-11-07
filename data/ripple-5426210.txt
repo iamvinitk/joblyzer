@@ -1,0 +1,63 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.Through our blockchain technology and rapidly growing network of financial institutions, Ripple is improving the global financial system and increasing economic inclusion for more people, in more places around the world.  Ripple is looking for passionate Information Security professionals to build a world class Information Security program.  As part of the Information Security team, you will help us achieve this mission by actively working to protect our staff, company, and the larger crypto communities we engage with.  
+Our Security Engineering team is growing, helping Ripplers design, build, and use on-premise and cloud infrastructure securely at scale. Infrastructure Security Engineers work on a broad set of efforts focusing on scaling and automating security infrastructure and processes. This team works closely with Ripples IT organization and Cloud Engineering and Operations teams to ensure we are building securely to protect our business and our customers.  In this role you may find yourself working to enforce perimeters to protect all of Ripples environments, strategizing IAM solutions, detecting vulnerabilities and ensuring patching processes, assessing and securing public cloud infrastructure, and more.  You will also support, develop and deploy tools and services to support a secure infrastructure.  All with the intention of influencing policy to simplify user experience and keep Ripple secure.
+ 
+WHAT YOULL DO:
+
+Partnering and consulting with colleagues on remediation design and solutioning
+Continuous improvement of relevant security systems and services
+Analyze complex security issues to improve the overall posture of the firm by evaluating new functionalities and ensure preparation for production implementation
+Responsible for providing all levels of support for tactical and strategic related issues related to information security systems and services
+Collaborate with product owners and engineering teams to ensure smooth transition of the Vulnerability Management technologies into production and ensure maximum visibility into a variety of environments
+Work closely with engineering to identify opportunities for automation eliminating manual operational toil and improving quality
+Maintaining security hardening configurations and guidance for the diverse set of service available across AWS, GPC and other public cloud providers
+Responsible for maintaining current versions of functionalities and technologies in production by effecting change management processes
+Proactively participate in compliance support activities such as trainings, audit prep, playbook authoring and ensure business as usual (BAU) activities are completed accurately and artifacts are produced as required
+
+WHAT WERE LOOKING FOR:
+
+5 years of industry experience securing public cloud services and the devops deployment process
+Strong devops skill set to support collaboration of team scripting and development activities, to include knowledge of Python, git, artifactory and how to leverage them
+Strong knowledge of course networking components and a history of executing network security
+Familiarity with the CIS benchmarks and how to monitor and remidiate deficiencies
+Experience in Cloud Computing like AWS, GCP with emphasis on Cloud Baseline management tools like Lacework
+Experience in Information Security frameworks and best practices for Vulnerability management, Risk Analysis, Reporting Metrics and Assessments
+Problem solving skills to resolve problems effectively and creatively while maintaining a high level of flexibility, professionalism, and integrity
+Highly innovative with creative contributions to asset discovery and real world risk assessments
+Seeks feedback from others, provides feedback to others in support of their development, and is open and honest while dealing constructively with criticism
+Effectively manages tasks and people, taking a practical approach to determine the most effective method of execution while respecting others expertise and considering others feelings and working styles
+Values individuals and embraces diversity by integrating differences and promoting diversity and inclusion across teams and functions
+Understands and anticipates peoples needs, skills, and abilities, to coach, motivate and empower them for success
+Nce to have infosec certifications: CISSP, CEH, CISA, CRISC
+Nice to have core certifications such as:  CCNA, CCNP
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

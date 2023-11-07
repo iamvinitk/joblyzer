@@ -1,0 +1,29 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+As an Android engineer in Growth Area, you will develop features to contribute to Duolingos user growth and bring the best learning experience to millions of learners. Were looking for engineers who are passionate about crafting delightful experiences in close collaboration with our world-class design and animation teams. Our ideal candidate will be versatile, display leadership skills and be hardworking to tackle new problems across the full-stack as we continue to innovate. We take pride in offering equal opportunities for all our employees, regardless of their international backgrounds.
+You Will...
+
+Collaborate with product managers and designers to drive user growth.
+Skilled in developing, launching, and maintaining high-quality native Android applications.
+Proven track record to effectively manage project priorities, with a focus on delivering exceptional results.
+
+You Have...
+
+A Bachelors degree in Computer Science or a related technical field
+Programming experience in Kotlin on Android and Java; technical expertise in RxJava.
+The ability to communicate technical issues effectively to technical and non-technical stakeholders
+Relocation to Beijing, China. This position is based in Beijing.
+
+Exceptional Candidates Will Have...
+
+Strong product sense and user empathy.
+Outstanding leadership and negotiation skills
+Experience designing clean and maintainable APIs
+Experience writing unit tests and testable code
+Proficient in both spoken and written English.
+
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

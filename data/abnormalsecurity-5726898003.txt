@@ -1,0 +1,45 @@
+About the Role
+Abnormal Security is looking for an Engineering Manager to lead our New and Emerging Products (NEP) team. At Abnormal, we keep our customers—ranging from Global 2000 organizations to small businesses—safe from complex and cutting edge attacks that have the potential to cause financial loss and disrupt business operations. Our novel approach to email security, account takeover detection, and other use cases has resulted in us becoming one of the fastest-growing security companies of all time, with over 13 of the Fortune 500 in our customer base.
+As part of our continued growth, the NEP team will develop brand new solutions to pressing customer problems, launch these offerings, and iterate based on market feedback. In order to deliver on our roadmap, you will work closely with Product and Design leaders and peers, build a team of high-performing Product Engineers, and be accountable for delivery against our product and technical roadmaps. As the Founding EM of the team, you will have a meaningful impact on the growth of our product portfolio and business metrics (revenue, margin, etc.), while laying the foundations for continued scalable and robust product development at Abnormal.
+What you will do 
+
+Build and grow a team of Product Engineers across all our areas of new product investment
+
+Recruiting of top talent in Singapore and India
+Career coaching and enablement to ensure consistent growth of direct reports
+Establish a healthy team environment  culture with low attrition  high team member satisfaction
+
+Drive execution
+
+Build execution plans to ensure the team delivers on quarterly goals
+Establish best practices  organizational processes and ensure these are being followed within the team
+
+Instill a culture of operational excellence
+
+Build processes and tools to maximize efficiency and overall output of the team
+Define and track operating metrics for your product area and establish plans to improve these
+Implement Operating System for the NEP team - from Sprint Planning, to standups, to our quarterly planning cadence
+
+Collaborate with leadership and cross-functional partners
+
+Interface with leaders and execs at Abnormal to align on priorities and plans
+Provide input into strategy, roadmap, and org design for the NEP team
+Collaborate closely with PM, Design, and Engineering Lead counterparts to ensure alignment
+
+
+Must Haves 
+
+2 years of engineering management experience, leading a team of 4 engineers building scalable enterprise-class customer-facing products 
+6 years of product development leadership experience (as a lead engineer or engineering manager) working with cross-functional counterparts to build enterprise class customer-facing products
+2 years leading full stack teams building scalable web applications with css, javascript, DjangoPython
+Experience developing and running team processes to promote consistency, quality, and quantity of work outputted by the team
+Experience collaborating with cross functional stakeholders and business leaders for strategic alignment
+
+Nice to Have 
+
+MS degree in Computer Science, Electrical Engineering or other related engineering field
+Prior experience at a B2B SaaS company
+Prior startup experience
+
+ 
+LI-AT1

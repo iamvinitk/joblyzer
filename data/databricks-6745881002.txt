@@ -1,0 +1,60 @@
+GAQ224R111
+Staff Data Architect
+At Databricks Information Technology, we are a product led organization transforming the way data is sourced, designed and used to help us scale seamlessly in face of incredible growth. We are looking for a Staff Data Architect to be a thought leader in how to design, implement, manage and scale our internal lakehouse architecture using Databricks own product set for all internal use-cases. You will join a growing Data Analytics, Engineering  Integration team that supports the data needs for internal stakeholders, across all business functions. You will report to the Sr Director of Data Analytics, Engineering and Integrations and work closely with our leadership and business partners.
+The impact you will have:
+
+Be a thought leader: 
+
+Work with executives and fellow architects to define Databricks strategy and roadmap to build the best lakehouse architecture for our internal use-cases 
+Have a full stack view of opportunities across data sourcing, scalable workflows, data platform, automation frameworks and visualization design
+Help evaluate new data technologies and tools
+Establish and maintain data standards to policies to drive consistency and standardization for all data assets
+Define the vision and strategy of data products that will be used for business use-cases
+
+Solve business problems: 
+
+Build empathy for our customers and deliver data solutions that have measurable impact on the business
+Build data models that are flexible and extensible to account for the future needs of our high growth business
+Create and implement blueprints for data management processes and procedures, across the company to support business objectives
+
+Drive results collaboratively: 
+
+Work with product managers to deeply understand business requirements and constraints 
+Work with technical leads to convert data models into actionable execution plans, to drive execution for key initiatives
+Build strong relationships with our internal team and business partners
+
+
+What we look for:
+
+Minimum of 8 years experience with enterprise data management and architecture with software development background
+Experience building and driving enterprise level data architecture across sophisticated platforms in the cloud - Azure, AWS or GCP
+Good to have: Experience with Databricks Platform
+Experience working directly with stakeholders on a variety of different requirements with different levels of technical understanding
+Understanding of AIML platforms and data requirements to facilitate development of AIML models
+With the ability to operate at a different levels of technical depth to match the audience
+MS in Computer Science, Engineering, or related fields
+
+Benefits 
+
+Comprehensive health coverage including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Work headphones reimbursement
+Employee Assistance Program (EAP)
+Business travel accident insurance
+
+ 
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range143,200—253,400 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

@@ -1,0 +1,104 @@
+GAQ223R68
+While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations.
+At Databricks Information Technology, we are a product led organization transforming the way we work from how easy it is to use our IT services to the applications we develop that help us scale seamlessly in face of incredible growth.
+You will influence technological decision-making for business teams future data, analysis, and reporting needs. The role supports the businesss daily operations inclusive of troubleshooting of data-intelligence warehouse environment and job monitoring. You will guide the business in identifying data needs and delivering mechanisms for acquiring and reporting such information and addressing the actual needs. You will gather and maintain best practices that can be adopted in big data stacking and sharing across the business. You will provide expertise to the business regarding data analysis, reporting, data warehousing, and business intelligence. You will report to the Director, Business Systems.
+The impact you will have:
+
+
+DesignStrategy: The Senior Data Engineer designs and supports the businesss database and table schemas for new and existing data sources for the data warehouse. Creates and supports the ETL in order to facilitate the accommodation of data into the warehouse. In this capacity, the Senior Data Engineer designs and develops systems for the maintenance of the businesss data warehouse, ETL processes, and business intelligence.
+
+
+Collaboration: The role that the Senior Data Engineer plays is highly collaborative and, as such,works closely with data analysts, data scientists, and other data consumers within the business in an attempt to gather and populate data warehouse table structure, which is optimized for reporting. The Senior Data Engineer also works closely with other disciplinesdepartments and teams across the business in coming up with simple, functional, and elegant solutions that balance data needs across the business
+
+
+Analytics: The Senior Data Engineer plays an analytical role in quickly and thoroughly analyzing business requirements for reporting and analysis and subsequently translating the emanating results into good technical data designs. In this capacity, the Senior Data Engineer establishes the documentation of reports, develops, and maintains technical specification documentation for all reports and processes.
+
+
+What we look for:
+
+
+5 years of related experience with a Bachelors degree; or 3 years and a Masters degree; or a PhD without experience; or equivalent work experience.
+
+
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+
+
+Experience building and optimizing big data data pipelines, architectures and data sets. In depth knowledge of Model and Design of DB schemas for read and write performance.
+
+
+Extensive working knowledge of API or Stream based data extraction processes like Salesforce API and Bulk API is must.
+
+
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+
+
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+
+
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+
+
+Knowledge of message queuing, stream processing, and highly scalable big data data stores.
+
+
+Experience supporting and working with cross-functional teams in a dynamic environment.
+
+
+Experience with building data pipeline from various business applications like Salesforce, Marketo, NetSuite, Workday etc. 
+
+
+Experience with big data tools: Hadoop, Spark, Kafka, Spark  Kafka Streaming, Python, Scala, Talend etc.
+
+
+Knowledge of BI Tools like Tableau, Looker etc 
+
+
+Benefits
+
+
+Comprehensive health coverage including medical, dental, and vision
+
+
+401(k) Plan
+
+
+Equity awards
+
+
+Flexible time off
+
+
+Paid parental leave
+
+
+Family Planning
+
+
+Gym reimbursement
+
+
+Annual personal development fund
+
+
+Work headphones reimbursement
+
+
+Employee Assistance Program (EAP)
+
+
+Business travel accident insurance
+
+
+Mental wellness resources
+
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range115,400—204,300 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

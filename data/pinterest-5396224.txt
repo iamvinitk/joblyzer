@@ -1,0 +1,27 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. We are seeking a motivated Software Engineer, Release Specialist eager to own and improve the release operations within Pinterests core engineering organization. Youll be managing releases across the org (frontend, backend and mobile) with a primary focus on developing and maintaining automated processes that facilitate smooth and efficient software releases at Pinterest. 
+What youll do:
+
+Work hands-on to ensure regular and high quality deployment of services 
+Own and improve the tools and processes for release management; in particular, our Spinnaker CICD pipelines
+Work across teams and organizations to quickly unblock releases while holding a high bar for quality
+Conduct root cause analysis for releases blocking issues as well as remediation tasks to prevent future blocks
+Create and present useful insights and analytics that improve efficiency of our deploys
+
+ 
+What were looking for:
+
+2 years experience managing continuous user-facing release, e.g., web or mobile
+Excellent communication with experience collaborating across teams
+Interest in creating process as well as building release pipelines
+Experience using tools of release and quality: Jira, SQL, Spinnaker, Git, Jenkins, Buildkite
+Comfortable writing scripts in Python, Bash, Javascript to automate releases
+
+ 
+This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.
+LI-REMOTE
+LI-JE2
+ Our Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

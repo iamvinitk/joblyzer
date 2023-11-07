@@ -1,0 +1,44 @@
+Brain is an early-stage startup with an ambitious vision to build exciting applications using Generative AI. The immense new power of Generative AI will make it so that everyone, not just technical programmers, can build and share exciting and interesting applications with the world. We have an incredible team, with investments led by Laurene Powell Jobs and Goodwater Capital.
+As a Generative AI Intern at Brain, youll be using Brains Imagica platform to build Generative AI applications for specific application domains. Youll interact deeply with Imagica users in various interesting domains (perhaps focusing on one particular application domain), establish various users requirements in that domain, and build Imagica applications to meet those requirements. For the more technically-minded, you might be extending the Imagica platform by adding custom web services (with AWS LambdaAPI Gateway) andor custom Javascript.
+How youll contribute to the vision:
+
+Speak with potential Imagica users in various application domains, learning how Imagica can help users better do their jobs
+Engage in design and user-centered thinking to brainstorm new relevant user journeys
+Build next-generation Generative AI-based applications with Imagica to meet user requirements and create great user experiences with AI
+Communicate findings with internal teams, and work with teams to leverage prototype Imagica applications for other users
+Potentially extend the Imagica tool with custom web services using AWS Lambda andor API Gateway and custom Javascript.
+
+If you are technically-focused, you can also work with our tech team to
+
+Help identify application or other domains where building custom LLMs would be an advantage over generic LLMs
+Collect data needed for training custom LLMs
+Clean and process the data for trainingevaluations
+Train andor find-tune custom LLMs
+Evaluate the performance of custom LLMs between each other and with respect to established generic LLMs
+Communicate findings and results to team
+Package results into a form readily usable in the Imagica platform
+
+Were excited about you because you:
+
+Are genuinely excited about the vast possibilities of Generative AI
+Want to be part of creating useful and innovative user-facing applications with Generative AI
+Gravitate towards out-of-the box thinking
+Excellent verbal and written communication skills, experience interfacing with users a plus
+Are currently pursuing or recently completed a B.S., M.S., or Ph.D in computer science, design, cognitive science, human computer interaction, or related field
+Industry exposure or internship experience programming, Python, AWS, Javascript a plus
+You are fearlessly self-driven, yet enjoy helping others meet our goals.
+You enjoy solving problems and helping others meet our goals.
+
+We know you work hard! Below are some benefits with working at Brain:
+
+We are a small team. You get to see many aspects of building a great product!
+We are also a growing team. We have plans to offer a lot more.
+Be a part of something massive and influence outcomes for our business.
+The ability to make, own and carry out decisions.
+
+What to expect during our interview selection process:
+
+A written portion where you will discuss what you find exciting about interning at Brain and ideas you have for Imagica.
+A face to face (remote) session where we will review your background, past projects, discuss your written exercise, and talk about your vision for the possibilities of Generative AI.
+
+About Brain:Brain Technologies is based in San Mateo, California and was founded by serial entrepreneur Jerry Yue in December 2015 after founding multiple successful tech companies in Beijing including billion dollar company Benlai. Brain currently hosts its growing team in San Mateo and Chengdu, China. If you want to build great applications with Generative AI, we want to hear from you!

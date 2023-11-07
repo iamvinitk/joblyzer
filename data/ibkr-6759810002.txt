@@ -1,0 +1,25 @@
+Job Description  Requirements
+The position supports local and global Operations, Control, and Client Communication-related functions for the cash and derivative markets. 
+
+Clearing Operations  Daily reconciliation of trades, positions and settlements for local and global affiliates. There will be an emphasis on European markets—handling local depository functions.
+Proxy Support  Functional support for proxy-related functions for North American markets, including reconciliation of record date positions and managing client requests related to voting and material distribution
+Financial Control  Daily reconciliation of settlements, corporate actions, dividends, stock loans, etc., against the Firms external clearing banks, emphasizing settlements for local and AsiaPacific markets.
+Asset Transfers - should know about Asset Transfers and standard settlement instructions and be familiar with terms like clearing house, BIC code, ISIN etc.
+
+Company Benefits  Perks 
+
+Competitive salary package.
+Performance-based annual bonus (cash and stocks)
+Hybrid working model (3 days officeweek)
+Group Medical  Life Insurance.
+Modern offices with free amenities  fully stocked cafeterias
+Monthly food card  company-paid snacks.
+Hardshipshift allowance with company-provided pickup  drop facility
+Attractive employee referral bonus
+Frequent company-sponsored team-building events and outings
+
+ Depending upon the shifts.
+The benefits package is subject to change at the managements discretion.Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

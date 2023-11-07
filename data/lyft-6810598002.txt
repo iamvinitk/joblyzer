@@ -1,0 +1,37 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To create the best transportation experience for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring. We believe that trip by trip, were changing the way our world works. We imagine a world where cities feel small again, where transportation and tech bring people together, instead of taking them apart. We see the future as community-driven.     
+While we have a strong ride-sharing service in the US and in a few Canadian cities, we know that transportation isnt just about cars, its about enjoying the ride, no matter the method. Thats why Lyft leaned in to micro-mobility, first joining hands with Montreal-based 8D Technologies in 2018 (from Motivate) and later with Longueuil-based PBSC in 2022, taking the place of the worldwide leader in bike-sharing. We want to provide solutions that people love and cities need. 
+Responsibilities:
+
+Use the core Site Reliability Engineering principles of change management, monitoring, emergency response, capacity planning, and production readiness reviews to run the platform.
+Build infrastructure and drive projects that break things with the aim to improve the robustness of production systems
+Help define infrastructure roadmap and architecture based on technology and business needs.
+Build holistic visibility into SLIs, SLOs, SLAs, dependency graphs, past performance of software, network, and system to ensure that we can continue to scale without increasing operational burden or toil.
+Share knowledge by giving brown bags, tech talks, and evangelizing appropriate tech and engineering best practices.
+Step back to observe patterns and develop innovative tools and automation to minimize toil. Use those learnings to drive the best operational practices.
+Partner with the broader Lyft organization to build a culture of rigorously learning from incidents.
+Share on-call responsibilities with other teammates and own the improvement of the teams on-call practices
+Unblock, support, and effectively communicate across teams to achieve results
+Assist in cost engineering efforts to ensure efficient use of cloud resources.
+
+Experience:
+
+Experience designing, implementing and operating large-scale customer-facing SaaS infrastructure
+Experience with high level programming languages (Python, Go, Java, etc.) and declarative languages (eg. Terraform).
+Experience working with public cloud platforms (eg. AWS, Google Cloud Platform, Microsoft Azure, etc.) and container orchestrators (eg. Kubernetes)
+Strong troubleshooting and debugging skills
+Strong Cross team collaboration
+Strong communication and documentation skills
+
+Benefits:
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Access to a Health Care Savings Account
+In addition to provincial observed holidays, team members get 15 days paid time off, with an additional day for each year of service 
+4 Floating Holidays each calendar year prorated based off of date of hire
+10 paid sick days per year regardless of province
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+Lyft proudly pursues and hires a diverse workforce. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy.  Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process.  Please contact your recruiter now if you wish to make such a request.
+ 

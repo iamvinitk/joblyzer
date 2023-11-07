@@ -1,0 +1,46 @@
+Are you an expert in cybersecurity practices and processes? Do you enjoy thinking out of the box and facing new challenges?
+We are seeking a CyberSecurity Manager that will be part of the Technical Program Management and Process team. This is a unique opportunity to define RTIs secure development process for both our General Purpose Products and Certifiable products. You will work with the development team to define the process and create the artifacts needed for cybersecurity certificationsaudit. If you love owning security plans and concepts, and enjoy training and coaching teams on best security practices, this is your role!
+Responsibilities:
+
+Set the processes to deliver RTIs secure products, and products according to industry cybersecurity standards. This includes automotive ISOSAE 21434, as well as standards from the aerospace, defense, and medical markets. 
+Lead the Product Incident Security Response Team (PSIRT) who reviews and analyzes vulnerabilities, and defines and communicates a response and remedy plan to our customers.
+Craft the security requirements and develop the security plan incorporating security processes, software tools, configuration management, and requirements traceability methodologies. You review the security-related work products. 
+Will be the point of contact for security process questions for our customers and certification assessors. 
+Coordinate security-standard-initiatives across the product offering to ensure the success of the deployment of new cybersecurity frameworks and cybersecurity policies.
+Oversee the successful execution and audit of relevant controls for industry and customer-driven cybersecurity requirements.
+
+Requirements:
+
+6-8 years of experience with CyberSecurity processes and have expert knowledge of system engineering principles and the V-model. You are a cybersecurity-certified professional. 
+Have a strong technical understanding of the ISOSAE 21434,  MISRA, ASPICE, NIST 800-218 and related security standards and frameworks 
+Have a background in Systems Engineering or Software development (CC) and a degree in Computer Engineering, Computer Science, Electrical Engineering, Physics, Robotics, or a related field.
+Have the personality and the technical abilities to predict problem areas and suggest improvements through quantitative analysis. 
+Have excellent English communication skills.
+US Citizenship required
+
+Due to applicable laws, government regulations and contract specifications, we are required to fill this position only with an individual who qualifies as a U.S. Citizen.
+Dont meet every single requirement? At RTI, we are dedicated to building a diverse, inclusive, and authentic workplace so if youre excited about this role but your past experience doesnt perfectly align with all qualifications in the job description, we encourage you to apply anyway! You may be just the right candidate for this or another one of our open roles. Learn more about RTIs Diversity initiatives here!
+Bonus Points:
+
+Experience taking a software product through automotive cybersecurity certification (ISOSAE 21434).
+Experience working with or at a Tier 1 or 2 supplier or OEM applying ISOSAE 21434. 
+
+What we offer you: 
+
+Flexible working schedule 
+Remote working  Home Office Stipend to cover the costs of working from home
+Flexible Paid Time Off  Real Vacation Bonus, an additional bonus for taking more than 1-week of uninterrupted vacation
+Annual bonus based on individual and company performance  other prizes and awards 
+We recognize employees for their achievements, offer great opportunities for career growth and development, and provide the tools they need to succeed
+
+How life is at RTI:
+
+We have been certified as a Great Place to Work for four consecutive years both in Spain and the US. In addition, we were listed as one of the Best Companies for Women to Advance. 
+We live and work by our core values, which emphasize excellence, teamwork, and reaching your potential. Our motto is Enjoy the journey, above all we must enjoy what we do and have fun at work. At RTI, you will work in a positive, supportive, diverse environment with a team that truly cares about you.
+We are defined by our Working as One culture and truly care about teams interaction. That is why we plan trips for teams to get together in person, enjoy fun team-building activities and events, and feel more connected.
+
+About RTI:
+Real-Time Innovations (RTI) is the largest software framework provider for smart machines and real-world systems. Our software runs the largest power plants on the continent, connects perception to control in over 200 autonomous vehicles, drives the new generation of medical robotics, controls hyperloop and flying cars, and provides 24x7 medical intelligence to hospital patients and emergency victims. RTI is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color national origin, sex, age status as a protected veteran, or status as a qualified individual with disability.
+For more information about how we collect and use your data, please see our Privacy Notice for US Job Applicants and Employees.
+   
+ 

@@ -1,0 +1,53 @@
+Were revolutionizing the fitness  wellness industry, and were looking for talented people to help us do it. Mindbody  ClassPass bring together the best of both sides of the market: Mindbody is the industrys most trusted all-in-one technology platform; ClassPass is one of the most popular apps for fitness  self-care enthusiasts. Together were partnering with more than 70,000 fitness studios, gyms, salons, and spas around the world. Were not just another tech company—were far and away the leader of our industry. So join the team, work with mission-led people, and enjoy amazing benefits. Lets see what we can accomplish together! Who we are
+Were a passionate engineering, platform, and operations team, developing and supporting ground-breaking products. Together, well build for the future, creating more opportunities for wellness businesses around the world to help their customers lead full, healthy lives. We push ourselves and our company to always strive for this higher purpose, recognizing the power in working together toward the same goal. We believe in building a diverse company where everyone feels safe bringing their authentic selves to work. And we believe that the secret to success is our people.  Join the team, and lets see what we can accomplish together!  
+Your role
+As a Senior Mobile Engineer, youll be a part of a team working to build and extend world class B2C user experiences using a wide variety of technologies. Youll pursue continuous improvement to help Mindbody achieve its mission: Powering the worlds fitness and wellness businesses and connecting them with more consumers, more effectively, than anyone else.
+Youll likely spend time working on
+
+
+Develop and deploy new features to the mobile Mindbody app.
+Ideate, design and deliver projects from end to end.
+Conduct peer to peer code reviews. 
+Collaborate with stakeholders and teammates to identify solutions to deliver against strategic objectives.
+Develop a strong understanding of Mindbodys people, processes, and systems.
+Develop and maintain appropriate technical solution documentation.
+Keep up to date with the latest integration technologies and industry trends.
+
+
+About the right team member
+This Senior Mobile Software Engineer - B2C Marketplace role will be a critical contributor to Mindbodys customer facing mobile app. You will design, build, and support the scalable, agile processes and systems that empower Mindbody to deliver on its strategic ambitions.
+We are seeking a highly skilled Senior Mobile Engineer to join our team. The ideal candidate will have a strong background in Android development and Object Oriented Design  Analysis. The candidate will be responsible for designing, developing, deploying, and maintaining new features across the Mindbody app that translate to a smoother experience for our millions of users. We are looking for someone who wants to use the most modern engineering practices, is open to sharing new ideas, and who wants to use technology to help people integrate health and wellness into their lives. 
+ 
+About the Role:
+
+Develop and deploy new features to the mobile Mindbody app.
+Ideate, design and deliver projects from end to end.
+Conduct peer to peer code reviews. 
+Collaborate with stakeholders and teammates to identify solutions to deliver against strategic objectives.
+Develop a strong understanding of Mindbodys people, processes, and systems.
+Develop and maintain appropriate technical solution documentation.
+Keep up to date with the latest integration technologies and industry trends.
+
+Youll thrive in this role with experience in:
+
+5 Years of mobile development experience.
+Proven analytical abilities and propensity for problem solving. 
+Strong drive and work ethic coupled with ability to collaborate effectively.
+Initiative to identify process and systems improvements and to take ownership of implementation.
+Thorough background in Object Oriented Design, including CICD strategies.
+Experience building and integrating APIs.
+Bias for action, driving impact, and initiating ideas.
+
+Technologies youll be working in
+
+Strong experience with Kotlin, Java, and Android Studio (iOS development experience is a plus)
+Experience with AWS andor other cloud-based platforms.
+
+Pay Transparency
+It is Mindbodys intent to pay all Team Members competitive wages and salaries that are motivational, fair and equitable. The goal of Mindbodys compensation program is to be transparent, attract potential employees, meet the needs of all current employees, and encourage Team Members to stay with our organization.
+Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location.
+The base salary range for this position in the United States is 130,000 to 180,000. The total compensation package for this position may also include performance bonus, benefits andor other applicable incentive compensation plans.
+ Have we piqued your curiosity?
+Sound like the role for you? Wed love to hear from you! Even if youre not 100 sure about potential fit, we still encourage you to apply. Were looking for the right person, not the perfect series of checkboxes.
+Mindbody is an Equal Opportunity Employer. We highly value diversity at our company and encourage people of all different backgrounds, experiences, abilities and perspectives to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other protected characteristics.
+California Applicants Privacy Notice  UKEU Applicants Privacy Notice

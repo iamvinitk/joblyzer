@@ -1,0 +1,40 @@
+
+The opportunity
+Do you want to work on cutting edge AI technology that people love to use everyday?  Do you want to contribute fundamental research to drive the industry forward? Come work alongside industry-leading scientists and engineers pursuing our mission to make conversations more valuable. 
+Your impact
+
+Work with cutting edge technology to reimagine the future of conversations
+Build NLP solutions that help people get unparalleled value from meetings and conversations
+Shape the future of the company by researching and developing new undiscovered capabilities
+Conduct research using large-scale real-world data to unleash the power of speech
+Collaborate with awesome team members to optimize existing features
+
+Were looking for someone who
+
+Industry experience with large scale data processing and infrastructure, model training and model serving for NLP solutions and algorithms including transformer models and reinforcement learning
+Hands-on experience developing, training and deploying large language models (LLMs) such as BERT, GPT-3, and other transformer-based models for tasks including text generation, summarization, and classification
+Experience working on deep learning frameworks such as TensorFlow or PyTorch for implementing and optimizing deep learning algorithms
+Experience with implementation of algorithms and infrastructures using programming languages such as Python,  C
+Comfort working in a Linux command-line environment
+Bachelors degree in Computer Science, Machine Learning, NLP or related field
+
+Additional nice-to-haves
+
+Master or Ph.D. degree(s) in machine learning, speechlanguage processing or related field
+Industry NLP experience with summarization, question answering, search, recommendation, etc
+Experience with MapReduce, Spark, or similar frameworks
+
+
+About Otter.ai
+We are in the business of shaping the future of work. Our mission is to make conversations more valuable.
+We are growing fast! With over 150 million meeting minutes we also achieved recognition as one of the 2023 Great places to Work and we were included in Business Insiders 10 AI startups that raised the biggest Series A and B list. In addition, Adam Cheyer the cofounder of Siri, Larry Heck the cofounder of Cortana and Greg Holmes, the first head of sales at Zoom, joined us as advisors.
+
+Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are dedicated to inclusivity.
+Please note: Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+ 
+
+Salary range
+Salary Range: 155,000 to 250,000 USD per year.
+
+
+ 

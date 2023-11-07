@@ -1,0 +1,36 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+At Unity, we are on a mission to enhance developer efficiency, ensuring that every moment of development time is dedicated to meaningful tasks. We work hand-in-hand with our internal development teams to increase velocity and heighten productivity.
+We are currently seeking a talented and committed Ceph Engineer to join our Infrastructure Team. In this role, you will play a crucial part in maintaining the stability and high availability of our infrastructure. Proficiency in Linux, a knack for automating processes with tools like Ansible, and a solid grasp of networking concepts are essential qualities for success in this role. Were looking for a good communicator who can share their knowledge and best practices with the team to foster an environment of continuous learning and improvement.
+Join our team and contribute your expertise to maintain and enhance our infrastructure, and drive us toward new heights of efficiency and reliability.
+What youll be doing
+As an Ceph Engineer on our Infrastructure Team, you will:
+
+Architect, deploy, and optimize OpenStack environments for scalability and high availability.
+Implement comprehensive monitoring solutions to ensure uninterrupted service availability.
+Automate OpenStack management tasks through script development and maintenance.
+Collaborate with our Middleware team to integrate and optimize Ceph storage within OpenStack.
+Work on capacity planning and scaling strategies to accommodate growing demands, while maintaining security and compliance standards.
+
+What were looking for
+
+Linux Proficiency: Strong expertise in Linux systems administration, including experience in deploying updates, patching, and Bash scripting.
+Networking Skills: Excellent knowledge of networking principles and protocols is a must.
+Automation Proficiency: Proven experience working with Ansible for automation tasks, coupled with scripting and development knowledge.
+Data Center Experience: Background in troubleshooting and resolving hardware and software issues in a data center environment, including familiarity with hardware components like Cumulus Linux, Gigabyte, Mellanox, Dell, and consumer-grade hardware.
+Virtualization and Containerization: Experience with containerization technologies such as Docker and Kubernetes, along with familiarity with virtualization technologies.
+
+You might also have
+
+Cloud Platform Knowledge: Understanding of cloud computing platforms, such as AWS, Azure, or Google Cloud.
+Monitoring and Logging: Experience with monitoring and logging solutions like the ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus.
+Network Monitoring: Familiarity with network monitoring tools, such as Wireshark.
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-JG1 SEN

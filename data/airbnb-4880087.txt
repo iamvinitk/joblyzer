@@ -1,0 +1,31 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+At Airbnb, our mission is to create a world where anyone can belong anywhere. The Identity Infrastructure team is responsible for securing the foundational platforms and cloud environment that power Airbnb. We provide secure, scalable and verifiable identities to all the entities in our platform (services, nodes, developers etc.).  These identities allow each entity to communicate confidently with each other—and with the cloud—according to well-defined policies and guardrails.
+Airbnb is a member of the Cloud Native Computing Foundations end user community and regularly meets with peer companies to discuss cloud native engineering challenges at scale.
+The Difference You Will Make:
+As a software engineer on this team, youll work with the fundamental infrastructure components that all other teams at Airbnb build upon, such as our compute platform, cloud services, service mesh, cloud provisioning and networking stack. With users around the world, reliability, scalability, efficiency and high availability are our teams core concerns—and security underlies all of these.
+A Typical Day: 
+
+Build cutting edge cloud native infrastructure on top of the public cloud.
+Deliver frameworks and platforms that are secure, efficient, mature and highly available that abstract away infrastructure complexity.
+Investigate and adapt industry best practices to Airbnbs unique environment.
+Systematically improve availability by applying industry and distributed systems best practices.
+Work with other talented and friendly infrastructure and infosec engineers to build the foundation for Airbnbs technical growth over the next decade.
+
+Your Expertise:
+
+5-9 years of relevant software development experience with a BSMasters or 6 years with a PhD. in a fast-paced, high-growth tech environment.
+Expertise with a public cloud provider (AWS, GCP, Azure) and their Security, Identity,  Compliance offerings (e.g. IAM, KMS).
+Experience working with authentication and authorization protocolsframeworks (OpenID Connect, OAuth, LDAP etc.)
+Passionate about cloud security risks management, secure by default configurations, and blast radius reduction.
+Familiarity with container and orchestration technologies such as Docker and Kubernetes.
+Track record of working with infosec engineers to solve challenging problems creatively.
+Strong ownership and experience building and operating high-scale, distributed systems across the full software lifecycle.
+Excellent communication skills and the ability to work well within a team and across engineering teams.
+Strong problem solver and have solid production debugging skills.
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+If you need assistance, or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodationsairbnb.com.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range185,000—221,000 USD

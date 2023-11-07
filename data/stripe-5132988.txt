@@ -1,0 +1,42 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe builds economic infrastructure for the internet. Were moving beyond payments and up the stack to help our users run their businesses more effectively. Issuing is developing APIs and full stack offering to empower businesses to launch physical and virtual card programs. We aim to help businesses deploy novel use cases that rely on fully programmable funds management instruments.
+You can read more here:
+
+Product pages: Issuing  Treasury
+Recent News:
+
+Stripe launches charge card program for Stripe Issuing
+Stripe Issuing launches in Europe
+
+
+
+ 
+What youll do
+As a backend engineer, you will design and build platforms, tooling, and system solutions that are configurable and scalable around the globe. You will partner with many functions at Stripe, with the opportunity to both work on infrastructureplatform systems, as well as produce direct user-facing business impact.
+Issuing is one of Stripes biggest bets. The right engineer will allow us to scale faster and more reliably as our business accelerates. If that sounds exciting, wed love to speak with you.
+Responsibilities
+
+Design, build, and maintain large-scale production services, data pipelines, and streaming systems
+Work on systems critical to Stripes current and future operation, with responsibility for billions of dollars of issuing volume
+Debug production issues across services and multiple levels of the stack
+Collaborate with stakeholders across the company including engineering, product, operations, finance, data science, accounting, sales, and operations.
+Improve engineering standards, tooling, and processes
+
+ 
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+4 years of experience working as a software engineer 
+Have delivered, extended, and maintained large scale distributed systems.
+Love to design systems that are elegant abstractions over complex patternspractices
+Experience mentoring and growing junior engineers
+
+Preferred qualifications
+
+You think of yourself as entrepreneurial and enjoy moving quickly on new, green-field products
+You hold yourself and others to a high bar when working with production systems
+You enjoy working with a diverse group of people with different expertise. Almost every role at Stripe collaborates with some engineers, from Sales and Support in sharing feedback from our customers, to Legal and Accounting in supporting our systems for tracking money movement and reporting around the world

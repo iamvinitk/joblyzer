@@ -1,0 +1,49 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+SR. DATA ANALYST, PAYMENT RISK  FRAUD  
+At SpaceX, were leveraging our experience in building rockets and spacecraft to deploy Starlink, the worlds most advanced broadband internet system. Starlink is the worlds largest satellite constellation and is providing fast, reliable internet to 2M users worldwide. We design, build, test, and operate all parts of the system  thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the financial systems and frameworks to create an accessible and cost-effective consumer product.
+Our payment philosophy for Starlink is for our customers to be able to pay for our services using the same local payment methods as they do for their existing providers. We have only begun to scratch the surface of Starlinks potential global impact and are looking for best-in-class analysts to maximize Starlinks payment performance and access for communities and businesses around the globe.
+As a Sr. Data Analyst on the Starlink Payment Risk program, you will solve challenges underpinning every aspect of the programs growth. You could expect to build next-generation predictive models to intercept fraudulent activity within an ever-expanding portfolio of products, markets and users. You would also support optimization analysis for novel fraud controls, policies, limits and operational strategies. Lastly, you can expect to support with data mining, and building pipelines, dashboards and investigative views to enable rapid detection and quantification of fraud, and business impact metrics for risk countermeasures
+The ideal candidate is an accountable and resilient team-player who brings a combination of business instincts, technical skills and raw analytical horsepower necessary to support the rapid growth of Starlink internet.
+RESPONSIBILITIES:
+
+Identify, investigate and monitor fraudulent or anomalous activity, including isolating and quantifying specific trends driving changes to fraud and payment patterns
+Design and implement real-time fraud rules and models, including historical back testing analysis, offline evaluation and production performance impact monitoring
+Analyze large amounts of data from numerous internal and external sources, and produce authoritative reports and root-cause analysis on fraudulent activities and chargebacks
+Implement data driven, risk-based solutions and policies to mitigate fraud and chargebacks 
+Evaluate risk exposure for new products, markets, and pricing initiatives to develop the risk-mitigation strategy to minimize fraud and enable growth
+Provide guidance and subject matter expertise to the Customer Support team to codify policies and best practices regarding chargebacks, account takeover, authorizations, delinquency and other fraud scenarios
+Coordinate necessary administration work related to payment fraud, chargebacks and other disputes with relevant parties and automate manual processes wherever possible
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree
+5 years of professional experience in an analytical role in the payments, risk, security, finance, or technology sector
+SQL work experience
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Experience with large datasets, data collectionpipelining, analytical software and using visualizationdashboarding tools
+Knowledge of risk management systems, tools and automated decision-platforms
+Experience designing real-time rules and machine learning models.
+Understanding of end-to-end payment sequence and processing ecosystem. Experience working with variety of payment methods in multi-processor environment
+Strong research, analytical, investigative and communications skills
+Multinational experience managing risk and fraud across multiple countries, regions, currencies, and verticals across the world in e-commerce setting
+Knowledge of and experience working with third party vendors related to payment risk and fraud mitigation tools
+
+ADDITIONAL REQUIREMENTS:
+
+This position is based in Hawthorne, CA and requires being onsite - remote work is not considered
+Willingness to work long hours and weekend when needed to meet critical deadlines
+
+COMPENSATION AND BENEFITS:                     
+Pay range:      
+Sr. Analyst: 110,000.00 - 145,000.00per year                   
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.
+ 

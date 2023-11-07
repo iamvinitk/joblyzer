@@ -1,0 +1,40 @@
+We offer a hybrid work environment. Most US-based positions can also be performed remotely (any exceptions will be noted in the Minimum Qualifications below.)For Israel-based positions, we encourage working from our Sarona, Tel Aviv office a few days a week, meeting your colleagues, and having a flexible work environment.
+Our Mission:
+To actively connect people to their next great opportunity. 
+Who We Are: 
+ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects job seekers with millions of businesses of all sizes through innovative mobile app, web, and email services, as well as partnerships with the best job sites on the web. ZipRecruiter has the 1 rated job search app on iOS  Android. 
+Summary of Job
+ZipRecruiter is changing the way job seekers get hired and how small businesses manage their HR. Our RD center in Tel Aviv offers an empowering, fun and collaborative culture where talented individuals who think like business owners and entrepreneurs are invited to join our growing team.  
+We use models and algorithms of machine-learning and deep-learning to find candidates for a job, and get the job information to reach the candidate as quickly as possible to allow the employer to reach the best candidates in the least possible time.
+As a backend engineer you will be helping us design and build a flexible and scalable system that will allow our business to move fast and innovate. You will be expected to show ownership and responsibility for the code you write, but it doesnt stop there. at Zip, you are encouraged to think big and help out in other areas as well.
+Key focuses:
+
+Designing and writing code that is critical for business growth
+Mastering scalability and enterprise-grade production services implementation
+Sense of ownership - leading design for new products and initiatives as well as integrating with currently implemented best-practices
+Review your peers design and code
+Work closely with product managers, peer engineers, and business stakeholders
+
+Minimum Requirements:
+
+5 years of experience in Java
+Fluent with SQL
+Hands on experience in managing major clouds vendors infrastructure (AWS, GCP, Azure)
+Experience working with Docker and orchestration tools such as Kubernetes
+Enjoy communicating and collaborating, sharing your ideas and being open to honest feedback
+The ability to lead new features from design to implementation, taking into consideration topics such as performance, scalability, and impact on the greater system
+Bachelors degree or higher
+
+Preferred Qualifications: 
+
+Experience in Spring Boot framework 
+Familiarity with financial concepts and accounting systems
+Experience in Scala  Spark
+Working with a number of off-the-shelf tools such as Kafka, DynamoDB, SQS, ElasticSearch, but often push them past their limits
+
+As part of our team youll enjoy:
+
+Competitive salary
+A fun environment where work-life balance is valued
+ZipRecruiter is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.
+Privacy Notice: For information about ZipRecruiters collection and processing of job applicant personal data for this job, please see our Privacy Notice at: https:www.ziprecruiter.comcareersjob-applicant-privacy-notice

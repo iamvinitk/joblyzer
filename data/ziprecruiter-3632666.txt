@@ -1,0 +1,37 @@
+We offer a hybrid work environment. Most US-based positions can also be performed remotely (any exceptions will be noted in the Minimum Qualifications below.)For Israel-based positions, we encourage working from our Sarona, Tel Aviv office a few days a week, meeting your colleagues, and having a flexible work environment.
+ 
+Our Mission: 
+To actively connect people to their next great opportunity. 
+Who We Are: 
+ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the 1 rated job search app on iOS  Android.
+Summary:
+We are seeking a skilled software engineer with a focus on scalability, security, reliability, and extensibility. Our SRE team partners with product-centric engineering teams to provide infrastructure, tools, and architectural design to ensure the rapid and sustainable growth of all our services.
+Our team influences the thinking and methodologies of the entire engineering organization. A primary method for this is to provide smoothly paved paths toward good patterns, a few guard rails against particularly bad patterns, and a carefully minimized amount of toil.
+An excellent candidate will have the breadth of perspective to grasp both short term product feature goals and long term scalability goals, and the depth of technical skill to design systems that reconcile the two.
+Responsibilities:
+
+Design, implementation, and troubleshooting of large fault-tolerant distributed systems
+Design and implementation of a diverse ecology of tools and frameworks surrounding our Kubernetes clusters
+Design, implementation, and continual refinement of a complex and performant CICD infrastructure
+Embracing and enabling GitOps workflows throughout the organization
+Participation in an on-call rotation covering core infrastructure
+Practicing sustainable incident response and blameless postmortems
+
+Qualifications: 
+
+5 years of relevant experience in industry
+Experience architecting, developing, and troubleshooting large scale distributed systems
+Fluency with multiple compiled or interpreted languages, ideally including Go
+Experience with self-managed Kubernetes
+Experience in the design and implementation of high-volume CICD pipelines
+Experience with AWS, and ideally with managing it with Terraform
+Strong low-level Linux skills; strace, netstat, and tcpdump should be old friends
+Familiarity with large scale monitoring systems: Prometheus, Cloudwatch, Cloudtrail, etc
+
+As part of our team youll enjoy:
+
+Competitive compensation
+Exceptional benefits package
+
+Category: ComputerSoftwareZipRecruiter is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.
+Privacy Notice: For information about ZipRecruiters collection and processing of job applicant personal data for this job, please see our Privacy Notice at: https:www.ziprecruiter.comcareersjob-applicant-privacy-notice

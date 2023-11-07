@@ -1,0 +1,48 @@
+Who We Are
+In 2021, Poatek was acquired by WillowTree, an award-winning digital product consultancy recognized as one of the fastest growing and best places to work in the United States. Now a TELUS International company, with offices across the globe, we continue to partner with the worlds leading brands, such as Capital One, HBO, PepsiCo, Dominos and more, to design, build, and transform their digital products and strategies. Were looking to grow our Poatek offices in Brazil with top talent excited to collaborate with team members across the globe to deliver innovative solutions for our clients. 
+Location  Flexibility
+This is a hybrid role, which weve termed as Work from Near (WFN). This model requires the ability to work on-site from our So Paulo - SP or Porto Alegre - RS office throughout the week based on team needs, while still providing the flexibility to work remotely on other days. Our WFN culture is designed to foster in-person innovation, collaboration, and connection with team members local and visiting from other global offices.
+The Opportunity
+As a Salesforce Administrator on our Internal Tooling team, youll partner with and support our team members across Delivery, Tech Ops, Business Development, Marketing Services, and Finance to manage, customize, and optimize the Salesforce platform to address and resolve business needs. We are Salesforce-powered which means that we tailor the platform to support almost every facet of our business. We are looking for an Admin that is solutions-oriented, analytical, and passionate about the ever-evolving Salesforce ecosystem. 
+Responsibilities
+
+Be a Salesforce expert who is able to build, configure, and automate custom solutions based on business and stakeholder needs. 
+Collaborate with cross functional stakeholders to  understand and define their requirements, and then implement a solution within Salesforce
+Identify and resolve technical issues within the platform, as well as troubleshoot any problems that may arise
+Provide ongoing user training and support, monitor user adoption of relevant rolls, and create training materials as needed
+Ensure optimal performance of Salesforce systems (flows, automations, customizations) and perform upgrades and integrations when needed 
+Manage system data and analytics including data hygiene, accuracy, and privacy
+Build out customized reports and dashboards as needed 
+Manage Salesforce roles, profiles, sharing rules, workflows, and groups
+Stay active in the Salesforce community and on top of new developments within the platform and share these learnings with the team and users
+
+Qualifications  Skills
+
+2 years experience managing and optimizing Salesforce andor similar cloud-based Customer Relationship Management (CRM) platforms that allows organizations to manage their customer data and interactions in a centralized system
+Demonstrated understanding of Salesforce-specific tools and features: dashboards, Apex programming language, custom objects, workflow rules, and validation rules
+Proficiency in turning user needs and requirements into customized solutions
+Able to approach each task and stakeholder partnership with thoughtfulness and an impeccable attention to detail
+Self-starter who takes initiative, anticipates user needs, and can self-manage commitments and deadlines
+Excellent analytical, problem-solving, and decision-making skills
+Ability to clarify complex ideas and navigate ambiguity for your team and users (both technical and non technical)
+Strong stakeholder management skill set centered around a customer first, collaborative approach
+
+Bonus Points
+
+ Salesforce Certified Administrator or Salesforce Advanced Administrator certification
+
+Why Poatek?
+What We Offer:
+
+Be part of an innovative consultancy with a human-centered and culture with opportunities for ownership and professional growth
+Competitive salary and benefits package (annual bonus)
+Opportunity to work on innovative agile projects with other high-performing, passionate team members from all over the globe (international travel opportunities)
+Collaborative work environment that encourages continuous learning and professional development (including English classes, support in national and international courses,
+Flexible work hours and autonomy
+Voucher for health activities, food allowance, in-office snacks, drinks, and games
+
+If you love IT as much as we do, we look forward to meeting you!
+
+Equality is a principle here at Poatek. We are committed to building an inclusive team that represents a variety of backgrounds, perspectives, beliefs, and experiences. Therefore we provide equal employment opportunities to all employees and applicants regardless of race, color, religion, gender identity, sexual orientation, national origin, age, or disability.
+We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing those information with us.
+For more information on how we use your information, see our Privacy Policy.

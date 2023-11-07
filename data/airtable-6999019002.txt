@@ -1,0 +1,37 @@
+At Airtable, we are passionate about how our product democratizes software creation and empowers anyone to create anything. We believe well-designed, integrated business systems are critical to our teams executing on this vision. As the Senior Business Systems Analyst  you will be responsible for developing and delivering a world class experience for our Marketing, Sales and Post Sales teams.
+Were looking for folks who know what good looks like, but who are flexible, resourceful, collaborative and really excited to join us on our adventure to figure out both the right long term vision and the right next steps for tomorrow.
+What youll do
+
+Be a thought leader and partner closely with key stakeholders in Marketing Ops, RevOps and Finance Ops to define capability driven GTM near term and long term roadmap aligned to business goals and priorities.
+Responsible for building effective and scalable solutions for complex business problems in the Lead to Order processes
+Responsible for stakeholder management in work prioritization to drive alignment across cross functional teams on strategic and transformational initiatives
+Lead the digital transformation journey and manage timely delivery of initiatives
+Hands on work involves Requirement gathering and functional testing and co-ordinate business UAT of projects and change requests 
+Serve as the SME and primary contact between our business ops partners and technology teamvendors to ensure the scope well-documented and transformed into conceptual technical solutions
+Discover new opportunities to optimize existing processes to gain efficiency and improve user experience and productivity
+Develop and author as-is and to-be business processdata flows, user journey maps, presentations, and effectively communicate the product vision and solutions at all levels in the organization
+Define what success looks like for this space and develop ways to measure and monitor success
+Stay current on platform new features and releases; influence the team on implementing best practices
+
+Who you are
+
+8-10 years experience in implementing complex, transformational CRMCPQ initiatives spanning but not limited to technologies like Salesforce, CPQ, CLM or similar technologies
+In depth hands-on experience using Salesforce to develop business solutions for core GTM processes (Lead management, Pipeline management, Sales Forecasting, Account data quality and enrichment, Quotingapprovals management, Contract lifecycle management)
+Excellent project management skills and is well versed with PM methodologies 
+Experience with agile-scrum methodologies for sprint execution
+Capable of driving difficult conversions, ability to influence and removing roadblocks to execute business strategies
+Solid understanding of Salesforce features and capabilities, security models, and also aware of its limitations
+Dataloader and data manipulation skills must have
+Working knowledge of Gong, Outreach, LeadIQ, LinkedinSales Nav, Workato etc tools highly preferred
+LeanData experience will be a plus
+Ability to zoom in and out and able to switch gears with evolving business priorities
+Problem solving and critical thinking skills, technical acumen, excellent communication skills with the ability to articulate complex ideas effectively
+Curious and growth mindset to learn and grasp new concepts and technologies
+Bachelors or Masters degree in CS or equivalent
+
+Compensation awarded to successful candidates will vary based on their work location, relevant skills and experience. The base salary range for this role is 161,300 - 210,200 for work locations in San Francisco, Mountain View, Seattle, NYC and LA. The base salary range for this role is 145,200 - 189,100 for all other work locations including remote. Our total compensation package also includes the opportunity to receive benefits, restricted stock units, and may include incentive compensation. To learn more about our comprehensive benefit offerings, please check out Life at Airtable.
+Airtable is an equal opportunity employer. We embrace diversity and strive to create a workplace where everyone has an equal opportunity to thrive. We welcome people of different backgrounds, experiences, abilities, and perspectives. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or any characteristic protected by applicable federal and state laws, regulations and ordinances. Learn more about your EEO rights as an applicant. 
+VEVRAA-Federal Contractor
+If you have a medical condition, disability, or religious beliefpractice which inhibits your ability to participate in any part of the application or interview process, please complete our Accommodations Request Form and let us know how we may assist you. Airtable is committed to participating in the interactive process and providing reasonable accommodations to qualified applicants.
+ 
+LI-RemotePlease see our Privacy Notice for details regarding Airtables collection and use of personal information relating to the application and recruitment process by clicking here.

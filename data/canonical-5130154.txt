@@ -1,0 +1,51 @@
+Help global companies embrace the latest private cloud infrastructure, Linux and cloud native operations, and open source applications. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Linux Ubuntu, OpenStack, Kubernetes and a wide range of associated technology.
+This role has very diverse responsibilities. The team members are Linux and cloud solutions architects for our customers, designing private and public cloud solutions fitting their workload needs. They are the cloud consultants who work hands-on with the technologies by deploying, testing and handing over the solution to our support or managed services team at the end of a project. They are also software engineers who use Python to develop Kubernetes operators and Linux open source infrastructure-as-code.
+The people who love this role are developers who like to solve customer problems through architecture, presentations and training.
+What youll do:
+
+Work across the entire Linux stack, from kernel, networking, storage, to applications
+Design and deploy clouds and applications for external customers
+Architect cloud infrastructure solutions like Kubernetes, Kubeflow, OpenStack, Ceph, Hadoop and Spark either On-Premises or in Public Cloud (AWS, Azure, Google Cloud)
+Grow a healthy, collaborative engineering culture in line with the company values
+Work from the comfort of your home
+Global travel up to 25 of time for internal and external events
+
+Who you are:
+
+You have experience in AIML and MLOps
+You have practical knowledge of Linux, virtualisation, containers and networking
+You have sound knowledge of cloud computing concepts  technologies, such as Kubernetes, Kubeflow, OpenStack, AWS, GCP, Azure, Ceph, etc.
+You have an intermediate level of Python programming skills
+You are a dynamic person who loves to jump in new projects and interact with people
+You have a demonstrated drive for continual learning
+Excellent communication and presentation skills (English, SpanishFrench a bonus)
+You have great organisational skills and follow-up reliably on commitments
+University degree in Computer Science or related software engineering expertise
+
+What youll learn
+
+Linux Ubuntu and networking knowledge
+Kubernetes and OpenStack infrastructure
+Machine Learning and Artificial Intelligence Platforms
+Wide range of open source applications and skills
+Work directly with customers in a range of different businesses 
+Real-life and hands-on exposure to a wide range of emerging technologies and tools 
+
+We offer: 
+
+Learning and development tuition reimbursement
+18 weeks parental leave (USA) 
+Diversity Resource Groups
+Work from home
+Competitive salary
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+About Canonical
+Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the worlds 1 cloud operating system. Our mission is to realize the potential of free software in the lives of individuals and organisations. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.
+Canonical is a remote-first workplace and will hire candidates in their current living location. For applicants applying from the United States, applicants must be legally authorized to work in the United States, as we cannot offer visa sponsorship for this job opening.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background leads to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+ 
+LI-Remote
+stack

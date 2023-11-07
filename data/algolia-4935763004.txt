@@ -1,0 +1,51 @@
+
+Algolia is on a mission to empower every company to create delightful Search  Discovery experiences. We power over 1.5 trillion searches a year, for more than 17,000 customers from 100 countries.
+We are seeking an experienced Senior Product Manager to join Algolia, to deliver world-class search and discovery experiences for our customers using our e-commerce platform integrations. The ideal candidate has a track record of building integrations and data platforms, providing connectivity to thousands of customers big and small.
+This is an exciting opportunity for a highly motivated individual to own a foundational piece of Algolia, critical to the success of the business. Join our team and take ownership of this initiative, work collaboratively with stakeholders, and drive it to success with a clear vision and strategy.
+Your responsibilities will include:
+
+Own and execute a compelling product roadmap for our growing connector platform, and other integrations (including API clients, crawler, etc.), based on customer insights, strategic goals, and trends in market and technology.
+Lead, define, and communicate the connector platform strategy with all key stakeholders, including both the business value and technical rationale.
+Build a strong collaborative relationship with the engineering team, establishing and communicating the OKRs, metrics, roadmap, and product requirements.
+Work closely with other cross-functional teams, including design, research, sales, marketing, and customer support, to deliver successful product launches for our customers, helping us to achieve our ambitious business goals.
+Engage with our customers, developing deep insights and uncovering unarticulated needs and opportunities.
+Use analytical and quantitative skills to help drive decision making and to also manage the business by the numbers.
+Act as a subject matter expert for data ingestion and connector platforms, staying up-to-date on the latest trends and developments in the market.
+
+You might be a fit if you can demonstrate:
+
+5 years of experience as a product manager, with a focus on data platforms and integrations.
+Experience working with multiple cross-functional teams to deliver successful product launches and achieve business goals.
+Excellent communication skills, with the ability to clearly articulate complex ideas and influence stakeholders at all levels.
+Strong analytical skills and data-informed decision-making.
+Developer-focused, ideally with experience writing code or building developer tools.
+Experience launching successful product releases to market.
+Big picture thinking, while still applying attention to the details.
+Drive, with an ownership mentality.
+
+Ideally, you would also have:
+
+Experience at our current stage and beyond (10,000 customers, 200-500M ARR range, high growth, lots of change and building internal infrastructure).
+Experience building and designing application experiences for e-commerce platforms.
+Familiarity with search and discovery technologies.
+Familiarity with MLAI technologies.
+
+Were looking for someone who can live our values:
+
+GRIT - Problem-solving and perseverance capability in an ever-changing and growing environment
+TRUST - Willingness to trust our co-workers and to take ownership 
+CANDOR - Ability to receive and give constructive feedback.
+CARE - Genuine care about other team members, our clients and the decisions we make in the company.
+HUMILITY- Aptitude for learning from others, putting ego aside.
+
+LI-Remote
+REMOTE STRATEGY:
+Algolias flexible workplace model  is designed to empower all Algolians to fulfill our mission to power search and discovery with ease. We place an emphasis on an individuals impact, contribution, and output, over their physical location. Algolia is a high-trust environment and our team members have the autonomy to choose where they want to work and when. We know community comes in many forms and strive to create opportunities for intentional in-person connection in our offices and virtually for our remote colleagues around the world. 
+We have a global presence with physical offices in San Francisco, NYC, Paris, London, Sydney and Bucharest.
+ABOUT US:
+Algolia prides itself on being a pioneer and market leader offering an AI-powered, API-First Search  Discovery platform that empowers 17,000 businesses to compose customer experiences at internet scale that predict what their users want with blazing fast search and web browse experience. Algolia powers more than 30 billion search requests a week  four times more than Microsoft Bing, Yahoo, Baidu, Yandex and DuckDuckGo combined.
+Algolia is part of a cadre of innovative new companies that are driving the next generation of software development, creating APIs that make developers lives easier; solutions that are better than building from scratch and better than having to tweak monolithic SaaS solutions.
+In 2021, the company closed 150 million in series D funding and quadrupled its post-money valuation of 2.25 billion. Being well capitalized enables Algolia to continue to invest in its market leading platform, to better serve its thousands of customersincluding Under Armor, Petsmart, Stripe, Gymshark, and Walgreens, to name just a few. 
+WHO WERE LOOKING FOR:
+Were looking for talented, passionate people to build the worlds best search  discovery technology. As an ownership-driven company, we seek team members who thrive within an environment based on autonomy and diversity. Were committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background.
+READY TO APPLY?If you share our values and our enthusiasm for building the worlds best search  discovery technology, wed love to review your application!

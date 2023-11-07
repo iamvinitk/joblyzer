@@ -1,0 +1,25 @@
+The Sales team at Stripe works with new and existing businesses of all shapes and sizes. The Sales Operations team is responsible for overall productivity and effectiveness of the sales organization, partnering closely with the sales team and teams across Stripe to drive initiatives. We are looking for a self-starter to join our team who has demonstrated success dealing with ambiguity, deriving insights from data, operating in a fast-growing environment, and solving problems with limited oversight. 
+In this analytical role supporting the AMER Sales teams, you will fill a critical role across our Sales Ops disciplines (e.g., go-to-market analysis, performance reporting, forecasting, quota setting and management, annual planning, ad-hoc sales productivity projects) by driving analytic projects in conjunction with our AMER sales leaders, our AMER Sales Ops team, and cross functional stakeholders (e.g., marketing, finance, data science).
+You will:
+
+Contribute to the execution and improvement of our rhythm-of-the-business reporting cadences for AMER Sales and Sales Operations, including weekly forecasting and QBRs
+Develop materials and metrics to report out on Sales performance across various levels of the organization (region, segment, team)
+Contribute to the definition, evaluation and implement of new metrics to drive insights into the regions performance
+Contribute to  AMERs planning process (targets, HC, and budget) working across Finance, AMER Sales Leadership, and AMER Sales Ops team members
+Execute initiatives designed to optimize sales team efficiency and productivity
+Develop a deep understanding of the underlying data architecture supporting Sales and how to use it to report on Sales performance
+
+Were looking for someone who has:
+
+At least 2-4 years of work experience and a Bachelors Degree in a related field
+Exceptional problem solving and analytical skills: demonstrated ability to structure complex problems, develop solutions, aggregate large amounts of data, and conduct required analyses
+Work well under time pressure, exhibiting ruthless prioritization coupled with timely and transparent communication
+Work experience focused on quantitative analysis, Excel, and reasoning
+Experience with SQL and Tableau (or similar analytical packages) a plus
+Strong presentation skills and experience building compelling slide presentations
+Familiarity with CRM and data management
+
+Nice to haves: 
+
+Prior experience at a growth stage Internetsoftware company.
+Prior experience in the payments industry.

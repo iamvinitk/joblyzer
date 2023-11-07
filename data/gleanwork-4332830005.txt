@@ -1,0 +1,55 @@
+
+
+About Glean
+
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+ 
+
+Role
+
+As a Product Manager, youll solve problems that 1B knowledge workers in the world struggle with on a daily basis. Youll deliver best-in-class Search and AI products for understanding, finding, and synthesizing knowledge. Weve only taken the first step towards our long-term vision of an intelligent work assistant, and we need great product leaders to take us the rest of the way.
+Were currently a very lean product team, so youll have an outsized role in shaping both the product roadmap and the product team itself. Youll collaborate closely with our stellar Engineering, Data Science, Design, Sales, Marketing, and Success partners to understand our customers and build category-defining tools. Youll wear many hats and gain both breadth and depth of experience.
+As PM for Ranking and Quality, you will build the core intelligence and relevance engine behind Glean Search and Glean Chat. You will understand user needs, map them to the right technical solutions, and evaluate impact. With LLMs and retrieval-augmented generation being adopted widely by the industry, search is even more important than ever. You will learn how to make these work in practice and establish Gleans position as the premiere platform for enterprise AI.
+
+
+
+What you will do and achieve:
+
+Spend a lot of time with our customers and users to deeply understand their needs
+Develop key parts of our product roadmap, marrying customers needs with our product vision
+Empower your team by giving context, setting direction, and building alignment
+Drive customer-focused decisions, clear prioritization, and efficient execution
+Coordinate cross-functionally with with leadership, go-to-market teams, and other key stakeholders across the company
+Build processes that will scale as our team and company go through rapid growth
+
+
+
+Who you are:
+
+You have 6 years of experience as a Product Manager in search, ranking, or a related domain. Experience working at an enterprise B2B SaaS company is a plus.
+You have a strong technical background in ranking and AI. You excel at analytical thinking, understanding complex technical systems, and marrying user problems with algorithmic solutions.
+You are an excellent written and verbal communicator.
+You have a proven track record of taking ownership, taking initiative, and delivering results.
+You collaborate effectively with cross-functional partners.
+You have a learning and growth mindset.
+You are mission-first and understand that your success is measured by your product and teams success.
+
+
+
+Benefits
+
+Competitive compensation
+Healthcare
+Flexible work environment and time-off policy
+401k
+Transparent culture
+Learning and development opportunities
+Company events
+Free meals
+
+For California based applicants: 
+The standard base salary range for this position is 165,000 - 250,000 annually. Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits.
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. Were committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.

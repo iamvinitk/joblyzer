@@ -1,0 +1,38 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Collecting and filing sales  indirect taxes is a classic area for technology disruption. Companies selling across countries, states, and even smaller jurisdictions have to navigate through a myriad of tax rates, product-level tax exemptions, filing requirements, and registration obligations. The rules are constantly changing, and not accurately calculating and filing tax can have legal ramifications.  
+Its no surprise then that solving for tax compliance is a top user ask. We launched Stripe Tax as a new SaaS product in 2021 to help solve this pain point and make tax compliance as effortless as possible. The Stripe Tax Experience team is entirely Europe-based and focuses on the user- and merchant-facing Stripe Tax product, with a focus on the calculations component of Stripe Tax. Its still early days, and were looking for strong software engineers to help build our product and business.
+ 
+What youll do
+Were looking for a seasoned leader who has strong background in building successful products as well as passion for leading a team to solve challenging and new problems, as well as developing empathetic partnerships with other Stripe teams to understand their use-cases and unlock new capabilities. At the same time, youll have plenty of opportunities to be hands-on building key systems, and will be directly responsible for the successful delivery of large-scale technical efforts as well acting as a technical mentor and leader for Stripe engineers.
+Responsibilities
+
+Enable the team to work with a wide range of systems, processes, and technologies to own and solve problems from end-to-end.
+Support the engineering team in building experiences for businesses that range from high growth startups to leading global companies providing them with the tools so they can run their business and not worry about tax.
+Collaborate with stakeholders across the organisation such as product, design, infrastructure, marketing and operations.
+Lead and manage processes to help the team do its best work and engage effectively with the rest of Stripe.
+Recruit great engineers, in collaboration with Stripes recruiting team
+Develop engineers on the team, helping them advance in their careers
+Contribute to engineering-wide initiatives as a member of Stripes engineering management team.
+
+ 
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+At least 5 years of experience managing teams that shipped high-quality products.
+An entrepreneurial mindset
+Successfully recruited and built great teams.
+Works effectively cross-functionally and is able to think rigorously, communicate effectively, and make or coordinate hard decisions and trade-offs.
+Thrives with a high degree of autonomy and responsibility in an ambiguous environment.
+Technical acumen to drive clarity with staff engineers about architecture and technical strategic decisions.
+Encourage a healthy and inclusive work environment thats both challenging and supportive.
+
+Preferred qualifications
+
+Have experience with financial product companies and interest in financial products and markets.
+Strong written and verbal communication skills for different audiences (leadership, users, company-wide).
+Strong quantitative and analytical background.
+Productively lead fully remote teams.

@@ -1,0 +1,65 @@
+About Generate Biomedicines
+Generate Biomedicines is a new kind of therapeutics company  existing at the intersection of machine learning, biological engineering, and medicine  pioneering Generative Biology to create breakthrough medicines where novel therapeutics are computationally generated, instead of being discovered. Generate has built a machine learning-powered biomedicines platform with the potential to generate new drugs across a wide range of biologic modalities. This platform represents a potentially fundamental shift in what is possible in the field of biotherapeutic development.
+We pursue this audacious vision because we believe in the unique and revolutionary power of generative biology to radically transform the lives of billions, with an outsized opportunity for patients in need. We are seeking collaborative, relentless problem solvers that share our passion for impact to join us!
+Generate was founded in 2018 by Flagship Pioneering and has received over 700 million in funding, providing the resources to rapidly scale the organization. The Company has offices in Somerville and Andover, Massachusetts with over 275 employees.
+The Role: 
+ 
+Generates technology platform combines generative AI to design novel proteins with the desired form and function, with aggressive automation to enable their synthesis and structural and functional characterization rapidly and at scale, in an iterative, self-optimizing manner. This design-make-test-learn cycle is orchestrated by a state-of-the-art data platform that enables seamless integration of the dry and wet labs and allows all measurements and metadata collected throughout the entire process to be easily captured, recorded, and utilized. Our toolset is anchored in a FAIR database that provides a common source of truth with robust and nimble data modeling capabilities, flexible integrations with third-party software, and a core suite of powerful applications that form the foundation of a unique company with equal parts bio and tech.
+We are seeking curious, inventive, motivated, and collaborative software engineers to expand this data platform with new capabilities and achieve new levels of automation, precision, throughput, usability, and resilience. As a key member of the Engineering team within Generates Digital organization, the successful candidate will be responsible for designing and developing new software solutions to enable scalable capture, processing, storage, curation, standardization, integration, analysis, and interpretation of research, clinical, and translational data to drive operational efficiency and informed decision making. Working hand-in-hand with other engineers and scientists, they will drive product innovation by prototyping, launching, and continuously improving data-enabled capabilities to industrialize our technology platform, accelerate our therapeutic portfolio, and drive sustained market differentiation. They will use their exceptional design, engineering, and analytical skills to solicit, interpret, and contextualize user requirements and morph them into powerful, functional, and beautiful products that drive data utilization and a superior user experience. They will be active in the informatics and engineering community and contribute to attracting, retaining, and developing the best talent in a performance-driven organization.
+We seek smart, focused, passionate self-starters who bring energy, new ideas, and practical experience to a fast-paced and dynamic team, are obsessed with delivering powerful, intuitive, and elegant software, and care deeply about their customers and each other.
+Heres how you will contribute:
+ 
+
+Play a lead role in the design, development, and ongoing support of tools and technologies for capturing, integrating, processing, and visualizing data at scale
+Work closely with other data, software, AIML, and automation engineers to design and implement highly scalable, secure, reliable, performant, and resilient systems to support discovery, clinical, and translational research
+Design and implement solutions to enable flexible, dynamic, large-scale, parallel data storage, access, computation, and visualization across a wide range of use cases and applications
+Maintain and enhance Generates data and computational platform to enable data processing, data analysis, AIML model building, scientific computing, and other digital workflows
+Design and develop data models and front-end tools to streamline laboratory workflows and enable experiment design and execution, result capture, and laboratory data management
+Scale existing front- and back-end systems to handle ever-increasing data volumes and new product features
+Integrate third party components, applications, and automation robots with our core data platform
+Partner with internal and external stakeholders to translate business needs into elegant and workable products, and identify opportunities for platform improvements
+Participate in the full development cycle from product inception, research, and prototyping to release in production and ongoing support
+Adhere to and promote agile software development principles and best practices for continuous integration and continuous delivery
+Contribute to Generates information security and business continuity programs, policies, and procedures
+Maintain awareness of new technologies and industry best practices, and champion innovative solutions internally
+Demonstrate strong technical and thought leadership and ability to influence and guide the work of others
+Mentor more junior internal and external software engineers
+Drive product-centric mindset and use metrics and KPIs to measure value, impact, and outcomes
+
+ 
+The Ideal Candidate will have:
+ 
+
+BS in computer science, data science, life sciences, engineering or a related discipline (advanced degree preferred)
+
+
+Minimum of 8 years of experience post-BS in developing sophisticated software products with at least 2 years of experience as a software engineering lead
+Proven track record in designing, developing, deploying, integrating, troubleshooting, debugging and maintaining secure, scalable, reliable, and maintainable software systems that users love to use
+Proficiency in modern programming languages and development environments such as Java, JavaScriptTypeScript, C, Python, R or similar
+Proficiency in web application and web service development
+Hands-on experience with front-end frameworks such as Aurelia, React, Angular, or similar
+Experience developing applications leveraging relational andor NoSQL databases, such as PostgreSQL, MS SQL, Oracle, Snowflake, MongoDB or similar, with solid knowledge of SQL and object-relational mapping
+Deep understanding of cloud technologies (especially AWS), and experience building scalable and distributed systems
+Expert knowledge of modern software engineering paradigms and best practices
+Proficiency with agile software development and continuous integration and continuous delivery (CICD) processes and toolsets, including Git, GitLab, Jenkins or similar
+Proven ability to take ownership and lead a project with minimal supervision, shipping high-quality product features on time, on budget, and in style
+Excellent interpersonal, communication, and collaboration skills
+Sharp focus on outcomes and customer success
+
+Nice to have:
+
+Background in life sciences andor biomedical engineering, preferably in a computational subfield
+Experience with tools and technologies supporting pharmaceutical RD
+Understanding of biomedical data
+Knowledge of data science and AIML methodologies and experience building AIML-enabled solutions
+Experience in developing commercial grade andor software-as-a-service software products
+Expertise in building data-intensive analytic applications, and experience with data visualization on the web, familiarity with D3.js, Chart.js, Recharts, Echarts or similar
+Background in math and algorithm development
+Refined taste and UI design skills
+
+LI-HM1
+ 
+Generate Biomedicines is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+COVID Safety:
+Generate Biomedicines enforces a mandatory vaccination policy for COVID-19. All employees must be fully vaccinated and have received a booster.  The purpose of this policy is to safeguard the health of our employees, their families, and the community at large from infectious disease that may be reduced by vaccinations.  The company will make exceptions to this policy if required by applicable law and will consider requests for an exemption from this policy due to a medical reason, or because of a sincerely held religious belief, or any other exemptions that may be recognized by applicable.
+Recruitment  Staffing Agencies: Generate Biomedicines does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Generate Biomedicines or its employees is strictly prohibited unless contacted directly by Generate Biomediciness internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Generate Biomedicines, and Generate will not owe any referral or other fees with respect thereto.

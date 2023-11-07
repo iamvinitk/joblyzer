@@ -1,0 +1,31 @@
+As a Site Reliability Engineer, youll play a crucial role in designing, implementing, and maintaining the reliability and efficiency of our platforms, with the goal to make an impact across the federal government. 
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Lead the design, implementation, and management of highly available and scalable systems, applying industry best practices and reliability engineering principles.
+Collaborate with cross-functional teams to identify performance bottlenecks, troubleshoot complex issues, and optimize system performance to meet defined service level objectives.
+Design and implement monitoring, alerting, and incident response strategies to proactively identify and mitigate potential issues, ensuring uninterrupted service availability.
+Drive automation initiatives to streamline deployment, configuration management, and infrastructure provisioning processes.
+Develop and maintain comprehensive documentation for system configurations, processes, and procedures.
+Respond to incidents, working diligently to resolve issues and prevent recurrence.
+
+What youll need to succeed: 
+
+Minimum of 8 years of professional experience in a Site Reliability Engineering role or similar capacity.
+Strong experience with cloud technologies (e.g., AWS, Azure, GCP) and infrastructure as code (e.g., Terraform, Ansible), along with proficiency in programming and scripting languages (e.g., Python, Go, Bash) to automate tasks and develop tools.
+Deep understanding of containerization and orchestration technologies (e.g., Kubernetes, Docker), along with expertise in implementing and managing monitoring and logging solutions (e.g., Prometheus, ELK stack).
+Proven track record of designing, building, and maintaining highly available and scalable systems.
+Strong problem-solving skills, with the ability to diagnose complex issues and implement effective solutions.
+Excellent communication skills, with the ability to collaborate effectively across diverse teams.
+An active TSSCI clearance with CI poly preferred; Active TSSCI with ability to pass a CI poly.
+Security certification a plus.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

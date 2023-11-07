@@ -1,0 +1,44 @@
+See yourself at Twilio
+Join the team as a Software Engineer for our Segment Platform Team.
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers build better applications and customer experiences worldwide.
+Although were headquartered in San Francisco, we have a presence throughout South America, Europe, Asia, and Australia. Were on a journey to becoming a globally anti-racist, anti-oppressive, anti-bias company that opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business. We employ thousands of Twilions worldwide, and were looking for more builders, creators, and visionaries to help fuel our growth momentum.
+About the job
+This position is needed to create high-quality, modern solutions to complex engineering problems and help define the future of Governance Platform for next generation CDP. Our mission is to help businesses unlock customer insights and make better decisions faster and cheaper by creating a suite of industry-leading storage, data processing, and other mission-critical services.
+In this role, you will be responsible for building a suite of Platform Services which shall form building blocks that form the foundation of Governance Platform capable of processing billions of events. 
+Responsibilities
+In this role, youll:
+
+Build the next generation of platform services to store and process billions of events.
+Build highly scalable and robust APIs to ingest and access data for internal teams and customers
+Build globally available and highly scalable distributed systems
+Collaborate with teams across the engineering organization to ensure services are multi-region capable and meet regulatory requirements
+Participate in an on-call rotation to support our business-critical infrastructure
+
+Qualifications 
+Required:
+
+4 years of experience writing production-grade code in a modern programming language.
+Experience programming in one or more of the following: Go, Java, or similar languages
+Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.
+Experience operating large-scale, distributed systems on top of cloud infrastructure such as Amazon Web Services (AWS) or Google Compute Platform (GCP)
+Deep understanding of architectural patterns of high-scale web applications (e.g., well-designed APIs, high-volume data pipelines, efficient algorithms).
+A systematic problem-solving approach, coupled with good communication skills, a sense of ownership, and drive
+Have hands-on experience with container orchestration frameworks (e.g., Kubernetes, EKS, ECS)
+Experience shipping services (products) following CICD development paradigm.
+Excellent written and verbal communication skills.
+
+Location 
+This role will be remote and based in India. 
+What We Offer
+There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

@@ -1,0 +1,48 @@
+Overview
+1047 Games began with the simple principle that people should have fun while making great games. Bucking convention and driven by a passion to create the ultimate gaming experience, Ian Proulx and Nicholas Bagamian founded 1047 Games in 2017 in their Stanford dorm room. Their love for arena shooters of the past drove them to create Splitgate, a unique sci-fi first-person shooter that adds portal guns to upend the genre. 
+What started as two computer science majors putting portals into a first-person shooter for a project demo has evolved into a VC-backed company which has raised more than 120MM in funding. 
+At 1047 Games, youll find a permanently remote, dedicated team of top-tier talent from some of the worlds biggest gaming and tech companies who share our founders vision. Grit, ingenuity, a desire to have fun, and a start up mentality define our crew. We are currently working on a brand new shooter in the Splitgate universe.
+What Were Looking For:
+
+A passionate art leader: You love to take on difficult, seemingly impossible problems and dig in to find creative ways to solve them
+A hard worker: You love to put in the extra effort, because you enjoy your work and know the impact of finishing the tasks at hand
+Passion for gaming: You can recognize what separates exceptional games from the average ones. You understand the mindset of gamers which enables you to create and implement features that will further benefit the game
+
+What You Will be Doing
+
+Proactively engage with leadership and peers across departments to align on high-level priorities and maintain strong lines of communication.
+Create (Sculpt, Model, UV, texture and materials) AAA quality characters and creatures
+Provide creative and technical direction to character artists
+Set the tone for character creation using advanced techniques
+Coordinate with tools and technology teams to develop necessary solutions for creating the best characters possible
+Review assets to make certain that they satisfy their intended design and are ready for rigging and animation
+Mentor artists by providing creative and technical training, guidance, and feedback
+Develop  support scalable, next-gen character pipelines character customization processes
+Provide timely, thoughtful feedback to character artists to ensure assets are stylistically cohesive and aligned with established artistic and technical quality bars.
+Partner with Tech Art and Engineering throughout development to ensure assets are functionally sound and optimized for engineplatform constraints.
+Assist in continually expanding the capabilities of the Character Art team through mentoring and team building, refinements of process and techniques, and candidate recruiting and hiring.
+
+What you will need to succeed
+
+Advanced level modeling and sculpting skills based on scan data, photo references, and traditional 3D means
+Advanced knowledge of anatomy, topology, and deformation
+Advanced knowledge of clothing construction, proportion, silhouette, and topology.
+Understanding of rigging, skinning, LOD creation, budgets
+Advanced level knowledge of PBR, lighting, materials, and other rendering related technology and how they apply to character art
+Proficient knowledge of DCC package such as Maya, Z-Brush, Substance Designer  Painter and Photoshop, and Marvelous Designer
+Advanced knowledge of color theory and lighting techniques for quality presentation and the best player experience
+Demonstrated knowledge of character creation pipelines and experience with improvements on existing pipelines
+Experience with integration of character and creature assets in UE5 and able to train artists in same
+3 years in the game industry with 1 shipped title
+Ability to be resourceful and come up with creative solutions
+Ability to be receptive to art direction and critiques from project art leads
+Excellent communication skills with the ability to effectively coordinate with producers, programmers, designers, as well as artists.
+Strong organizational, supervisory and mentoring skills
+Passion for gaming
+
+What will help you succeed
+
+Knowledge of photogrammetry techniques
+Character and prop concepting skills
+Background in portrait painting, character sculpting, or photography
+

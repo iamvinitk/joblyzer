@@ -1,0 +1,42 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Corporate Security team at Stripe is looking for an experienced security leader to join our team in South San Francisco, CA.  As the Global Security Operations Center Manager at Stripe, you will help mature our core risk-based and intelligence-led deliverables to office locations worldwide to support Stripes as they work around the globe. 
+What youll do
+You will work cross functionally within the Corporate Security Team, and alongside partner teams at the company to keep our employees, events, and offices safe, protect our users and facilities, all while supporting global business objectives. You will seek efficiencies in operations to enhance responsiveness to crises, as well as business as usual activities.
+Responsibilities 
+
+Serve as a leader on the team, and manage our Global Security Operations Center (GSOC) program, including the day-to-day operations of the GSOC, to enable Stripe business and support incident management, crisis management, travel safety and security, and other Corporate Security efforts
+Plan and execute a GSOC Program strategy to optimize the efficacy of the team, systems, and processes
+Serve as the hub for monitoring, analyzing and interpretation of risks and threats that may affect the business
+Provide training and developenhance Standard Operating Procedures for personnel assigned to the GSOC to continuously improve GSOC capabilities
+Oversee travel safety and security protocols and processes to effectively monitor and track employee travel for potential disruptions and geopolitical risks
+Manage mass communication and near real-time monitoring platform and other tools within the GSOC to maximize their utility and function. 
+Lead test and measure efforts to identify strengths and opportunities.  Measures may include recurring audits, physical penetration tests, drills and exercises, and partner and stakeholder feedback
+Management of, incidents, alarms, notifications, CCTV, callsslackemails and other activities related to the GSOC and its role as a central monitoring station
+Develop a quality assurance program for auditing and troubleshooting software systems with a focus on preventative maintenance and early detection of potential issues
+Work closely with Stripes Workplace teams, office managers and team leads, and external business partners, and help to manage relationships with regulatory and government agencies in order to maximize resources that benefit the team
+Coordinate with internal teams to develop operational risk mitigation strategies for imminent threat scenarios, including active shooter protocols and workplace violence prevention
+Build a team that scales with the business, with regionally effective management groups that are localized for maximum effectiveness
+Effectively manage service provider and contracted staff to ensure an effective risk based program operating within a developed set of standard operating procedures. Provide feedback through service level agreements, quarterly business reviews and agreed key performance indicators
+Consume open source information, news media, and vendor curated information, and interact with counterparts across industry, government personnel, and, when appropriate, leaders within the business
+Build complete policy and procedure guidance documents for vendor behavior, security practices, user operations escalations, event management, crisis management, and incident documentation
+In crisis events, able to quickly provide insight and nuanced assessment of impacts to the business as leaders consider employee and company safety and shape the companys response to disruptive, dynamic global events
+Offer solutions that allows operations to continue without exposing the organization or its people to undue risk
+Oversee audits of procedures and evaluate metrics
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+At least 5 years of experience working at a multinational company, with responsibility for a global security operation center and demonstrated experience managing contracted staff
+Solid understanding of core physical security risks and threats, and experience in developing effective and measurable programs in an international setting
+Great understanding of metrics collection and analysis. Superior presentation skills and writing required
+A strategic mindset with a service attitude, constantly working towards satisfying the needs of our customers
+Ability to manage resources to budget forecast
+Extreme organizational skills, communication skills, hyper responsiveness, leadership excellence
+
+Preferred qualifications
+
+ At least 2 years in an intelligence function at a multinational company or in government

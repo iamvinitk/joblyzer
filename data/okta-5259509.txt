@@ -1,0 +1,40 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.About the Team
+The ML Platform team will be responsible for the foundational ML Platform services and systems at Okta that benefit our users. This team will work closely with the Data Scientists and the Data Platform team to solve challenges that enable AI for Okta. This team will play a critical role in setting the direction and goals for AI  ML at Okta. 
+We are looking to build an elite team that is fast, creative and flexible. We encourage ownership. We expect great things from our engineers and reward them with stimulating new projects, new technologies and the chance to have significant equity in a company. Okta is about to change the cloud security landscape forever. 
+About the Position
+This is an opportunity for experienced engineers to join our fast growing ML Platform organization that is passionate about scaling ML-platform services. In this role, you will get to work with engineers throughout the organization to build foundational machine learning infrastructure that allows Okta to scale for years to come. As a founding member of the ML Platform team, you will be responsible for designing, building, and deploying the systems that power our ML. 
+These projects have a directive from engineering leadership to make OKTA a leader in the use of data and machine learning to improve end-user security and to expand that core-competency across the rest of engineering. You will have a sizable impact on the direction, design  implementation of the solutions to these problems.
+Job Duties and Responsibilities:
+We are looking for experienced Software Engineers who will be passionate about Oktas algorithmic and ML aspirations in several areas of the product. 
+As the senior most engineering individual contributor (IC) within the team, you will play a crucial role in shaping and executing our AI strategy. You will work closely with Product and Data Scientists as they identify AI opportunities to determine technical feasibility and implementation plans. You will lead the design, development, and implementation of AI algorithms and ML models including problem definition, data exploration, feature engineering, model training, validation, and deployment. You will drive tech selection in the ML modeling domain. You will also mentor, guide, and set standards in several domains regarding ML  Data. You will contribute to the broader AI community by presenting at conferences, enhancing Oktas reputation as an industry leader.
+The ideal candidate will have proven expertise in the field of artificial intelligence, a passion for technology, and the ability to provide technical leadership to a diverse team. 
+Must physically come into Bengaluru office minimum of 2 days a week.
+Ideally, youd have:
+
+10 years of software development experience including 3 years of machine learning engineering experience in high velocity, high-growth companies
+Experience developing AIML systems at scale in production or in high-impact research environments.
+Experience with machine learning model lifecycle management tools, and an understanding of MLOps principles and best practice
+Experience in machine learning pipelines and frameworks like Airflow, SageMaker, MLFlow, Kubeflow or other similar frameworks
+Strong coding and software engineering skills, and familiarity with python
+Strong understanding of computer science fundamentals and software engineering principles around testing, code reviews and deployment.
+Cross-functional collaborator and strong communicator.
+Comfortable solving ambiguous problems and adapting to a dynamic environment
+
+Nice to have:
+
+A Masters degree or Ph.D. in Computer Science, Machine Learning, or a related quantitative field.
+Contributions to well-used open-source projects.
+Experience building ML models in TensorFlow or PyTorch
+Industry experience building end-to-end Machine Learning Platforms is a plus
+
+LI-Hybrid
+LI-MMWhat you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

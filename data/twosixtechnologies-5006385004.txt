@@ -1,0 +1,42 @@
+Two Six Technologies is seeking a Software Defined Radio Engineer to support a variety of interesting RD programs in a hands-on laboratory environment. Specifically, we are interested in candidates with RF electronics design experience, RF protocol design  analysis, and software-defined radio (SDR) development experience. The ideal candidate will provide their RF expertise to reverse engineer systems and develop RF applications.
+Responsibilities Include:
+
+Set up and operate laboratory-based Software-Defined Radio (SDR) hardwaresoftware
+Perform signal detection, identification, and decoding of captured waveforms
+Perform RF signal reception and transmission of data using various modulation schemes (FSK, PSK, QAM, etc.)
+Solving technical problems in the areas of communications, signals collection, and data processing or electronic warfare
+Developing experiments and prototypes in our laboratory facilities that include extensive SDR hardware, FPGA development systems, and RF signals test and measurement equipment
+Providing subject matter expertise in Digital Signal Processing (DSP) and Software Defined Radios (SDR)
+
+Minimum Qualifications:
+
+A bachelors degree in Computer Science, ComputerElectrical Engineering, or a related Scientific Domain
+Minimum 3 years of Digital Signal Processing (DSP) and Software Defined Radios (SDR) development experience
+Minimum of 3 years of experience in a laboratory environment working with SDRs or FPGAs, and associated test equipment
+Experience in developing and implementing DSP algorithms with real-world performance requirements on either CPU or FPGA-based platforms
+Active Secret Clearance  is required with the ability to obtain and maintain a DoD Top Secret security clearance and Polygraph
+
+Nice if you have:
+
+Demonstrated ability to architect and implement digital processing and SDR system solutions with real-world performance requirements
+Advanced degree in Electrical Engineering or related technical discipline
+Proficiency with a variety of popular SDR or FPGA tools such as GNURadio, Radio Hacker, GQRX, Vivado, or ModelSim
+Experience working with experts in the fields of antenna systems, RF systems, SIGINT processing, communications systems, and hardware prototyping
+Experience with Linux-based DSP systems that span across CPUs, FPGAs, GPUs, and SDR platforms
+Active TSSCI clearance
+
+Clearance Requirements
+
+The ability to obtain and maintain a TSSCI security clearance and willingness to obtain Polygraph clearance. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+
+
+LI-AB1
+LI-Onsite
+
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

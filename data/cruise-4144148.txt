@@ -1,0 +1,123 @@
+Were Cruise, a self-driving service designed for the cities we love.
+Were building the worlds most advanced self-driving vehicles to safely connect people to the places, things, and experiences they care about. We believe self-driving vehicles will help save lives, reshape cities, give back time in transit, and restore freedom of movement for many.
+In our cars, youre free to be yourself. Its the same here at Cruise. Were creating a culture that values the experiences and contributions of all of the unique individuals who collectively make up Cruise, so that every employee can do their best work. 
+Cruise is committed to building a diverse, equitable, and inclusive environment, both in our workplace and in our products. If you are looking to play a part in making a positive impact in the world by advancing the revolutionary work of self-driving cars, come join us. Even if you might not meet every requirement, we strongly encourage you to apply. You might just be the right candidate for us. 
+Were Cruise, the self-driving ride-hailing service.
+We are building the worlds most advanced self-driving vehicles to safely connect people to the places, things, and experiences they care about. We believe self-driving vehicles will help save lives, reshape cities, give back time in transit, and restore freedom of movement for many.
+At Cruise, our engineers have opportunities to grow and develop while learning from leaders at the cutting-edge of their fields. With a culture of internal mobility, theres opportunity to thrive in a variety of disciplines. This is a place for dreamers and doers to succeed.
+If you are looking to solve one of todays most complex engineering challenges, see the results of your work in hundreds of self-driving cars, and make a positive impact in the world starting in our cities, join us. 
+About the team:
+The ML Data Shop team is responsible for building the data platform for Cruise AI, where we build the platform to efficiently search for long tail and impactful on-road scenarios to improve our autonomous vehicles. Our work powers data discovery, labeling and featurization that can reliably scale to serve the petabyte-scale data requirements of Perception and Behavior models. Engineers on this team support self-serving data mining, featurization and labeling platforms which serve as a critical drive to improve AV stack performance.
+About the role:
+The ML Data Shop team is looking for a Senior Staff Software Engineer to innovate data search platform solutions to accelerate the AV model development, and to advance Cruises commercial programs. What youll be doing:
+
+
+
+At Cruise, the Machine Learning Infrastructure organization (MLI) builds the essential tools, frameworks, and services used by every engineer at Cruise. MLIs goal is to greatly accelerate the development cycle of AV engineers by building the infrastructure to process, analyze, and learn from the many petabytes of data coming from our AVs, simulated tests, and real time services, empowering engineers to focus on improving the cars safety and performance.
+As an engineer on this team, you will be responsible for building and supporting a petabyte-scale data platform in the cloud and providing powerful foundations for MLIs tools, frameworks, and services. Responsibilities include ensuring scalable, transparent, and reliable data ingestion and management; development of fast, robust, and spike-resistant data consumption, data mining, and processing tools for the entire company; and development of orchestration for large-scale post-processing, and computational pipelines.
+What youll be doing: 
+
+Collaborate with various specialists to work on state-of-the-art data search algorithms and lead the team to build the platform solution to support it at scale, with an eye on the unique challenges from AV applications. 
+Work on algorithm optimization and architecting highly performant, scalable systems to discover and generate data to improve AV model performance.
+Build the cohesive ML Data product that facilitates fast AV model development. 
+Spot and collaboratively close gaps in tooling to accelerate engineering velocity cross organizations within Cruise.
+Stay visionary. Lead the team to identify technical direction and build the vision and strategy for upcoming company pivotal milestones.
+
+What we are looking for: 
+General:
+
+10 years of experience in the field of large scale distributed backend services for multimedia search, visual search, information retrieval and similar domains. 
+Strong programming skills in Python or C.
+Strong understanding of optimization and platform support for large scale data search algorithms.
+Strong mindset on owning process end-to-end, and being customer obsessed. 
+Passionate about self-driving car technology and its impact on the world
+Expertise in setting architectures that are scalable, efficient, fault-tolerant, and are easily extensible allowing for changes over time without major disruptions.
+Ability to design across multiple systems. Ability to both investigate in sophisticated areas as well as a good breadth of understanding of systems outside of your domain.
+
+Bonus points!
+
+Experience with model performance feedback loop and active learning 
+Experience building tools that are core to machine learning engineers daily work
+Experience working closely with product managers, and user experience researchers
+Experience with search platforms
+Experience with autonomous vehicle technology
+
+
+The salary range for this position is 234,700 - 345,000. Compensation will vary depending on location, job-related knowledge, skills and experience. You may also be offered a bonus, restricted stock units, and benefits. These ranges are subject to change.
+Why Cruise?
+
+
+Our benefits are here to support the whole you:
+
+
+
+
+Competitive salary and benefits 
+401(k) Cruise matching program 
+Medical  dental  vision, ADD and Life
+Subsidized mental health benefits
+Flexible vacation and company paid holidays
+Healthy meals and snacks available for non-remote employees
+Paid parental, jury duty, bereavement, family care, and medical leave
+Fertility Benefits
+Dependent Care Flexible Spending Account
+Flexible Spending Account 
+Pre-tax Commuter Benefit Plan for non-remote employees
+CruiseFlex, a working policy for US-Based Cruisers, lets you and your manager find the working style thats best for you, whether its primarily in-person, primarily at home, or a combination of home and in-office time. - learn more about CruiseFlex here
+
+
+
+
+Were Integrated
+
+
+
+
+
+Through our partnerships with General Motors and Honda, we are the only self-driving company with fully integrated manufacturing at scale.
+
+
+
+
+
+Were Funded
+
+
+
+
+GM, Honda, Microsoft, T. Rowe Price, and Walmart have invested billions in Cruise. Their backing for our technology demonstrates their confidence in our progress, team, and vision and makes us one of the leading autonomous vehicle organizations in the industry. Our deep resources greatly accelerate our operating speed.
+
+
+
+
+Were Independent
+
+
+
+
+We have our own governance, board of directors, equity, and investors. Our independence allows us to not just work on the edge of technology, but also define it.
+
+
+
+
+Were Vested
+
+
+
+
+You wont just own your work here, youll have the potential to own equity in Cruise, too. We are competing in a market that is projected to grow exponentially, which gives our company valuation room to grow. We offer a new kind of equity program called Recurring Liquidity Opportunity (RLO), which combines IPO-like liquidity with the stability of remaining private - learn more about RLO here
+
+
+
+
+Were Safety Conscious
+
+We integrate staysafe, our top priority at Cruise, into our everyday work. Through our Safety Management System, every Cruiser is asked to do their part by reporting any potential issues or hazards they observe and making continuous improvements. Youll be able to contribute to safety at Cruise, no matter your job function or title.
+
+
+
+Cruise LLC is an equal opportunity employer. We strive to create a supportive and inclusive workplace where contributions are valued and celebrated, and our employees thrive by being themselves and are inspired to do the best work of their lives. We seek applicants of all backgrounds and identities, across race, color, caste, ethnicity, national origin or ancestry, citizenship, religion, sex, sexual orientation, gender identity or expression, veteran status, marital status, pregnancy or parental status, or disability. Applicants will not be discriminated against based on these or other protected categories or social identities. Cruise will consider for employment qualified applicants with arrest and conviction records, in accordance with applicable laws.
+Cruise is committed to the full inclusion of all applicants. If reasonable accommodation is needed to participate in the job application or interview process please let our recruiting team know or email HRgetcruise.com.
+We proactively work to design hiring processes that promote equity and inclusion while mitigating bias. To help us track the effectiveness and inclusivity of our recruiting efforts, please consider answering the following demographic questions. Answering these questions is entirely voluntary. Your answers to these questions will not be shared with the hiring decision makers and will not impact the hiring decision in any way. Instead, Cruise will use this information not only to comply with any government reporting obligations but also to track our progress toward meeting our diversity, equity, inclusion, and belonging objectives.
+Candidates applying for roles that operate and remotely operate the AV: Licensed to drive a motor vehicle in the U.S. for the three years immediately preceding your application, currently holding an active in-state regular drivers license or equivalent, and no more than one point on driving record. A successful completion of a background check, drug screen and DMV Motor Vehicle Record check is also required.
+Note to Recruitment Agencies: Cruise does not accept unsolicited agency resumes. Furthermore, Cruise does not pay placement fees for candidates submitted by any agency other than its approved partners. 

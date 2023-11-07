@@ -1,0 +1,52 @@
+Two Six Technologies is seeking an experienced Lead Front End Developer to work on multi-domain platforms serving critical national security functions using cutting-edge modern frameworks. Join our team to solve hard problems in large-scale data investigation and analysis, real-time collaboration, task and resource planning and coordination, and high-dimensional data summarization and visualization allowing lay persons to easily answer complex questions.
+Responsibilities:
+
+Implement new front end UIUX features in a modern web framework such as Vue or React with an eye towards responsive design, cross-browser and -platform compatibility, performance, and modularity
+Work alongside designers in thinking creatively about end users problems and how to solve them 
+Follow provided UIUX designsmockups but also be comfortable suggesting improvements and designingimplementing detailed controls and handling of edge cases and error states given a broad intent
+Debug issues and help perform end-to-end testing to discover new ones
+Be comfortable designing and developing full sections of functionality given a broad requirement, including identifying and handling of edge cases and error states
+Help break down large, complex customer requests into actionable tasks for a team of developers
+Help define architectural requirements for meeting customer needs
+
+ 
+Minimum Qualifications:
+
+Minimum 7 years practical experience in software engineering
+A BS in Computer Science or equivalent work experience
+Experience with the following technologies:
+
+TypeScript, JavaScript, CSS, HTML5, and modern web frameworks such as Vue.js, React, andor Angular.
+
+A self-driven work ethic and a willingness to jump in and solve hard problems
+Due to security requirement, you must be US Citizen with willingness and the ability to obtain and maintain required clearance up to TSSCI and a Polygraph
+
+ 
+Nice If you Have:
+
+Experience using Git and Jira in a development workflow
+Experience working in an agile environment
+Experience managing a team of developers
+Experience mentoring other developers
+Experience with WebGL and web visualization frameworks such as D3
+Experience creating features allowing for simultaneous editing of content
+Experience creating large-scale, real-time data visualizations
+Familiarity with SQL and databases in general
+Experience with Vue 3 and Vite
+Experience with Ember.js
+Experience with DevSecOps
+
+ 
+CitizenClearance Requirements:
+
+US citizenship and the ability to obtain and maintain a government security clearance are required up to TSSCI and poly
+
+LI-PP1
+LI-Hybrid
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

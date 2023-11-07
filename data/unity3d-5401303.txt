@@ -1,0 +1,38 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+The Unity Editor and its pervasive runtime engine powers the creation and publication of real-time digital content in over 190 countries worldwide. With more than 5 billion downloads per month supporting Video Games to Film, Automotive to Construction, all while supporting a large array of 25 digital platforms. Unitys ability to deliver engaging digital experiences is only limited by ones imagination.
+The User Profile Experience team sits at the center of Unity, providing Authentication, Login, Licensing, and Financial services to all products that enable our customers to quickly engage with the content, projects, and software tools they love. Our organization is looking for a highly collaborative and seasoned software engineer to work with our team in Bellevue on these core systems and infrastructure.
+While reporting to the Head of Engineering, you will engage with Unitys global development teams to identify and act on areas to increase developer productivity, review technical plans and architecture, write technical design documents, and act as an engineering guide for individual contributor engineers.
+What youll be doing 
+
+Responsible for enumerating, understanding, and detailing the composition of engineering systems using first-hand analysis of source code, systems, data, and prototyping
+Navigating the internal Unity engineering ecosystem through partnership and collaboration
+Actively seek out alignment with leadership to align, guide, and craft the future of Unitys technology horizon
+Participating in regular architecture reviews
+
+What were looking for 
+
+Deep experience building production software with Java, Golang, and Node.js
+Expertise with CICD systems deploying code to production cloud environments
+Senior technical experience working across different teams and projects
+Demonstrable experience with software architecture and API design
+Broad knowledge of architecting systems across multiple platforms, devices, and ecosystems at scale
+
+You might also have
+
+Experience with the Unity Editor and ecosystem
+Deep knowledge of software authentication, authorization, and licensing systems
+Experience working in a globally distributed, multi-cultural, and diverse environment
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+International relocation is available.
+Work visaimmigration sponsorship is available for this role.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-KB1 SEN
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary161,200—218,100 USD

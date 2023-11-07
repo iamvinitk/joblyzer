@@ -1,0 +1,61 @@
+Location: North America
+Hi there!
+Were looking for a Director of Production Engineering to join our team at Zapier. Zapiers on a mission to make everyone more productive at work. Over 3 million professionals already use Zapier to save more time, but there are millions more to reach.
+As the Director of Engineering for the Production Engineering group, you are responsible for leading several multidisciplinary teams building, supporting and evolving Zapiers infrastructure, services, and developer tools. You will work closely with your managers, peers, and executives to staff teams and execute on a multifaceted infrastructure strategy.  This role oversees teams in EMEA, APAC, and the Americas.
+We know applying for and taking on a new job at any company requires a leap of faith. We want you to feel comfortable and excited to apply at Zapier. To help share a bit more about life at Zapier, here are a few resources in addition to the job description that can give you an inside look at what life is like at Zapier. Hopefully, youll take the leap of faith and apply.
+
+Our Commitment to Applicants
+Culture and Values at Zapier
+Zapier Guide to Remote Work
+Zapier Code of Conduct
+Diversity and Inclusivity at Zapier
+
+ 
+Zapier is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.
+Even though our job description may seem like were looking for a specific candidate, the role inevitably ends up tailored to the person who applies and joins. Regardless of how well you feel you fit our description, we encourage you to apply if you meet these criteria:
+ 
+About You
+You are customer-focused. You have a track record of deeply understanding your customers, partners, and stakeholders. You have a passion for building products, services, and platforms that enable your customers and stakeholders to be more productive. Youre empathetic to the expectations of our customers and the needs of our developers.
+Youve managed and scaled infrastructure engineering and shared services organizations. Youre a skilled and experienced engineering leader who has built teams working on the infrastructure and services that drive SaaS-based products with modern tech stacks. You understand how to build scalable, maintainable, and resilient cloud architecture. You have experience working with external vendors and planning infrastructure spending. Youve managed teams of managers and technical leaders and helped each manager, team, and leader be successful. You and your infrastructure teams understand the tradeoffs between a monolithic web platform and a services-based architecture.
+You understand how the platform enables product development. You are experienced in understanding the complexities and nuances of infrastructure and shared services development, including the business implications of infrastructure decisions. Youve driven the complex and challenging tradeoffs between speed, cost, and functionality when building and supporting a platform in one or more fast-moving companies. You have deep experience in managing complex projects with a variety of Agile tools in your toolbelt.
+You can create, evangelize and execute your vision of production engineering. You can arrive at a vision that enables customers and internal developers, and communicate that vision to your team and stakeholders throughout engineering and the broader organization. You can drive the implementation of the vision and get results. You learn from others and continuously adapt the production engineering and service ownership vision to match the needs of the company.
+You are a skilled mentor and coach. You have a passion and a track record of mentoring engineers and leaders while at the same time growing your own skills. You realize the best way to grow a team is by helping them to grow themselves. Youre able to effectively share your experience and provide a clear framework for growth.
+Youre a skilled communicator. Zapier is a 100 remote team and writing is our primary means of communication, but you recognize when other mediums may be more effective. Youll lean on all of these tools to communicate vision, strategy, plans, findings, and results to the engineering and full Zapier team.
+Youre a champion for doing things efficiently. At Zapier, the work you do will have a disproportionate impact on the business. We believe in systems and processes that let us scale our impact to be larger than ourselves.
+ 
+Things Youll Do
+
+Understand and articulate Zapiers customer and internal developer needs, Zapiers strategy to satisfy those needs and imbue them in your strategic and tactical actions.
+Establish, communicate, evangelize, and implement the vision for the Zapier Production Engineering organization that ladders up to the customer and internal developer needs.
+Define and drive the strategy and long-term roadmap for the Production Engineering organization in collaboration with your teams and your Engineering and Product leadership peers.
+Work closely with other engineering leaders to help deliver software projects and address development pain points.
+Establish data-driven approaches to measuring delivery velocity and quality and work with stakeholders, peers, and engineering teams to own those measures and deliver ongoing improvements.
+In partnership with service owning teams, be accountable for the uptime of Zapier services and take action if that uptime falters.
+Growing and developing your teams by recruiting, hiring, retaining, and mentoring.
+Own output and outcomes for your teams and the systems they own.
+Provide process mentoring and guidance for your managers and team members.
+Communicate regularly and effectively throughout our distributed organization.
+Participate in and continually improve our incident management process, including coordinating resources and setting stakeholder expectations during major incidents.
+
+ 
+Zapier Compensation Guiding Principles
+We believe all Zapiens should be rewarded competitively and equitably, using practices that are simple and transparent. This philosophy ensures were able to find, grow, and retain exceptional people from a broad range of backgrounds. Heres how we define our compensation principles:
+
+Competitive: Zapier pays well among the technology sector.
+Equitable: Consistent pay practices; competency-based pay.
+Simple: Pay is well understood, and pay practices are built for scale.
+Transparent: Zapiens know how pay works, including how their pay is determined.
+
+The pay ranges for this role are:
+United States: 269,400336,800404,200 USD
+Canada: 269,400336,800404,200 CAD
+A Candidates compensation package is finalized once the interview process is concluded and accounts for experience, competencies (job knowledge, skills and abilities) and internal equity. We use a competency-based approach to base pay, which means we set pay for all Zapier employees based on their competency and skills demonstrated in their role. In alignment with that philosophy, the upper half of a pay range is typically reserved for individuals who have consistently demonstrated a high level of job knowledge and skills for their current role and level while at Zapier.
+For more information on Zapiers Total Rewards please click here.
+ 
+How to Apply
+At Zapier, we believe that diverse perspectives and experiences make us better, which is why we have a non-standard application process designed to promote inclusion and equity. Were looking for the best fit for each of our roles, regardless of the type of education or companies in your background, so we encourage you to apply even if your skills and experiences dont exactly match the job description. All we ask is that you answer a few in-depth questions in our application that would typically be asked at the start of an interview process. This helps speed things up by letting us get to know you and your skillset a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.
+After you apply, you are going to hear back from us—even if we dont see an immediate fit with our team. In fact, throughout the process, we strive to never go more than seven days without letting you know the status of your application. We know well make mistakes from time to time, so if you ever have questions about where you stand or about the process, just ask your recruiter!
+Zapier is an equal-opportunity employer and were excited to work with talented and empathetic people of all identities. Zapier does not discriminate based on someones identity in any aspect of hiring or employment as required by law and in line with our commitment to Diversity, Inclusion, Belonging and Equity. Our code of conduct provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base. Zapier will consider all qualified applicants, including those with criminal histories, consistent with applicable laws.
+Zapier is committed to inclusion. As part of this commitment, Zapier welcomes applications from individuals with disabilities and will work to provide reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobszapier.com.
+Even though were an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out this resource for a list of countries where we currently cannot have Zapiens permanently working.
+LI-Remote

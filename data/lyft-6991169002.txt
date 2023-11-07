@@ -1,0 +1,36 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+Lyfts Data Science Team builds mathematical models underpinning the platforms core services. Compared to other technology companies of a similar size, the set of problems that we tackle is incredibly diverse. They cut across optimization, prediction, modeling, inference, transportation, and mapping. We are hiring motivated experts in each of these fields. Were looking for someone who is passionate about solving mathematical problems with data, and are excited about working in a fast-paced, innovative and collegial environment.
+You will report into a Science Manager.
+Responsibilities:
+
+Partner with Engineers, Product Managers, and Business Partners to frame problems, both mathematically and within the business context.
+Perform exploratory data analysis to gain a deeper understanding of the problem
+Construct and fit statistical, machine learning, or optimization models
+Write production modeling code; collaborate with Software Engineers to implement algorithms in production
+Design and run both simulated and live traffic experiments
+Analyze experimental and observational data; communicate findings; facilitate launch decisions
+
+Experience:
+
+M.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative fields
+4 years professional experience
+Passion for solving unstructured and non-standard mathematical problems
+End-to-end experience with data, including querying, aggregation, analysis, and visualization
+Proficiency with Python, or another interpreted programming language like R or Matlab
+Willingness to collaborate and communicate with others to solve a problem
+
+Benefits:
+
+Great medical, dental, and vision insurance options
+Mental health benefits
+Family building benefits
+In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
+401(k) plan to help save for your future
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Pre-tax commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunityaffirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.  
+This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.
+The expected range of pay for this position in the San Francisco area is 139,000 - 180,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+ 

@@ -1,0 +1,36 @@
+
+The Opportunity
+We are searching for a Front End Engineer who will be responsible for driving feature development and communicating with key stakeholders across the organization.  We hope that you will be able to advise and guide us on other platforms which result in better performance, infrastructure, and experience. 
+
+Your Impact
+
+Lead in the development of our web app where you will be responsible for designing and shaping our current web application to be a more responsive, mobile-first single-page app
+Write clean, maintainable, and reusable code that adheres to code standards
+Discover and fix bugs
+Test and evaluate the app for security and performance pitfalls
+Validate test for cross-browserplatformdevice compatibility
+Research solutions
+Participate in code standards and lead code reviews
+
+Were looking for someone who
+
+2 years of experience developing and architecting single-page web apps using a JavaScript frameworks, primarily Angular
+Experience building websites that adhere to mobile-first functionality
+Strong proficiency in writing clean, reusable, optimized HTMLCSS, Typescript and JavaScript
+Proficient with Angular 2
+Familiar with Linux. Experience with AWS environment is preferred.
+Familiar with HTTP protocol
+Experience with WebSockets is a plus
+Experience writing unit, integration, and UI tests and a strong ability to debug code that is reusable, testable and efficient.
+Passion to explore and use the latest development tools and platforms
+Bachelor degree in computer science or related fields
+
+
+About Otter.ai 
+We are in the business of shaping the future of work. Our mission is to make the future of communication more collaborative, accessible, and productive for all.
+We are growing fast, last year we recorded a total of over 150 million meeting minutes, announced a 50 million Series B and we were included in Business Insiders 10 AI startups that raised the biggest Series A and B list. In addition, Adam Cheyer the cofounder of Siri, Larry Heck the cofounder of Cortana and Greg Holmes, the first head of sales at Zoom, joined us as advisors.
+Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are dedicated to inclusivity.
+Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+Salary range
+Salary Range: 136,000 to 185,000 USD per year.
+ 

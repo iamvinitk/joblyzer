@@ -1,0 +1,28 @@
+CSQ424R75
+Mission
+As a Technical Curriculum Developer at Databricks, you will develop technical learning materials that follow curriculum development best practices. In this role, you will own the full learning content development lifecycle from the development of learning objectives and content design, through content launch and maintenance. The courses you will develop and maintain will focus on how to use the Databricks Lakehouse Platform for data engineering, machine learning, and data analysis workflows. As a member of Databricks Curriculum Development Team, youll work closely with global stakeholders, product managers and engineers, technical subject-matter-experts, and other technical curriculum developers to deliver high-impact learning content for both self-paced and instructor-led training.
+ 
+Outcomes
+
+Create and maintain multi-modal training content for Databricks customers using the latest versions of the Databricks Lakehouse Platform, Delta Lake, Python, and SQL
+Work with subject-matter-experts to research, scope, and design hands-on, learner-centric courses
+Provide guidance on solid instructional designcurriculum development principles. 
+Support instructors with adopting new materials and updates via creation of instructor guides and train the trainers
+
+SkillsExperience
+
+Able to learn new technologies quickly
+Strong analytical skills and data driven decision making
+Experience with Python software development lifecycle (Git, testing, modularization, etc.)
+Strong proficiency in SQL
+Experience with Databricks capabilities related to data engineering (Delta Lake, Apache Spark, Databricks Jobs, etc.)
+Understanding of topics related to big data engineering such as data streaming, pipeline optimization, deployment, and data security
+Familiarity with at least one common cloud provider (AWS, Azure, or Google Cloud)
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

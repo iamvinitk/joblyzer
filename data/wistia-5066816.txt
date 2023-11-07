@@ -1,0 +1,47 @@
+
+
+
+Wistia is looking for a Software Engineer to join our team! This role is a great opportunity to work closely with a thoughtful, creative and collaborative team working on exciting products that make business more human with video.
+Youll work on Wistias platform, teaching our customers how to get the most out of our video products, so they can create, manage and launch video and audio to their target audiences. As a product-led growth organization our goal is to give our customers the best in video marketing software and on this team you will engage with customers so they can be the best too.
+We will use data-driven experimentation to validate the best methods for engaging with our users so they can achieve their goals. This means developing our ability to determine how best to serve our customer needs. Youll work primarily in our modern tech stack with React, ES6, Typescript, GraphQL, and Ruby while building on our collection of platform services.
+Were a diverse and inclusive team composed of engineers, product managers and designers. Were technology-minded, but customer focused, always aiming to deliver the highest-impact features that prioritize the long-term success of the product.
+Key Responsibilities
+
+Collaborate to understand the needs of the customer and deliver a simple and easy-to-use solution. You work with other engineers and cross-functional partners, primarily with research, design and product. 
+Work comfortably across front-end and back-end development. We mainly use Ruby on  Rails and React, but we are always looking for the best option. We do not expect engineers coming in to know our particular frameworks, just that they have a desire to learn.
+Balance technical considerations with product and business thinking. You aim for the best outcome for the customer, not for perfection.
+
+Qualifications
+
+You know your fundamentals. Fads and frameworks come and go. Were less worried that you know the Next Hot Thing than that you feel comfortable with the underlying data structures, algorithms, languages, and protocols that make web applications work.
+You are excited to learn. We dont expect everyone to know everything, but we do expect you to be open to feedback and enthusiastic about trying new things. 
+You value a collaborative software development process. Whether through pair programming, a whiteboard session, or a casual lunch conversation, collaboration helps the best ideas and practices to proliferate.
+You write clean and understandable code. We write code for each other and for our future selves. Code that is clear and tested sets us up for speed, reliability, and a more enjoyable development experience.
+You value simplicity. Blaise Pascal once wrote, Im sorry I wrote you such a long letter; I didnt have time to write a short one. Making things simple and elegant is deceptively difficult, but its worth the effort because the result is easier to understand and work with.
+
+Nice-to-have
+
+You have experience with product-led growth. We want our users to understand and enjoy working with Wistia. Can you consider what customers need to know to make Wistia their first stop in video marketing?
+You make use of data-driven product experimentation. We need to be able to validate our work to ensure our users are making the most of our products. We can make better decisions by thoughtfully analyzing data.
+
+About Wistia
+We try to ensure Wistia is an inclusive and diverse place where everyone feels happy, fulfilled, respected, comfortable, and welcome. Were proud to be an equal opportunity workplace. We care a lot, so our benefits are actually benefits, not just the fun stuff like swag and snacks in the office (though we also have lots of those too!).
+Working at Wistia
+We try to ensure Wistia is an inclusive and diverse place where everyone feels happy, fulfilled, respected, comfortable, and welcome. Were proud to be an equal opportunity workplace. We care a lot, so our benefits are actually benefits, not just the fun stuff like swag and snacks in the office (though we also have lots of those too!).
+We know the biggest investment we can make is in our employees, so we provide:
+
+A competitive compensation package that includes internal equity stock options
+401k with 3 company contribution, regardless of whether you contribute
+Fully paid healthcare, dental, and vision insurance (family plans included)
+Pre-Tax FSA and Dependent Care Account
+Fitness reimbursement
+Flexible working hours  work at the times when you operate best, or set aside time for child andor elderly care responsibilities during traditional office hours
+16 weeks paid parental leave for all new and expecting parents
+Unlimited PTO (pretty common for people to take 4 weeks off throughout the year)
+Remote-first culture (work from anywhere in the U.S.)
+Annual professional development stipend (courses, conferences, and more)
+New hire bonus to enhance your home office set up
+Pet insurance discount
+
+LocationRemote Opportunities
+Wistia is a remote-first company. Employees can work from our beautiful office in Cambridge, MA, or anywhere in the continental US.

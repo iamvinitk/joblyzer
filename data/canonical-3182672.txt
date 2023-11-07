@@ -1,0 +1,38 @@
+Redefine the Linux experience in the embedded environments with the smallest, most secure, and updatable operating system in the IoT market. This is an opportunity for a senior software engineer passionate about open source software, Linux, security, and the developer experience. This challenging role demands a high degree of technical skill with low-level operating systems, kernel, and device firmware.
+Our mission is to allow everyone to build robust solutions in various fields including but not limited to IoT, automotive, and aviation using the next generation secure embedded Linux operating system in a simple solution. We define a reliable and secure set of device recovery mechanisms that enable device manufacturers to simplify and standardise the field operations for fleets of heterogeneous appliances. 
+As a senior team member, youll be designing and implementing software that runs on various CPU architectures, such as ARM, RISC-V, and X86.  You will work on boot mechanisms, bootloaders, storage partition layout, device trees, kernel, services, and userspace applications to manage the system via RESTful APIs.
+Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+What youll do
+
+Develop system daemons with REST APIs in Golang
+Integrate diverse bootloaders and maintain gadget snaps
+Collaborate proactively with a distributed team
+Write high quality code with unit tests to create new features
+Debug issues and produce high quality fixes
+Review code produced by other engineers
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel 2 to 4 times a year for internal and external events
+
+Who you are
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have experience with Golang, CC, and Shell
+You have a solid understanding of Linux and a modern GNULinux distribution, Debian or Ubuntu preferred
+You have experience or interest in low-level system and security facilities such as:
+
+Bootloaders in ARM and X86, such as piboot, uboot, grub-uefi
+Systemd and units, udev, initrd, graphics
+OS level firmware daemons and CLI applications
+Linux security implementations - TPM, FDE, LUKS, HSM, etc.
+
+You have experience with API design and development - RESTgRPC or similar
+You have personal or professional experience with Linux-capable devices such as Raspberry Pi
+
+What is Canonical?
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote
+stack

@@ -1,0 +1,32 @@
+With 1,000 employees, over 250M in sales, 1,500 clients, and rapid year-over-year growth, Recorded Future is the worlds most advanced, and largest, intelligence company!We are looking for a responsible Data Architect who will help us build internet inventory, robust APIs, and Data Services for security teams. The successful candidate will be responsible for designing and implementing complex data architectures that support our organizations business objectives. The Data Architect will be an expert in various data warehouse technologies and skilled in data schema design. Youll join a small team of highly skilled professionals, bring new knowledge, and have the opportunity to shape our culture.
+What Youll Do as Senior Data Architect 
+
+ Develop and maintain data architectures for our organizations data warehouse systems
+ Design and implement data schemas that support our organizations business requirements
+Analyze and optimize data structures and algorithms for efficient data processing and storage
+Collaborate with cross-functional teams, including software developers, data analysts,and project managers to design and implement effective data architectures
+Conduct research and keep up-to-date with the latest developments in data architecture and data warehouse technologies
+Provide technical guidance and support to other team members in matters related to data architecture and schema design
+Create and maintain documentation related to data architectures and data schema design
+
+What Youll Bring as a Senior Data Architect 
+
+ At least 5 years of experience as a Data Architect or a related role
+ Expertise in data warehouse technologies, including but not limited to Elasticsearch
+Experience in designing and implementing data schemas for large-scale data warehouses
+Proficiency in data modeling, data normalization, and data warehousing concepts
+ Familiarity with ETL processes and tools
+ Excellent communication and interpersonal skills
+ Ability to work independently and in a team environment
+ Strong analytical and problem-solving skills
+ Proficient in Scala specifically in the context of Apache Spark
+
+Nice To Have 
+
+Experience with Clickhouse, Elixir and Python 
+
+LI-Remote Why should you join Recorded Future?Recorded Future employees (or Futurists), represent over 40 nationalities and embody our core values of having high standards, practicing inclusion, and acting ethically. Our dedication to empowering clients with intelligence to disrupt adversaries has earned us a 4.8-star user rating from Gartner and 8 of the top 10 Fortune 100 companies as clients.
+Want more info? Blog  Podcast: Learn everything you want to know (and maybe some things youd rather not know) about the world of cyber threat intelligenceInstagram  Twitter: Whats happening at Recorded FutureThe Record: The Record is a cybersecurity news publication that explores the untold stories in this rapidly changing fieldTimeline: History of Recorded FutureRecognition: Check out our awards and announcements
+
+We are committed to maintaining an environment that attracts and retains talent from a diverse range of experiences, backgrounds and lifestyles.  By ensuring all feel included and respected for being unique and bringing their whole selves to work, Recorded Future is made a better place every day.If you need any accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to our recruiting team at careersrecordedfuture.com 
+Recorded Future is an equal opportunity and affirmative action employer and we encourage candidates from all backgrounds to apply. Recorded Future does not discriminate based on race, religion, color, national origin, gender including pregnancy, sexual orientation, gender identity, age, marital status, veteran status, disability or any other characteristic protected by law.Recorded Future will not discharge, discipline or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant.

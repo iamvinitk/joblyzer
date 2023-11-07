@@ -1,0 +1,43 @@
+Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. Thats where Chainalysis comes in. We provide complete knowledge of whats happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. Thats where Chainalysis comes in. We provide complete knowledge of whats happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.
+The GTM Systems team is responsible for the deployment, administration, maintenance and evolution of our Go-to-Market (GTM) tech stack. We work with internal operations stakeholders across Revenue, Finance, Sales, Marketing and Legal to ship trusted and reliable systems solutions that enable GTM activities across the customer lifecycle.  Our goal is to accelerate Chainalysis growth and empower our employees to do their best work. 
+Priorities in your first year include:
+
+Logging, tracking and triaging end-user inquiries and issues in a timely and efficient manner while escalating where necessary.
+Collaborating with Salesforce Administrators and stakeholders to test and validate Salesforce functionality and to ensure they meet established quality standards.
+Conducting testing and validation of Salesforce configurations, Flows, objects and records to identify and rectify any discrepancies.
+Developing and maintaining quality assurance procedures and documentation to ensure consistency and compliance with best practices.
+Maintaining SFDC environment configurations 
+Beginning to enhance and update Salesforce Flows and automations
+
+Responsibilities:
+
+Providing first-line support to Salesforce end-users
+Supporting the testing and validation of desired Salesforce functionality
+Partnering with Salesforce Administrators and colleagues across the Business Technology, Data and Analytics team
+
+Qualifications:
+
+You have experience working closely with GTM stakeholders to efficiently resolve Salesforce issues through meticulous attention to detail and a clear orientation towards delivering quality solutions.
+Youve worked as a Salesforce Admin for 1 years and have experience as a QA analyst.
+You have worked in a SaaS company and understand common Go-to-Market motions that include an emphasis on enterprise sales and related Sales, Marketing and Customer Success processes
+You are comfortable working in a Lightning environment, with an understanding of how to leverage its benefits and overcome its challenges.
+You have an in-depth understanding of the capabilities and constraints of  Sales Cloud architecture
+You are self-motivated, take initiative to fix problems when you see them, and seek out opportunities to grow professionally.  
+You have exceptional communication skills including the ability to take an independent stance when interfacing with cross-functional stakeholders, while maintaining their respect and confidence.
+Bonus if you are Salesforce Admin certified, or have CPQ experience
+
+Technologies we use (experience not required):
+
+Salesforce Sales Cloud
+Gearset
+Workato
+Jira
+GSuite
+
+ At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.
+You belong here. 
+At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways were ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Womens Day, Harvey Milk Day, World Humanitarian Day, and UN International Migrants Day, and a commitment to continue revisiting and reevaluating our diversity culture. 
+We encourage applicants across any race, ethnicity, gendergender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, dont hesitate to let us know. You can learn more here. We cant wait to meet you.  
+Applying from the EU? Please review our Chainalysis Applicant Privacy Policy.
+  
+By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment.  I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference.  I understand any future employment will be contingent on the Company receiving satisfactory employment references.

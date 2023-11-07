@@ -1,0 +1,33 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:Learning a semantic and geometric understanding of the world from visual data is the core of our autonomy system. We are pushing the boundaries of what is possible with real-time deep networks to accelerate progress in intelligent mobile robots. If you are excited about solving real world problems in computer vision and video processing such as optical flow estimation, depth estimation, object detectiontrackingsegmentation, semantic understanding and total scene understanding, while leveraging massive amounts of structured video data, we would love to hear from you.How youll make an impact:
+
+Design and implement deep learning solutions that solve real world computer vision problems such as optical flow estimation, depth estimation, object detection, tracking, segmentation in real-time on Skydio drones
+Curate and engineer the datasets (both synthetic and massive amounts of real data) that power our deep learning algorithms
+Refine and optimize models for low-latency on embedded hardware
+Characterize and quantify the performance of the DL systems
+Research and prototype new approaches
+Be a generalist helping out on all aspects of the software when needed
+
+What makes you a good fit:
+
+Demonstrated hands-on experience training and deploying deep learning models
+Experience with data engineering and ML Operations for reliable deployment of DL models
+Solid software engineering foundation and commitment to writing clean, well-architected code (in Python or C, preferably both)
+Real experience prototyping, training, optimizing, and deploying deep neural networks
+Ability to read and contextualize scientific papers and literature in computer vision
+Ability to thrive in a fast paced, collaborative, small team environment
+
+Experience:
+
+Masters Degree with a minimum of 2 years of industry experience or a Ph.D. in Electrical Engineering, Computer Science or related discipline 
+
+Compensation Range: 
+
+The annual base salary range for this position (spanning multiple experience levels) is 150,000 - 215,000.  Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.
+
+          For some positions the pay may be dependent upon the individuals regional location.
+ 
+LI-PG1
+ 
+ At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

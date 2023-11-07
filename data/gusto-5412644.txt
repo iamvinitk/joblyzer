@@ -1,0 +1,44 @@
+ 
+
+About Gusto
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. Thats why were committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. Were looking for talented and motivated Senior Salesforce Business Analyst with 5 years of experience. This candidate should be comfortable always asking why and challenging the status quo here at Gusto. The ideal candidate for this role is highly organized, an expert at translating functional requirements into technical solutions, and passionate about problem solving and building for the future. 
+The Senior Salesforce Business Analyst will be joining our BizTech BSA team and will partner closely with Gustos functional leadership teams to continue to scale Gustos Salesforce instance. This individual will be responsible for ensuring our business partners requirements are translated into technical requirements. The ideal candidate will analyze data to help Gusto determine how best we can continue to scale our Salesforce instance in the future to improve our customer experience with our Gusto Team. 
+Heres what youll do day-to-day:
+
+Drive system improvements by ensuring effective requirements elicitation, configuration, administration, development, and application support for our Salesforce platform
+Manage projects and partner closely with members of the cross-functional teams to roll out new systems or reduce inefficiencies in our current processes
+
+
+Manage integrated applications and third party suppliers including NICE CXOne, Qualtrics, Chili Piper, Outreach, RingLead, Catalyst and more.
+
+
+Be a technology strategist, partnering with stakeholders and taking ownership of the roadmap and products they use to reduce inefficiencies and support Gusto as we scale.
+Build and maintain effective Gustie experiences using Salesforce Service and Sales Clouds.
+Be accountable for the vision, strategy, and roadmap for our lead-to-cash capabilities.
+Own the communication of any platform changes to end users and stakeholders
+Conduct proactive system maintenance including Security Reviews, Release Updates, Health Check, and Optimizer
+
+Heres what were looking for:
+
+5 years of experience as a business analyst supporting Revenue organizations.  Bonus points for Revenue-generating experience.
+4 years of experience with strategic ownership of a Salesforce platform including vision, roadmap, and work prioritization
+Comprehensive Salesforce product knowledge and hands-on administration experience with Sales cloud.
+Experience designing and supporting large scale, technically complex solutions on Salesforce
+Certified Salesforce Administrator
+A desire to implement best practice solutions
+Strong communication skills and experience collaborating across many different operating teams
+
+Learn more about the team:
+
+Our Engineering Culture and Values
+How We Built a Service-Driven Team
+Our Diversity Goals and Efforts
+
+Our cash compensation amount for this role is targeted at 114,000-147,000 in Denver  most remote locations, and 132,000-162,000 for San Francisco  New York. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gustos subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas. 
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. 
+Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodationsgusto.com.

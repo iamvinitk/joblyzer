@@ -1,0 +1,36 @@
+As a Microservices Cloud Developer, youll play a pivotal role in designing, developing, deploying, and maintaining scalable and resilient microservices-based applications on cloud platforms, with the goal of making an impact across the federal government. You will collaborate closely with cross-functional teams to deliver innovative solutions that drive our products success.
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Design and implement microservices architecture using best practices and patterns to create modular, loosely coupled, and independently deployable services.
+Develop, deploy, and manage microservices on cloud platforms like AWS, Azure, or Google Cloud, leveraging cloud-native services and technologies.
+Write clean, efficient, and maintainable code for microservices using languages such as Java, Python, Go, or Node.js.
+Design and develop robust and well-documented APIs to facilitate communication between microservices and other components of the system.
+Utilize containerization technologies (Docker) and orchestration tools (Kubernetes) to ensure scalability, high availability, and resilience of microservices.
+Implement automated build, test, and deployment pipelines to enable rapid and reliable delivery of microservices.
+Implement monitoring, alerting, and logging solutions to proactively identify and address issues in microservices applications.
+Integrate security best practices into microservices development, including authentication, authorization, and data protection.
+Work closely with cross-functional Agile teams, including Product Managers, UXUI Designers, and QA Engineers, to understand requirements and deliver high-quality features.
+Embrace Agile and Scrum methodologies, participating in sprint planning, daily standups, and retrospectives to drive continuous improvement.
+
+What youll need to succeed: 
+
+Minimum of 8 years of hands-on experience in designing, developing, and deploying microservices applications on cloud platforms.
+Strong expertise in one or more major cloud platforms (e.g., AWS, Azure, Google Cloud) and proficiency in at least one programming language commonly used for microservices development (e.g., Java, Python, Go, Node.js).
+Experience with Docker and Kubernetes for containerization and orchestration of microservices.
+Familiarity with CICD pipelines and tools (e.g., Jenkins, GitLab CICD, Travis CI), along with a solid understanding of API design principles and best practices, along with previous experience working in Agile development environments.
+Strong analytical and problem-solving skills to troubleshoot issues and devise innovative solutions.
+Excellent written and verbal communication skills to collaborate effectively with team members and stakeholders.
+Experience with microservices communication frameworks (e.g., gRPC, REST, GraphQL). and familiarity with serverless computing and event-driven architecture.
+Knowledge of infrastructure-as-code tools (e.g., Terraform, CloudFormation) and exposure to DevOps practices and tools.
+An active TSSCI clearance with CI poly preferred; Active TSSCI with the ability to pass a CI poly.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

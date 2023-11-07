@@ -1,0 +1,61 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Systems Integration and Test team is focused on early stage product development, systems integration, and test programs. Every team member is exposed to a wide variety of problems and can quickly architect, develop, and prototype novel product ideas to test market feasibility. On this team, you will work closely with customers to achieve their end goals while helping develop company infrastructure to improve project outputs as we continue to grow.
+Job Overview:
+As a Systems IntegrationTest Engineering Intern, you will gain a range of hands-on test engineering experience by going through a range of test campaigns for engineering hardware in order to produce impactful results for our team and customers! During a day on the job, you can find yourself operating equipment from thermal chambers to test prototype flight hardware, testing unique electronics to verify performance, or working with our engineers to create custom equipment. 
+What You Will Do:
+
+Report to a mentor who will be responsible for feedback and learning— mentors will also assign tasks and projects to work closely with the teams
+Execute test procedures, troubleshooting, and documentation of result
+Work with data acquisition systems and control systems to continually improve in-test data recording and usability of the systems
+Gain exposure to designing, assembling, and testing custom hardwareelectrical systems for our customers
+Generate and use test systems and procedures while operating hardware under environmental tests
+Write automation and interface software in Python for testing, troubleshooting, and production checkouts
+Execute test procedures, troubleshooting, and documentation of result
+
+What You Will Need:
+
+Current enrollment in college or Bachelors Degree (Electrical Engineering, Mechanical Engineering, Computer Science, Physics, Industrial Engineering, Math, or related field)
+Programming skills with an object-oriented programming language (e.g., Python, C, Java) and experience generating maintainable code for applications that interface with test equipment
+Basic knowledge of physics with respect to electricity, magnetism, and electronic circuits
+Curiosity and passion about electrical engineering and technology with the ability to learn and take instruction
+Excellent attention to detail, with care and consideration when handling test equipment or hardware
+
+What Would Be Useful:
+
+Experience in a team-based design and build project (e.g., Formula SAE, Solar Car, CubeSat, etc.)
+Familiarity with Python andor MATLAB for data parsing and data visualization
+Exposure to automated test systems and test equipment; experience with datalogging, and data processing software
+Experience with control system logic and interfacing with test equipment and hardware
+Familiarity with aerospace environmental testing, such as thermal cycling, vibration, shock, thermal vacuum, and EMIEMC
+Experience with continuous testing or related high-reliability software development strategies
+Experience with Linux operating systems
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 66,400-66,900 per year on a salary basis 
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Paid holidays and sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Housing stipend available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

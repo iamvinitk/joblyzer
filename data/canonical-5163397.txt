@@ -1,0 +1,75 @@
+This is a general selection process for all seniority levels, to join teams that focus on open source networking software at Canonical. Apply here if you are an outstanding software engineer, passionate about networking at any level - from the Linux kernel IP or eBPF and bridge constructs, to overlay SDN networking like OVS and OVN, to router, switch and radio access technologies such as SoNIC, FRR and DENT, all the way up to telco MANO and 5G Core solutions.
+We work with networking silicon providers to optimise Ubuntu and related applications for their ASICs, boards and appliances. We aim to provide a complete open source stack for data centre networking, from bare metal through virt, container and serverless, and also to address IoT networking systematically.
+If you have a passion for networking technologies, deep familiarity with Linux networking and awareness of open source community best practices, then you will enjoy our software-defined networking role at Canonical. We look for excellent academic results and a commitment to quality, resilience, documentation and performance in your work.
+At Canonical you will have the opportunity to engage with the broader open-source community and industry leading partners in developing future-proof networking solutions. Were looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and contribute to the deployment of Ubuntu, Ubuntu Core, OpenStack, LXD, MAAS and MicroK8s across a broad range of devices and use cases. 
+These roles include:
+
+Kernel Networking Software Engineer
+OVN Software Engineer
+SmartNIC Software Engineer
+Top-of-Rack (ToR) Software Engineer
+SoNIC or DENT Software Engineer
+Telco Software Engineer
+Kubernetes Software Engineer
+
+Location: we have networking software engineering roles in every time zone
+What your day will look like
+
+Work with the most advanced operating systems and network application technologies available
+Collaborate with public clouds and network silicon providers
+Design and implement the best software-defined networking experience for the latest hardware platforms and software stacks
+Write high-quality, well-designed and well-documented software
+Contribute to shape innovative product strategies 
+Debug issues and produce high-quality code to fix them
+Collaborate proactively with a globally distributed organisation
+Contribute to technical documentation to make it the best of its kind
+Display technical leadership internally, towards our partners, and in the open source communities
+Influence open-source projects and communities
+Shape software-define networking products for evolving data centre architectures to meet ever-increasing bandwidth, reliability, security, and interoperability demands
+Work from home, with global travel twice a year for company events of up to two weeks duration
+
+What we are looking for in you
+
+An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Knowledge of networking: architecture, design, and protocols
+Deep understanding of Linux networking, from kernel to user space
+Fluency in at least one of Golang, CC, Rust or Python
+Professional written and spoken English 
+Experience with Linux (Debian or Ubuntu preferred) 
+Excellent interpersonal skills, curiosity, flexibility, and accountability 
+Passion, thoughtfulness, and self-motivation 
+Excellent communication and presentation skills 
+Result-oriented, with a personal drive to meet commitments 
+Ability to travel twice a year, for company events up to two weeks each
+
+Additional skills that you might also bring
+
+Familiarity with existing open source networking technologies - kernel (including eBPF, AF_XDP), OVS, OVN, SoNIC, DENT, Switchdev, DPDK, SPDK, 5G 3GPP, ONF stack, iwd, NetworkManager, etc.
+Familiarity with data path hardware acceleration protocols and interfaces, such as RDMA, RoCE, iWARP, NVMe, SR-IOV
+Computer architecture knowledge of x86, ARM, and RISC-V
+Experience in complex IP network engineering and implementation
+Experience with virtualization technologies, e.g., QEMU, KVM, etc.
+Previous contribution to open source projects and community involvement
+Familiarity with Kubernetes, Cloud-native Network Functions, and Container Network Interface plugins
+Performance engineering and security experience
+
+What we offer you
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote

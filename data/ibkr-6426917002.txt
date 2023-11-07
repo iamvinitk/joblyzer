@@ -1,0 +1,46 @@
+Interactive Brokers Group is at the forefront of trading innovation, starting with the invention of the first floor-based, handheld computer in 1983. We pride ourselves on being primarily a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features, all to help minimize our clients costs. Software development is the lifeblood of our firm and it shows in our award-winning desktop, mobile and web applications that provide our clients with the tools they need to be successful. For five consecutive years, Interactive Brokers Group, Inc. (IBKR) has been rated 1 - Best Online Broker by Barrons. (read article)
+About the Team
+Our Data Operations team is looking for a Data Governance Operations Analyst. The analyst assists the data organization with installing, maintaining and supporting the data governance tool suite. In addition, this position helps with implementing an enterprise data governance program. 
+We are looking for someone who will:
+
+Work with technology partners to gather and understand application, lineage and reporting data requirements.
+Help install and maintain data governance tools and infrastructure.
+Lead the initial use of these tools.
+Document procedures and troubleshooting techniques.
+Assist with onboarding and supporting users in the use of these tools.
+Work with the data quality team to design and implement data quality reporting dashboards.
+
+You will need to have:
+
+Bachelors degree in Information science, Data Management, Computer Science or a related field.
+Strong Linux knowledge with some administration experience preferred
+Strong SQL background, able to create efficient queries
+Python programming to automate tools that provide a REST API
+Preferred prior experience in data management and governance, including working with at least one industry-standard data governance tool (data catalog, data lineage, data quality)
+Familiar with working in a DevOps-driven environment utilizing Git
+Preferred One years of cloud experience (AWS)
+Experience with container orchestration technologies (Kubernetes preferred)
+Experience with relational databases (Oracle, MySQL) and JDBC connection URLs
+Strong analytical and technical skills to troubleshoot issues, analyze the cause, quickly develop the possible solution(s), document the changes, and communicate the change to the organization.
+
+Qualities wed love to see:
+
+Good analytical and problem-solving skills.
+Excellent collaboration and communication (verbal and written) skills.
+Good organizational and time management skills.
+
+Company Benefits  Perks
+
+Competitive salary, annual performance-based bonus and stock grant
+Retirement plan 401(k) with a competitive company match
+Excellent health and welfare benefits, including medical, dental, and vision benefits
+Wellness screenings and assessments, health coaches and counseling services through an Employee Assistance Program (EAP)
+Paid time off and a generous parental leave policy
+Daily company lunch allowance provided and a fully stocked kitchen with healthy options for breakfast and snack
+Corporate events, including team outings, dinners, volunteer activities and company sports teams
+Education reimbursement and learning opportunities
+Modern offices with multi-monitor setups.
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

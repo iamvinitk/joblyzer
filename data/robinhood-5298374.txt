@@ -1,0 +1,49 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role
+We are looking for someone who can work out of the Westlake, Texas office and travel to our other office locations when needed.
+Were looking for a Support Engineer to join our Technology Support Delivery team to support Robinhoods continued growth and our Robinhoodies across multiple offices. You will work closely with Hoodies across the whole company. The ideal candidate is an excellent communicator and fast learner looking for a supportive environment to grow their IT skills.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Act as the first point of contact to resolve and assist Robinhood employees with technical issues including software and hardware, mainly macOS platform.
+You will work in the local office on most days.
+Support Enterprise software and applications as it relates to the team and provide supportresolution for Level 1 issues in a wide variety of services. Advance high priority problems or outages to other internal teams for immediate resolution.
+Own the follow through, communication and updates throughout.
+Work with Robinhood employees to fix various infrastructure on-site, remote connectivity and access issues (WiFi, Zscaler, VoIP, etc.)
+Carry out onboarding and offboarding tasks, including hardware setup, access management, asset management, and develop process improvements
+Participate in Release and Change Management as new solutions are deployed to the employee community. Explain the benefits, provide education, and solve issues.
+We will help roll out new security releases and resolve software and hardware-related compatibility problems
+Continuous improvement around processes and employee happiness. Identify trends, patterns supporting the Trading team and find opportunities for positive change.
+Use insights gained through direct support and data analysis to improve user journeys and prioritize solutions.
+
+What you bring
+
+Previous enterprise technical support experience: Google Workspace, Okta, Slack, etc.
+Excellent customer service and troubleshooting abilities in in-person and remote-working environment
+Comfortable problem solving with multiple operating systems, mainly macOS (iOS, Android, Linux, Windows) preferably in an enterprise environment
+Previous experience with MDM solutions
+Ability to administer and solve: VPNs, password managers, two-factor authentication, single sign-on and security protocols
+
+Bonus points:
+
+Experience partnering with various corp and customer experience teams
+Apple Certification (ACIT, ACMT, ACSP, etc.)
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more! 
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan.
+US Zone 1: 42.5 - 50 per hourUS Zone 2: 37.4 - 44 per hourUS Zone 3: 33.15 - 39 per hourBase pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

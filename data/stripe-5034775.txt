@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Payouts team provides our users with the ability to access their money wherever and in whatever form they need to go about their business. This involves designing and building fullstack, delightful payouts experiences; elegantly handling the complexities of individual markets quirks and regulation. 
+What youll do
+Backend Engineers at Stripe are comfortable working on new products under fluid conditions, seamlessly balancing tactical and strategic considerations. 
+Responsibilities
+
+Scope and lead technical projects, laying the groundwork for our products to iteratively evolve and scale
+Design, build, expand and maintain APIs and services
+Support our users and keep our systems reliable and performant
+Align our technical decisions with Stripes broad strategic initiatives, while also advocating for needs specific to emerging new businesses
+Work with engineers across the company to understand when existing infrastructure can be leveraged vs. when building a bespoke solution is prudent
+Develop and execute against both short and long-term roadmaps. Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation
+Produce high level internal and external documentation
+Collaborate, mentor and provide support to other team members
+
+Who you are
+Were looking for software engineers with experience building APIs and scalable distributed systems in service based architecture.
+Minimum requirements
+
+Have a strong technical background, with 3 years of professional software engineering experience building backend services and APIs
+A passion for API design and amazing product experiences
+Experience building and operating highly reliable services
+Work well cross-functionally and earn trust from co-workers at all levels
+Hold yourself and others to a high bar when working with production systems
+Take pride ownership and driving projects to business impact
+Solve problems autonomously; ability to research a technical or product domain and apply your knowledge when designing and scoping projects
+
+Pay and Benefits
+The annual salary range for this role in the primary location is CAD 130,100 - CAD 176,000. This range may change if you are hired in another location. For sales roles, the range provided is the roles On Target Earnings (OTE) range, meaning that the range includes both the sales commissionssales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidates experience, qualifications, and specific location. Applicants interested in this role and who are not located in the primary location may request the annual salary range for their location during the interview process. Specific benefits and details about what compensation is included in the salary range listed above will vary depending on the applicants location and can be discussed in more detail during the interview process. Benefitsadditional compensation for this role may include: equity, company bonus or sales commissionsbonuses; retirement plans; health benefits; and wellness stipends.

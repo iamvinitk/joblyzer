@@ -1,0 +1,65 @@
+Over the past 15 years, we have seen a shift in the focus of business models across every industry  from selling physical products via one-time transactions to monetizing services via ongoing customer (aka subscriber) relationships. This is the Subscription Economy a phrase coined by our CEO, Tien Tzuo, he even wrote the book on it: Subscribed.
+Companies have realized that the path to growth going forward is to establish direct, digital relationships with their customers, and monetize these relationships through an ever growing set of digital services. 
+Our vision is simple: we call it The World Subscribed. Its the idea that one day every company will join the Subscription Economy -- a 1.5 Trillion opportunity by 2025 according to UBS.
+Our mission: to power the worlds best companies to win in the Subscription Economy.
+Zuora Company 
+Newly acquired by Zuora, Zephrs platform powers nearly eight billion requests a month and dynamic, personalized subscriber experiences. When combined with data from Zuoras Billing, Collect, and Revenue systems  the resulting solution will empower companies across industries, especially media, to nurture and monetize their subscriber relationships by better understanding their behaviors, experimenting with the right digital offerings, and optimizing their digital experiences.
+The Team  Role
+The Digital Experience and Security (DES) team focuses on the entire engagement lifecycle from Zuora prospect to Zuora customer. We build foundational frameworks aimed at providing our customers with a consistent, frictionless and ultimately delightful journey throughout their entire interaction with Zuora. 
+Functional areas of responsibility include Authentication and Data Access Control, Tenant Management (Tenant Lifecycle, Features and Entitlements, Configuration Management), Test Environments, and general Self Service capabilities.
+As a Software Engineer, you will be working with a group of talented engineers within Zuoras greater platform organization, on building the foundational infrastructure and functionality that facilitates the entire customer interactions lifecycle with Zuora (Digital Experience).
+This includes, but is not limited to, authentication systems, audit trails, internal data intensive workflows, tenant management and self service initiatives.
+Our services are built using a modern cloud-based tech stack and run on AWS.
+Job Summary:
+As a Full Stack Engineer on our AI Platform Engineering Team, you will play a critical role in designing, developing, and maintaining the robust and scalable infrastructure that underpins our AI applications. You will collaborate with cross-functional teams of data scientists, machine learning engineers, and software developers to create seamless AI-powered solutions that drive business success.
+Key Responsibilities:
+
+Front-end and Back-end Development: Design, develop, and maintain both the front-end and back-end components of our AI platform, ensuring a smooth and user-friendly experience.
+User Interface (UI) Development: Create responsive and visually appealing user interfaces that provide an intuitive interaction with AI-powered features.
+API Development: Build and optimize RESTful APIs to facilitate data exchange between various components of our AI platform.
+Database Management: Develop and maintain databases, ensuring data integrity, security, and performance.
+Integration: Collaborate with data scientists and machine learning engineers to integrate AI models and algorithms into the platform.
+Performance Optimization: Identify bottlenecks and optimize the platform for scalability, speed, and efficiency.
+Testing and Debugging: Conduct thorough testing, debugging, and troubleshooting to ensure the reliability and stability of the AI platform.
+Documentation: Create and maintain comprehensive documentation for code, APIs, and platform architecture.
+Security: Implement security best practices to safeguard data and user interactions.
+Collaboration: Work closely with cross-functional teams to understand requirements, provide technical insights, and deliver solutions that align with business goals.
+Continuous Learning: Stay updated with the latest trends and technologies in AI, machine learning, and full stack development to bring innovative ideas to the team.
+
+Qualifications:
+
+Experience - 3 to 12 yrs
+Bachelors or Masters degree in Computer Science, Software Engineering, or a related field.
+Proven experience as a Full Stack Engineer, with a strong portfolio showcasing web development projects.
+Proficiency in front-end technologies (e.g., HTML5, CSS3, JavaScript, React, or Angular).
+Strong back-end development skills (e.g., Python, Node.js, Ruby, or Java).
+Experience with database management (SQL and NoSQL databases).
+Familiarity with RESTful API design and implementation.
+Knowledge of version control systems (e.g., Git) and DevOps practices.
+Problem-solving mindset and ability to work in a collaborative team environment.
+Excellent communication and documentation skills.
+Experience with AI or machine learning projects is a plus.
+
+Benefits
+
+Competitive compensation, company equity, and retirement programs
+Medicalinsurance
+Paid holidays and wellness days and company wide winter break
+Generous, flexible time off 
+6 months fully paid parental leave
+Learning  Development stipend
+Opportunities to volunteer and give back, including charitable donation match
+Free resources and support for your mental wellbeing  
+
+Specific benefits offerings may vary by country 
+About Zuora 
+As the Subscription Economy leader, Zuora empowers todays innovative companies to nurture and monetize direct, digital relationships. Our award-winning multi-product portfolio now includes Zuora Revenue, Zuora Collect and Zuora Central Platform. More recently, weve added subscription experience platform Zephr to our family, further expanding our capabilities to serve as an intelligent hub that monetizes the complete quote to cash and revenue recognition process at scale.
+Through our combination of technology and expertise, Zuora (NYSE: ZUO) helps more than 1,000 companies around the world, including BMC Software, Box, Caterpillar, General Motors, Penske Media Corporation, Schneider Electric, Siemens and Zoom nurture and monetize direct, digital customer relationships. Headquartered in Silicon Valley, Zuora operates offices around the world in the U.S., EMEA, APAC and LATAM.
+ZEO Culture
+At Zuora, were building an inclusive, high-performance culture that every ZEO wants to subscribe to. We want ZEOs at every level to feel valued, included, and inspired to innovate, connect and collaborate authentically as we pioneer the Subscription Economy. Youll be empowered to think like an owner, take initiative and together, with the support of your team youll push each other to the next level and help transform business models everywhere.
+To learn more visit www.zuora.com
+Zuora is proud to be an Equal Employment Opportunity Employer.
+Think, be and do you! At Zuora, different perspectives, experiences and contributions matter. Everyone counts. Zuora is proud to be an Equal Opportunity Employer committed to creating an inclusive environment for all.
+Zuora does not discriminate on the basis of, and considers individuals seeking employment with Zuora without regards to, race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)zuora.com.
+ 

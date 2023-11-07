@@ -1,0 +1,46 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+OPERATIONS ENGINEER, LAUNCH STRATEGY (STARSHIP)
+The Starship Launch Strategy team supports launch operations through strategic planning, optimization of processes, and alignment of resources to tasks. In this role, you will lead cross-functional and multi-disciplinary teams to optimize production, test, launch, and recovery operations in a fast-paced environment. An opportunity for emerging leaders who can join teams and apply principles of operations engineering, operations research, industrial engineering, and data analytics to complex optimization and simulation problems. We are searching for qualified engineers who can conduct complex problem analysis, and steer and execute on strategic decisions within production.
+RESPONSIBILITIES:
+
+Manage Starship launch manifest; identify and attack launch engineering rate blockers
+Analyze shortlong term risks and trends to inform the launch manifest, define critical path, and drive upstream production targets
+Engage with teams across the company to implement hardware system changes, process improvements, and automation as needed to improve schedule, cost, efficiency, and ultimately safety
+Work closely with leaders across vehicle, pad, and software engineering teams to develop lowest-cost-to-orbit operations
+Project manage cross-departmental initiatives in launch, production, supply chain, engineering, operations, finance, mission management, sales, and Starlink
+Collaborate with executive staff on program level view of Starship launch manifest
+Get hands on, lead by example to get projects completed rapidly
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in an engineering discipline or mathematicsphysics
+1 years of technical hands-on project experience
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Proficiency in data analytics and automation; to include SQL, Power BI, PythonR, and Excel for analysis or modeling dynamic systems
+Proficiency with statistics, data analysis, costbenefit analysis, and visualization
+Project management experience in high consequencelow margin engineering systems
+Experience with CAD software and discrete event modeling tools
+Experience with inventory, production, and capacity planning (including MRPERP systems)
+Experience as an industrial, operations, process or manufacturing engineer in a developmental environment
+Demonstrated ability to work in fast-paced, high stress environments
+Demonstrated ability in drafting executive communications
+
+ ADDITIONAL REQUIREMENTS:
+
+This position is based in Starbase, TX (Brownsville, TX) and requires being onsite - remote work not considered
+Must be able to work extended hours andor weekends as needed to meet major milestones
+Must be able to travel - up to 10 work week travel may be required to other sites
+
+COMPENSATION AND BENEFITS:
+Pay range: 
+Operations EngineerLevel I: 95,000.00 - 115,000.00per year
+Operations EngineerLevel II: 110,000.00 - 130,000.00per year
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short  long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation  will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

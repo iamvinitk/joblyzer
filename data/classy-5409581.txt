@@ -1,0 +1,50 @@
+Classy, an affiliate of GoFundMe, is a Public Benefit Corporation and giving platform that enables nonprofits to connect supporters with the causes they care about. Classys platform provides powerful and intuitive fundraising tools to convert and retain donors. Since 2011, Classy has helped nonprofits mobilize and empower the world for good by helping them raise over 5 billion. Classy also hosts the Collaborative conference and the Classy Awards to spotlight the innovative work nonprofits are implementing around the globe. For more information, visit www.classy.org.
+About the role:
+The Classy Live Technical Support Engineer role investigates, triages, and documents technical issues in production. This role writes tickets, coordinates important bugs with PMs and devs, and escalates cases for additional troubleshooting. This role also supports the Classy Live Customer Care organization, providing them technical training and education on developments within the Classy Live Pod. This role requires effective queue management, clear communication, collaboration with internal Classy teams and customers, and the ability to autonomously operate in an on demand environment!
+What youll accomplish:
+
+Write basic tickets describing the issue, expected results, and steps to reproduce in production.
+Able to add basic technical details like APIv2 values, links to errors in Bugsnag, and screenshots of errors in the Dev console.
+Communicates with the PM on the most important tickets to prioritize.
+Responsible for the initial investigation of TS case escalations and queue management.
+Supports Generalists and wider Customer Care Org on a day-to-day basisimmediate need.
+Provides education and growth assistance to the Classy Live Care team
+Communicate new features and updates on bugs to Classy Live Care Team
+Provide feedback on process improvements across the Classy Live Care Team and Classy Live Pod
+Occasionally provide feedback on new features and betas
+Build documentation for new features and team processes
+
+What you bring (Required):
+
+Technical knowledge of software applications, troubleshooting, and basic programming
+Strong written and verbal communication skills
+Customer service experience
+Time management skills and ability to run multiple priorities
+Teamwork and collaboration skills
+Ability to work in a fast paced, on demand environment within the event space 
+
+Why youll love it here: 
+
+Market competitive pay
+Rich healthcare benefits including employer paid premiums for medicaldentalvision (100 for employee only plans and 85 for employee  dependent plans) and employer HSA contributions. 
+401(k) retirement plan with company matching
+Hybrid workplace with fully remote flexibility for many roles
+Monetary support for new hire setup, hybrid work  wellbeing, family planning, and commuting expenses
+A variety of mental and wellness programs to support employees   
+Generous paid parental leave and family planning stipend
+Supportive time off policies including vacation, sickmental health days, volunteer days, company holidays, and a floating holiday
+Learning  development and recognition programs
+Gives Back Program where employees can nominate a fundraiser every month  for a donation from the company
+Inclusion, diversity, equity, and belonging are vital to our priorities and we continue to evolve our strategy to ensure DEI is embedded in all processes and programs at GoFundMe. Our Diversity, Equity, and Inclusion team is always finding new ways for our company to uphold and represent the experiences of all of the people in our organization.
+Employee resource groups
+Your work has a real purpose and will help change lives on a global scale.
+Youll be a part of a fun, supportive team that works hard and celebrates accomplishments together. 
+We live by our core values: consider everything, do the right thing, spread empathy, delight the customer, and give back.
+We are a certified Great Place to Work, are growing fast and have incredible opportunities ahead!
+Our commitment to Sustainability. Classy exists to create a more inclusive and sustainable world for all. 
+
+Dedication to Diversity 
+Classy is working toward building a more diverse and inclusive environment that is representative of individuals of all backgrounds, experiences, and lifestyles, allowing all employees to feel comfortable being their true, authentic selves in a space that enables productivity and meaningful work.
+The total annual salary for this full-time position is 85,000-115,000  equity  benefits. As this is a remote position, the salary range was determined by role, level, and possible location across the US. Individual pay is determined by work location and additional factors including job-related skills, experience, and relevant education or training.
+Your recruiter can share more about the specific salary range based on your location during the hiring process. 
+If you require a reasonable accommodation to complete a job application or a job interview or to otherwise participate in the hiring process, please contact us at accommodationrequestsgofundme.com.

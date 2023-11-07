@@ -1,0 +1,44 @@
+Were revolutionizing the fitness  wellness industry, and were looking for talented people to help us do it. Mindbody  ClassPass bring together the best of both sides of the market: Mindbody is the industrys most trusted all-in-one technology platform; ClassPass is one of the most popular apps for fitness  self-care enthusiasts. Together were partnering with more than 70,000 fitness studios, gyms, salons, and spas around the world. Were not just another tech company—were far and away the leader of our industry. So join the team, work with mission-led people, and enjoy amazing benefits. Lets see what we can accomplish together! About the role
+The Senior Principal Software Engineer designs, develops, troubleshoots and debugs software applications for our core product. This includes developing software components including Frameworks, APIs, Websites, Utilities, Databases and Internet-related tools.
+Skills  experience
+
+12 years engineering experience.
+5 years of industry experience in programming web applications, mobile andor large-scale enterprise products.
+Deep knowledge of the Microsoft Development Stack: C, ASP, .NET, .NET Core, MVC, ADOADO.NET, LINQ, REACT, Ruby
+Experience with NoSQL databases.
+Experience in Visual Studio.
+Familiar with AWS services including EKS, EC2, Elastic cache, Non RDBMS , SNS, SQS.
+Familiar with SDLC and programming design patterns.
+Familiar with Agile methodology.
+Familiar with DevOps principles.
+Skilful at reviewing new feature impact on an application and recognizing potential risks.
+Skilled at analysing performance in a service.
+Uses time effectively and efficiently.
+Quickly learns new technologies.
+Capable of forming new software teams.
+Detailed oriented, professional and possesses a positive work attitude.
+Communicate professionally both verbally and in writing.
+Bachelors Degree in Computer Science or equivalent.
+
+Principal duties  responsibilities
+
+Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes, investigating problem areas, following the software development lifecycle.
+Conducts systems analysis and makes recommendations to improve the system to achieve an outcome.
+Identifies opportunities for improving system reliability, security, and stability then working with product owners to prepare backlog items for the team.
+Promotes internal best practices and coding conventions to write and execute tests for your own code, including creating comprehensive unit tests.
+Contributes to technical documentation.
+Implements best practices based on companywide policies and standards.
+Occasional on-call rotation duty to respond to after-hours system incidents.
+Requests constructive feedback for designs early in the process.
+Communicates successfully with large teams and many personalities.
+Provides mentorship for Software Engineers and participates in interview panels to hire new Software Engineers.
+Assists in removing obstacles for the team to yield successful releases.
+Performs peer code reviews to ensure quality of the codebase.
+Ability to guid and delegate work to junior engineers.
+Updates job knowledge by studying state-of-the-art development tools, programming techniques and computing equipment; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.
+Works effectively with multiple projects and departments.
+All other duties as assigned.
+Have we piqued your curiosity?
+Sound like the role for you? Wed love to hear from you! Even if youre not 100 sure about potential fit, we still encourage you to apply. Were looking for the right person, not the perfect series of checkboxes.
+Mindbody is an Equal Opportunity Employer. We highly value diversity at our company and encourage people of all different backgrounds, experiences, abilities and perspectives to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other protected characteristics.
+California Applicants Privacy Notice  UKEU Applicants Privacy Notice

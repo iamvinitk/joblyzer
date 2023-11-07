@@ -1,0 +1,28 @@
+This is an exciting opportunity for a software engineer passionate about open source software, Linux, Python, and web services at scale. We are building the next generation management solution for Ubuntu in the enterprise - on premise and on the public cloud - to enable large estate observability, telemetry, security, compliance and operations. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+Landscape is the leading management tool to deploy, monitor and manage fleets of Ubuntu systems, including package and repository management, health and security monitoring, hardware inventory, and automation. As Landscape software engineer you will be responsible for contributing on a distributed development team participating in all facets of the development process. 
+What youll do
+
+Collaborate proactively with a distributed team
+Write high-quality code to create new features, fix bugs and modernize the Landscape codebase
+Demonstrate your strong commitment to code quality and automated testing
+Participate in the engineering process with code and architectural reviews
+Take personal ownership of problems and design and deliver solutions
+Work remotely with global travel 2 to 4 weeks for internal and external events
+Assist with release management during each development cycle
+Collaborate with devops for Landscape SaaS, Canonicals hosted Landscape
+
+Who you are
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have proficiency developing public-facing APIs and web applications, preferably using Python.
+Experience with Python and web frameworks such as Flask and Django.
+Experience with databases, and ORMs (PostgreSQL a plus)
+You are comfortable with Ubuntu as a development and deployment platform.
+
+Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.
+ 
+LI-remote
+stack

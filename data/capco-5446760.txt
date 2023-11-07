@@ -1,0 +1,49 @@
+Rejoindre Capco, cest rejoindre une organisation qui sengage  offrir un environnement de travail inclusif o vous tes encourag  BeYourselftAtWork. Nous clbrons lindividualit et reconnaissons que la diversit et linclusion, sous toutes leurs formes, sont essentielles  la russite. 
+Nous pensons que chacun apporte quelque chose de diffrent lors dun projet - nous aimerions donc savoir ce qui vous rend diffrent. 
+A propos de Capco 
+Capco est une socit internationale de conseil en technologie et en consulting, spcialise dans le secteur des services financiers. Notre passion est daider nos clients  se transformer dans un secteur en constante volution. 
+
+Nous sommes  avons  
+Des experts dans les domaines de la banque, des marchs de capitaux et de la gestion de patrimoine et dactifs  
+Une connaissance approfondie de loffre de services financiers, notamment en matire de finance, de risque et de conformit, de criminalit financire, de services bancaires de base, etc.  
+Une forte comprhension des technologies et nombreuses russites dans le domaine des technologies de linformation  
+Dtermins  dvelopper nos activits et  recruter les meilleurs talents pour nous aider  y parvenir 
+Attachs  maintenir notre culture agile et entrepreneuriale 
+
+Description du poste 
+Capco recherche des personnes engages, innovantes et cratives pour rejoindre notre quipe de technologie et dingnierie  Paris ! 
+Nous sommes  la recherche dun leader technique comme vous. Nous construisons une nouvelle banque en ligne pour lun des acteurs majeurs de lindustrie bancaire franaise -  partir de zro en utilisant la plateforme Google Cloud et les dernires technologies. 
+En tant que leader technique vous serez amens  : 
+
+Planifier les livrables techniques (y compris les amliorations et les mises  niveau du systme) pour rpondre aux exigences du projet dans le respect du budget et du calendrier allous. 
+Planifier et collaborer avec les diffrentes quipes charges des applications afin de grer les dpendances techniques de la solution. 
+Planifier, surveiller et grer les risquesproblmes lis  la livraison technique. 
+Avoir une connaissance technique approfondie de deux technologies ou plus et tre curieux dapprendre dautres parties de la pile. 
+Travailler en partenariat avec la gestion des produits, la conception des produits et les architectes pour rassembler, comprendre et finaliser les exigences fonctionnelles et techniques.
+Travailler en partenariat avec les responsables des tests pour garantir lachvement des tests, y compris les tests dacceptation par lutilisateur (UAT), les tests de performance et de charge et les tests de scurit des applications avec des rsultats de qualit.
+Grer le plan de mise en uvre technique au sein des quipes dapplication - coordonner les activits de mise en uvre technique au sein des quipes dapplication afin dassurer une mise en production sans vnement et un soutien adquat aprs la mise en uvre.
+Avoir la passion de faire partie de lquipe dingnieurs qui faonne lavenir de la finance.
+Grer des personnesquipes de dveloppeurs et travailler en troite collaboration avec les responsables pour sassurer que les projets sont livrs dans les dlais. 
+
+ 
+Profil recherch
+
+Diplme dingnierie, en informatique ou dans un domaine connexe. 
+Une bonne connaissance technique etou des plates-formes bancaires (par exemple, Core banking) est un atout. 
+Exprience dans le domaine des technologies, notamment dans le travail de dveloppement (codage, spcifications fonctionnelles et techniques) etou lintgration de systmes, les tests informatiques etou la fourniture de services informatiques (au total, pas moins de 8 ans). 
+Exprience en matire de livraison agile avec plus de 3 ans dexpriences de leadership agile (Scrum, SaFe)
+Appliquer les principes agiles  la planification et  la rvision du code
+Capacit dinfluencer, de prsenter et de partager des informations cls avec le conseil dadministration, la direction, lquipe et les utilisateurs de diffrentes manires.
+Capable de coordonner, de motiver et dtablir des principes de travail en quipe. 
+Bonne comprhension et exprience du cycle de dveloppement des logiciels
+Bonnes aptitudes  rsoudre les problmes et  trouver des solutions. 
+Technologies spcifique  connaitre : Java OpenJDK 17, Kafka, container based runnables, Caching, CICD, RestJson open api 3.1.0, spring Boot 2.6.1, MongoDB, Gitlab React.JS, Kotlin 1.6, typescript, Jest 27.4 
+
+Pourquoi rejoindre Capco Paris en tant que leader technique? 
+Vous travaillerez sur le plus grand projet numrique du secteur bancaire europen, en rejoignant une quipe dexperts et de dveloppeurs passionns. 
+Nous offrons 
+
+Une culture de travail axe sur linnovation et la cration de valeur durable pour nos clients et nos employs 
+Des opportunits de formation continue pour vous aider  acqurir de nouvelles comptences ou  approfondir lexpertise existante 
+Une structure horizontale et non hirarchique qui vous permettra de travailler avec les partens sniors et directement avec les clients 
+Une culture diversifie, inclusive et mritocratique 

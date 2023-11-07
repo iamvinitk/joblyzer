@@ -1,0 +1,33 @@
+What are we all about?
+We are a team of world class builders and researchers with expertise across several domains: Ethereum Protocol Engineering, Layer-2, Decentralized Finance (DeFi), Miner Extractable Value (MEV), Smart Contract Development, Security Auditing and Formal Verification.
+Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, StarkWare, Gnosis Chain, Aave, Flashbots, xDai, Open Zeppelin, Forta Protocol, Energy Web, POA Network and many more.
+We actively contribute to Ethereum core development, EIPs and network upgrades together with the Ethereum Foundation, and other client teams.
+
+
+
+
+
+
+
+Today, there are nearly 200 of us working remotely from over 45 countries.
+
+
+
+
+
+
+
+You can view all our open positions here: https:jobs.nethermind.ioAbout the Internship Program
+Our Internship Program, a proud recipient of the Ethereum Foundation grant, offers students  graduates worldwide a rare opportunity to learn how Ethereum works at its core, and to make tangible contributions to its evolution through a range of exciting and challenging projects.
+As an intern at Nethermind, youll be given full autonomy to decide what projects you want to work on, what skills you want to gain or refine, and which teams you want to work with.
+Youll have the opportunity to be part of a hands-on, 3-month-long deep dive into Blockchain Core Engineering, Cryptography Research, DevOps, Security, L2 Tooling and DeFi Research  Development.
+This is a paid internship. 
+Read more about the engineering groups you can be a part of on our website or connect with us directly on Discord.
+ 
+ 
+Please note: Thank you for your interest in our internship program. We have had high numbers of people showing interest and we are extremely humbled by this. Due to high demand, we only have limited spaces for the next few months and we will only be interviewing and hiring the top candidates. This may change in the future.
+Please note that we will continue to accept applications and will interview only the candidates that are the best fit for Nethermind. We look forward to reviewing your application and potentially welcoming you to our team.
+If you dont get picked the first time around dont get discouraged! We are incredibly lucky to get extremely skilled and talented people applying and it often is a difficult choice to make. Just continue learning and developing your skills and try again in a few months.Disclaimer: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (ta Nethermind) (the Company) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details. Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnoticesnethermind.io Keep up to date on what we are working on by following us on our social channels
+      
+ 
+Click here to view our Privacy Policy.

@@ -1,0 +1,42 @@
+Join the INTERACTIVE BROKERS Team!
+Interactive Brokers Group has been consistently at the forefront of trading innovation, starting with the invention of the first floor-based handheld computer in 1983. We pride ourselves on being primarily a technology company and challenging the status quo. We push boundaries to offer our clients the best trading platform with the most sophisticated features at the lowest cost. Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform. Interactive Brokers is regularly recognized as a leader in the financial services industry.
+About your Team:
+The Compliance Technology group is a close knitted group seeking a self-starter that enjoys the craft of coding and developing innovative solutions. We provide automated solutions for global and legal compliance departments.
+What will be your responsibilities within IBKR:
+
+Design and develop front-end applications and micro-services.
+Work directly with internal end-users to refine user interfaces and identify future improvements.
+Optimize and refactor existing code for improved reliability and performance.
+Ensure a continued high-quality codebase through code reviews.
+
+What required skills will you need:
+
+Bachelors or masters degree in computer science or a related area.
+Five-plus years of professional programming experience with a compiled language (Java preferred, CCGo ok)
+Five-plus years of experience with JavaScript Frameworks like (Angular, React, Vue)
+Experience in full-stack design and implementation (including user interface design)
+Experience with REST services development.
+
+To be successful in this position, you will have the following:
+
+Self-motivated and able to handle tasks with minimal supervision.
+Superb analytical and problem-solving skills.
+Excellent collaboration and communication (Verbal and written) skills.
+Outstanding organizational and time management skills.
+
+Company Benefits  Perks
+
+Competitive salary, annual performance-based bonus and stock grant
+Retirement plan 401(k) with competitive company match
+Excellent health and welfare benefits, including medical, dental, and vision benefits
+Wellness screenings and assessments, health coaches and counseling services through an Employee Assistance Program (EAP)
+Paid time off and a generous parental leave policy
+Daily company lunch allowance provided, and a fully stocked kitchen with healthy options for breakfast and snack
+Corporate events including team outings, dinners, volunteer activities and company sports teams
+Education reimbursement and learning opportunities
+Modern offices with multi-monitor setups
+
+ Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

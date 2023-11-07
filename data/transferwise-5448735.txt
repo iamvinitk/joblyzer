@@ -1,0 +1,75 @@
+Senior Solution Engineer - Wise Platform
+Compensation: 170,000 - 260,000  RSUs  Benefits
+Were looking for a Senior Solution Engineer to join our growing team in Austin. 
+The Wise Platform team works with financial institutions and major tech companies at a global level to offer Wise products and services directly to their customers through our API. We help partners to architect and build integrations to our class-leading international finance products, while improving Wise Platform by increasing the capabilities of our public API. The teams goals are to drive the growth of Wise through partnerships and integrations by creating a world class product set delivered through third parties.
+Your mission:
+
+Based within the Wise platform team, your role will be to provide technical consulting  and product guidance to banks and other partners integrating Wise in their products, primarily in a post-sale capacity.
+Working in conjunction with the technical presales team, you will be involved in the business development process where we need support for larger partners who require novel features to successfully integrate. 
+You will assist the partners as they move into the implementation phase to define their technical solution, gather and document any new requirements and collaborate internally and externally to ensure successful integration delivery.
+Manage multiple partner integrations in parallel and define and improve processes to increase efficiency in the team and deliver successful projects simultaneously.
+You will participate in feature definition and prioritization alongside long term strategy planning with the rest of the Wise Platform team, as part of our quarterly planning sessions.
+You will help partners to define and deliver the best integration possible within their unique constraints against our existing platform in order to provide a fantastic end customer experience.
+With a high level of autonomy, youll work closely with Implementation Managers, Product Managers and Engineers and make product and project decisions with the team.
+
+Some of your focus areas will be:
+
+Work in improving the integration experience for banks in relation to documentation, public and private APIs, SDKs, examples, code samples and reference implementations.
+Collaborate with the technical presales team to support the sales cycle and win new partnerships.
+Improving internal processes to increase the teams capacity to deliver multiple integrations in parallel.
+When required, designing and developing new features across Wise services and exposing them on our public API.
+Identify, troubleshoot, run test scenarios, and fix technical issues within the Wise product stack, assisting our API support team as a second line when complex issues arise.
+
+This role will give you the opportunity to:
+
+Choose your own path to success - youll have the freedom to define the vision and responsibility for making it happen.
+Identify problems and unlock opportunities for Wise and partners through technology solutions.
+Inspire other teams internally and externally with your ideas, knowledge and self-starter attitude.
+Travel to work with our teams in New York and London as well as visit our partners across the Americas.
+
+A bit about you:
+
+You are from a software engineering background but also have experience working with  both tech and non-tech stakeholders to successfully deliver multiple technical projects concurrently.
+You understand the value of balancing customer centric thinking with technical know-how, and can bridge the gap between business and technical experts.
+You put the customer above technology, while finding ways to leverage technology to improve the customer experience.
+You are personable and you are good at stakeholder management. You are able to represent Wise and our values to external partners in a professional way, explaining technical problems and solutions to non-technical audiences.
+You have strong presentation and public speaking skills.
+Experience with RESTful APIs, API Design, Swagger, OpenAPI, OAuth2.
+
+Some extra skills that would be awesome:
+
+Experience working across multiple programming languages, tech stacks and cloud providers.
+Experience with our stack: Java within the Spring ecosystem, Kubernetes, AWS and service mesh architectures.
+You have worked with distributed systems and monolithic architectures and understand the advantages and challenges of both.
+Passion for international finance, foreign exchange and payment systems.
+Demonstrated experience speaking at conferences and public events.What you get back:
+
+
+ RSUs in a rapidly growing company 
+ An annual self-development budget
+ Medical, dental,  vision insurance  including HSA and FSA options
+ Company-paid: Life Insurance, Short  Long-Term Disability, and an EAP program
+ Hybrid working model  a mix of working from home and from the office
+ Our employees can work remotely for 90 days a year. By remote we dont just mean from home, but from wherever in the world our employees choose. 
+ Relocation expenses covered
+ 25 days PTO, 15 sick days, 11 holidays, 5 compassionate leave days, 3 paid Me days and a paid volunteer day, annually
+ A paid 6-week sabbatical leave after four years 
+ 18-weeks of paid parental leave, after a year with us
+ 401k with up to a 4 employer match 
+
+Find out more about our benefits in our Austin office (Same for NYC office).
+Interested? Find out more:
+
+How we work  a practical guide
+Wise Vlogs: Omar, Engineering Lead 
+Engineering team blog
+How our Engineers build new features
+
+Were people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if youre passionate about learning new things and keen to join our mission, youll fit right in.
+Also, qualifications arent that important to us. If youve got great experience, and youre great at articulating your thinking, wed like to hear from you.
+And because we believe that diverse teams build better products, wed especially love to hear from you if youre from an under-represented demographic.
+LI-HybridLI-RA1Salary (annual)170,000—260,000 USDWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

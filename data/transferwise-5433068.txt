@@ -1,0 +1,61 @@
+Wise is one the fastest growing companies in Europe and were on a mission: to make money without borders the new normal. Weve got 16 million customers across the globe and were growing. Fast.
+Current banking systems dont let us send, spend or receive money across borders easily. Or quickly. Or cheaply. 
+So, were building a new one.
+We need a Senior Software Engineer  to join our mission and help us build a global platform thats scalable, reliable and secure. Youll dive right into projects on our stream processing infrastructure.
+About the role 
+We are looking for a senior software engineer with a background in stream processing.
+Our team is called Realtime Data Platform and its part of the Data Squad.
+We provide the tooling and infrastructure that allows Wise to process transfers in real time. Our stream processing platform enables services to do calculations and make decisions in milliseconds, powering our validation, fraud detection and anti money laundering checks.
+How we work
+We operate on a strong belief in automation, programmatic implementation, and reusable design. Were looking for people who can step back and think holistically about the ecosystem, but also follow through and help implement the design; drawing on the resources across the rest of the platform tribe.
+We need to sustain this growth by continuously iterating on the services we run, with a focus on availability, security, and ease of use. Were looking for an engineer with relevant experience who can analyse complex requirements and deliver simple solutions to help our teams achieve our mission with speed and confidence. 
+What will you be working on?
+Youll be working hands on designing, architecting, implementing and operating our systems on AWS. In addition, you will also help our product engineers use our tooling and systems, laying down best practises and rules. You should have a deep understanding of stream processing and the related technologies, being able to build and support the tooling to create pipelines that are used for real time decision making in the milliseconds range.
+What do you need?
+
+Experience with Kafka Streams andor Flink.
+Experience building production code with Java and Spring.
+Experience with infrastructure automation tools.
+Experience building and operating distributed systems at scale.
+
+Nice to have:
+
+Knowledge of Kafka, ZooKeeper and their operations.
+Experience with Kubernetes and infrastructure integrations.
+Experience with Terraform, Atlantis.
+
+You get back:
+
+The ability to choose your own path to success  youll have the freedom to define the vision 
+The freedom to have real impact
+The opportunity to inspire teams 
+A fun work environment with social activities and events
+Find out more about our benefits in our London office.
+
+Interested? Find out more:
+
+How we work  a practical guide
+Wise Vlogs: Omar, Engineering Lead
+The Wise Tech Stack, 2022 Edition.
+Our Engineering career map
+Scaling our Infrastructure; how we make it work
+Wise Engineering  https:medium.comwise-engineering
+
+What do we offer: 
+
+Starting salary: 
+Company Restricted Stock Units
+Numerous great benefits in our Tallinn office 
+
+Key benefits:
+
+Flexible working - whether its working from home, school plays or life admin we get that flexibility is essential and youre trusted to do the right thing and be responsible
+Paid annual holiday, sick days, parental leave and other leave opportunities
+6 weeks of paid sabbatical after 4 years at Wise on top of annual leave
+
+If youre interested in the position, please apply by submitting your CV 
+ Salary (annual)64.000—88.000 EURWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

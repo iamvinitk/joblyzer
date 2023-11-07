@@ -1,0 +1,34 @@
+Senior Site Reliability Engineer (SRE)
+About Capco 
+Capco is a fully independent, global management and technology consultancy. For 20 years we have combined innovative thinking with deep industry knowledge to deliver business consulting, digital transformation and technology services to Finance and Energy markets. Our collaborative and efficient approach helps clients reduce costs and manage risk and regulatory change while increasing revenues. We are thinkers, innovators, and disruptors. We are small enough to care but large enough to matter.
+The Role
+We are looking for site reliability engineers who want to play a key part in supporting the evolution of the Financial Services industry one project at a time. You will be expected to be a strong team player who prides themselves on delivering modern, first-class cloud-based platforms through practicing best in class Agile, DevOps and reliability engineering ways of working.
+Skills  Expertise:
+Required Skills:
+
+Strong experience within public cloud infrastructure, services and architecture in one of the following, Amazon Web Services, Microsoft Azure or Google Cloud Platform
+Solid experience with Continuous Integration and Delivery pipelines such as; Jenkins, Azure DevOps, ArgoCD or Gitlab
+Infrastructure as Code practises and technologies proficiency, such us Terraform
+Container technologies at scale hands on experience, could be Kubernetes, Openshift or cloud provider specific native technologies
+Fluency with observability frameworks and technologies, such as; cloud provider native, Splunk, ELK, Prometheus or Jaeger
+Hands on scripting on achieving toil elimination automation and operational efficiencies in either; Python, Ansible or similar
+Compliance and security as Code techniques and ideally built in by design
+Prior experience from an operations engineering unit of large-scale systems
+
+Desired Skills:
+
+Have worked with any of the following frameworks; release engineering, reliability engineering, business continuity and operational readiness
+Service scalability and resiliency assessments experience
+Good practises knowledge on defining and automatically monitor and report on SLAs, SLOs, SLIs, MTTR and Error Budget
+Good understanding of IT Service Management process engineering
+Prior industry experience within Banking, WealthAsset Management or Insurance is highly desirable, but not mandatory.
+
+We offer: 
+
+A work culture focused on innovation and building lasting value for our clients and employees 
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise 
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+Enhanced and competitive family friendly benefits, including maternity  adoption  shared parental leave and paid leave for sickness, pregnancy loss, fertility treatment, menopause, and bereavement.
+
+Joining Capco means joining an organisation that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table  so wed love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.

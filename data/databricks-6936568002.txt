@@ -1,0 +1,48 @@
+FEQ424R221
+At Databricks we are on a mission to empower our customers to solve the worlds toughest data problems by utilising the Lakehouse platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks platform in your strategic accounts. As a DSA, you will help ensure customer success by increasing focus and technical accountability to our most complex customers who need guidance to accelerate usage on Databricks workloads that they have already selected.
+This is a hybrid technical and commercial role. It is commercial in the sense that you will own and drive growth in your assigned customers and use cases through leading your customers stakeholders, owning executive relationships, orchestration of other focusedspecialized teams within Databricks, and creating and driving plans and strategies for Databricks colleagues to build upon. This is in parallel to being technical, with expectations being that you become the post-sale technical lead across all Databricks products. This requires you to use your skills and technical credibility to engage and communicate at all levels with an organisation. You will report directly to a DSA manager as part of the Field Engineering organisation.
+Note : we are open to accept applications from across the country (i.e. outside of Munich).
+The impact you will have:
+
+Assist strategic customers in deploying or migrating their use cases and workloads into production on Databricks Lakehouse, leading the post-win technical account strategyexecution plan
+Be the accountable technical leader assigned to specific Use Cases and customer(s) across multiple selling teams and internal stakeholders, creating certainty from uncertainty and driving onboarding, enablement, success, go-live and healthy consumption of the workloads where the customer has made the decision to use Databricks
+Develop an execution plan that covers all activities of all customer-facing technical roles and teams
+Be the first contact for any technical challenge or questions related to productiongo live status of agreed upon Use Cases in your aligned customers
+Leverage the User Education, OnboardingTechnical Services and Support teams, and escalate to expert level technical specialists for requests that are beyond your scope of activities or expertise. Also coordinate with Professional Services in the delivery of their projects
+Navigate Databricks Product and Engineering teams for New Product Innovations, Private Previews and Upgrades
+Provide internal and external updates on progress and risksblockers to your leadership
+Contribute to the development of the DSA community and practice by sharing best practices and assets.
+
+What we look for:
+
+7 years of experience where you have been accountable for technical program delivery within the domain of Data and AI and where you can contribute to the technical debate and design choices with our customers
+Programming experience in Python, SQL or Scala
+Experience in a customer-facing pre-sales, technical architecture of distributed data systems, customer success, or consulting role
+A understanding of how to attribute business value and outcomes to specific project deliverables
+Technical program management including account, stakeholder and resource management accountability
+Experience conducting open-ended discovery workshops, creating strategic roadmaps, conducting business analysis and managing delivery of complex programmesprojects
+Continuous learning and keeping up with the fast evolution of the Databricks Lakehouse platform
+Track record of overachievement against quota, goals or similar objective targets.
+
+Benefits
+
+Private medical insurance
+Life, accident  disability insurance
+Pension Plan
+Vision Reimbursement
+Equity awards
+Enhanced Parental Leaves
+Fitness reimbursement
+Annual career development fund
+Home office  work headphones reimbursement
+Business travel accident insurance
+Mental wellness resources
+Employee referral bonus
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

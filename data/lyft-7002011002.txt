@@ -1,0 +1,47 @@
+iOS Engineer
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To create the best transportation experience for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring. We believe that trip by trip, were changing the way our world works. We imagine a world where cities feel small again, where transportation and tech bring people together, instead of taking them apart. We see the future as community-driven.
+While we have a strong ride-sharing service in the US and in a few Canadian cities, we know that transportation isnt just about cars, its about enjoying the ride, no matter the method. Thats why Lyft leaned in to micromobility, first joining hands with Montreal-based 8D Technologies in 2018 (from Motivate) and later with Longueuil-based PBSC in 2022, taking the place of the worldwide leader in bike-sharing. We want to provide solutions that people love and cities need.
+Our offices in the Greater Montreal developed the first automated bike-share system in America (Bixi), a system that has since been deployed in more than 51 cities in 15 countries: Barcelona, Buenos Aires, Chicago, Dubai, London, Mexico, Monaco, Montreal, New-York, San-Francisco, Toronto to name a few. These are also some of the biggest bike-share systems in the world, and the list keeps growing!
+Responsibilities:
+
+Work within our product teams to design, build, and release exciting features and products in the Lyft Rider applications for Lyft Bikes  Scooters
+Help establish roadmap and architecture based on technology and our needs
+Write well-crafted, well-tested, readable, maintainable code in our iOS and Server-Driven UI (SDUI) Python repositories
+Learn how to work with the whole stack, shipping Python server changes outside the core iOS codebase
+Work with Product Managers, Designers, and Server Engineers to deliver best in class user experience and collaborate closely with local and global colleagues
+Extend and implement our APIs using Googles Protocol Buffers and gRPC
+Oversee major changes to our iOS architecture
+Implement unit and UI automation tests
+Solve complex real-time data transfer and synchronization issues
+Continuously discover, evaluate and implement new technologies to maximize developer efficiency
+Mentor and support other developers on your team with code reviews, design feedback, and other advice and guidance
+
+Experience:
+
+3 years of experience as an iOS developer
+Experience with leading a technical team is a bonus
+Familiarity with SDUI, server engineering, andor Python
+Advanced knowledge of Swift
+Familiarity with RxSwift and principles of CombineSwiftUI
+Very knowledgeable about architecture and design patterns
+Worked on and shipped large scale iOS applications
+Great product sense; you care about usability and good design
+Bilingual (EnglishFrench); Ability to communicate effectively in English (for dealing with English-speaking colleagues outside Quebec)
+
+Languages:
+
+Fluency in both spoken and written French and English is required for this position as this role requires interaction with Lyft employees and stakeholders in other Canadian provinces and Lyft offices globally.
+
+Benefits:
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Access to a Health Care Savings Account
+In addition to provincial observed holidays, team members get 15 days paid time off, with an additional day for each year of service 
+4 Floating Holidays each calendar year prorated based off of date of hire
+10 paid sick days per year regardless of province
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+Lyft proudly pursues and hires a diverse workforce. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy.  Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process.  Please contact your recruiter now if you wish to make such a request.
+This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.

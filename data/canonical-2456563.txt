@@ -1,0 +1,67 @@
+This role is an opportunity for a hands-on engineer with a passion for Linux and cloud technologies to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products.  
+If you have an affinity for open source development and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical. 
+The role of a Cloud Support Engineer at Canonical  
+We regularly solve interesting, technical problems. From triaging complex Cloud environment issues, Linux kernel crashes weve never seen before to OS configuration issues and root cause analysis, we provide an expert level of support and satisfaction to our peer groups and customers.
+We are rapidly expanding and are looking for talented problem solvers with a passion for working on the next generation of Ubuntu solutions for our customers.
+ 
+Location: This is a globally remote role, unless specified otherwise.
+What your day will look like
+
+Investigate issues reported by customers by researching and escalating issues 
+Work to resolve complex customer problems related to Canonicals portfolio of products.
+Ownership of results: Ensure that each support case owned by you is handled according to our Service Level Agreement (SLA) with the highest possible customer satisfaction by setting the right expectations and fulfilling your commitments.
+Engage directly with customers and work collaboratively by phone, ticketing system, and remote sessions to resolve their issues.
+Participate in a regular weekend working rotation.
+Contribute new knowledge base articles and maintain existing articles, ensuring shared knowledge and lessons learned are available to customers.
+Understanding Ubuntu development process to be able to set customer expectations correctly on timeline for a fix.
+
+Background check required
+What are we looking for in you
+
+Excellent verbal and written communication skills in English.
+Hands-on experience supporting Linux systems including 2 or more of:
+
+Virtualization  Cloud - primarily using KVM or OpenStack.
+Containers - especially with Docker, LXDLXC, or Kubernetes.
+Storage technologies - block, object and network.
+Networking (bonding, firewalling, bridging, switching, network file system tuning, MTU issues, etc.)
+
+
+Linux integration with other environments (authenticationdirectory services, network file systems, etc.)
+Cloud computing (provisioning, monitoring, orchestration, etc.)
+Troubleshooting experience:
+
+Basic reading of stack traces to be able to search for duplicates, escalate to the correct team.
+Understand OS and Application level bugs and advise on next steps
+Programming fundamentals in any language.
+
+
+Customer support experience:
+
+Customer needs are top priority
+Communicate clearly and set the right expectations.
+
+
+Ability to travel
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits below, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+ 
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

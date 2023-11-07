@@ -1,0 +1,39 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+BMS Electrical Engineer, HW Design, focuses on design  development of HV distribution HW and electrical systems at Module level and Pack level from concept to completion for our Energy Storage Systems (ESS). The role is responsible for detailed EE HW design, design analysis, prototype verification and production support for testers and product manufacturability. The engineer collaborates with other BMS HW  SW  Algo  Cell Engineers in Battery team and other multi-functional team members to develop SW requirements and to support integration testing at Powertrain, ESS system, or Cell module level.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Develop and release requirement specification for HV Electrical systems and electronic PCBAs
+Design  release of analog and mixed circuit-based schematics, HV Electrical systems  PCBAs using Altium or equivalent tool set
+Simulate battery electrical  electronic circuit simulation for design compliance using pSpice  MATLAB  Simulink or other tools
+Select Electronic, electrical and IC parts to meet performance goals, specifying and working with suppliers to develop custom parts
+Develop and Release requirements for OTS components to be used in HV electrical systems and PCBAs
+Analyze the schematic and layout designs with simulation tools and calculations to verify its conformance to the design requirements
+Conduct design reviews, incorporating team feedback, and releasing design documents for builds
+Test prototypes to validate the design and complete design changes through ECO processes
+Specify test plans and test limits for electronics and electrical HW and corresponding production testers
+May require up to 10 of domestic and international travels
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Electrical Engineering or Electronics Engineering
+A minimum of three (3) years of demonstrated experience in BMS hardware or mixed signal  power electronics hardware development for Industrial, automotive, large consumer products or aerospace applications (an equivalent combination of education and experience may be considered)
+HV Electrical system HW development or Low voltage BMS HW design, development and good analog  mixed signal  power electronics design experience
+Ability to design and release HV Electrical systems like HV power distribution system, Test and Validation and Mfg. Test support.
+Power electronic circuit design for megawatt level power control; designing analog  mixed signal high voltage, high accuracy and medium speed PCB design
+ECAD tools like Altium for Schematics and layout
+HW simulation tools like pSpice and modeling tools like MATLAB, SIMULINK
+Designing with various communication interfaces like CAN, SPI, SCI, I2C and Ethernet
+Proficient in designing HW to meet Environmental, EMIEMC, thermal, shock  vibration
+Ability to conduct and detail Tolerance analysis, Part stress analysis, Safety Hazard Analysis, FMEA, and FTA
+Excellent skills required in technical communication, and reliance on data for issue resolution and decision making
+Self-motivated and forward-thinking personality
+
+You may also be able to contribute:
+
+Masters degree preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 133,120—186,160 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

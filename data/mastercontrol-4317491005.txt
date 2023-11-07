@@ -1,0 +1,41 @@
+ 
+About MasterControl:MasterControl Inc. is a leading provider of cloud-based quality and compliance software for life sciences and other regulated industries. Our mission is the same as that of our customers to bring life-changing products to more people sooner. The MasterControl Platform helps organizations digitize, automate and connect quality and compliance processes across the regulated product development life cycle. Over 1,000 companies worldwide rely on MasterControl solutions to achieve new levels of operational excellence across product development, clinical trials, regulatory affairs, quality management, supply chain, manufacturing and postmarket surveillance. For more information, visit www.mastercontrol.com.
+Summary
+MasterControl is looking for an experienced Technical Product Manager (TPM) to work within the Data Platform  Engineering team. The Data Platform team is responsible for building and operating the infrastructure and components that power MasterControls data infrastructure and data first initiatives. This includes the creation and maintenance of all key systems related to the ingestion, storage and processing of all operational and analytical data, while enabling downstream consumers including BI, DS  ML.What you will bring: You are a seasoned Technical Product Manager with strong experience in managing and delivering successful products within the data infrastructure space. You will drive project and program management for foundational components of MasterControls Data Platform. You will work with engineering teams across the larger product organization in the delivery of data centric products and features. You will strive to deliver a best in class features that will enable the next-generation of data first products, including setting team priorities, balancing technical tradeoffs related to cross-team and organizational deliverables, practicing and evolving best practices and contributing to both software and data engineering foundations.This is a highly visible position that will interact across many levels of the engineering and product organization. Your ability to communicate, influence others, and translate product features and requirements into technical roadmaps and deliverables will be critical to the success of MasterControl initiatives.Key Responsibilities:
+
+Manage technical program specifics across multiple data focused disciplines including scope, schedule, quality and critical path features.
+Analyze and influence through the use of KPIs to drive technical decisions and tradeoffs while creating sustainable processes and coordination of releases.
+Manage and coordinate across multiple functional teams while maintaining a focus on best practices and engineering excellence.
+Create an environment that fosters open communication, continuous improvement.
+Plan and manage project tasks, dependencies, schedules, and resources related to delivery of complex interconnected systems.
+
+Qualifications and Skills:
+
+Bachelors or Masters degree in Computer Science or another equivalent discipline  experience.
+8 years of working directly with engineering teams.
+5 years of technical product or program management experience.
+Familiarity with big data technologies and frameworks such as Hadoop, Spark, or Kafka.
+Experience managing projects across multiple teams, building sustainable and repeatable processes.
+Excellent communication and collaboration skills with a track record of technical leadership.
+
+ 
+Why Work Here?WhyWorkAnywhereElse?MasterControl is a place where Exceptional Teams come together to do their best work. In fact, hiring Exceptional Teams is a core value of ours. MasterControl employees are surrounded by intelligent, motivated, and collaborative individuals. We like to call it TheBestTeamOnThePlanet.We work hard to develop and challenge our employees skillsets, recognize their contributions, encourage professional development, and offer a one-of-a-kind culture. This is why we say WhyWorkAnywhereElse?MasterControl could be your next (and last) career move!Here are some of the benefits MasterControl employees enjoy:
+
+Competitive compensation
+100 medical premium coverage (yes, you read that right!)
+401(k) plan with company match
+Generous PTO packages that increase with tenure
+Schedule flexibility
+Fitness clubs (you get paid to have fun and be active!)
+Company parties and employee recognition programs
+Wellness programs (free Fitbit, gym membership and athletic shoe reimbursements, etc.)
+Onsite physician and massage therapist
+Innovation center and gaming rooms at the office
+Dentalvision plans
+Employer paid life insurance policy
+Much, much more!
+
+Applicants must be currently authorized to work in the United States on a full-time basis.
+ 
+The US base salary range for this full-time position is 175,000-220,000  equity  benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.MasterControl is an Equal Opportunity Employer. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact MCTalentMasterControl.com or call (801) 942-4000 and ask to speak with a member of Human Resources.
+ 

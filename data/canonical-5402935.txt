@@ -1,0 +1,48 @@
+Software-Ingenieur im Auendienst - EMEA
+bei Canonical
+Von Zuhause aus - EMEA
+Untersttze globale Unternehmen bei der Einfhrung der neuesten Private-Cloud-Infrastruktur, Linux und Cloud Native Operations und Open-Source-Anwendungen. Unser Team wendet Expertenwissen auf reale Kundenprobleme an und untersttzt Unternehmen bei der Einfhrung von Linux Ubuntu, OpenStack, Kubernetes und einer breiten Palette an zugehrigen Technologien.
+Der Aufgabenbereich dieser Position ist sehr vielfltig. Die Teammitglieder sind Architekten von Linux- und Cloud-Lsungen fr unsere Kunden und entwerfen private und ffentliche Cloud-Lsungen, die ihren Workload-Anforderungen entsprechen. Sie sind die Cloud-Consultants, die praktisch mit den Technologien arbeiten, indem sie die Lsung implementieren, testen und am Ende eines Projekts an unser Support- oder Managed-Services-Team bergeben. Sie sind auch Software-Ingenieure, die Python verwenden, um Kubernetes-Operatoren und Infrastructure as Code  zu entwickeln.
+Menschen, die diese Rolle lieben, sind Entwickler, die gerne Kundenprobleme durch Architektur, Prsentationen und Schulungen lsen.
+ 
+Was wirst Du tun:
+
+Du arbeitest mit dem gesamten Linux-Stack, vom Kernel ber Netzwerke und Speicher bis hin zu Anwendungen
+In Python an der Entwicklung und Bereitstellung von Open-Source-Code arbeiten
+Architektur von Cloud-Infrastrukturlsungen wie OpenStack, Kubernetes, Ceph, Hadoop und Spark entweder vor Ort entwerfen oder in der ffentlichen Cloud (AWS, Azure, Google Cloud)
+Coachen und entwickeln Deiner Kollegen dort, wo Du Einblicke hast
+Entwickle eine gesunde, kollaborative Entwicklungskultur im Einklang mit den Unternehmenswerten
+Arbeite bequem von zu Hause aus
+Weltweite Reisen zu internen und externen Veranstaltungen (bis zu 25  der Zeit)
+
+Wer bist Du:
+
+Abgeschlossenes Studium in Informatik oder verwandtes Fachwissen im Bereich Software Engineering
+Du verfgst ber fundierte Kenntnisse von Cloud-Computing-Konzepten und -Technologien, wie z. B. Kubernetes, Openstack, AWS, GCP, Azure, Ceph, etc.
+Du hast praktische Kenntnisse ber Linux und Netzwerke
+Du verfgst ber mittlere bis fortgeschrittene Kenntnisse in der Python-Programmierung
+Du bist eine dynamische Person, die sich gerne in neue Projekte strzt und mit Menschen interagiert
+Du bist nachweislich bereit, sich stndig weiterzubilden
+Ausgezeichnete Kommunikations- und Prsentationsfhigkeiten (Englisch und Deutsch)
+Du bist ein Organisationstalent und hltst Deine Verpflichtungen zuverlssig ein
+
+Was Du lernen wirst:
+
+OpenStack- und Kubernetes-Infrastruktur
+Linux Ubuntu und Netzwerk-kenntnisse
+Ein breites Spektrum an Open-Source-Anwendungen und -Kenntnissen
+Direkte Zusammenarbeit mit Kunden in verschiedenen Unternehmen 
+Reale und praktische Erfahrung mit einer breiten Palette von neuen Technologien und Tools
+
+Wir bieten: 
+
+Karriere- und Weiterbildungsmanahmen
+Diversity-Ressourcengruppen
+Familienfreundliche Arbeitszeiten und mobiles Arbeiten
+Attraktive Vergtung 
+Priority Pass fr Reisen
+
+Hinweis: Die Unternehmenssprache bei Canonical ist Englisch. Es wird ein hohes Ma an Englischkenntnissen erwartet, und das Einstellungsverfahren findet ausschlielich auf Englisch statt. Der fr diese Rolle ausgewhlte Field Engineer wird auch mit Kunden in deutscher Sprache zusammenarbeiten.
+ber Canonical
+Canonical ist ein wachsendes, internationales Softwareunternehmen, das mit der Open-Source-Community zusammenarbeitet, um Ubuntu - das weltweit fhrende Cloud-Betriebssystem - bereitzustellen. Unser Ziel ist es, das Potenzial freier Software im Leben von Einzelpersonen und Unternehmen zu nutzen. Unsere Dienstleistungen helfen Unternehmen weltweit, mit Ubuntu Kosten zu senken, die Effizienz zu steigern und die Sicherheit zu erhhen.
+Wir sind stolz darauf, einen Arbeitsplatz zu schaffen, der frei von Diskriminierung ist. Die Vielfalt an Erfahrungen, Perspektiven und Hintergrnden fhrt zu einem besseren Umfeld fr unsere Mitarbeiter und zu einer besseren Plattform fr unsere Nutzer und Kunden. Dies ist etwas, das wir sehr schtzen, und wir ermutigen jeden, ein Teil der Ubuntu-Welt zu werden. Alle qualifizierten Bewerber werden ohne Rcksicht auf Rasse, Hautfarbe, Religion, Geschlecht, Geschlechtsidentitt oder -ausdruck, sexuelle Orientierung, nationale Herkunft, Genetik, Behinderung, Alter oder Veteranenstatus bei der Einstellung bercksichtigt.

@@ -1,0 +1,51 @@
+ 
+
+ 
+ 
+
+
+
+Scribe Therapeutics is a molecular engineering company focused on creating best-in-class in vivo therapies that permanently treat the underlying cause of disease. Founded by CRISPR inventors and leading molecular engineers Benjamin Oakes, Brett Staahl, David Savage, and Jennifer Doudna, Scribe is overcoming the limitations of current genome editing technologies by developing custom engineered enzymes and delivery modalities as part of a proprietary, evergreen CRISPR by Design platform for CRISPR-based genetic medicine.
+We are seeking a Scientist III with experience in biophysical chemistry. The candidate will join the Process Sciences analytical team to characterize the higher order structure, aggregation, oligomerization, stoichiometry, and folding of sgRNA and ribonucleoproteins (RNP) for its CRISPR by Design platform. The ideal candidate should have a good understanding and strong knowledge of biochemistry, structure, and biophysical methods to probe the solution-state structure, folding, or interactions of biomolecules. We are seeking experienced, enthusiastic, creative, and highly motivated individuals who are comfortable working in a fast-paced entrepreneurial CMC environment.
+ 
+Key Responsibilities:
+
+Development, qualification, and implementation of biophysical methods to probe folding and higher-order structure (aggregation, oligomerization) of RNA and RNPs to assess potential stability-indicating or quality attributes for characterization, stability, and early CMC support across multiple early-stage programs
+Physicochemical characterization of differential CRISPR-Cas RNP complexes and folded sgRNAs by size exclusion chromatography with multi-angle light scattering (SEC-MALS)
+Functional characterization (in vitro DNA cleavage) of differential CRISPR-Cas RNP complexes by electrophoretic mobility shift assay (EMSA) or anion exchange (AEX) chromatography
+Explore the use of Biolayer Interferometry (BLI) analysis of the sgRNA binding activity of Cas proteins andor target binding activity of CRISPR-Cas effector complexes
+Explore the potential to measure folded states of sgRNA and RNPs by native electrospray ionization (ESI) mass spectrometry andor atmospheric ion mobility
+Perform analytical method development and qualification of suitable assays, perform assays, and report results in appropriate formats (Benching, analytical report, and presentations)
+Work collaboratively in a multi-disciplinary environment with Process Science and Research teams 
+Data analysis using statistical softwares such as GraphPad PRISM, JMP, SoftMax Pro etc.,
+Maintain detailed records of experimental methods and data in electronic laboratory notebook (Benching). Participate in authoring reports, test methods, SOPs, and tech transfer
+
+
+Required Skills and Background:
+
+PhD with 0-5 years of experience, or MS with 5-8 years of experience in an academic industry setting. Degree in Chemistry, Biochemistry, Chemical Engineering, Bioengineering, Pharmaceutical Sciences, or related discipline
+Excellent oral and written communication skills
+Effective organizational and time management skills
+Strong focus and attention to detail
+Ability to work both independently and collaboratively in a fast-paced, interdisciplinary research team
+
+ 
+Preferred Skills and Background:
+
+Familiarity with CRISPR technologies and therapeutic approaches
+Understanding of FDA, ICH and EP or other regulatory agency guidance associated with analytical methods
+The ideal candidate has prior experience with biophysical methods to characterize RNA, RNP, or other protein:protein interactions 
+
+ 
+Salary will be commensurate with experience. We will provide an intellectually stimulating, collegial and fast-paced environment. If you are ready to engineer the future of therapeutics, then we are excited to hear from you! Visit us at www.scribetx.com.  
+
+We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, or veteran status.
+At the time of posting, the base pay wage range for this role will vary according to level per year.  The offered pay range will depend on internal equity and the candidates relevant skills, experience, qualifications, training, and market data.  Additional incentives are provided as part of the complete package in addition to comprehensive medical and other benefits.  
+
+ 
+
+
+Salary will be commensurate with experience. We will provide an intellectually stimulating, collegial and fast-paced environment. If you are ready to engineer the future of therapeutics, then we are excited to hear from you! Visit us at www.scribetx.com. We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, or veteran status.
+ At the time of posting, the base pay wage range for this role is 100,000-140,000 per year. The offered pay range will depend on internal equity and the candidates relevant skills, experience, qualifications, training, and market data. Additional incentives are provided as part of the complete package in addition to comprehensive medical and other benefits.
+
+ 

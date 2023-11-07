@@ -1,0 +1,20 @@
+About Capco
+Capco, a Wipro company, is a global technology and management consultancy specializing in driving digital transformation in the financial services industry. With a growing client portfolio comprising of over 100 global organizations, Capco operates at the intersection of business and technology by combining innovative thinking with unrivalled industry knowledge to deliver end-to-end data-driven solutions and fast-track digital initiatives for banking and payments, capital markets, wealth and asset management, insurance, and the energy sector. Capcos cutting-edge ingenuity is brought to life through its Innovation Labs and award-winning Be Yourself At Work culture and diverse talent.
+Skills  Expertise
+You will have experience working with the following MethodologiesTechnologies;
+Job Qualification:
+
+At least 5 years of experience
+Project management and leadership skills are essential
+Experience developing IT and cloud infrastructure
+Current understanding of best practices regarding system security measures
+Experience in software engineering and design architecture
+Advanced understanding of business analysis techniques and processes
+Professional experience working with and analyzing computer hardware and software
+Extensive knowledge and experience working with operating systems
+Experienced with code repositories GIT and Bitbucket.
+Exposure to DevOps - Implement CICD using tools like Jenkins.
+Exposure to JIRA tool.
+Development with Agile KanbanScrum framework is preferrable.
+
+Joining Capco means joining an organisation that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table  so wed love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.

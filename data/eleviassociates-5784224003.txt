@@ -1,0 +1,12 @@
+In order to join the ELEVI Team you will need
+
+A CURRENT  SECURITY CLEARANCE WITH FS IS REQUIRED.  
+A Bachelors degree in a Qualified Engineering Field is great  
+Fifteen (15)  years of systems engineering experience
+
+Required Skills: Has Operational experience with value delivery using Agile methodologies of Project Management Understanding the Scaled Agile framework (SAFe) and is experienced managing a team using scrum ceremonies Has used Atlassian products such as Confluence and Jira to support workflow management Possesses strong communication and presentation skills, excellent people skills and skills to remove team impediments Familiar with the Customer dataflow architecture Understanding of Continuous Integration and Continuous DeliveryDeployment DevOps processes and practices using corporate Gitlab, Docker and Containeryard Understanding of Linux Server, MASH, AWS deployments, upgrades and support, Linux environment configuration management, monitoring infrastructure health and dataflows Familiarity of AWS cloud based services Excellent time management and organizational skills Collaborating with the team and stakeholders including Senior Program Leadership on establishing team goals and prioritiesNice to have: Previous experience as a Product Owner in an Agile environment Experience working in a Scaled Agile Framework environment (SAFe)
+
+
+
+Were an equal opportunity employer (EOE) that empowers our people. It is the policy of ELEVI to provide equal employment opportunities to all employees and employment applicants—without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. We fearlessly drive change, because without diversity of thought and a commitment to equality for all, there is no moving forward. Reasonable accommodations are available for qualified individuals with disabilities, upon request. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.  
+ 

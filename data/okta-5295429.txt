@@ -1,0 +1,78 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.
+Okta is looking for a Senior Manager of Technical Documentation for a team of talented and motivated technical writers. You will report to a senior leader in Engineering and oversee technical documentation for all administrators, end users, and developers, across all of our products.
+Your impact and scope of responsibilities will primarily focus on the following:
+Content
+
+You will have hands-on experience delivering new technical content at a fast pace with high quality and a passion for continuous improvement of existing content and architecture. 
+
+Modernize infrastructure and process
+
+You will have hands-on experience and a passion for modernizing the technical writing infrastructure for maximum efficiency. This includes partnering with engineering to continuously evaluate and implement the right tools and processes for your teams and business needs. 
+
+Scale and grow the people
+
+You will have hired, trained, managed, coached and mentored writers as well as technical documentation manager(s) reporting to you. You bring creative solutions to optimally scale your team to current and upcoming product priorities.
+You will have experience working with engineering, product, and other leadership to strategize on the right allocation of writers to engineering and product according to business needs. 
+
+Cross functional content collaboration
+
+You will have experience working cross functionally with knowledge teams across the company such as marketing, customer support and educational services to share knowledge, documentation tooling, and ideas where appropriate to ensure consistency and quality of content across the company. 
+
+Localization a plus 
+
+Additionally your experience with translating and localizing content to other languages will be a big plus. 
+
+Job Duties and Responsibilities:
+
+Oversee the delivery of technical documentation for all of Oktas products, targeting administrators, end users, and developers, on Oktas help documentation site, developer site and vendor sites 
+Oversee the delivery of weekly release notes for enhancements and bug fixes, and the delivery of monthly release notes of  new features added. 
+Continuously improve content architecture and content quality
+Partner with engineering team(s) to continuously improve and modernize doc infrastructure and processes
+Manage, coach, and mentor a group of 10 talented and motivated writers  
+Manage, coach and mentor technical documentation manager(s) reporting to you
+Work with engineering and product leadership on the right allocation of writers to engineering and product. 
+Collaborate with the globalization team for the translation and localization of documentation to other languages
+Interface with leaders in Engineering, QA, Product Management, Technical Support, and Marketing 
+
+Minimum REQUIRED Knowledge, Skills, and Abilities:
+
+7 years of technical documentation experience in a technology company. Practical experience in topic-based writing, minimalism, and scenario-driven development.
+7 years leading and managing technical writers and managers of technical writers developing software documentation in an Agile scrum software development life cycle (SDLC) environment.
+Hands-on experience with evaluation and implementation of various forms of documentation delivery technologies and tools such as Madcap Flare or DITA based tools such as Oxygen
+Hands on experience working with engineering on the improvement of processes for technical writing and engineering releases
+Ability to effectively manage a remote andor geographically dispersed team.
+Proven track record in performance management and career development of individual contributors.
+Solid knowledge of XML, HTML and system administration tasks on WindowsMac platforms, including role administration, system and mobile configurations, rule and policy management, security, and distributed deployment.
+
+Preferred Qualifications:
+
+Experience using Git or other version-control systems.
+Experience with cloud computing, web services, Identity, Platform or related areas.
+Experience with localization and translations of documents in various languages 
+Experience with Madcap Flare or other equivalent tooling
+
+Education and Training:
+
+Bachelors degree in English, Journalism, Technical andor Professional Writing, Library  Information Science, Engineering, Management related degree or equivalent professional experience.
+
+
+ 
+Oktas Top 5 Core Leadership Competencies are part of the deeply ingrained principles that guide all of our companys actions. They also align strongly to our cultural cornerstones, our Okta values: love our customers, empower our people, never stop innovating, act with integrity, and maintain transparency. Its our expectation that our managers and leaders embody these core competencies:
+
+Builds Effective Teams: Building strong-identity teams that apply their diverse skills and perspectives to achieve common goals.          
+Demonstrates Self-Awareness (EQ): Using a combination of feedback and reflection to gain productive insight into personal strengths and weaknesses.
+Develops Talent: Developing people to meet both their career goals and the organizations goals.
+Drives Results: Consistently achieving results, even under tough circumstances.
+Strategic Mindset: Seeing ahead to future possibilities and translating them into breakthrough strategies.
+
+LI-Remote
+LI-TMWhat you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

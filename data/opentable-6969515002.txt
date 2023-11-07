@@ -1,0 +1,42 @@
+With millions of diners, tens of thousands of restaurants, and 23 years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue.
+Every employee at OpenTable has a tangible impact on what we do and how we do it. Youll also be part of a global network that includes OpenTable and KAYAKs portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+Hospitality is all about taking care of others, and it defines our culture. Youll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed.
+OpenTable is looking for a talented and motivated backend Software Engineer with minimum two years of experience in Java development. As a Software Engineer, you will have the opportunity to work on exciting projects, collaborate with expert engineers and contribute to the development of OpenTables restaurant platform!
+In this role, you will: 
+
+Write clean, efficient and maintainable code using software development best practices.
+Collaborate with cross-functional teams, including product managers, designers and other engineers to design, implement, and test software solutions.
+Identify and tackle technical challenges and issues, demonstrating creative problem-solving skills.
+Write tests and conduct code reviews to ensure code quality and maintainability.
+Document code, designs and architectural decisions
+Stay updated with industry trends and best practices in Java development.
+
+Please apply if you have: 
+
+Bachelors degree in Computer Science, Software Engineering or a related field (or equivalent work experience).
+Proficiency in Java and Spring Boot
+Experience with event-driven architectures and streaming platform like Kafka
+Familiarity with containerized applications using platforms such as Kubernetes
+Experience with relational and NoSQL database technologies
+Excellent problem solving, communication and teamwork skills
+
+Benefits and Perks:
+
+Work from (almost) anywhere; wherever you do your best work
+Focus on mental health and well-being
+Company paid therapy sessions through SpringHealth
+Company paid subscription to HeadSpace
+Company-wide weeks off each year - the whole team fully recharges (and returns without a pile-up of work!)
+Generous paid parental leave
+Generous paid vacation  time off for your birthday
+Paid volunteer time
+Health, dental  vision plans
+401k with company match
+Focus on your career growth
+Enriched learning and development opportunities
+Leadership development
+Access to thousands of on-demand e-learnings
+
+Diversity, Equity, and Inclusion
+OpenTable aspires to be a workplace that reflects the diverse communities we serve and a culture that is inclusive and welcoming. Hiring people with different backgrounds, experiences, perspectives, and ideas is critical to innovation and to how we deliver great experiences for our users and our partners. Representation matters.
+We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

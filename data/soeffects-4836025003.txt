@@ -1,0 +1,74 @@
+
+
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Programs team is responsible for ensuring project success across the range of projects that SOE encounters. We work to improve project outcomes, maximize learning opportunities, identify new ways to support our clients, and drive efficiency of project execution. At the frontlines of every client engagement, we collect data on the efficacy of the SOE services engine to inform the development of seamless processes and to inform how groups like Engineering, Business Development, and Operations should spend their time across project execution, personal growth, and infrastructure development.
+Job Overview:
+As a Technical Project Manager, you will work with our growing list of clients across a multitude of industries by bridging communication between engineers, customers, and other project stakeholders, both internally and beyond. At SOE, you will be put into new projects in unfamiliar fields where team success hinges on your ability to learn quickly and communicate complex subjects. Ideally, you are an empathetic manager with excellent analytical abilities, capable of building strong relationships and generating consensus.
+What You Will Do:
+
+Own responsibility of project success, team cohesion, and customer satisfaction
+Lead core project teams in the execution of complex solutions to difficult problems
+Facilitate gathering the right people together to answer key technical questions
+Drive client and internal communication, including difficult conversations on scope, timeline and budget
+Manage team morale, stress and time in order to maintain a healthy project culture and client relationship
+Identify and track key project metrics and provide reports to internal and external teams
+Perform customer service role for projects, and work with the Business Development Team to manage client relationships 
+Manage and track project budget, resourcing, and schedule across multiple teams and projects
+Drive the creation of project budgets, work breakdowns, rough-order estimates, task prioritization, and integration plans
+Expand the Projects team by supporting recruitment and screening candidates and contractors 
+Participate in the development of internal PM tools, policies and best practices 
+
+What You Will Need:
+
+Bachelors degree (Engineering, Computer Science, Physics, Math, Management, Business, or related fields)
+2-5 years experience working in a related management position in a related field 
+Familiarity with the labor breakdown and execution of engineering projects and project planning
+Excellent verbal and written communication skills on technical topics
+Ability to recognize project risk, scope creep, and missing critical requirements
+High level of organization and responsiveness
+Ability to implement low-overhead systems to track work and effort
+Familiarity with project management tools, such as Microsoft Project, Mavenlink, Jira, Confluence, etc.
+
+What Would Be Useful:
+
+Direct experience in technical electrical engineering project management
+Demonstrated project leadership experience in a team setting
+Experience developing and deploying infrastructure and process improvements
+Familiarity with formal project accounting and reporting
+Experience with electrical engineering design work and solid knowledge of embedded systems, firmware, power electronics, analog control, andor discrete logic design
+Experience with mechanical systems and packaging for aerospace, automotive, andor consumer electronics products
+Familiarity with quality management systems and practices, such as AS9100 or ISO
+Experience with test systems andor qualification testing for aerospace, automotive, andor medical projects
+Familiarity with software development flows and frameworks and core concepts of common programming languages (e.g., Python, C, C, etc.)
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 100,000-150,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.
+

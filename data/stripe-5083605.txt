@@ -1,0 +1,33 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe handles billions of dollars every year for businesses around the world, and the Risk team plays a critical role in the companys financial and partnership health.
+What youll do
+As a Credit Risk Strategist, Analytics on the Commercial Business Risk team, you will directly impact Stripes bottom line and growth capabilities by managing risks for the portfolio of Stripes largest and most strategic users. A cross-functional partner working across teams including Product, Engineering, Data Science and Sales, you will develop data-driven, globally scalable systems and processes that combine strong risk management fundamentals with seamless user experiences.
+Responsibilities
+
+Develop scalable methods to identify, measure, and control end-to-end risks across the user lifecycle: this will involve identifying and helping build crucial risk management systems including in-product and back-end controls, use of third-party risk assessment tools, and implementation of rule-based and model-based detection systems
+Identify  define key metrics used to observe the health of the commercial business portfolio
+Conduct root-cause analyses on out-of-pattern portfolio trends  customer management issues
+Become an expert on the global ecosystem of Stripes products, integrations, tools, and partner requirements, and how those elements interact with payment risks
+Develop strong internal relationships across partner teams (Data Science, Product, Engineering, Treasury, Sales, Operations, and Finance)
+Challenge the payments industry status quo to help enable innovative businesses to flourish online
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+7 years of relevant experience with financial risk modeling (credit risk is a plus but not required)
+A builders mindset with a willingness to question assumptions and conventional wisdom
+An inclination to solve problems systematically
+Excellent communication: You are able to convey complex ideas succinctly and develop an impactful narrative
+Analytical: You are well versed in data analysis, modeling, and can frame business decisions and tradeoffs effectively through quantitative analysis and visualization
+Collaborative: Ability to work effectively across teams, building strong working relationships in order to successfully execute on shared deliverables
+An enthusiastic roll up your sleeves mentality
+Experience with SQL required
+Bachelors degree in Economics, Statistics, Computer Science, Engineering or other quantitative or related field
+
+Preferred qualifications
+
+ Experience with Python

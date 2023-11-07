@@ -1,0 +1,62 @@
+Nous croyons que la collaboration et la qualit de notre travail sont optimales lorsque nous partageons un environnement physique commun. Chez Unity, nous avons adopt une approche hybride qui favorise la cohsion et la connexion, tout en conservant les avantages de la flexibilit. Nos employs sont demands de travailler depuis nos bureaux en moyenne 3 jours par semaine, sauf en cas daccord contraire avec lentreprise ou dispositions spcifiques dans leur contrat de travail.
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+ 
+Lopportunit
+Vous vous passionnez pour la cration dexpriences exceptionnelles destines aux dveloppeur(se)s? Vous souhaitez travailler sur des technologies de pointe et collaborer aux cts dquipes motives  travers le monde? Nous sommes  la recherche dun(e) dveloppeur(se) snior Fullstack typescriptReact qui rejoindra notre quipe principale qui se concentre sur lexprience des dveloppeur(se)s.
+Vous aurez la responsabilit de crer et de maintenir des applications Web qui aideront nos dveloppeur(se)s internes  travailler de manire  la fois plus efficace et plus optimale. Vous aurez galement la possibilit de partager vos connaissances et les processus standard.
+Ce que vous allez faire 
+
+Crer diffrentes API afin doffrir la meilleure exprience utilisateur pour les outils internes
+Crer des processus qui simplifieront la vie des dveloppeur(se)s internes
+Diriger des fonctionnalits en toute autonomie
+
+Ce que nous recherchons 
+
+Une exprience confirme des API (REST, GRPC, ...)
+Une matrise de nimporte quel langage back-end Web etou de Golang  apprendre
+Une exprience avec le infonuagique (GKE, AWS ou Azure) et les conteneurs
+De bonnes aptitudes  la communication et au travail dquipe
+
+Vous avez peut-tre galement
+
+Une exprience de lautomatisation de tches ambitieuses et complexes
+Une connaissance des outils dautomatisation, notamment Argo Workflows, Github Actions, etc.
+
+The opportunity
+Are you passionate about crafting outstanding developer experiences? Do you want to work with ground breaking technologies and collaborate with hardworking teams across the world? We are looking for a Senior web backend developer to join our central team that focuses on developer experience!
+You will be responsible for building and maintaining web applications that help our internal developers work more efficiently and optimally. You will also have the share your knowledge and standard processes.
+What youll be doing 
+
+Create different API to deliver the best user experience for internal tools
+Build workflow to simplify internal developer life
+Lead Features in total autonomy
+
+What were looking for 
+
+Solid experience with API (REST, GRPC, ...)
+Proficiency with any web backend language andor open to learn Golang
+Experience with cloud (GKE, AWS or Azure) and containers
+Good communication and teamwork skills
+
+You might also have
+
+Experience automating large and complex tasks
+Familiarity with automation tools such as Argo Workflows, Github Actions, etc
+
+La vie chez Unity
+Unity (NYSE: U) est la plateforme la plus utilise au monde pour la cration et lexcution interactive de contenu 3D en temps rel (RT3D). Des crateur(rice)s, notamment des dveloppeur(se)s de jeux vido, des artistes, des architectes, des concepteur(rice)s automobiles, des cinastes et bien dautres professionnel(le)s, utilisent Unity pour donner vie  leurs projets. Unity constitue la base sur lesquelles sont crs les contenus numriques les plus remarquables au monde. Plus prcisment, la plateforme de Unity offre un ensemble complet de solutions logicielles pour crer, excuter et montiser du contenu interactif 2D et 3D en temps rel pour les tlphones mobiles, les tablettes, les ordinateurs, les consoles et les appareils de ralit augmente et de ralit virtuelle.
+Au quatrime trimestre de lanne 2022, plus de 70 des 1000 meilleurs jeux mobiles qui ont t fait avec Unity sont drivs dun nombre combin des 1000 meilleurs jeux du Google Play Store et de lApp Store dApple. En 2022, les applications Made with Unity ont eu plus de 4 milliards de tlchargements par mois. Pour en savoir davantage, veuillez consulter le site www.unity.com.
+Unity est un employeur fier de garantir lgalit des chances. Nous nous engageons  favoriser un environnement inclusif et innovateur et  clbrer nos employs  travers lge, lthinicit, la couleur, lascendance, lorigine nationale, la religion, le handicap, le sexe, lidentit ou lexpression de genre, lorientation sexuelle ou tout autre statut protg conformment  la loi applicable. Nos diffrences sont des forces nous permettant de rpondre aux besoins croissants et volutifs de nos clients, partenaires et collaborateurs. Veuillez remplir ce formulaire si vous ncessitez des accommodations particulires pour rendre votre exprience dentrevue agrable et positive.
+Ce poste exige que son ou sa titulaire possde une connaissance de langlais qui soit suffisante pour lui permettre davoir des changes professionnels verbaux et crits dans cette langue, puisque laccomplissement des tches lies  ce poste ncessite des communications frquentes et rgulires avec des collgues et partenaire situs  lchelle mondiale et dont la langue commune est langlais
+Les chasseurs de ttes et les agences de recrutement ne peuvent pas soumettre rsumesCV par ce site Web ou directement aux superviseurs. Unity naccepte pas des chasseurs de ttes non sollicits et des rsums (CV) dagence. Unity ne payera pas dhonoraires  aucune agence tierce ou entreprise qui na pas sign dententes avec Unity.
+Relocalisation internationale nest pas disponible pour le poste.
+La protection de votre vie prive est importante pour nous. Veuillez prendre un moment pour consulter nos politiques de confidentialit pour les prospects et les candidats. Si vous avez des questions concernant la protection de votre vie prive, veuillez nous contacter  DPOunity.com.
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+International relocation is not available for this position.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+ 

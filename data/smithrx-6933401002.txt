@@ -1,0 +1,42 @@
+Who We Are:
+SmithRx is a rapidly growing, venture-backed Health-Tech company.  Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service.  With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country.
+We pride ouselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values:
+
+Integrity: Do the right thing. Especially when its hard.
+Courage: Embrace the challenge.
+Together: Build bridges and lift up your colleagues.
+
+Job Summary:
+Smith Health, Inc. is seeking a highly skilled and detail-oriented DevOps Engineer to join our dynamic software development team. The ideal candidate will be responsible for managing and streamlining the software build and release process, ensuring the smooth and efficient delivery of software products to clients and end-users. This role requires a strong understanding of software development, version control systems, continuous integration and continuous delivery (CICD) pipelines, and a commitment to delivering high-quality software on time.
+What You Will Do:
+
+Build and Deployment Automation: Design, develop, and maintain automated build and deployment pipelines to ensure efficient and error-free software releases.
+Version Control: Manage and administer version control systems (e.g., Git) to ensure code versioning, branching, and merging are well-organized and efficient.
+Migrate existing pipelines in CircleCI to GitHub actions. 
+Oversee all CICD pipelines to maximize productivity. 
+Release Management: Coordinate and execute software releases, including managing release branches, tagging releases, and support release execution by monitoring each phase of the release. Validates the release as it progresses through various release gates and test phases, alerts appropriate stakeholders of any errors or issues that need to be addressed.
+Environment Management: Maintain various development, testing, and production environments to ensure consistency and reliability throughout the software development lifecycle across different environments and AWS Accounts.
+Configuration Management: Manage software configuration and ensure that configuration files are consistent and correct across environments.
+Troubleshooting: Identify and resolve build and deployment issues promptly, minimizing downtime and disruptions.
+Collaboration: Collaborate closely with software developers, DevSecOps, QA engineers, and other cross-functional teams to understand project requirements and deliver software updates in a timely manner.
+Security and Compliance: Implement security best practices in the build and release process, ensuring compliance with industry standards and regulations.
+Documentation: Create and maintain detailed documentation for build and release processes, making it easy for team members to follow best practices.
+Performance Optimization: Continuously improve build and deployment processes to enhance efficiency and reduce build times.
+Monitoring and Reporting: Monitor the health and performance of CICD pipelines, reporting on key metrics and proactively addressing issues.
+
+What Will You Bring To SmithRx:
+
+Bachelors degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).
+Minimum of 5 years experience creating builds and executing releases with build management, continuous integration, and automation tools such as CirceCI and Github Actions
+Experience coordinating large releases and changes including developing project plans to manage them to completion.
+Proficiency in scripting languages (e.g., Python, Shell) for automation tasks.
+Strong knowledge of Git version control system and branching strategies.
+Familiarity with containerization technologies (e.g., Docker) and container orchestration (e.g., Kubernetes).
+Understanding of software development methodologies and agile practices.
+Excellent problem-solving and troubleshooting skills.
+Strong communication and collaboration skills.
+Proven experience organizing and facilitating release implementation and review meetings
+Understanding of Software development methodologies.
+Ability to conduct research into systems issues and products as required.
+Highly self-motivated and directed, with keen attention to detail.
+Ability to work in a team-oriented, collaborative environment.

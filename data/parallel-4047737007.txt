@@ -1,0 +1,37 @@
+Parallel Systems is a Series A startup company developing the future of intermodal transportation. Our mission is to decarbonize freight while improving supply chain logistics and safety. We are developing vehicles and software to create new autonomous and electric transportation systems for existing rail infrastructure.
+At Parallel Systems, we value the team as much as the mission. We want to work with talented people who are humble, motivated, and persistent. Our most successful team members are self-starters and collaborate with others to reach our collective goals.
+
+Join us in the Arts District in Spring of 2024 for an in-person internship! You will be assigned a project and a mentor, and interact daily with fellow engineers to create a completely new vehicle architecture.
+ 
+As an intern, youll be on a focused project that will include analysis, design, and verification in order bring ideas to reality. This could fall within several disciplines. Were currently developing the vehicle chassis design, perception system, platooning bumper assembly, and electric traction system including high voltage batteries, inverters, motors, and axles. Each of these products have opportunity to contribute directly to the design, manufacturing, validation, or integration. Additionally, well be executing vehicle pilot programs, in which we will be working directly with the integrated vehicles.
+ 
+We are looking for interns with experience in any of the following: Application of first principles in problem solving and ideation, CAD design, GDT, Component Fabrication, Test instrumentation, and analyticalscientific programming (i.e. Python, Matlab, Excel).
+
+ 
+
+Responsibilities 
+
+Work closely with multi-disciplinary engineering teams.
+Execute on all phases of hardware development including requirements capture, prototyping, and design validation.
+Design, build and analyze vehicle components, including structure and mechanisms.
+Support vehicle integration and validation.
+
+Basic Qualifications
+
+Currently enrolled in a full-time program working towards a bachelors, masters or PhD in mechanical engineering or a related engineering field
+Mechanical Engineering skills including: drawing creation and GDT, structural analysis, selection of materials and processes, understanding of failure mechanisms, and analyticalscientific programming (i.e. Python, Matlab, Simulink, Excel)
+Experience with at least one commercial CAD tool (Solidworks, Fusion 360, etc)
+Experience with at least one commercial FEA or multi-physics simulation package (i.e. Simulink, Solidworks, NASTRAN, ABAQUS, ANSYS)
+
+Preferred Qualifications 
+
+Steel Structures: Experience in with design and qualification for various forms of steel structures including fabricated weldments, forgings, and castings. Experience with static and dynamic analysis, including fatigue life. Understanding of material selection and experience with process specification
+Traction Systems: Experience with component design, component specification, mechanical integration, or modeling of electric traction systems. Components include HV batteries, traction inverters, traction motors, gear assemblies, and axles
+Vehicle Dynamics: Experience designing vehicle suspensions. Experience with vehicle modeling and dynamics analysis
+Multi-physics product development: Experience developing mechanical assemblies such as cameras, batteries, traction motors, and force transducers
+Electronics: Experience with electronics and sensor packaging including requirements for high voltage isolation, heat dissipation, vibration isolation, water sealing, and manufacturability. Experience enclosure designs in sheet metal, stamping, die casting, andor injection molding
+Durability: Experience with durability testing and failure analysis in support of lifetime qualifications
+Experience designing fluid systems including hydraulics and thermal control systems. Schematic design, component requirements derivation, component characterization, and system validation
+
+ Please note the national salary range listed in the job posting reflects the new hire salary range across levels that would be applicable to the position. Final salary will be commensurate with the candidates final level. Also, this range represents base salary only and does not include equity or benefits, if applicable.34hour to 44hour34—44 USDParallel Systems is an equal opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to any discriminatory factor protected by applicable federal, state or local laws. We work to build an inclusive environment in which all people can come to do their best work.
+Parallel Systems is committed to the full inclusion of all qualified individuals. As part of this commitment, Parallel Systems will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please contact your recruiter.

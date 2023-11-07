@@ -1,0 +1,50 @@
+Introduction to Demandbase: 
+Demandbase is the Smarter GTM company for B2B brands. We help marketing and sales teams overcome the disruptive data and technology fragmentation that inhibits insight and forces them to spam their prospects. We do this by injecting Account Intelligence into every step of the buyer journey, wherever our clients interact with customers, and by helping them orchestrate every action across systems and channels - through advertising, account-based experience, and sales motions. The result? You spot opportunities earlier, engage with them more intelligently, and close deals faster. 
+As a company, were as committed to growing careers as we are to building world-class technology. We invest heavily in people, our culture, and the community around us. We have offices in the San Francisco Bay Area, Seattle, and teams in the UK and India, and allow employees to work remotely. We have also been continuously recognized as one of the best places to work in the San Francisco Bay Area.
+Were committed to attracting, developing, retaining, and promoting a diverse workforce. By ensuring that every Demandbase employee is able to bring a diversity of talents to work, were increasingly capable of living out our mission to transform how B2B goes to market. We encourage people from historically underrepresented backgrounds and all walks of life to apply. Come grow with us at Demandbase!
+About the Role:
+The compensation range for this role is: 169,374 - 272,290
+Are you a seasoned Data Scientist with a strong focus on AdTech, looking to take your career to the next level? We are seeking a Staff Data Scientist with extensive experience in AdTech to join our team. In this role, you will play a key role in driving innovation and optimizing advertising strategies, leveraging your deep knowledge of data science and AdTech to deliver impactful results for our customers.
+Key Responsibilities:
+
+Product and Engineering: Collaborate with our product and engineering teams to pinpoint the precise objectives of advertising campaigns and architect machine learning models that optimize these campaigns with precision.
+Account Ranking in B2B Buying Journey: Spearhead the development of algorithms to rank accounts in the B2B buying journey, shaping the direction of targeted advertising campaigns.
+Intent Taxonomy: Create and refine a browsable taxonomy of intent signals, enabling advertisers to gain a deeper understanding of user intent.
+
+What Youll Be Doing:
+
+Advanced Algorithm Development: Drive the development of advanced machine learning algorithms that optimize advertising strategies and deliver immediate business impact on KPIs.
+Model Deployment: End-to-end, fullstack ownership of ML models. Take charge of building, testing, and deploying custom MLAI models and algorithms on extensive datasets, establishing rigorous processes for monitoring and analyzing their performance in production environments.
+Effective Communication: Excel in effectively communicating complex data science methods, statistical findings, and algorithmic insights to technical and non-technical stakeholders.
+Championing Innovation: Stay at the forefront of AdTech and data science, actively leading innovation initiatives within the organization.
+
+What Were Looking For:
+
+Experience: A minimum of 5 years of robust data science experience in AdTech.
+Educational Background: A degree in Statistics, Computer Science, Machine Learning, Mathematics, Computational Psychology, Operational Research, Physics, or a related field.
+Project Leadership: A strong track record of leading greenfield projects from conceptualization to production release.
+Analytical Skills: Proficiency in using analytical and database tools such as Jupyter notebooks, Hive, SQL, and No-SQL databases.
+Coding Expertise: Demonstrated ability to write clean and high-performance code in Python.
+AIML Proficiency: Proficiency in one or more of the following AIML technologies is advantageous: TensorFlow, scikit-learn, Spark MLlib, Bigquery Machine Learning, large-scale datasets, Natural Language Processing, and Graph algorithms.
+
+Nice to Have Skills:
+
+Team Leadership: Previous experience in leading teams and managing complex projects.
+Cloud Competency: Familiarity with Google Cloud or AWS cloud platforms.
+
+Desired Qualities:
+
+Ownership Mentality: Willingness to take full ownership of end-to-end machine learning products you develop or contribute to.
+Self-Driven: A highly self-motivated individual with the ability to operate with significant autonomy.
+Problem-Solving Acumen: Proficiency in breaking down complex problems and delivering innovative solutions.
+Goal-Focused: An ability to maintain a sharp focus on project goals without getting lost in the minutiae.
+Data Enthusiast: A passion for data, metrics, and using them to drive the success of projects.
+
+As a Staff Data Scientist specializing in AdTech, you have the opportunity to make a significant impact in the ever-evolving landscape of data-driven advertising. Join our dynamic team today and take on a role that offers both challenges and rewards in the world of Advertising. Apply now to seize this exciting opportunity to contribute to the future of data-driven advertising.
+Benefits:
+Our benefits include options for up to 100 paid Medical and Vision premiums for employees, flexible PTO policy, no internal meeting Fridays, Modern Health mental wellness platform, and 11 paid holidays and 2 additional weeks where all Demandbase employees take off (the week of July 4th and the week of Thanksgiving). Plus 401(k), short-termlong-term disability, life insurance, and all those good things.
+Our Commitment to Diversity, Equity, and Inclusion at Demandbase
+At Demandbase, we believe in creating a workplace culture that values and celebrates diversity in all its forms. We recognize that everyone brings unique experiences, perspectives, and identities to the table, and we are committed to building a community where everyone feels valued, respected, and supported. Discrimination of any kind is not tolerated, and we strive to ensure that every individual has an equal opportunity to succeed and grow, regardless of their gender identity, sexual orientation, disability, race, ethnicity, background, marital status, genetic information, education level, veteran status, national origin, or any other protected status. We do not automatically disqualify applicants with criminal records and will consider each applicant on a case-by-case basis.
+We recognize that not all candidates will have every skill or qualification listed in this job description. If you feel you have the level of experience to be successful in the role, we encourage you to apply!
+We acknowledge that true diversity and inclusion require ongoing effort, and we are committed to doing the work required to make our workplace a safe and equitable space for all. Join us in building a community where we can learn from each other, celebrate our differences, and work together.
+ Personal information that you submit will be used by Demandbase for recruiting and other business purposes. Our Privacy Policy explains how we collect and use personal information.

@@ -1,0 +1,41 @@
+Parallel Systems is a Series A startup company developing the future of intermodal transportation. Our mission is to decarbonize freight while improving supply chain logistics and safety. We are developing vehicles and software to create new autonomous and electric transportation systems for existing rail infrastructure.
+At Parallel Systems, we value the team as much as the mission. We want to work with talented people who are humble, motivated, and persistent. Our most successful team members are self-starters and collaborate with others to reach our collective goals.
+
+Were looking for a talented Mechanical Engineer to help design components and test the system with a focus on electronics and perception, in Downtown Los Angeles. In this role, youll work with fellow engineers and technicians to bring up new designs in our lab and run vehicles on our dedicated test track just outside the city. This is an opportunity to engage early with new designs, making a huge impact on the direction of the technology. Ideal candidates would be building on strong first principles and engineering skills and have a desire to expand their responsibilities to own hardware designs. 
+ 
+Responsibilities  
+
+Work closely with multi-disciplinary engineering teams. Derive architecture, meet and present technical direction, build consensus
+Full life cycle hardware development including requirements capture, prototyping, design validation, and manufacturing readiness.
+Create and execute design of experiments for decisions on architecture, component selection, and manufacturing processes.
+Support manufacturing, vehicle integration, and validation.
+Mechanical design of electronics and perception hardware 
+
+Working with closely with structural, electrical, and software engineering to develop interfacing requirements
+Designing mechanical components of perception hardware from optics, optical support systems
+Design and Integration of subsystems including lights, horns, cameras, antenna.
+Design, validate, and integrate enclosures robust to harsh and varied environments (Vibration, thermal, IP standard dust and water ingress) 
+
+
+
+Basic Qualifications 
+
+BS in Mechanical Engineering or similar Engineering discipline
+3 years of professional or project experience in hardware development, machine design, or validation
+Mechanical Engineering skills including: drawing creation and GDT, structural analysis, selection of materials and processes, understanding of failure mechanisms, and analyticalscientific programming (i.e. Python, Matlab, Simulink, Excel)
+Experience with at least one commercial CAD tool (Solidworks, Fusion 360, etc)
+Experience with at least one commercial FEA or multi-physics simulation package (i.e. Simulink, Solidworks, NASTRAN, ABAQUS, ANSYS)
+
+ Preferred Qualifications  
+
+5 years of experience in hardware development, machine design, or validation
+Masters Degree in Mechanical Engineering or similar Engineering discipline
+Experience in with design and qualification for various forms of steel structures including fabricated weldments, forgings, and castings. Experience with static and dynamic analysis, including fatigue life. Understanding of material selection and experience with process specification
+Experience with electronics and sensor packaging including requirements for high voltage isolation, heat dissipation, vibration isolation, water sealing, and manufacturability. Experience enclosure designs in sheet metal, stamping, die casting, andor injection molding
+Experience designing fluid systems including hydraulics and thermal control systems. Schematic design, component requirements derivation, component characterization, and system validation
+Experience with optical systemscameras Knowledge of camera systems and technical specifications a plus
+
+ 
+
+Please note the national salary range listed in the job posting reflects the new hire salary range across levels that would be applicable to the position. Final salary will be commensurate with the candidates final level. Also, this range represents base salary only and does not include equity or benefits, if applicable.120,000year to 150,000year  equity  benefits120,000—150,000 USDParallel Systems is an equal opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to any discriminatory factor protected by applicable federal, state or local laws. We work to build an inclusive environment in which all people can come to do their best work.
+Parallel Systems is committed to the full inclusion of all qualified individuals. As part of this commitment, Parallel Systems will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please contact your recruiter.

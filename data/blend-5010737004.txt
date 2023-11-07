@@ -1,0 +1,80 @@
+Blend is a diverse team of problem solvers who believe that the worlds financial resources should be more accessible. Our cloud banking platform is used by Wells Fargo, U.S. Bank, and over 330 other financial services firms to acquire more customers, increase productivity, and deliver end-to-end digital experiences. Our software enables our customers to process an average of more than 5 billion in loans per day, making it possible for consumers to reach their financial goals faster and lead better lives. Come do work that matters.
+ As the Manager, IT Audit  SOX on our Internal Audit  Enterprise Risk Management team, you will be focused on IT audits of cloud-based and custom developed systems, SOX 404 testing, as well as Enterprise Risk Management (ERM) and Fraud Risk Assessment (FRA) activities.  This role helps the company to accomplish its objectives and improve IT operations through an independent and objective assurance and advisory approach designed to add value. You will report to the Internal Audit Lead (Group Manager-Chief Audit ExecutiveHead of Audit) and oversee the work of a Senior IT Auditor and potentially also co-source resources depending on the project skillset needs, and you will work with various business  IT partners across the company.  Specifically, this role is responsible for planning and leading IT audits in all areas of IT, managing and detailed reviews of fieldwork for quality, and preparing audit findings for reporting to the CAE and eventually, senior management.  
+The ideal candidate is an ex-Big 4, highly motivated self-starter with prior experience in IT Internal Audits of modern tech stacks, Enterprise Risk Management, and SOX in the Fintech or Software industry who has superior written and oral communication skills, takes pride in the accuracy and timeliness of their work and is used to working as part of a remote team and collaborating with business partners in offshore locations such as India and Mexico.  
+How youll contribute: 
+
+Lead planning and conducting IT internal audit projects in accordance with the Institute of Internal Auditors (IIA) professional practice standards
+Lead administrative coordinationproject management of SOX 404 ITGC testing, IT Application Controls, IPEkey reports  spreadsheets, SOC reports, annual IA IT audit plan and Enterprise Risk Assessment, develop timelines and budgets
+Lead the identification and assessment of IT risks
+Contribute to ongoing development of the ERM, Fraud Risk Management programs
+Perform interviews with stakeholders
+Schedule meetings, request documents from business partners as needed
+Obtain, analyze and evaluate existing documentation, previous reports, data, flowcharts
+Develop process flowcharts and data flow diagrams
+Evaluate internal controls design and operating effectiveness
+Evaluate compliance with policies and procedures
+Ensure work is performed within budget and manage projects based on timeline
+Develop audit test procedures when needed 
+Perform detailed reviews of Test of Design (TOD) and Test of Effectiveness (TOE) work to ensure work meets IIA and PCAOB quality standards
+Review workpapers for work performed and conclusions reached; to ensure they are Prepare clear, concise, accurate, logical, and detailed 
+Explain complex, technical andor sensitive information in a straightforward manner
+Provide meaningful recommendations to improve policies procedures systems processes and address root causes of ineffective or inefficient controls 
+Work with business partners to address control gaps and monitor action plans
+Exercise judgment and discretion related to conducting audit work
+Participate in special projects as assigned by Internal Audit management
+Promote an ethical and risk-aware culture at the company
+Maintain knowledge of the business of Blend Platform and Title365, including the underlying technologies
+Maintain knowledge of generally accepted auditing and accounting standards and maintain professional certifications (e.g., CISA)
+Serve as a back-up for system administration activities in the SOXHub application (user provisioning, de-provisioning, work stream tasks, issues management, controls audits) and participate in vendor webcasts and meetings such as health checks to facilitate Blend adopting all available functionality.  Vendor training in this tool (online) will be provided
+
+Who you are: 
+
+Bachelors Degree in a business or technology discipline
+Big 4 (Deloitte, EY, KPMG, PwC) Advisory background
+Strong understanding of business  IT operations processes for a software company
+Strong understanding of CloudSoftware as a Service (SAAS)
+Strong business judgment that enables issue identification and appropriate escalation
+Strong critical thinking, analytical and investigative skills
+Strong project and time management skills
+Strong coachingmentoring skills to develop senior auditor(s)
+Ability to effectively juggle multiple projects and keep Head of AuditCAE informed
+Ability to think independently, take ownership, and drive initiatives to resolution
+Ability to provide meaningful recommendations to improve policies, procedures, systems, processes; as well as to address root causes of ineffectiveinefficient controls 
+Ability to explain complex andor sensitive information in a straightforward manner
+Ability to manage stakeholders in a service oriented, problem-solving, practical mindset
+Strong rapport and relationship building skills to collaborate and positively influence partnerships across the company
+Proactive and self-initiating work style
+Integrity, openness, and transparency
+Intellectual curiosity
+Critical thinker, ability to identify root cause of issues
+
+QualificationsRequirements: 
+
+Minimum of 5 years experience in IT audit  SOX 404
+Experience as a ManagerSenior Manager of IT Audit
+Experience working as part of a remote team
+Work collaboratively with partners to address control gaps, monitor action plans
+Prior experience managing SOX 404 ITGC and IT audit testing according to defined budgets and timelines, including administrative tasks such as meeting coordinationscheduling and requesting documents
+Prior experience leading IPE (Information Provided by Entity) and testing the completeness and accuracy of key reports and spreadsheets
+Prior experience leading control owners in completing SOC (Service Organization Control) Report reviews for SOC1, including controls mapping and mapping of Complementary End User Computing Controls
+Experience with Visio, SOXHub, NetSuite, Workday HCM,  Salesforce, Slack, GSuite
+Experience with auditing cloud-based, open-source systems  tools
+Experience with auditing Agile IT
+Experience with SOC, ISO, PCI frameworks
+Excellent written English communication skills: clear, concise, professional
+
+Certifications: 
+
+Required:
+
+Certified Information Systems Auditor (CISA) or to obtain the CISA within year 1 of employment
+
+
+Optional: Certified Fraud Examiner (CFE), Certificate in Risk Management Assurance (CRMA), Project Management Professional (PMP), Certified Information Systems Security Professional (CISSP)
+
+ 
+  
+Blend is an equal opportunity employer that values diversity, inclusion and belonging. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We will consider for employment all qualified applicants with arrest and conviction records in a manner consistent with applicable laws.
+Notice at Collection and Privacy Policy for California Job Applicants
+ 
+If you have a disability and you wish to discuss potential accommodations related to applying for employment, please contact Blend at (650) 550-4810 or hraccessibilityblend.com.

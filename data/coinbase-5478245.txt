@@ -1,0 +1,47 @@
+At Coinbase, our mission is to increase economic freedom around the world, and we couldnt do this without hiring the best people. Were a group of hard-working overachievers who are deeply focused on building the future of finance and Web3 for our users across the globe, whether theyre trading, storing, staking or using crypto. Know those people who always lead the group project? Thats us.
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we look for candidates who will thrive in a culture like ours, where we default to trust, embrace feedback, and disrupt ourselves. Second, we expect all employees to commit to our mission-focused approach to our work. Finally, we seek people who are excited to learn about and live crypto, because those are the folks who enjoy the intense moments in our sprint and recharge work culture. Were a remote-first company looking to hire the absolute best talent all over the world.
+Ready to LiveCrypto? Who you are:
+
+Youve got positive energy. Youre optimistic about the future and determined to get there. 
+Youre never tired of learning. You want to be a pro in bleeding edge tech like DeFi, NFTs, DAOs, and Web 3.0. 
+You appreciate direct communication. Youre both an active communicator and an eager listener - because lets face it, you cant have one without the other. Youre cool with candid feedback and see every setback as an opportunity to grow.
+You can pivot on the fly. Crypto is constantly evolving, so our priorities do, too. What you worked on last month may not be what you work on today, and that excites you. Youre not looking for a boring job.
+You have a can do attitude. Our teams create high-quality work on quick timelines. Owning a problem doesnt scare you, but rather empowers you to take 100 responsibility for achieving our mission.
+You want to be part of a winning team. Were stronger together, and youre a person who embraces being pushed out of your comfort zone. 
+Security is a primary competency at Coinbase, and the Security Team keeps a watchful eye over every aspect of it. Every day, we go to battle against some of the most sophisticated attackers in the world to protect tens of billions of dollars worth of digital assets and ensure that our customers and employees can enjoy a safe, trusted experience.
+What youll be doing (ie. job duties):
+At Coinbase, we believe that securely building onchain products is one of our key differentiators. Blockchain Security is essential to continuing to instill our customers trust in Coinbase and the onchain economy. 
+Our work is varied and spans both onchain and offchain systems — from secure storage of and access to key management infrastructure offchain to providing safe infrastructure for developers and users to interact with dapps, tokens, and other onchain infrastructure. Our goal is to detect and prevent security breaches through high quality assessments and successful remediation of security vulnerabilities.
+
+Expand and formalize our Blockchain Security program to drive continuous and ongoing risk assessment for our onchain products
+Build a comprehensive, prioritized assessment of the security risks that our onchain products face and a roadmap for mitigating those risks
+Develop onchain security strategies and provide security guidance for new onchain products and technologies
+Support teams in reviewing, auditing, and securing novel smart contracts and onchain infrastructure
+Lead the team in building new frameworks, analysis tools, and security systems for our onchain products
+Drive novel security reviews for onchain projects at the cutting edge of the industry
+Define best practices for onchain security and engage with product and engineering teams to get them adopted
+Provide technical mentoring for Blockchain Security team members
+
+What we look for in you (ie. job requirements):
+
+You have extensive knowledge of onchain ecosystems, including the inner workings of L1 and L2 networks, DeFi protocols, and DAOs
+At least 4 years experience in Blockchain Security with expertise in the latest onchain industry leading products 
+At least 8 years experience and solid foundation in information security with strong understanding of threat modeling
+You have a demonstrable expertise in the blockchain security with deep understanding of attacker-mindset 
+High agency. You act as an owner and take full responsibility of the security function
+You have an energy and self-drive for continuous learning as crypto is a constantly and rapidly changing space
+You are passionate about mentoring and growing blockchain security engineers and have a willingness to learn from your team 
+You excel in  clear, direct, and kind communication with technical and non-technical stakeholders
+You have ability to develop relationships with security, product, and engineering teams
+
+Nice to haves:
+
+You have experience in securing offchain products (e.g. signing service, wallets, nodes)
+You have hands on experience in building onchain monitoring technology
+
+Job : P53521Pay Transparency Notice: The target annual salary for this position can range as detailed below. Full time offers from Coinbase also include target bonus  target equity  benefits (including medical, dental, and vision).Pay Range:252,500—252,500 CADCommitment to Equal Opportunity
+Coinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law.  For US applicants, you may view Pay Transparency, Employee Rights and Know Your Rights notices by clicking on their corresponding links.  Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law. 
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information.  For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+Global Data Privacy Notice for Job Candidates and Applicants
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.     
+ 

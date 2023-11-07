@@ -1,0 +1,38 @@
+As a DevSecOps Engineer, youll play a vital role in enhancing the security, reliability, and efficiency of our clients software development and deployment processes, with the goal to make an impact across the federal government. 
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Collaborate with cross-functional teams to integrate security practices into the entire software development lifecycle, from design and coding to testing and deployment.
+Implement and maintain automated security checks, continuous integration, continuous delivery (CICD) pipelines, and infrastructure-as-code (IaC) configurations to ensure consistent security posture.
+Perform vulnerability assessments, penetration testing, and security code reviews to identify and mitigate potential security risks in software applications and systems.
+Develop and maintain security policies, standards, and procedures in alignment with DoD and industry best practices.
+Research and implement advanced security tools and technologies to enhance the organizations cybersecurity capabilities.
+Monitor and respond to security incidents and breaches, conducting post-incident analysis and recommending corrective actions.
+Collaborate with system administrators, developers, and other stakeholders to ensure secure configuration management and system hardening.
+Provide expertise in securing cloud environments, containerization, and microservices architecture.
+Participate in security audits, compliance assessments, and reviews to meet DoD and regulatory requirements.
+
+What youll need to succeed: 
+
+Bachelors degree in Computer Science, Information Security, or a related field; advanced degree preferred.
+Minimum of 8 years of hands-on experience in DevSecOps, cybersecurity, or related roles.
+Strong understanding of software development methodologies, CICD practices, and version control systems (e.g., Git).
+In-depth knowledge of security principles, protocols, and technologies, including OWASP Top Ten, encryption, authentication, and access control.
+Experience with security tools such as static and dynamic analysis tools, vulnerability scanners, and intrusion detectionprevention systems.
+Expertise in cloud security (e.g., AWS, Azure), containerization (e.g., Docker, Kubernetes), and infrastructure automation.
+Strong analytical and problem-solving skills, with the ability to assess complex systems and identify security gaps.
+Experience working on an Agile development team and the ability to obtain privileged user access.
+An active TSSCI clearance with CI Poly
+Experience with Kubernetes, including Elastic Kubernetes Service (EKS) and Azure Kubernetes Service (AKS) a plus.
+Experience building andor deploying a data protection as-a-service (DPAAS) solution a plus.
+Relevant certifications such as CISSP, Certified DevSecOps Professional, AWS Certified Security  Specialty, or equivalent a plus.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

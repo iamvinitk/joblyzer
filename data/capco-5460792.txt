@@ -1,0 +1,56 @@
+Rejoindre CAPCO, cest rejoindre une organisation qui sengage pour un environnement de travail inclusif o vous tes encourag  BeYourselftAtWork. 
+Nous clbrons lindividualit et reconnaissons que la diversit et linclusion sous toutes leurs formes, sont essentielles au succs. 
+Nous pensons que chacun apporte quelque chose de diffrent lors dun projet, nous aimerions donc savoir ce qui vous rend diffrent. 
+ propos de Capco 
+Capco est une socit internationale de conseil en technologie et en consulting, spcialise dans le secteur des services financiers. 
+Notre passion est daider nos clients  se transformer dans un secteur en constante volution. 
+Nous sommes  avons : 
+
+Des experts dans les domaines de la banque  
+Une connaissance approfondie de loffre de services financiers, notamment en matire de finance, de risque et de conformit, de criminalit financire, de services bancaires de base, etc. 
+Une forte comprhension des technologies et de nombreuses russites dans le domaine des technologies de linformation 
+Nous sommes dtermins  dvelopper nos activits et  recruter les meilleurs talents pour nous aider  y parvenir. 
+Une culture dentreprise, agile et flexible. 
+
+Description du poste 
+Capco est  la recherche de personnes engages, innovantes et cratives pour rejoindre notre quipe de technologie et dingnierie. 
+Nous recherchons des dveloppeurs dapplications web pour travailler par exemple  la cration dune nouvelle banque en ligne !  Oui, nous construisons une nouvelle banque en ligne pour lun des acteurs majeurs de lindustrie bancaire franaise -  partir de zro en utilisant la plateforme Google Cloud et les dernires technologies.  
+En tant que Dveloppeur Frontend Capco, vous aurez loccasion de : 
+
+Travailler sur les dernires versions de ReactJs et Typescript, en utilisant lAPI suspense, les transitions, les server components et les autres nouveauts  venir, notamment sur React asynchrone. 
+Dtre form pour monter en comptences sur ReactJs et son cosystme. Les dveloppeurs angular et vue qui veulent apprendre ReactJs sont les bienvenus ! 
+Convaincre vos collgues dutiliser cette nouvelle librairie ou ce nouveau framework que vous adorez. Mettez-vous en avant en animant un de nos BBL internes, participez  lamlioration des connaissances techniques de la communaut Front de Capco. 
+Participer  des projets de dveloppements dapplications internes. Utilisons sur nos projets les outils de demain, avant de les recommander avec les bons arguments  nos clients.  
+Dvelopper de nouvelles comptences. Pourquoi ne pas regarder les technologies backend que nous utilisons chez Capco (nodejs, nextjs, java, ), ou nos outils de CICD dans le cloud. Devenez dveloppeur full-stack grce  nos programmes de formation. 
+
+ 
+En tant que Dveloppeur chez Capco, vous devez : 
+
+tre obsd par lamlioration continue, avoir une affinit avec les meilleures pratiques dingnierie logicielle, notamment les mthodologies Agile. 
+Savoir vous prsenter et expliquer vos forces et vos atouts. Vous tes force de propositions sur les problmatiques rencontres sur les projets. 
+Avoir la capacit de communiquer des ides complexes  des non-spcialistes avec loquence et confiance. 
+Avoir lenvie de faire partie de lquipe dingnieurs qui faonne lavenir de la finance. 
+
+ 
+Comptences et expertise 
+Vous avez de lexprience dans les mthodologies et technologies suivantes : 
+
+Connaissance de React JS ou dune autre librairie ou framework JavaScript. 
+La ralisation de projets en Typescript est un plus. 
+Connaissances de HTML  CSS.  
+Utilisations doutils de tests comme Jest, React Testing Library, Cypress
+Exprience de lintgration avec des APIs (Rest, GraphQL, ) dveloppes par les quipes backend. 
+Bonne comprhension des principes de scurit web. 
+Lutilisation de Docker, notamment dans la CICD est apprcie. 
+
+Pourquoi rejoindre Capco en tant que dveloppeur de logiciels ? 
+Nous offrons : 
+
+Une culture de travail axe sur linnovation et la cration de valeur durable pour nos clients et nos employs. 
+Des opportunits de formation continue pour vous aider  acqurir de nouvelles comptences ou  approfondir votre expertise existante 
+
+
+Une structure horizontale et non hirarchique qui vous permettra de travailler avec des partenaires seniors et directement avec les clients. 
+Une culture diversifie, inclusive et mritocratique 
+Nous vous invitons  aller visiter notre plateforme Welcome to the Jungle ICI 
+Tout au long de votre process de recrutement, nous restons disponible pour changer avec nos collaborateurs avant ou aprs vos entretiens. 

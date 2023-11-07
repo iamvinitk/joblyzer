@@ -1,0 +1,31 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, youll play an important role in enabling the newest technologies and experiences. You will build robust frameworks  features. You will empower both developers and Pinners alike. Youll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking thats required in order for big bets and smart risks to pay off, youll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.
+What youll do:
+
+Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest
+Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running AB tests, to architecting and building solutions that can scale to support millions of users
+Partner with design, product, and backend teams to build end to end functionality
+Put on your Pinner hat to suggest new product ideas and features
+Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop
+Grow as an engineer by working with world-class peers on varied and high impact projects
+
+What were looking for:
+
+Deep understanding of Android development and best practices in Kotlin andor Java, e.g. Activity Lifecycle, memory management, etc.
+5 years of industry Android application development experience, building consumer or business facing products
+Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers
+Ability to keep up-to-date with new technologies to understand what should be incorporated
+Strong collaboration and communication skills
+
+Product Android Engineering teams (alphabetized):
+-Community Engagement Team
+-Content CreationManagement Team
+ 
+This position is not eligible for relocation assistance.
+ 
+LI-REMOTE
+LI-KK6At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only125,630—258,470 USDOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

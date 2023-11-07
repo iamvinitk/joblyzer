@@ -1,0 +1,21 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+As a Partner Engineer on the Partner Solutions Engineering team, youll be the platform expert responsible for enabling our most strategic business partners to grow by architecting technical solutions and championing the development of new features and products to bring our partners to market through technical integrations. This role will allow you to execute on solving real-world business challenges through Lyfts API platform.
+Our team is looking for entrepreneurial, fast-moving engineers who can deeply understand our partners business objectives and guide their technical teams to build high-quality, scalable solutions powered by Lyfts infrastructure. This is a highly cross-functional role where youll work closely with others in Engineering, Product, Sales and Business Development - all with the goal of making our partners successful and improving peoples lives through the worlds best transportation.
+Responsibilities:
+
+Own the technical strategy and execution of Lyft Business partnerships from ideation phase, to development, to launch of their integration, and beyond
+Build new API products and improve existing ones by working with Lyft product engineering teams, representing the voice of our technical partners.
+Understand the challenges and complexities of different industries and design technical solutions to solve for these at scale
+Influence the roadmap and product development of Lyft Business products to meet your industrys business challenges
+Develop deep integrations and custom solutions for and with our partners
+Build developer tools and resources to improve the partners integration  developer experience
+
+Experience:
+
+4 years of experience shipping production quality code
+Strong understanding of API Platforms, REST APIs, SDKs, HTTP, and OAuth
+Solid communication skills with the ability to effectively communicate technical concepts to both technical and non-technical audiences
+Ability to manage your responsibilities across many different aspects of the platform from fostering partner relationships, to debugging, to designing APIs and documenting new APIs
+Experience working in highly collaborative environments
+Previous experience as a partner engineer, solutions engineer or API engineer a plus
+B.S. or M.S. in Computer Science or equivalent degree or experience

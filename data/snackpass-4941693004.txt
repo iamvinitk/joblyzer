@@ -1,0 +1,49 @@
+Who we are Snackpasss mission is to unify the physical and digital world for local commerce.
+We power mobile order pickup and social commerce for restaurants, modernizing the customer experience while making restaurant operators successful.
+Opportunity 
+Snackpass is one of the fastest growing marketplaces (a16z top marketplaces), and a top 100 YC company. We are backed by Andreeson Horowitz, Y Combinator, General Catalyst, First Round Capital, Craft Ventures and many others. We are hiring people who are humble and hungry to join us in any of our hubs (NYC, SF, LA) or remotely. 
+Our vision is to be the dominant platform for pickup, a 750B market globally.
+About the Role 
+We are seeking a talented and experienced Senior Data Engineer to join our dynamic team. As a Senior Data Engineer, you will play a crucial role in building and maintaining data pipelines, developing and managing dashboards, and contributing to tool development. Your expertise will enable us to efficiently process and analyze large volumes of data, providing valuable insights to drive business decisions.
+What were looking for 
+
+4 years of proven experience as a Data Engineer, with a focus on building robust data pipelines and maintaining data infrastructure.
+Strong programming skills in languages like Python, Scala or Javascript, with a solid understanding of software engineering principles.
+Hands-on Experience building or maintaining data pipelines with a modern orchestration tools like AirflorwPrefectDagster
+Strong expertise with SQL and non-SQL DBs, cloud-based data platforms (e.g., AWS, GCP) and their related services (S3, BigQuery, etc.).
+Expert level writing of SQL for data manipulation, transformation and for analytics.
+Experience building and maintaining interactive and intuitive dashboards using tools like Looker.
+Comfortable with tool development, including building and enhancing internal data tools and frameworks.
+Excellent problem-solving and analytical skills, with a strong attention to detail.
+Effective communication skills, with the ability to collaborate with cross-functional teams and present complex ideas to both technical and non-technical stakeholders.
+
+What youll be working on 
+
+Build scalable and efficient data pipelines to collect, process, and transform large volumes of data from diverse sources.
+Develop and maintain data models, ensuring data integrity and optimizing query performance.
+Collaborate with stakeholders to understand their data requirements and provide the necessary infrastructure and support.
+Build and maintain interactive dashboards and visualizations to enable data-driven decision-making across the organization.
+Contribute to the development of internal data tools and frameworks, automating repetitive tasks and improving data accessibility and usability.
+Stay up to date with the latest advancements in data engineering technologies and best practices, and proactively recommend improvements to our data infrastructure.
+Mentor and provide guidance to junior data engineers, fostering a culture of learning and growth.
+
+Cash Compensation for this role: 153,000 - 210,000
+Please note: Final offer amounts are determined by multiple factors, including prior experience, expertise, and leveling. The final offer amount may vary from the amount above. Please note that this range does not represent additional compensation benefits (such as equity, 401K or medical, dental, or vision insurance).
+
+
+
+ 
+
+
+
+What You Will Get From Us:
+You will receive competitive compensation, a generous equity grant in a high-growth start-up, and benefits like healthcare, medical  dental coverage, unlimited PTO, a home office budget, wellness budget and more. 
+Importantly, you will also receive an unparalleled amount of ownership over the work you do here. We are a small team, so the opportunity to make a large impact, work on a broad spectrum of challenges and grow your personal skill-set awaits you here.
+Finally, you will get a diverse and inclusive work environment where you will be surrounded by hungry and humble colleagues.
+Snackpass is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. In fact, we are confident that the most inclusive and diverse teams accomplish the most extraordinary results.
+
+
+
+
+ 
+

@@ -1,0 +1,54 @@
+At Paradigm, we are changing the future of finance! By joining us at this early stage, youll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. 
+About Paradigm
+
+Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. 
+We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. 
+Weve built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over 10 B per month.
+We are a diverse, global team led by our organizational principles and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!
+We are backed by the best traders and investors in the space, including Jump Capital, Genesis Trading, Dragonfly Capital, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.
+The role
+ 
+As a core member of the backend engineering team, you will build and maintain major features, through inception, design, implementation, and launch, working closely with product and engineering disciplines across the company. The perfect candidate has an in-depth understanding of distributed systems, blockchain, and hands-on experience architecting and developing existing blockchain smart contract platforms. You will spend the majority of your time on cross-functional self-contained feature teams focused on delivering value to the customer, while other projects will be more internally focused on integrations, scalability, and performance.
+ 
+Responsibilities 
+
+
+Participate in the design and implementation of a decentralized protocol for crypto derivatives trading. This includes developing, testing, and deploying the backend and smart contracts needed to do so.
+Design and develop any APIs andor SDKs required to support trade execution services.
+Own monitoring, alarming, analytics, and reporting on all services you build, ensuring high performance and responsiveness
+Communicate requirements effectively within and across teams
+
+Requirements 
+
+5 years of backend engineering experience, ideally building products from ideation to launch with a strong engineering team
+Demonstrable, in-depth knowledge and experience with at least one modern language such as Javascript, Python, Golang, Java, C
+Proficient in basic cryptography concepts
+Hands-on experience creating upgradeable smart contracts and building on blockchain, working with Solidity
+Comfortable working cloud-native AWS infrastructure andor Kubernetes
+B.S. in Computer Science or a related field (M.S. a plus)
+
+Nice to have 
+
+Deep knowledge of the cryptocurrency ecosystem (BTC, ETH, etc.) and underlying technologies (blockchain, PoW, PoS, etc.)
+Interest and understanding of L1L2 blockchain technology and ZK-Rollups
+
+
+Our Benefits and Perks
+
+Competitive pay and transparent pay bands
+Flexible work environment
+
+Unlimited vacation with a minimum required PTO of 10 days annually.
+Celebrate your national holidays, in addition to floating holidays, to honor what matters to you, not HQ.
+
+Full benefits (benefits vary by country)
+
+We offer the highest benefits package offered by our Employment of Record partners; insurance carriers and plans vary by country
+
+Generous technology and learning allowances
+
+3500 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. Youll then receive a 2000 refresh every 2 years.
+1000 budget to spend on learning and development materials, courses or conferences.
+
+
+Paradigm is an equal opportunity employer.

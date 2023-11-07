@@ -1,0 +1,47 @@
+RDQ424R183
+Our mission at Databricks is to radically simplify the data lifecycle from ingestion, ETL and BI to MLAI with a unified platform. In this effort, we are replacing the traditional data warehouse architecture with a new architectural pattern, Lakehouse (CIDR 2021 paper), an open platform that unifies data warehousing, advanced analytics, and AI. The Lakehouse architecture addresses several major challenges, including data staleness, reliability, total cost of ownership, data lock-in, and limited use-case support. Delta Lake is at the core of this architecture enabling these differentiators.
+As a Product Manager on the Delta team, you will be responsible for defining and driving the vision of the fundamental pilar of the open Lakehouse. You will be focused on understanding the needs of not just data engineers and SQL analysts but also ML practitioners and Data Scientists. Customers want a production ready and highly reliable managed service that just works out of the box. You will own the end-to-end lifecycle of how to store and process data efficiently and quickly. You would be responsible for understanding the needs, identifying the use cases, distilling the requirements, making a case to get features funded, bringing them to market, and post-GA adoption activities. Databricks have assembled a world-class engineering team to build the open Lakehouse on Delta Lake. As a PM, your goal is to help guide and lead this team in achieving this mission. You would be responsible for several first-to-market efforts and direct revenue-generating product lines that will define the future of the lakehouse.
+What is it like to be a PM at Databricks?
+
+What three new PMs say about their first year at Databricks
+Women in Product at Databricks
+Why Databricks?
+
+The impact you will have:
+
+Drive the vision and roadmap to make Delta the best lakehouse storage format
+Write product documents such as roadmap big rocks, product requirements, and critical user journeys to build delightful products that drastically simplifies our customers jobs
+Bring new products to market from ideation to delivery. Formulate and lead Go-to-Market efforts to make those products successful
+
+What we look for:
+
+5 years of b2b product management experience
+Experience identifying customer needs, creating an encapsulating product vision, translating requirements to product specifications, driving alignment with stakeholders, building and bringing products to market, and driving adoption post-launch
+Strong bias to ship products by understanding the most critical aspects to make the product successful
+Hands-on experience with some of the data analytics products such as Spark, Postgres, MySQL, Oracle Exadata, Teradata, Netezza, Greenplum, Amazon S3, Redshift, Athena, Glue, Glacier, Azure Data Lake Storage (ADLS), Google Cloud Storage (GCS), Delta Lake, Data Lakes, Google BigQuery, Azure Synapse, Snowflake, Apache Hudi, Apache Iceberg
+Experience working with successful open source projects
+
+Benefits
+
+Comprehensive health coverage, including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Employee Assistance Program (EAP)
+Business travel accident insurance
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range113,000—200,000 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

@@ -1,0 +1,49 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. Powertrain Test  Verification Engineer will lead all testing and verification activities for the Propulsion  Dynamic Systems team, including maturing interfaces with the Energy Storage System and Flight Control Systems. This position provides guidelines through defining Powertrain verification requirement document, which details the procedures and processes while performing Powertrain teams verification activities and supporting aircraft level verification and tests. The position ensures respective suppliers follow the processes put forth by the team. This role also includes organization of Safety of Flight testing, failure testing, any in-house high level and low level testing for software build release, coordination with Systems Engineering on aircraft level testing, and flight test management.
+The Sr. Test  Verification Engineer will also help facilitate the Powertrain team in their integration testing of all the associated systems. This role will work closely with the leaders of the respective teams within the Rotor Systems, Electric Power Unit, Thermal Management, and Flight Controls Systems on scheduling content and release dates. The engineer compiles all test data and documentation artifacts, and the build release final package.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Accountable for oversight and planning of all Powertrain testing and verification activities for compliance with Safety of Flight, DO-178C, ARP 4754A, ARP 4761, and other standards
+Support definition of System Integration Lab test equipment and build up of test capabilities to support flight control system test activities
+Organization of Powertrain high-level testing in systems integration lab
+Coordinate with suppliers on low-level software and hardware testing efforts
+Coordinate aircraft level testing pertaining to the systems with the Test and Evaluation team to meet testing and certification verification, and collaborate with certification authorities in topics related with verification
+Oversight and configuration of Powertrain flight testing and participation in the flight test campaign
+Build test plans for both systems integration labs and on-aircraft testing
+Compile all test and documentation artifacts for software build release packages
+Compile and present test results, controlling dispositions, and open issues
+Control issues using a formal CR process
+Coordinate with the Powertrain team and associated suppliers to be able to make a flightworthy recommendation of the systems based on various metrics like level of testing new changes, regression testing, and outstanding issues
+Evaluate change impact analysis to the various parts of the systems based on issues found or when evaluating change requests
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in aerospace, mechanical, electrical, or a relevant engineering field
+A minimum of five (5) years of experience in powerplant systems testing and verification (an equivalent combination of education and experience may be considered)
+Experience in integration, testing, and verification of powerplant systems
+Experience with supplier testing coordination and management
+Experience with requirements verification testing in a system integration lab
+Experience with software build release management
+Strong understanding of ARP 4754A and DO-178BC
+Basic understanding DO-254 and ARP 4761
+Familiarity with aircraft certification FAA 14 CFR Part 232729
+Familiarity with MathWorks tools
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Highly collaborative and outstanding communication skills
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+Advanced knowledge of DVPR and DFMEA
+
+You may also be able to contribute:
+
+Experience with internal combustion and all-electric powerplant systems design strongly preferred
+Aviation flight testing experience is strongly preferred
+Experience with 500-1200 VDC systems is preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

@@ -1,0 +1,61 @@
+At Paradigm, we are changing the future of finance! By joining us at this early stage, youll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. 
+About Paradigm
+
+Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. 
+We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. 
+Weve built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over 10 B per month.
+We are a diverse, global team led by our organizational principles and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!
+We are backed by the best traders and investors in the space, including Jump Capital, Genesis Trading, Dragonfly Capital, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.
+ 
+The role
+ 
+As a member of our engineering leadership team, your goal will be to help build a world-class engineering organization that delivers with high quality and velocity according on the priorities of our product that leads an extremely fast-paced cutting-edge industry. You will manage multi-disciplinary teams that deliver major features, through inception, design, implementation and launch. You will work closely with other leaders across the company to continue improving our process and strengthen our culture.
+ 
+Responsibilities 
+
+
+Manage 5 to 10 engineers and be fully responsible for their performance and delivery: regularly reviewing their work, provide coaching, resolve conflicts and blocking dependencies, etc.
+Provide a strong technical voice on the team to ensure secure, reliable, scalable, and maintainable design and architecture
+Implement our engineering process and help evolve it to keep up with growing team, product features, and market traction
+Ensure delivery on product priorities by collaborating with the Product team to understand and resolve customer requirements
+Help in recruiting efforts for the entire engineering team
+Champion a rewarding and productive company culture
+
+Requirements 
+
+7 years experience in high-performing software engineering organizations
+5 years experience directly managing talented engineers
+Experience managing at all employment phases: interviewing, hiring, onboarding, evaluating and improving performance, promotions, and terminations
+Deep technical and product understanding of the problems your team solves, resulting from a product engineering background prior to, or alongside, management. You are hands-on, but ready and eager to empower others around you so you dont have to be.
+Passion for making wonderful products that customers love. This implies that you are an expert on every product youve worked on, obsessed with all relevant details. You also never blindly delegate and enjoy immense credibility and respect among your team.
+Real-world experience with success and failure shipping scalable cloud products and, most importantly, a wealth of resulting learning to draw upon and a relentless drive to continue improving
+
+Nice to have 
+
+You inspire people around you to achieve more than they assumed they could
+You have built new process from scratch, and had to work hard to promote it culturally within your team
+You believe in the power of a healthy, thriving culture in helping teams get the most out of themselves, and you have experience proving this
+Some of your experience has been in startups or on small teams, where the success and failure of the greater enterprise rested on your shoulders
+You possess best-in-the-industry expertise you can occasionally lend to the broader team in the form of technical leadership
+
+ 
+
+Our Benefits and Perks
+
+Competitive pay and transparent pay bands
+Flexible work environment
+
+Unlimited vacation with a minimum required PTO of 10 days annually.
+Celebrate your national holidays, in addition to floating holidays, to honor what matters to you, not HQ.
+
+Full benefits (benefits vary by country)
+
+We offer the highest benefits package offered by our Employment of Record partners; insurance carriers and plans vary by country
+
+Generous technology and learning allowances
+
+3500 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. Youll then receive a 2000 refresh every 2 years.
+1000 budget to spend on learning and development materials, courses or conferences.
+
+
+Paradigm is an equal opportunity employer.

@@ -1,0 +1,46 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+As Stripe continues to develop innovative products that serve businesses of all sizes around the world, risk will increase in complexity and scale. As part of the User Risk Advisory team, you will protect and advance Stripes business, brand and mission, by deploying industry-leading policies that instill user and partner trust in Stripe, while enabling business growth.
+What youll do
+As a member of this team, you will have a deep understanding of Stripes risk policies, which include areas such as partnerships, regulatory, credit, and fraud risks. You will provide expert guidance to the business and to our most strategic customers in navigating complex areas to enable product launches and increase revenue. 
+We are looking for someone who is passionate about navigating ambiguity, enabling business growth while balancing risk, and is skilled at identifying ways to improve user experience.
+Responsibilities
+
+Drive risk policy strategy for company-level strategic initiatives, including partnering with Stripes largest users to align on joint priorities, design policy roadmaps, and advise on risk best practices
+Partner with cross functional stakeholders - including Sales, Partnerships, Legal, Financial Crimes, Engineering, and Data Science - to identify and build effective risk mitigations
+Assess Stripes current risk performance and develop and prioritize long-term strategic plans for future growth. Perform analysis and research to inform decision-making, and improve observability in partnership with the Data Science team
+Represent Stripe in external engagements with our most critical partners and customers
+Enable user onboarding to safely grow at scale, continuously optimizing for efficiency and effectiveness, and staying hyper focused on a positive user experience
+Challenge the status quo and provide multiple alternative solutions and key execution criteria
+Continue learning about the payments space through industry engagement and independent research, and scale your knowledge to others
+Execute special projectsad hoc analyses, as initiatives, products, risks, and opportunities are constantly evolving
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+6 years of professional experience, preferably in Financial Services, Payments or fintech industries
+5 years experience in a related role (risk, compliance andor product enablement)
+Experience in developing risk solutions and strategies and working with technical (product and engineering) and operational teams
+Ability to distill complex, ambiguous risk and policy problems into clear, concise, and reliable guidance for internal stakeholders and Stripe users
+Exceptional collaboration and communication skills, with an ability to influence stakeholders across functions and borders, while remaining calm and responsive under pressure
+Strong analytical and problem solving skills
+A results- and action-oriented mindset and the ability to lead and motivate others
+The ability to take ownership, be accountable, and drive towards ambitious goals
+Comfort operating in an ambiguous and quickly changing environment with shifting priorities (this is a must!) 
+
+Preferred qualifications
+
+Previous experience working in the financial or tech sectors, particularly within a risk management or revenue enablement function
+Proficiency in one of the following:
+
+Card network rules and regulations 
+Merchant acquiring rules and regulations
+KYCKYB, AML OFAC compliance 
+
+
+Experience overseeing execution and delivery of programsprojects. Ability to take complex issues and turn them into actionable next steps
+SQL proficiency
+Advanced degree in law, business, policy or other related field

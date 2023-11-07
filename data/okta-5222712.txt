@@ -1,0 +1,39 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.Team Summary:
+Oktas Core Engineering team is responsible for building and evolving shared infrastructure and services that lay the foundation for what other engineering teams build on. Were in charge of common shared services like search, cache, configuration management, frameworks for async job management, and  email pipeline, to name a few. Were cloud native, where redundancy, multi-tenancy, scale, resource optimization and resiliency are first class citizens. With Oktas mantra of Always On! theres never a dull moment. Our biggest asset is our team of passionate engineers and technically minded managers. 
+Were looking for a staff level backend engineer to join a team of highly skilled and talented team players whore proud of what they own and deliver. Our elite team is fast, creative and flexible; with a weekly release cycle and individual ownership we expect great things from our engineers and reward them with stimulating new projects, new technologies and the chance to have significant equity in a company that is changing the cloud computing landscape forever.
+You will:
+
+Work with engineering teams to design, develop and deliver cloud based infrastructure projects on a modern tech stack (Redis, Elasticsearch, Docker, Terraform on AWS)
+Drive evaluation, development and rollout of new common microservices
+Operate, support, and upgrade shared services and frameworks. Scale these as their usage invariably grows along with Oktas business.
+Conduct design and code reviews. Ensure high programming standards by writing unit and functional tests.
+Monitor, troubleshoot and fix services and frameworks the team owns
+Evaluate system performance and resolve bottlenecks
+Provide technical guidance and mentorship to junior developers
+Collaborate with architects, QA, product owners, security and operations engineers
+
+You have:
+
+Immense passion about doing the right thing to help Oktas technology stay ahead of its anticipated business growth
+Solid technology chops in architecting, implementing, tuning and debugging some of the largest cloud deployments in the enterprise world
+Bachelors degree in computer science or equivalent; masters preferred.
+5 yrs of expansive programming experience in an object-oriented programming language like Java, especially in backend services. A superior understanding of multithreading, garbage collection, memory management.
+3 yrs experience of working with MySQL or equivalent relational database systems. Experience with designing databases and fine tuning queries is a plus.
+Hands-on experience with configuring, deploying and supporting multiple multi-tenant Elasticsearch clusters is highly desirable
+Demonstrated experience of working with ReST and thorough understanding of its fundamentals
+Experience with Spring, Spring Boot, Hibernate, Tomcat, AWS, Redis, and Docker
+Knowledge of network security, authentication and authorization
+Demonstrably followed best software engineering principles
+Experience with enterprise SaaS as a good-to-have
+Familiarity with Agile software development process
+
+LI-RemoteBelow is the annual base salary range for candidates located in California, Colorado, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: https:rewards.okta.comus.   The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, New York, and Washington is between:158,000—221,000 USD                                The annual base salary range for this position for candidates located in the San Francisco Bay area is between:  175,000—245,000 USDWhat you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

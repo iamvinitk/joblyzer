@@ -1,0 +1,60 @@
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40 of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means youll help define the future of physical operations and be on a team thats shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, youll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards weve won include:
+Glassdoors Highest-Rated Tech Companies for Culture and Values 2023
+Great Place To Work Certified 2023
+Best Place to Work by Built In 2023
+Financial Times The Americas Fastest Growing Companies 2023
+Deloitte Fast 500 Companies
+We see a profound opportunity for data to improve the safety, efficiency, and sustainability of operations, and hope you consider joining us on this exciting journey. About the role:
+Our Telematics team takes real-time signals from our IoT devices deployed in vehicles (think: GPS, Engine RPM, Fuel Levels, and hundreds more) and processes them to help our customers make their vehicle fleets safer, greener, and more efficient. 
+As an Engineering Manager working in the Compliance group at Samsara, you will lead an engineering team that helps our customers stay compliant with driving regulations in different countries. You will hire and develop your team, define project plans and roadmaps, and work with your engineers to define next-generation technology across our platform. You will work closely with the product management and customer support teams to help improve the quality of our product.
+The Compliance team is a cross-functional product engineering team that primarily works across backend, web, mobile, and Spark and collaborates closely with product managers, designers, firmware engineers, and customer support to build out our feature sets. The technology stack includes Typescript, React, ReactNative, Golang, GraphQL and Spark.
+We are looking for a proactive, organised, and highly motivated engineering manager who enjoys being close to the detail. Creating and maintaining a culture of feedback, and making things happen while keeping things fun for the whole team, will be something you will strive to achieve and uphold.
+You should apply if:
+
+You want to impact the industries that run our world: The software, firmware, and hardware you build will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+You want to build for scale: With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the worlds physical operations.
+You are a life-long learner: We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+You believe customers are more than a number: Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+You are a team player: Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, were all racing toward our connected operations vision, and we intend to win—together.
+
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+
+Plan and deliver against the roadmap, delivering features and infrastructure enhancements to delight customers.
+Collaborate with senior engineers to drive and facilitate technical strategy and improvements.
+Collaborate and work with adjacent engineering teams in platform and firmware to deliver products and improvements.
+Set quarterly goals and balance productengineering priorities for maximum impact
+Participate with senior leadership and cross-functional peers to develop a long-term roadmap and strategy for Samsaras compliance feature sets.
+Report and present your teams wins, lessons learned, and progress to leadership.
+Set a high standard for the reliability of your components
+Champion, role model, and embed Samsaras cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+Hire, develop, and lead an inclusive, engaged, and high-performing team
+
+Minimum requirements for the role:
+
+Experience building scalable, mission-critical SaaS applications
+Experience operating, maintaining, and improving upon large-scale application services
+Strong interpersonal communication skills (including listening, speaking, and writing) and ability to work well in a diverse, team-focused environment
+Strong track record of delivering products and features that customers love
+Proven record of attracting top talent and coaching the team
+8 years of relevant software engineering work experience
+5 years of hands-on technical management experience
+You speak English proficiently
+
+An ideal candidate also has:
+
+Has experience building, delivering, and managing large-scale web applications
+Has experience working in a compliance environment 
+Has experience working at a scale-up company
+At Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewingsamsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where theyre based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individuals ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.

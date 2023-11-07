@@ -1,0 +1,39 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+On the Unity PolySpatial team, we are bringing Unity to a new class emerging platform environments. Were looking for technical experts who can contribute to both low-level architecture and high-level feature implementation. Does the thought of diving into multithreading, graphics, data architecture, and networking get you excited? Does working with brand-new technologies such as Apples Vision Pro sound fun? Weve got the role for you! We write C (and some C) code daily to connect Unity to visionOS and beyond. Ideal candidates know something about a lot of areas related to high performance interactive content, and a lot about some of them.
+Our team combines a startup mentality with the quality-of-life and work-life balance of a more established company. As soon as you join, well quickly bring you up to speed. Youll dive into implementing features, designing systems, doing hardware testing, and interacting with users who are actively using your work. You will work with the broader team to guide architectural decisions, and work with partners and customers to identify areas that might need your attention.
+If you want to push the boundaries of whats possible, are willing to roll up your sleeves and jump into diverse areas, and want to have an enormous impact on the industry, Unity should be the next stop in your career!
+What youll be doing
+
+Writing fast, maintainable code in C (and some C)
+Working with new platforms and ecosystems, such as visionOS
+Collaborating with other teams within RD to help bring cohesive and user friendly experiences to our users
+Helping accelerate a variety of projects, both as an individual contributor and as a mentor
+
+What were looking for
+
+Fearless attitude and willingness to jump in to unfamiliar areas
+Technical experience across a range of technologies - graphics, netcode, authoring tools, animation, physics, script interpreters and compilers, etc.
+Advanced C andor C development experience
+Passion for performance, code analysis, and debugging tools
+Excellent verbal and written communication skills with the ability to build relationships across the organization
+
+You might also have
+
+Experience developing game engine cores, middleware, or creating games
+Experience with building and improving multiple game engine components; for example: graphics, animation, scripting, authoring tools, etc.
+Experience with existing XRARVR technologies, such as ARCore, ARKit, OpenXR, Oculus, WinMR, Magic Leap, etc.
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com. 
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this Web site or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+International relocation support is not available for this position.
+Work visaimmigration sponsorship is provided for this position.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-AA1 SEN
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary161,200—218,100 USD

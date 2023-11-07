@@ -1,0 +1,43 @@
+Company Description:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.Team info:
+The Brain Computer Interface team is responsible for delivering a product that gives people with paralysis the ability to control computers and phones with their minds at the same speed and functionality level as able-bodied people can. In this role youll work with neuroscientists, physicians, and software and electrical engineers to develop the next-generation human-ready Brain-Computer Interface (BCI). 
+We are hiring an experienced Machine Learning Engineer to develop novel neural decoders to increase control speed and accuracy, improve reliability, and expand functionality. You will play a critical role in guiding the team to develop cutting-edge machine learning solutions and driving the successful execution of projects to achieve mission critical goals.
+Job Responsibilities:
+
+Understand business and company goals to develop a roadmap and strategies to achieve these goals and meet user needs
+Deliver end-to-end machine learning solutions to improve BCI 
+Lead the team by performing at a high standard and setting the bar for how we build and operate our systems
+Ability and desire to mentor others in achieving engineering excellence and to be a catalyst on the team
+Work with cross-functional teams to design new BCI functionalities and novel computer user interfaces
+
+Key qualifications:
+
+Masters or Ph.D. degree in Computer Science, Electrical Engineering, Data Science, or a related field.
+Evidence of delivering high-impact projects to users or businesses with clear metrics.
+Prior experience designing, building, and shipping Machine Learning products for end users.
+Deep understanding of machine learning concepts.
+Experience in analyzing complex datasets, driving insights, and communicating results in a simple and clear way to both technical and non-technical stakeholders.
+Excellent communication and collaboration skills.
+Strong coding skills, with a focus on clean, efficient, and scalable code development.
+
+Preferred qualifications:
+
+Signal processing knowledge
+Pay Transparency:
+Based on California law, the following details are for California individuals only:California base salary range:  193,500—257,400 USDFor full-time employees, your compensation package will include two major components: salary and equity. Guidance on salary for this role will be determined according to the level you enter the organization (with the ability to gain more through time as you contribute). 
+ 
+Full-Time Employees are eligible for equity and benefits listed below in addition.
+
+What we offer:
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off  paid holidays.
+Equity  401(k) plan.
+Commuter Benefits.
+Meals provided.
+
+
+Multiple studies have found that a higher percentage of women and BIPOC candidates wont apply if they dont meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you dont check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.

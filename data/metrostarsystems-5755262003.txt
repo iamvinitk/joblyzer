@@ -1,0 +1,38 @@
+As a Cloud Security Engineer, youll play a crucial role in ensuring the security and integrity of our cloud-based infrastructure program, with the goal of making an impact across the federal government. You will serve as a leader on the team to implement and maintain security measures to protect our cloud environments and data.
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+ 
+
+Safeguard our cloud-based assets, protect sensitive data, and maintain a strong security posture in the cloud.
+Be responsible for other tasks such as creating and maintaining security documentation, collaborating with development and operations teams, and staying updated on emerging security threats and best practices.
+Continuously monitor cloud environments for security threats, vulnerabilities, and anomalies, as well as detect and respond to security incidents and breaches promptly.
+Develop, implement, and enforce security policies and access controls for cloud resources and implement incident response plans to mitigate threats and minimize the impact of security breaches.
+Ensure compliance with industry standards and regulations (e.g., GDPR, HIPAA, NIST). Conduct regular security assessments and audits to identify and address compliance gaps.
+Perform regular vulnerability scans and assessments of cloud infrastructure, prioritize and remediate vulnerabilities to reduce the attack surface, and keep cloud resources up-to-date with security patches and updates.
+Manage user access and permissions to cloud services and resources, as well as implement robust identity and access management (IAM) policies.
+Enforce the principle of least privilege (POLP) to restrict access based on job roles and responsibilities.
+ Automate security tasks and workflows to improve efficiency and accuracy.
+ Implement security-as-code practices to embed security controls into cloud infrastructure and utilize cloud security tools and technologies (e.g., AWS Security Hub, Azure Security Center) to monitor and enhance security.
+
+ 
+What youll need to succeed: 
+
+Bachelors degree in Computer Science, Information Security, or a related field (or equivalent experience).
+At least 8 years of experience as a Cloud Security Engineer, with expert proficiency in cloud security practices.
+Strong knowledge of cloud platforms such as AWS, Azure, andor GCP.
+Familiarity with cloud security tools and technologies (e.g., AWS Security Hub, Azure Security Center, etc.)
+Experience with network and application security, including firewalls, IDSIPS, and VPNs.
+Knowledge of security compliance frameworks (e.g., NIST) and best practices.
+Excellent problem-solving and communication skills.
+Relevant certifications (e.g., AWS Certified Security - Specialty, Certified Information Systems Security Professional (CISSP)) are a plus.)
+Active Secret clearance; Top Secret or TSSCI clearance preferred.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

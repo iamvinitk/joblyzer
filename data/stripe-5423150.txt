@@ -1,0 +1,30 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Brand Risk team develops processes, solutions, product controls and detection systems to ensure merchants and platforms integrity, and protect Stripe and our users from compliance and reputational risks. We collaborate with partners across Risk, Engineering, Product and Compliance to design and implement best-in-class risk strategy, and play a critical role in Stripes risk management efforts. 
+What youll do
+We are looking for an experienced risk management professional to join the group and help drive brand risk mitigation efforts. You will leverage data and work with technical teams to build solutions, set short and long term approaches to areas such as terms of service enforcement, merchants classification and product misuse, and enable new products and experiences.
+Responsibilities
+
+Work in collaboration to design and drive brand risk strategy 
+Build relationships and partner with stakeholders across Risk, Engineering, Ops and Data Science globally
+Build expertise and deep know-how around Stripes policies, standards and requirements, as well as risk capabilities and tools
+Leverage data and quantitative analysis to build optimal solutions, balancing risk and user experience
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+8 years professional experience in a related field, such as Risk, Compliance, or Trust  Safety, within a fast paced, high growth company
+8 experience in a role with an emphasis on data analysis andor a strong technical background. You have worked closely with engineers and data analysts to build systems, collect business requirements, and  or deliver insights
+An analytical approach to decision-making. You are analytical, objective and skilled at using metrics to drive decisions, set goals, and evaluate performance
+Experience communicating to all levels of management, including strong writing skills with experience writing strategy documents, one-page project updates, and whitepapers
+Strong collaboration and relationship building skills, with an ability to influence stakeholders across organizations and borders
+Demonstrated program management skills and a track record for building and scaling programs from the ground up
+
+Preferred qualifications
+
+Experience working in payments and  or tech industries
+Experience in coding, ML algorithms  predictive modeling
+PMP certification andor Six Sigma certification

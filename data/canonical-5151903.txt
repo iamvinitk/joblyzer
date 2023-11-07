@@ -1,0 +1,77 @@
+This is a general track for applications to any team at Canonical that works with the Linux kernel, across all seniority levels. Apply here if you are an exceptional software engineer who wants to work on both stable and cutting edge Linux kernels for Ubuntu and its wider ecosystem.
+Canonical has a large and rapidly growing kernel team that underpins Ubuntu and open source more widely across a very wide range of hardware and use cases. We partner with the biggest kernel contributors - the silicon companies - to ensure that their work reaches the widest possible audience as quickly  as possible, with a 10 year enterprise security commitment.
+The Canonical Linux Kernel Organization has teams in every time zone. We have opportunities for technical leadership, engineering management, and engineering directorships. The team is responsible for all supported Ubuntu Linux kernels, on all platforms and architectures from small embedded devices to standard desktopserver systems to large scale cloud environments, mainframes and supercomputers.
+We care most about hardware and virtualization enablement, security, reliability and performance. There are a number of areas where we lead upstream, but for the most part we are interested in ensuring production readiness and performance for the latest patchsets, rather than subsystem maintenance or evolution.
+Kernel Team projects include but are not limited to:
+
+Ubuntu Linux kernel plan, execution, benchmarking and stress testing
+Optimised kernels for key silicon and cloud partners
+Confidential computing and next-generation security primitives
+Developer platforms such as Raspberry Pi and RISC-V
+Enabling Ubuntu on a wide range of embedded systems
+Kernel Livepatch, which delivers critical kernel fixes without rebooting
+FIPS compliance
+Real-Time and Low Latency kernel variants and patchsets
+Virtualisation or abstraction engines
+Container technology
+Security with AppArmor, SECCOMP, namespaces and more
+Networking - in particular performance and security
+Storage - we are particularly interested in Ceph and DRBD
+
+We hire candidates of all experience levels from recent university graduates through seasoned industry experts. We select those who are enthusiastic to work in multiple areas including security mitigation, feature development, patching and test.  You must have outstanding academic results, a background in software engineering, be motivated to work in a distributed team and willing to travel globally twice a year for company engineering events.
+Location: we have kernel teams and openings in every time zone
+What your day will look like
+
+Collaborate regularly and proactively with a globally distributed team 
+Work closely with silicon, cloud, or hardware manufacturers
+Diagnose and resolve issues in the kernel
+Take personal responsibility for a flavour of the Ubuntu Linux kernel
+Improve tooling and automation for delivery and test of Ubuntu Linux kernels
+Submit, review, and apply kernel patches
+
+What we are looking for in you
+
+An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Well-organised, self-starting and able to deliver to fixed schedules
+Professional manner interacting with colleagues, partners, and community
+Ability to communicate effectively in English, both written and oral
+Significant programming experience in C
+Solid background with git
+Broad knowledge of the Linux kernel and kernel subsystems
+Demonstrated experience with kernel patching and debugging
+Understanding of Linux kernel upstream processes and release cycle
+Strong grasp of device drivers, BSPs, and other low level system engineering
+Professional written and spoken English 
+Experience with Linux (Debian or Ubuntu preferred) 
+Excellent interpersonal skills, curiosity, flexibility, and accountability 
+Passion, thoughtfulness, and self-motivation 
+Excellent communication and presentation skills 
+Result-oriented, with a personal drive to meet commitments 
+Ability to travel twice a year, for company events up to two weeks each
+
+Additional skills that you might also bring
+
+Python and Bash scripting
+Prior experience with UbuntuDebianSnap packaging
+Performance engineering and security experience
+
+What we offer you
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote

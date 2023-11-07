@@ -1,0 +1,30 @@
+Redefine the embedded Linux experience with the smallest, most secure, and most reliable operating system in the IoT market. This is an opportunity for a technical engineering manager passionate about open source software, Linux, containers, security, and the developer experience, to shape the future of Linux from the smallest systems up to desktops. This challenging role demands a high degree of technical and management skill.
+Our mission is to allow everyone to build robust solutions in various fields including but not limited to IoT, automotive, and aviation using the next generation secure embedded Linux operating system in a simple solution. We define a reliable and secure set of device recovery mechanisms that enable device manufacturers to simplify and standardise the field operations for fleets of heterogeneous appliances.
+As an engineering manager, youll lead a team of strong software developers to design and implement Ubuntu Core system software on various CPU architectures, such as ARM, RISC-V, and X86.  You will meet stakeholders, prioritize requests, plan the roadmap and ensure the team can deliver their goals. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.
+What youll do
+
+You will build and lead a distributed team of engineers through hiring, coaching, mentoring, feedback and hands-on career development
+You will demonstrate sound engineering principles by directly contributing toward your teams goals
+Support timely delivery of technical solutions to address business needs
+Effectively set and manage expectations with other engineering teams, senior management, and external stakeholders
+Advocate and advance modern, agile software development practices and help develop and evangelize great engineering and organizational practices
+Grow a healthy, collaborative engineering culture in line with the company values
+Be an active part of the leadership team and collaborate with other leaders in the organisation
+Work from home with global travel twice a year for 2 weeks at a time, for company events
+
+Who you are
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You love developing and growing people and have a track record of doing it
+You are knowledgeable and passionate about software development
+You have experience in leading, managing, coaching and mentoring software developers
+You are comfortable planning and executing to deliver timely, high quality software
+You have solid experience working in an agile development environment
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have experience with embedded software
+You have experience with Golang, CC, and Shell
+You have a solid understanding of Linux and a modern GNULinux distribution, Debian or Ubuntu preferred
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-REMOTE

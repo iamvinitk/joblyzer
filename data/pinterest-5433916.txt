@@ -1,0 +1,25 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. The Conversion Visibility team, based in Seattle, we enable a performant ads marketplace and help prove the value to advertisers by connecting Pinterest onsite activity with conversions that happen offsite (both digital and physical) in a privacy-preserving way. 
+What youll do: 
+
+Create a scalable and highly available pipeline for ingesting, matching, and attributing conversion events, with data accuracy guarantees and near real time latency.
+Tackle privacy headwinds head-on with improved, resilient conversion setup with advertisers and protect match rates to defend visibility into event-level, identifiable conversions. 
+Develop de-identified and unidentified conversions, leveraging longer-term sustainable privacy preserving mechanisms.
+Build systems that process petabytes of data every day using cutting edge technologies.
+Lead technical initiatives across multiple teams, mentor engineers and build effective XFN alignment.
+
+What were looking for:
+
+BS (or higher) degree in Computer Science, or a related field.
+10 years of relevant industry experience in leading the design of large scale  production systems.
+Deep knowledge with at least one state-of-art programming language (Java, C, Python). 
+Deep knowledge with building distributed systems or measurement solutions
+Individuals looking to work in a close, collaborative group to drive success of key business metrics
+
+This position is not eligible for relocation assistance.
+LI-CL5 
+LI-REMOTEAt Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only206,456—360,985 USDOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

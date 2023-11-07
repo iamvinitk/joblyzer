@@ -1,0 +1,51 @@
+ 
+ About the Role
+ We are growing the engineering team and looking for engineers who have the chops to build and deliver world-class technology. You will be part of a talented team of engineers with a shared mission to make data easily accessible.
+What You Will Be Doing
+
+As a lead engineer on the frontend team, you will own, architect, and implement user interfaces. This includes new types of data analyses, visualizations, and user workflows.
+Working closely with our product, UX design, and backend development teams, you will drive projects that make our UI awesome and radically simplify the user experience for non-technical business users.
+You will leverage your technical expertise in front-end application development and experience guiding and mentoring other engineers to lead complex multi-person projects.
+You will drive the creation of novel visualizations for structured and unstructured data and develop new techniques for improving the performance and interactivity of the application.
+You will work closely with the leadership team to define solutions to high-level engineering objectives. 
+
+Qualifications We Need
+
+Strong computer science fundamentals
+10 years industry experience building and maintaining high-quality software and 5 years building UI technologies
+Full-stack application development experience
+Well versed in technologies like React, Javascript, Typescript and techniques for creating great UI architecture and engineering
+You have high standards and have a track record of delivering world-class software to production. You can also make the right trade-offs between functionality and delivery speed that supports delivering value to customers and iterating based on feedback and roadmap priorities
+You have been a key technical decision maker and use your excellent verbal and written communication skills to be an influencer of technical strategy within and across teams
+You have an eye for great design and are passionate about building products that provide a great user experience
+Desire to be a great teammate and have fun at work
+Strong sense of craftsmanship, and a healthy academic curiosity
+
+Qualifications We Want (also, skills youll learn!)
+
+Experience building systems for data analytics
+Experience building and delivering a cloud service
+
+Additional Job details
+The base salary range for this position is 150k - 220k annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidates qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Sigma Computing. This role is eligible for stock options, as well as a comprehensive benefits package.
+
+Startup experience
+Note: The world around us is changing, but we at Sigma Computing are growing and scaling. We raised our Series C in Dec 2021. With that, and us being able to 3X our revenue year on year, hiring and building out the best version of our product is priority. That is why we want to talk to you.
+About us:
+At Sigma Computing, our mission is to empower everyone to make the best possible decisions at every turn by removing the barriers that prevent people from analyzing data across sources and delivering the full spectrum of self-service cloud analytics and business intelligence.
+We raised a 300M Series C from Co-Leads D1 Capital Partners and XN, Existing Investors Sutter Hill Ventures and Altimeter Capital, and Snowflake Ventures.
+Come join us to help us be smarter and grow together!
+Benefits For Our Full-Time Employees:
+
+Equity
+Generous health benefits
+Flexible time off policy. Take the time off you need!
+Flexible schedule, do the work you need to get done in the time you have to get it done
+At least 12 weeks of paid bonding time for all new parents
+Traditional and Roth 401k
+Commuter and FSA benefits
+
+Sigma Computing is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow.
+Note: We have an in-office work environment in both of our SF  newly opened NYC office.
+ 

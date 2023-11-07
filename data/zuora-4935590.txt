@@ -1,0 +1,84 @@
+Company Overview
+At Zuora, we do Modern Business. Were helping people subscribe to new ways of doing business that are better for people, companies and ultimately the planet. Its an approach resulting from the shift to the Subscription Economy that puts customers first by building recurring relationships instead of one-time product sales and focuses on sustainable growth. Through our leading expertise and multi-product suite, we are transforming all industries and working with the worlds most innovative companies to monetize new business models, nurture subscriber relationships and optimize their digital experiences.The Team  Role
+Zuoras TechOps teams are responsible for Data Center and Cloud infrastructures, monitoring performance and uptime, managing internal and external shared services, infrastructure services and more - for Zuoras customer facing SaaS products and platforms. Our technologists sit across US, Beijing, India and remotely, using a follow-the-sun model to provide 24x7x365 coverage for critical functions and partner closely with our Engineering, Customer Support, Security, Global Services and Sales teams on a daily basis to keep our customers front and center.
+In this role youll get to
+
+Ensure Service Availability, Scalability, Security  Capacity
+Run our global infrastructure using Ansible, Terraform, CICD  Kubernetes in a multi-cloud platform
+Automation - continue to push for new levels of efficiencies
+Proactive, preventative enablement driving high reliability
+Architecting and enabling solutions that drive preventative, proactive solutions  Infrastructure services
+Be on an on-call (PagerDuty) rotation to respond to incidents that impact Zuoras products and services availability, and provide leadership and drive restoration outcomes  for service engineers with customer incidents.
+Drive and coordinate the critical impacting issues bridges and collaboration to root cause  restoration.
+Use your on-call shift to prevent incidents from ever happening.
+Run our infrastructure with Puppet, Ansible, Terraform, GIT CICD, Jenkins, ECS, and Kubernetes.
+Incorporate feedback from incidents back into monitoring that alerts on symptoms rather than on outages.
+Work with engineering teams on maintaining and improving runbooks, including documenting cases where runbooks are missing and needed.
+Support and maintain core infrastructure that enables Zuora scale to support all of our customers needs.
+Help debug production issues across services and levels of the stack.
+
+Job Involves
+
+Take every task that requires a person to execute it, strip it down  automate it
+Take on capacity planning head on, shaping the multi-cloud world
+Resolution of complex and critical issues, participation in Major incidents as a SME
+Configure monitoring and alerting to ensure integrity, reliability  the performance that skeptics thought couldnt be done (line for problem solving)
+Service expert ensuring expertise is reflected in SOPs documentation are shared
+End-to-end tuning needs, optimizing resource utilization, as load patterns fluctuate
+Instrumentation and metrics that clearly describe the service behaviors
+End-to-end tuning needs, optimizing resource utilization, as load patterns fluctuate
+Consult on new capabilities ensuring a scalable infrastructure
+Resiliency and recoverability, ensuring that backup  restore and disaster recovery capabilities are implemented, tested and maintained
+
+Who were looking for
+
+3 years of overall experience
+You bring your excellent communication, problem solving, critical thinking  passion to the table each day to disrupt, make an impact  rewrite the rulebook.
+Operating System:
+
+Strong knowledge in Linux Operating system.
+User and File System Management in LinuxUnix
+Troubleshooting at OS level.
+
+Oracle:
+
+Strong knowledge in Oracle architecture and administration activities.
+Backup and recovery process (logical and RMAN)
+Strong knowledge in Database recovery process.
+Performance and troubleshooting expertise in DB related issues.
+
+AWS:
+
+Good exposure to AWS core functionalities.
+EC2, Volume management, IAM, S3, AWS CLI, Loadbalancer, Security group, VPC, Subnet.
+Cloudwatch, ECS container services.
+SSL certificate management.
+Troubleshooting knowledge in AWS Resource.
+
+DevOps:
+
+Good knowledge in Jenkins.
+Knowledge in Shell Scripting or Python.
+Exposure in Ansible and Terraform Module.
+
+
+ZEOLife at Zuora
+As an industry pioneer, our work is constantly evolving and challenging us in new ways that require us to think differently, iterate often and learn constantly—its exciting. Our people, whom we refer to as ZEOs are empowered to take on a mindset of ownership and make a bigger impact here. Our teams collaborate deeply, exchange different ideas openly and together were making whats next possible for our customers, community and the world.
+As part of our commitment to building an inclusive, high-performance culture where ZEOs feel inspired, connected and valued, we support ZEOs with:
+
+Competitive compensation, corporate bonus program and performance rewards, company equity and retirement programs
+Medical, dental and vision insurance
+Generous, flexible time off 
+Paid holidays, wellness days and company wide end of year break
+6 months fully paid parental leave 
+Learning  Development stipend
+Opportunities to volunteer and give back, including charitable donation match
+Free resources and support for your mental wellbeing
+
+Specific benefits offerings may vary by country and can be viewed in more detail during your interview process.
+Location  Work Arrangements
+Organizations and teams at Zuora are empowered to design efficient and flexible ways of working, being intentional about scheduling, communication, and collaboration strategies that help us achieve our best results. In our dynamic, globally distributed company, this means balancing flexibility and responsibility — flexibility to live our lives to the fullest, and responsibility to each other, to our customers, and to our shareholders. For most roles, we offer the flexibility to work both remotely and at Zuora offices.
+Our Commitment to an Inclusive Workplace
+Think, be and do you! At Zuora, different perspectives, experiences and contributions matter. Everyone counts. Zuora is proud to be an Equal Opportunity Employer committed to creating an inclusive environment for all.
+Zuora does not discriminate on the basis of, and considers individuals seeking employment with Zuora without regards to, race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistancezuora.com.

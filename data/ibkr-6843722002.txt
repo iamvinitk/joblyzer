@@ -1,0 +1,53 @@
+
+Join the Interactive Brokers Team!
+Interactive Brokers Group has been consistently at the forefront of trading innovation, starting with the invention of the first floor-based handheld computer in 1983. We pride ourselves on being primarily a technology company, continue to challenge the status quo and push boundaries to offer our clients the best trading platform with the most sophisticated features at the lowest cost.
+ 
+Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform. Interactive Brokers is regularly recognized as a leader in the financial services industry.
+ 
+We are seeking a talented and experienced Java Software Developer to join our Backend Development Team. The team is responsible for developing and maintaining the client data and APIs to support our client-facing applications.
+ 
+You are someone who:
+
+Designs, develops and supports high-volume, low-latency, and scalable applications for mission-critical systems.
+Optimizes and refactors existing code for improved reliability and performance
+Designs, develops and supports Oracle database schemas, PLSQL packages, scheduled batch processing, Java applications and servers.  
+Communicates and collaborates on development tasks with other software teams and business users
+Thrives when working with a team of fast-moving co-workers.
+
+ 
+You have:
+
+Bachelors or masters degree in Computer Science or related degree
+A minimum of 4 years of hands-on development experience using core Java; at least one year using Java 1.8 or later is a plus.
+Object-oriented design and understanding of commonly used design patterns
+Experience with JDBC and relational databases, preferably Oracle
+Experience with developing applications hosted on application servers such as JBoss
+Experience with REST services development
+Working knowledge of LinuxUnix
+Excellent collaboration and communication skills in working closely with other development teams to roll out important changes and applications
+Knowledge of financial instruments is advantageous.
+
+To be successful in this position, you have:
+
+Clear and effective communication skills
+A startup personality and enjoy working as part of a team
+A logical mind that is detail-oriented
+The ability to methodically solve problems and learn processes
+
+ 
+Company Benefits
+
+Competitive Salary, annual performance-based bonus and stock grant
+Excellent health and welfare benefits, including medical, dental, specialist and in-patient 
+Competitive package of Annual Leave
+Daily lunch is ordered in-house with fully stocked kitchen
+Modern offices with multi-monitor setups
+Great work-life balance
+Unique opportunity to gain exposure to global financial products, markets and clientele
+Opportunities for career progression and job scope expansion in a global company with a growing local presence
+Hybrid work arrangement role permitting.
+
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

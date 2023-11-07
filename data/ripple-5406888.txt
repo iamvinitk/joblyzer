@@ -1,0 +1,54 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments, and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our careers and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real-world value.
+THE WORK:
+The RippleX CBDC team is at the forefront of delivering on this vision. We are engaging with central and commercial banks across the world to learn how to offer the solutions they need in order to issue currency digitally on a blockchain. We are looking for Software Engineers passionate about solving challenging problems in the finance andor crypto space. We are passionate about the growth of our engineers and place a premium on career development. You will have a high degree of accountability and responsibility from Day 1. 
+WHAT YOULL DO:
+
+Build enterprise, distributed blockchain adjacent services to power CBDC solutions for our customers.
+Deliver reliable, high-throughput, low-latency applications supporting complex systems of financial asset management.
+Participate in the full software development lifecycle by gathering requirements, leveraging sound software design principles, and ensuring operational excellence with unit  integration testing
+Work with teams across the organization, including product, legal, and business development to think beyond the technical implications of your design decisions
+Continuously raise our standard of engineering excellence by implementing and driving best practices for coding, testing, and deployment
+
+WHAT YOULL BRING:
+
+2-5 years of hands-on software development experience on large scale, transactional systems with a focus on robust software design, scalability and security
+Hands on experience with Java 2 and popular Java based frameworks like Spring and Hibernate.
+Familiarity with RESTful web services and best practices.
+Familiarity with using asynchronous technologies like Kafka, PubSub, SNSSQS, RabbitMQ, etc.
+Intellectual curiosity - you love to dig into how things work and understand how to improve and scale them
+You thrive on autonomy, responsibility and owning your work, end to end
+A positive attitude and a passion for sharing knowledge within your team and organization
+Eagerness to work openly and collaboratively with a diverse team
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

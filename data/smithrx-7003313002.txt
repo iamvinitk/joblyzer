@@ -1,0 +1,46 @@
+Who We Are:
+SmithRx is a rapidly growing, venture-backed Health-Tech company.  Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service.  With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country.
+We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values:
+
+Integrity: Do the right thing. Especially when its hard.
+Courage: Embrace the challenge.
+Together: Build bridges and lift up your colleagues.
+
+Job Summary:
+SmithRx is developing the next-generation pharmacy benefits management (PBM) platform, revolutionizing how businesses administer and oversee pharmacy benefits. Our cutting-edge technology platform provides real-time actionable insights that drive cost efficiencies, enhance clinical services, and elevate the customer experience. Operating within SmithRxs production and engineering division, the data engineering team is dedicated to establishing a scalable and dependable single source of truth data ecosystem. This ecosystem plays a critical role in enabling our organization to provide unparalleled service excellence and operational superiority to our valued customers. 
+We are currently seeking a highly motivated Senior Data Quality Engineer to join our fast-paced data team. The primary focus of this role will be delivering high data availability and quality throughout the entire data life cycle from ingestion to end products: data pipelines, and data warehouse production datasets. This role will gather data quality requirements from stakeholders, these data consumers could include business users, product owners, data analysts, software developers, or even other data developers. 
+This role is critical because data quality is a continuous process as data environments are complex, interdependent, and constantly changing. HeShe will advocate and bring best practicesmethodologies, coding standards, and large-scale data warehouse design perspectives to our team.
+What you will do:
+
+Gather requirements, develop and execute manual and automated test cases for data warehouse solutions to ensure the reliability of data pipelines, ETL processes, and data transformations. 
+Conduct in-depth data profiling and analysis of data sources  sets to identify inconsistencies, inaccuracies, and anomalies.
+Develop, maintain, and enhance a comprehensive data quality framework that defines data standards, quality rules, and validation processes.
+Set up data monitoring systems to continuously assess data warehouse quality and report on deviations to stakeholders.
+Contribute to data governance efforts by participating in data stewardship, data quality  PIIPHI compliance
+Collaborate closely with data engineers, data scientists, engineers, and data analysts to address data quality concerns and drive improvements.
+Drive data engineering excellence and lead craftsmanship in building, testing, and optimizing ETLfeaturemetric pipelines
+Maintain thorough documentation of data quality standards, policies, and procedures.
+
+What you will bring to SmithRx:
+
+BS or Masters degree preferred in Computer Science, Information Technology or Systems Engineering. Bachelors degree required. 
+A minimum of 6 years of related experience in data engineering, software engineering, DevOps, and technical leadership. With a Bachelors degree, 8 years of experience are required.
+Start-up experience is highly desirable
+Prior experience in cloud services (AWS preferred), and columnar databases (Redshift, Snowflake). 
+Proficiency in SQL, Python, Spark (BatchStreaming), SparkSQL, PySpark, AWS Glue, Airflow, Terraform, Kubernetes, CICD, and automated testing capabilities 
+Build end-to-end integration testing between multiple independent systems and interfaces (flat files, APIs, ETL), etc.
+
+What SmithRx Offers You: 
+
+Highly competitive wellness benefits including Medical, Pharmacy, Dental, Vision, and Life Insurance 
+Flexible Spending Benefits 
+401(k) Retirement Savings Program 
+Short-term and long-term disability
+Discretionary Time Off 
+13 Paid Holidays
+Wellness benefits- Spring Health, Gympass, and Headspace
+Commuter Benefits 
+Paid Parental Leave benefits
+Employee Assistance Program (EAP)
+Well stocked kitchen in office locations
+Professional development and training opportunities 

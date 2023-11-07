@@ -1,0 +1,49 @@
+We are seeking an experienced System and Hardware Enablement Engineer passionate about Linux systems, the RISC-V architecture, Ubuntu, and the open-source community.
+RISC-V is a first-class architecture in Canonical Ubuntu, and we continue to expand our expertise with it. The Ubuntu Foundations Engineering team maintains and enhances support for RISC-V for the entire Ubuntu stack. This includes engaging with hardware vendors, bringing support for new RISC-V platforms to the Ubuntu distribution, and expanding the software packages available for the RISC-V architecture. The work is critical to system security and reliability. Hence we are looking for a colleague with a very diligent and systematic approach to software engineering.
+The Ubuntu Foundations Team delivers and maintains the core of the Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest and best free software components, in an easy-to-use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer industry. 
+As a Linux System Engineer, you will work on the architecture, design, and development of core components involved in the enablement and support of the RISC-V architecture for the Ubuntu Distribution, often interacting with the upstream community for projects like U-Boot, OpenSBI, or GRUB. You will also have the opportunity to work closely with various hardware vendors and be part of the enablement of new cutting edge platforms and be part of shaping the future of RISC-V for Linux and Ubuntu.
+Location: This is a remote work role and can be held in European, Middle East or African time zones.
+What your day will look like
+
+Work with highly technical team to define and shape the future of RISC-V architecture support for Ubuntu
+Write high-quality code, create new features, and contribute upstream
+Contribute features and bug fixes to projects including OpenSBI, U-Boot, GRUB, and the Ubuntu installers.
+Debug issues and produce high-quality fixes
+Review code produced by other engineers
+Discuss ideas and collaborate on finding good solutions
+Work with teams focused on Ubuntu for server, desktop, IoT and clouds 
+Work from home with global travel 2 to 4 weeks a year for internal and external events
+
+What we are looking for in you
+
+Development experience with early boot software like TF-A, OP-TEE, U-Boot, shim, GRUB, or the Linux kernel.
+Development experience on RISC-V
+A love of technology and working with brilliant people
+Motivated, curious, flexible, articulate, and accountable
+A long-time Linux user with broad interests in the future of Linux
+Experience or interest in learning how to package software for Debian and Ubuntu
+Enterprising, thoughtful, and self-motivated
+
+Additional skills that you might also bring
+Experience with DebianUbuntu based operating system and good understanding of Debian packaging and snaps would also be a considerable advantage.
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote
+ 

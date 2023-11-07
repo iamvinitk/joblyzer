@@ -1,0 +1,56 @@
+C DEVELOPER (MULTIPLE POSITIONS)
+
+
+
+We are currently looking for highly skilled programmers from junior to senior level with an affinity and liking for Mathematics and passion for high-quality software engineering. Our openings could be qualified mostly as back-end development however day-to-day responsibilities may be connected to front-end tasks as well.
+Interactive Brokers Group has consistently been at the forefront of trading innovation, starting with the invention of the first floor-based handheld computer in 1983 and we pride ourselves on being primarily a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers.
+ 
+As a C developer your tasks and responsibilities may include:
+
+Designing, implementing, and delivering high quality software solutions that conform to architectural standards
+Managing and owning significant development tasks end-to-end (from business requirements analysis to 3rd level production support)
+Demonstrating excellent collaboration skills in working closely with other development teams to roll-out important changes and applications
+Researching, conceiving, and developing technology solutions to extend and improve IBs customer facing and back-end applications
+Reviewing code changes made by other developers to ensure correctness, efficiency, readability, and conformity with best practices
+Optimizing and refactoring existing code for improved reliability and performance
+Writing and maintaining design and engineering documentation
+Testing, fine-tuning, and deploying new software features
+Performing maintenance, updating production configuration required for rolling out new functionality and providing technical support
+
+ 
+Our key requirements are:
+
+Degree in Computer Science or related technical field
+Experience in C development
+Strong analytical and problem-solving skills
+Knowledge of SQL andor relational databases, other data storage solutions
+Experience in working in UnixLinux environments
+Experience in at least one scripting language (e.g., Unix Shell)
+Strong communicational skills in English
+
+ 
+Company Benefits  Perks:
+
+Discretionary annual bonus (cash and stock)
+Private healthcare insurance
+Free recreational pass (AYCM XL package)
+Daily food allowance in the office
+Monthly BKK pass
+Hybrid way of working (2 days home officeweek)
+Modern office in the heart of Budapest with free amenities
+Great atmosphere with friendly and exceptional colleagues, frequent company outings.The benefits package will be reviewed regularly and may be subject to change.
+
+You will be part of team that is building one of the worlds strongest brokerage brands, and part of a global enterprise that employs technology in all aspects of its business to generate prudent, controlled growth.
+
+
+
+
+
+
+ 
+
+
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

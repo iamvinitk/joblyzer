@@ -1,0 +1,44 @@
+At Merge, we revolutionize the way B2B companies integrate. Unfamiliar with the integration problem? The average company expects to spend hundreds of hours a year integrating with dozens or more vendors. Alignment between sales, partnerships, product management, design, engineering, and customer success (a lot, right?) is absolutely critical — and a major headache. Integrations are a to-do that goes on and on.
+Our Unified API empowers developers to offer integrations with hundreds of platforms instantly. Now were hiring for you: an ambitious leader ready to help build, design, and support enterprise-grade software scaled to millions of users.
+Are you ready to be part of a team redefining how companies build for the future? Apply now! 
+We are looking to grow our Partner Engineering team to help extend our reach across 7 categories in new and unprecedented ways!
+ 
+Partner Engineering is an essential part of Merges Platform team. This is a high visibility, high ownership role that plays a crucial part in Merges mission of powering integrations for all B2B companies. This role would appeal to someone who loves coding and thinking through complex scenarios, just as much as communicating with a variety of stakeholders, both technical and non-technical.
+ 
+Responsibilities
+
+
+Own the technical strategy and execution lifecycle of integrations with our API providers --- ideation, development, launch, and beyond.
+Work cross-functionally with partnerships, engineering, post-sales, product to deliver enterprise-grade integrations  expand Merges coverage across 7 categories
+Internally advocate for Partner Engineering needs, and lead projects related to data quality and internal tooling
+Help design the Partner Engineering function at Merge -- what its responsible for, how it interfaces with other teams, and how itll grow and develop over time.
+
+
+ 
+Experience
+
+
+2 years in an engineering role, preferably at a startup
+Strong technical understanding and problem solving, preferably in the form of a prior Computer Science background or other engineering orientation.
+Prior experience with APIs and integrations is a plus
+Ability to manage responsibilities across different areas such as working cross functionally, debugging and building on APIs, or writing documentation.
+Bias to action  preference for being hands on -- Partner Engineers work on powering mission-critical integrations for our customers, so were not afraid to jump in and become owners!
+Strong communication skills, adept at interfacing with different audiences and communicating complex technical concepts
+
+
+ 
+Compensation
+
+The cash compensation range for this role is 135,000 - 150,000.
+Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years  depth of experience, certifications. In addition to cash compensation, all employees receive an equity compensation package.
+
+ 
+Benefits
+
+
+Unlimited PTO
+100 covered health, vision, and dental insurance
+401(k) plan
+Free dinner when working after 7pm
+
+Merge is an equal opportunity employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected class.

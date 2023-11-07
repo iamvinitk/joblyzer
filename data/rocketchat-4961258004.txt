@@ -1,0 +1,35 @@
+This is a remote job for applicants Worldwide.
+Were looking for a highly motivated Senior Software Engineer for our Back-end Team! Youll be developing, maintaining, and improving the core functionalities of the product. You will work with our engineering team and our open-source community on core features to maximize quality and usability for clients and end-users.
+Your skills 
+
+7 years of experience as a Software Engineer. 
+Proven experience with performance improvements, being able to identify bottlenecks and contribute back code improvements. 
+Experience with Benchmark, to create and maintain tools for benchmarking the deployment. Producing results so we can monitor if the application is improving or not and also giving meaningful outputs for other areas to improve the application.
+Solid Node.js, Javascript, Typescript, and various frameworks development background.
+Solid skills in Docker, Kubernetes, MongoDB.
+Knowledge of System Monitoring and Documentation is a plus.
+Knowledge of Grafana, Prometheus, and Event Stream Apps is a plus.
+Understanding the nature of asynchronous programming and its quirks and workarounds.
+Understanding user authentication and authorization between multiple systems, servers, and environments.
+Understanding fundamental design principles behind a scalable application.
+Auto-Scale - Manage and identify metrics and ways to auto-scale the deployment
+Proven experience creating and managing high availability systems.
+
+What youll do 
+
+Design and implementation of low-latency, high-availability, and performant applications.
+Design and implement REST and real-time API endpoints.
+Write reusable, testable, and efficient code.
+Write highly scalable, performant, and secure features.
+Create optimized database schemas.
+Own new features from specification to production release.
+Work collaboratively with other developers, and product owners.
+Maintain code integrity and organization.
+Be willing to propose and drive improvements to the software proactively.
+Implement and manage best practices for maintaining source code repositories and branchingmerging strategies for multiple codebases and applications.
+Benefits 
+Our goal is to make your routine as a Rocketeer feel enjoyable, exciting, and comfortable in a 100 remote environment. So, youll receive a set of benefits to improve your remote work experience! They include a flexible schedule, unlimited Paid Time Off, language and tech courses, stock options, a multicultural environment with colleagues in over 26 countries, a vibrant company culture, and more! 
+About Rocket.Chat 
+Rocket.Chat is the worlds largest open-source communications platform. Built for organizations needing more control over their communications, it enables collaboration between colleagues, partners, customers, communities, and even platforms without compromising data ownership, customizations, or integrations.
+Tens of millions of users in over 150 countries and organizations such as Deutsche Bahn, the U.S. Navy and Credit Suisse trust Rocket.Chat every day to keep their communications completely private and secure. As Rocket.Chat we believe in reconnecting the world, one conversation at a time! See yourself in that? So apply now!
+Check out our handbook for more information about our rocket.

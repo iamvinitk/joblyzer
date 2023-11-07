@@ -1,0 +1,56 @@
+See yourself at Twilio
+Join the Email Platform team as a DevOps Engineer. 
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+Although were headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. Were on a journey to becoming a globally anti-racist, anti-oppressive, anti-bias company that actively opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business. We employ thousands of Twilions worldwide, and were looking for more builders, creators, and visionaries to help fuel our growth momentum.
+About the job
+This position is a hands-on role to support the management of our data center footprint across the US and EU as well as our AWS cloud infrastructure. Successful candidates join at a time where we are executing on a hybrid strategy that will optimize our on-premise data center infrastructure while leveraging operational efficiencies in AWS. 
+Responsibilities
+In this role, youll:
+
+Build automation to support the existing systems and processes for data center management, hardware lifecycle, server provisioning, and configuration management.
+Be part of the team that is leading our cloud migration strategy while maintaining a resilient on-premise platform.
+Drive efficiencies in both cloud and on-prem footprints through a data-driven approach to design decisions. 
+Demonstrate effective communication by authoring and reviewing design documents, runbooks, and other service documentation.
+Become part of the on call rotation for the team.
+Foster an inclusive environment and imports team members to succeed and grow.
+
+Qualifications 
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+Required:
+
+Proficiency with one or more programming languages: Ruby and Go preferred.
+Experience with running one or more public clouds at scale (AWS preferred), using automation to support deployment, scaling, monitoring, and management (Terraform  Pulumi etc.).
+Deep familiarity with Linux (CentOSRHEL or Ubuntu preferred), bash scripting, service configuration and management.
+Comfortable with supporting and configuring physical hardware (servers, switches, power distribution, etc.) and virtual machine environments
+Strong understanding of networking concepts and internet application fundamentals (TCPIP, DNS, SSL, load balancing, etc)
+A passion for automation and DevOps  blending operational excellence with development best practices.
+An understanding of computer science fundamentals and practical experience developing distributed systems.
+Proven ability to work across teams to address complex engineering challenges.   
+
+Desired:
+
+Experience running large-scale critical production infrastructure supporting 247 business needs
+Experience automating management of physical infrastructure in a hybrid cloud environment.
+Experience with configuring and administering load balancing.
+Familiarity and practical experience deploying applications to Kubernetes.
+Past development projects involving interacting with, or creating, structured APIs.
+
+Location 
+This role will be based in Dublin or remotely in Ireland.
+What We Offer
+There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+Twilio thinks big. Do you?
+We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. Thats why we seek out colleagues who embody our values — something we call Twilio Magic. Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts.
+So, if youre ready to unleash your full potential, do your best work, and be the best version of yourself, apply now!
+If this role isnt what youre looking for, please consider other open positions.
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

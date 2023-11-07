@@ -1,0 +1,44 @@
+The role
+The Web and design team works as a multidisciplinary inclusive team with world-class user researchers, UX designers, visual designers and web engineers. We work collaboratively with many teams and roles across the organisation including product managers and other engineering teams.  
+Senior Web Engineers help drive best practices across the team, for all disciplines, bringing great ideas to the table to lead technical conversations. They identify risks and communicate them to relevant stakeholders, asking the right questions to move a project forward. Within the team there are fantastic opportunities to gain deep technical knowledge of complex products in innovative and fast-growing areas of the tech world with space and support to hone your craft. We value transparency, intellectual honesty and teamwork.
+About Canonical
+Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu  the worlds 1 cloud operating system. Our mission is to realise the potential of free software in the lives of people and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu. 
+What you will do:
+
+Learning and teaching: Coaching, mentoring and providing feedback to more junior members of the team, while always developing yourself.
+Ownership: Plan and manage progress on agreed goals and projects.
+Communication: Youll manage incoming requests for updates and liaise with or delegate to other people as necessary.
+Standards: Youll ensure the standard of our teams output remains high and consistent across our whole product portfolio.
+Consistency: Youll ensure new pages are published according to specification and in compliance with our design system.
+Culture: Foster a healthy, collaborative engineering culture in line with the company values.
+Collaboration: Work closely with UX designers and visual designers to implement exemplary user experiences.
+Celebrate: Celebrate success with your team, and learn from mistakes.
+Love what you do.
+
+Who you are
+
+Demonstrable experience, working on modern web applications, such as React.
+Deep working knowledge of HTML, SCSS, and JavaScript.
+Good understanding of server-side languages, such as Python.
+Experience with Git or other version control systems.
+Consideration of accessibility in all aspects of your work.
+Experience with analysing and improving web performance in complex user interfaces.
+An excellent communicator with the ability to interact with other members of the team.
+Exceptional product delivery experience.
+Based in the EMEA timezone (Europe, the Middle East and Africa).
+
+We offer
+
+Remote first: 100 remote working with the opportunity to travel to Sprints. We meet a couple of times a year in interesting places all around the world to come together to collaborate. These Sprints see circa 300 people come together. This year we have travelled to Frankfurt, Copenhagen, Montreal and Prague!
+
+
+Personal development: Annual budget allowance and time to focus on areas you want to improve.
+
+
+Compensation: eligibility for annual pay review including bonuses.
+Recognition: The ability to possibly be rewarded and recognised by others for the work you do.
+Travel: Priority Pass for lounge access when flying to sprints. International SOS membership to support you whilst travelling.
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-Remote
+ 

@@ -1,0 +1,45 @@
+About INTERACTIVE BROKERS!
+Interactive Brokers Group has been consistently at the forefront of trading innovation, starting with the invention of the first floor-based handheld computer in 1983. We pride ourselves on being primarily a technology company and challenging the status quo. We push boundaries to offer our clients the best trading platform with the most sophisticated features at the lowest cost. Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform. Interactive Brokers is regularly recognized as a leader in the financial services industry.
+ 
+About your team:
+Interactive Brokers Trading team is seeking an experienced Senior Java GUI Developer to join their team. This position offers a unique opportunity to work on complex and challenging projects for one of the worlds leading brokerage firms.
+ 
+What will be your responsibilities within IBKR: 
+
+Design and develop high-performance Java GUI applications.
+Work closely with business analysts and other developers to deliver high-quality software solutions.
+Participate in the entire software development lifecycle, including design, coding, testing, and support.
+Develop and maintain software documentation, including design documents, test plans, and user manuals.
+Stay up-to-date with emerging trends and technologies in Java GUI development.
+
+Which skills are required:
+
+Bachelors or Masters degree in Computer Science or a related field.
+Minimum of 5 years of professional Java GUI development experience.
+Strong proficiency in Java, JavaFX, and Swing.
+Familiarity with multithreading, network programming, and software design patterns.
+Experience with financial trading platforms is a plus.
+
+To be successful in this position, you will have the following:
+
+Self-motivated and able to handle tasks with minimal supervision.
+Superb analytical and problem-solving skills.
+Excellent collaboration and communication (Verbal and written) skills.
+Outstanding organizational and time management skills.
+
+Company Benefits  Perks
+
+Competitive salary, annual performance-based bonus and stock grant
+Retirement plan 401(k) with competitive company match
+Excellent health and welfare benefits, including medical, dental, and vision benefits
+Wellness screenings and assessments, health coaches and counseling services through an Employee Assistance Program (EAP)
+Paid time off and a generous parental leave policy
+Daily company lunch allowance provided, and a fully stocked kitchen with healthy options for breakfast and snack
+Corporate events including team outings, dinners, volunteer activities and company sports teams
+Education reimbursement and learning opportunities
+Modern offices with multi-monitor setups
+
+ Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

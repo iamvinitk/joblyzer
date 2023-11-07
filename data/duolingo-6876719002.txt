@@ -1,0 +1,36 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+More information on the team:
+Monetization Area:
+
+You will work on our premium subscriptions—Super Duolingo and Duolingo Max—the key revenue drivers behind our business. Your contributions will touch packaging, pricing, and hooks for our subscriptions, and game mechanics such as Hearts and Gems. Were seeking engineers who are passionate about bottom-line business impact, and who bring fresh insights and a creative technical approach.
+The Monetization Area focuses on Duolingos key business drivers—subscriptions, ads, and in-app purchases. Our areas goal is to build the best premium experiences for our learners while ensuring the sustainability and success of our business model. You will play an instrumental role in the strategic direction of Duolingo by developing and refining the methods that make our monetization efforts more effective and efficient.
+
+You will...
+
+Collaborate on software projects with product design and backend aspects
+Develop, release, and maintain native iOS applications, primarily in Swift
+Mentor and set technical direction for junior engineers across the company
+
+You have...
+
+A Bachelors degree in Computer Science or a related technical field
+A solid foundation in computer science with strong competencies in data structures, algorithms, and software design
+Programming experience in Swift
+
+Exceptional candidates will have...
+
+5 years of programming experience in Swift
+Strong technical knowledge of iOS mobile application development for iPhoneiPad using Swift with Cocoa Touch and related frameworks
+Experience designing clean and maintainable APIs
+Experience with multithreaded programming
+Experience writing unit tests and testable code
+Knowledge of iOS SDK performance tools and optimization techniques
+
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 148,800 - 274,600. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

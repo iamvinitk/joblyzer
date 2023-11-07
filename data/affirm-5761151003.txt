@@ -1,0 +1,36 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.The Machine Learning Data team is a team of passionate engineers working at the intersection of data, machine learning, and experimentation. We maintain critical real-time infrastructure to enable machine learning and data to be a competitive advantage for Affirm. 
+As a member of our team, youll create scalable business impact by making it easy for anyone at Affirm to use ML data for training and serving business-critical ML models. Our flagship product is a modern feature store built on stream processing technology. Youll partner with ML engineers across Affirm to develop systems that will advance the use of machine learning in the financial services industry. If this excites you, wed love to hear from you.
+What Youll Do
+
+Work with a team of engineers to build, maintain, and scale our critical experimentation, feature flag, and feature store infrastructure serving millions of customers
+Work with other engineers, data scientists, product managers, and machine learning engineers to configure their experiments, machine learning features, and feature flags for different product initiatives
+Drive customer impact through critical infrastructure
+On-call and triage rotations
+
+What We Look For
+
+Collaborative, communicative, and enthusiastic people who love software
+5 years of software development experience with experience mentoring junior engineers
+Software development experience in Python or a similar language
+Linux and AWS experience, AWS certification is a plus
+Experience with data pipelines and machine learning is a bonus
+Kubernetes experience is a bonus
+Experience in operating 24x7 mission-critical systems
+
+USA Pacific base pay range (CA, WA, NY, NJ, CT): 162,400 - 243,500USA Sapphire base pay range (all other U.S. states): 146,100 - 219,200
+Location - Remote US
+LI-Remote
+ 
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+We have a simple and transparent remote-first grade-based compensation structure. Offer amounts within the range are based on a number of factors including but not limited to job-related skills, experience, and relevant education or training. Across the broader organization, certain roles are eligible for equity awards upon hire, promotion, tenure milestones and for performance.
+Were extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe Its On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+
+By clicking Submit Application, you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.

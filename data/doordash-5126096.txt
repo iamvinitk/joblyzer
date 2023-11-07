@@ -1,0 +1,48 @@
+About the Team
+The Core Infrastructure organization builds and operates reliable, scalable and repeatable cloud infrastructure for DoorDash developers to ship great products quickly and reliably.
+The Observability team within Core Infrastructure builds and operates systems to provide introspection into the health and performance of all DoorDash systems and services. These observability systems are used by all DoorDash developers!
+About the Role
+Your responsibilities include:
+
+Plan and execute infrastructure projects that improve observability tools and platforms, including: metrics, logging, distributed tracing, dashboarding, alerting, application performance management
+Developing and maintaining systems to enable our engineering colleagues to confidently run their services with high quality, and quickly understand and mitigate any technical issues
+Partnering with our observability vendors to improve their products and align with our roadmap needs
+Working with engineering colleagues to contribute to our observability strategy with a strong emphasis on open source libraries, data formats and query languages
+
+Youre excited about this opportunity because you will
+
+Join a growing company and grow right along with us
+Take on significant technical challenges and have a large impact
+Have the ability to shape and improve our engineering culture
+Build upon an established foundation with a focus on innovation
+
+Were excited about you because
+
+You have at least 5 years experience as a backend software engineer
+You have experience building and operating infrastructure at scale 
+You apply a product mindset to infrastructure systems and feel accomplished enabling others
+You strive for design simplicity and consistency above all else
+You solve problems using software to automate or prevent toil
+You love data, and identifying patterns and correlations providing new insights is exciting to you
+
+Nice to have...
+Experience with these specific technologies or similar alternatives is not required but helpful.
+
+Development using GoLang, Kotlin, andor Python
+Infrastructure: AWS, Kubernetes, Helm, Terraform, Service Mesh, Envoy
+Observability: OpenTelemetry, PrometheusPromQL, Grafana, Fluentbit
+Data: Kafka, Clickhouse, SQL, Redis
+Previous experience running a production service from a DevOps or SRE perspective
+
+About DoorDash
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Were committed to supporting employees happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+Our Commitment to Diversity and Inclusion
+Were committed to growing and empowering a more inclusive community within our company, industry, and cities. Thats why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, maritaldomestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on protected categories, we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce  people who identify as women, non-binary or gender non-conforming, LGBTQIA, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+If you need any accommodations, please inform your recruiting contact upon initial connection.
+Compensation
+The location-specific base salary range for this position is listed below.  Compensation in other geographies may vary.
+Actual compensation within the pay range will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location.  For roles that are available to be filled remotely, base salary is localized according to employee work location.  Please discuss your intended work location with your recruiter for more information.
+DoorDash cares about you and your overall well-being, and thats why we offer a comprehensive benefits package, for full-time employees, that includes healthcare benefits, a 401(k) plan including an employer match, short-term and long-term disability coverage, basic life insurance, wellbeing benefits, paid time off, paid parental leave, and several paid holidays, among others.
+In addition to base salary, the compensation package for this role also includes opportunities for equity grants.California Pay Range:149,500—238,000 USD

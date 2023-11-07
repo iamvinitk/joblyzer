@@ -1,0 +1,28 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+You will be joining Stripes Growth team to help millions of merchants consider, adopt and grow their business with Stripes full suite of financial products. Our team is responsible for improving and accelerating the full journey of our self-serve customers from consideration to long-term value, and is accountable for the self-serve business line as well as contributing to the sales pipeline  directly driving Stripes topline revenue targets.
+What youll do
+In this role, you will develop and execute on Stripes strategy for when and how Stripe engages with customers across different automated and human-assisted channels (sales, support, automated chat, self-serve emails, ) to help them overcome awareness gaps and friction so they can derive more value from Stripe. You will align all go-to-market teams on key customer milestones and experiences across these channels, and create a roadmap for seamlessly engaging customers in these experiences based on where they are in their journey. You will work closely with a cross-functional team across engineering, marketing, sales, DS, Design and will be accountable for self-serve and sales revenue outcomes.
+Responsibilities
+
+You will build a deep understanding of our customers across different types of businesses, synthesizing data and research and experiments to outline different awareness gaps and frictions they face. 
+You will think holistically across the end to end journey of a customer with Stripe, and develop an opinionated strategy and roadmap for when and how we should engage customers across different automated and human-assisted channels (sales, support, self-serve emails, ) to successfully address awareness gaps and friction points in the most cost-effective way.  
+You will work with marketing, sales and cross-functional product teams to execute on a roadmap for a centralized customer routing infrastructure, cohesive end customer experiences, and salesmarketing enablement - ultimately driving revenue outcomes for Stripe across self-serve and sales channels. 
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+8 years of experience as a product manager launching consumer or B2B products
+Experience with iterative hypothesis-driven product development and experimentation 
+Experience working with a broad set of stakeholders and driving alignment 
+Strong written and verbal communication skills
+Takes an ownership mindset and works on whatever it takes to solve problems and delight users
+Spikes in cutting through ambiguity to produce strategic insights and opportunities
+
+Preferred qualifications
+
+Experience working on product-led sales and growth problems (acquisition, activation, retention)
+Experience working with sales and marketing organizations

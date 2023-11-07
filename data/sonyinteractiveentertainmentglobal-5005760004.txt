@@ -1,0 +1,46 @@
+Why PlayStation?
+PlayStation isnt just the Best Place to Play — its also the Best Place to Work. Today, were recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation5, PlayStation4, PlayStationVR, PlayStationPlus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.Team Overview:
+PSOT (PlayStation Studios Online Technology) is the central team for online solutions for first- and second-party PlayStation titles. We provide expertise on existing technology and develop it where a particular need is not met, in order to improve the enjoyment of the online features in our games. Our involvement spans the whole range from advising teams on what to use, to doing the actual implementation for them or owning the whole feature through release and beyond.
+What youll be doing:
+We are looking for a programmer to participate  in the design, development and implementation of new specialised features and services, as well as providing expert advice on standard methodologies in the online space. The role involves collaborating with various fields across game teams so an ability to listen is as important as is being able to drive a point across. The main area of work will be around real-time networking; an awareness of the impact of things like latency, bandwidth or non-local information is key. For client-side implementations, an understanding of the algorithmic complexity, memory and CPU utilisation, and multi-threaded programming paradigms are all essential to work across the diverse game engines encountered in our partnership with game developers.
+The ideal candidate will be quick and eager to learn new things. We want someone who loves problem solving, with a sharp mind and a professional and committed attitude. It will also be critically important to have a pragmatic approach to engineering problems, where the constraints may be legal or financial, not merely technical.
+What were looking for:
+Requirements
+
+Extensive experience writing CC in medium to large scale projects
+Good communication skills, being able to explain technical concepts to non-engineers
+Knowledge in networking with an understanding of latency and bandwidth
+Attention to detail and good debugging skills
+Ability to work concurrently on multiple projects
+Quick learning and a driving curiosity
+
+ Other things worth having experience in
+
+Golang
+Low level networking (network and transport layers)
+Unreal Engine
+Online games (developing and having a passion for playing them)
+Unix
+Developing applications using AWS services
+Console or embedded systems development
+Information security
+Voice over IP communications
+Cryptography
+
+ Benefits: 
+
+Discretionary bonus opportunity
+Private Medical Insurance
+Dental Scheme
+25 days holiday per year
+On Site Gym
+Subsidised Caf
+Free soft drinks
+On site bar
+
+Please refer to our Candidate Privacy Notice for more information about how we process your personal information, and your data protection rightsEqual Opportunity Statement:
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.

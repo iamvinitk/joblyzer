@@ -1,0 +1,36 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+ 
+Stripes Fraud Team is committed to minimizing Stripes exposure to both buyer and seller fraud. The EMEA  APAC Fraud Team is responsible for building and implementing regional strategies that scalably reduce risk for Stripe and preserve a healthy financial ecosystem, while creating positive experiences for users. 
+As a member of the Fraud Strategy team supporting EMEA  APAC, you will be directly responsible for building strategies to mitigate buyer and seller fraud on new and existing Stripe products in the regions. You will enable safer payments for our users and help Stripe manage payments risks intelligently. The stakes are high, and you will be up against ever-evolving challenges. You will face some of the most complex and dynamic problems at the company, and the nature of your work will evolve rapidly to combat new and more sophisticated challenges to Stripes payments integrity.
+What youll do
+Responsibilities
+
+Focus on Fraud Risk. You will monitor buyer and seller fraud trends in EMEA and APAC, and investigate anomalous behavior at the merchant and transaction level
+Build and Monitor Regional Health Metrics. You will be responsible for defining, building, maintaining and monitoring key regional fraud health metrics. You will set targets for improvements to these key indicators
+Build regional Fraud Strategies. You will identify key fraud protection investment opportunities for the regions for the short and long term. You will work across stakeholder groups like Data Science, Product, Engineering and Operations to scope and execute these strategies
+Support New Product and Country Launches or the Regions: You will deeply analyze fraud risks for new product and country launches and will build strategies that will mitigate those fraud risks pre and post launch
+Interface with external partners: You will interface with financial partners and users as required to update and educate them regarding Stripes fraud systems
+Responsible for regional reporting: You will be responsible for reporting the status of fraud activities within the Stripe ecosystem to internal risk committees as well as external regulatory bodies across the regions
+Share insights: You will communicate key updates outwards to regional stakeholders and the broader risk organization
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+6 years of relevant professional experience
+Naturally curious and passionate about risk prevention: if something seems off, you want to investigate whats going on and solve root problems
+Decisive, yet open to learning: you will make many critical decisions every day impacting large numbers of users and transactions. You are willing to make these difficult decisions and quickly learn and iterate from these experiences. You are skilled at using data to drive decisions
+Understanding and empathetic to the challenges of setting up a new business: You put users first and will thoughtfully balance scaled enforcement decisions with user experience
+Analytical: You are passionate about data analysis and can frame business decisions and tradeoffs effectively through quantitative analysis and visualization. You have at least intermediate SQL skills and have experience in applying these skills in business environments
+An excellent communicator and team player: You are able to convey complex ideas succinctly and work effectively across teams
+Effective project manager: You have demonstrated project-management skills and the ability to drive execution on projects that span multiple teams both within and outside of Risk
+
+Preferred qualifications
+
+Expertise with quantitative tools such as Python, R, or Stata
+Experience with payments (particularly working with regional payment methods and regional markets), risk, or trust  safety
+Experience working with machine learning teams
+Experience working in fast-paced and rapidly changing start-up environments

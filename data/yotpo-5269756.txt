@@ -1,0 +1,32 @@
+If you shop online (and who doesnt these days?), then chances are youve already interacted with Yotpo. Were a leading eCommerce retention marketing platform, on a mission to help brands of all sizes turn one-time shoppers into customers for life. Loyalty programs, SMS and email marketing, subscriptions, and reviews are our bread and butter, but we have more solutions up our sleeve, too.
+We have teams across the world, including the US, Canada, UK, Israel, Bulgaria, and Australia — and were still growing. Our primary goal is to deliver the best technology in the industry.
+You can hear all about it in our latest brand video. 
+Sounds exciting? Then read on, because were in pursuit of the best and the brightest minds to help us achieve our vision.Now, lets talk about you. Are you a talented and experienced Data Engineer ? If so, we want you to be part of our dynamic Business Intelligence Team, a part of the RD, contributing to our vision and making a difference in the eCommerce landscape. Join us on this journey as we seek the best and brightest minds to drive our mission forward. 
+Responsibilities
+
+Developing, implementing and supporting robust, scalable solutions to improve business analysis capabilities
+Managing data pipelines from multiple sources, including designing, implementing, and maintaining
+Translating business priorities into data models by working with business analysts and product analysts
+Collaborate across the business with various stakeholders, such as data developers, systems analysts, data scientists and softwares engineers
+Owning the entire data development process, including business knowledge, methodology, quality assurance, and maintenance
+Work independently while considering all functional and non-functional aspects and provide high quality and robust infrastructures to the organization
+
+Mandatory Requirements
+
+5 years of experience working as a BI Developer  Data Engineer or a similar role
+Bachelors degree in Industrial engineer, Computer Science, Maths, or other numerateanalytical degree equivalent or army unit equivalent
+Advanced proficiency and deep understanding of SQL
+Skills in data modeling, business logic processes, as well as experience with DWH design 
+Experience with Python
+An enthusiastic, fast-learning, team-player, motivated individual who loves data
+
+Advantage
+
+Experience working with DBT (big advantage)
+Experience leading BIBA team
+Knowledge in BI tools such as Tableau, Looker or Superset
+Experience working with DWH, such as BigQuerySnowflakeRedshift
+Experience working with Spark, Kubernetes, Docker.
+Experience working with Databricks
+
+ LI-Hybrid

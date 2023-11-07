@@ -1,0 +1,56 @@
+See yourself at Twilio
+Join the team as our next Senior HRIS Consultant - Workday
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+Although were headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. Were on a journey to becoming a globally anti-racist, anti-oppressive, anti-bias company that actively opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business. We employ thousands of Twilions worldwide, and were looking for more builders, creators, and visionaries to help fuel our growth momentum.
+About the job
+This position is needed to configure and manage Workday modules on the People team at Twilio.
+Twilio is seeking a Workday SME with knowledge of multiple modules in Workday to be a key contributor on the HR Technology team. The person in this role will primarily focus on running Workday projects with varying levels of complexity and evolving our HR support model. In addition, this individual will help with Workday support. Reporting to the Manager of HR Product Management, this position is critical in supporting Twilios rapid growth.
+ 
+Responsibilities
+In this role, youll:
+
+Work hands on in Workday configuration of several modules among Advance Compensation, Benefits, Time Tracking, Payroll, Absence, Talent  Performance, Core HCM.
+Research, design, advise and deploy best practices and how to effectively translate requirements into scalable realistic business processes.  
+Works in a highly agile environment where processes are constantly developed out of ambiguity or redeveloped for scale. Research new ways to solve the unknown problems affecting the business through keeping current on new Workday releases, enhancements. 
+Work on and own People projects, end to end, with varying levels of complexity. Gather, document and evaluate end-user requirements by working with cross functional teams. Prototype and configure based on project requirements. Manage testing, identify test scenariosuse cases, help develop test scripts and execute UAT with the project team. Ensure solution designs are in line with security, scalability and best practices. Strong quality assurance skills to minimize risk through use of audits, checklists, repeatable processes and attention to detail.  
+Be the partner to the functional teams and proactively support the business by providing the best end user experience, advising on enhancements, and best practices. Create related system documentation and end user training resources. Communicate and provide training to enable end users on necessary functions.
+Maintain and support ad-hoc reporting needs and data loads using EIB. Assist with production support.
+Support SOX compliance efforts by ensuring process and data integrity.
+
+Qualifications 
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+Required:
+
+5 years hands-on Workday experience supporting HR functions with regards to implementation, configuration, testing, post-go live support, and day-to-day maintenance.
+Demonstrated Workday configuration experience. Strong exposure and knowledge of various types of HR systems across the People function HCM, LMS, ATS, Case Management is preferred
+Have a track record of translating HR business needs to effective design recommendations, systemdata analysis, instituting design in system, and leading or participating in testing and deployment activities.
+
+Desired:
+
+Must be collaborative, a self-starter, highly motivated, able to shift directions quickly when priorities change with the ability to think through problems and deliver quality solutions against very tight deadlines.
+Must be detail-oriented, analytical and have a system thinking approach to problem solving, basic understanding how things affect one another in an overall system
+Proven ability to work in a fast-paced and dynamic environment with versatility to manage multiple projects, priorities and urgent issues successfully and simultaneously.
+Customer service oriented, ability to meet defined SLAs, Project Management experience and familiar with Agile  Scrum methodologies.
+Strong exposure and knowledge of various types of HR systems across the People function is preferred.
+
+ 
+Location 
+This role will be RMZ Ecoworld, Bengaluru India Office
+ 
+What We Offer
+There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+Twilio thinks big. Do you?
+We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. Thats why we seek out colleagues who embody our values — something we call Twilio Magic. Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts.
+So, if youre ready to unleash your full potential, do your best work, and be the best version of yourself, apply now!
+If this role isnt what youre looking for, please consider other open positions.
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

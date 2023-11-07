@@ -1,0 +1,30 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:
+By combining best-in-class autonomy and cloud connected real-time visibility, drones will become critical and ubiquitous infrastructure that can be deployed and monitored in real time to solve a variety of problems faster, cheaper, and safer than ever before. As one of the first security software engineers hired at Skydio, you will play a foundational role in defining, architecting, and developing best-in-class security infrastructure and processes at the forefront of the drone industry. You will be responsible for:
+
+Conducting code reviews and managing our DevSecOps security controls
+Designing and implementing defensive security controls for our products, cloud, and corporate environments 
+Deploying identity and trust management on our cloud and corporate environments
+
+How youll make an impact:
+
+Design and implement security mechanisms to protect data, authorize users, monitor systems, etc.
+Develop a deep understanding of Skydios technology, customers, and workflows to ensure that our products meet a wide range of security profiles (Fortune 500, government, DoD)
+Assess security of existing systems, identify technological risk, propose remediation initiatives, and plan ahead for security at scale
+Evaluate security impacts of software designs and make recommendations on infrastructure improvements necessary to uphold a high security standard
+Leverage your experience and best practices to not only uphold but improve Skydios engineering standards
+
+What makes you a good fit:
+
+5-10 years of Python experience
+You love having fun building great products and enjoy working on systems that involves hardware and software
+You are customer focused with hands-on software development experience around writing and shipping code to solve customer problems
+You have experience building and delivering scalable and secure cloud based systems with a high proficiency in modern cloud technologies
+Direct experience with our stack (Typescript, React, Python, Terraform, C, AWS)
+You are a security generalist with deep experience and passion for securing complex systems at enterprise scale
+Demonstrated ability to collaborate with cross-functional engineering teams (experience working with hardware development teams is a significant plus)
+Knowledge of relevant security and compliance frameworks, standards and regulations (such as SOC2, cloud security, GDPR, FedRAMP, ISO27001, etc.) a bonus
+
+We welcome every qualified candidate who is eligible to work in the United States to apply. However, at this time, Skydio does not currently offer employment-based visa or permanent residency sponsorship for this role
+Compensation Range: The annual base salary range for this position is 187,000 - 236,500. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.For some positions the pay may be dependent upon the individuals regional location.At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

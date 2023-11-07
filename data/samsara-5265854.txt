@@ -1,0 +1,48 @@
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40 of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means youll help define the future of physical operations and be on a team thats shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, youll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards weve won include:
+Glassdoors Highest-Rated Tech Companies for Culture and Values 2023
+Great Place To Work Certified 2023
+Best Place to Work by Built In 2023
+Financial Times The Americas Fastest Growing Companies 2023
+Deloitte Fast 500 Companies
+We see a profound opportunity for data to improve the safety, efficiency, and sustainability of operations, and hope you consider joining us on this exciting journey. About the role:
+Samsara is hiring a Full Stack Senior Software Engineer to join our Event Ingestion and Filtering team, a critical part of our Safety product offering. The global, connected fleets of Samsara customers are continually detecting events that safety managers use to coach risky driver behaviors and recognizereward safe driving. Once those events have been detected, their journey through Samsara continues, and this team ensures that all events that reach the customer are relevant and coachable for the end user.
+We are constantly building out new capabilities that process billions of minutes of video safety events atop a platform that connects business operations to the physical world. We solve real problems that impact operations globally. We work closely with customers to gather requirements, get feedback and iterate on solutions as the products come to life. We collaborate across engineering and other disciplines to learn from each other and ensure that we build the best solution for our customers, keeping their needs in mind. Our team owns critical products that impact our entire Safety offering and we shape the future of how events are created, filtered, and presented. We build complex market leading end-to-end solutions that touch the full stack within a distributed platform that scales at an incredibly fast pace to meet the needs of the next generation of IoT applications.
+You should apply if:
+
+You want to impact the industries that run our world: The software, firmware, and hardware you build will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+You want to build for scale: With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the worlds physical operations.
+You are a life-long learner: We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+You believe customers are more than a number: Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+You are a team player: Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, were all racing toward our connected operations vision, and we intend to win—together.
+
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+
+Solve complex problems and own the success of your solutions as you architect, build, test and deliver full-stack products
+Communicate, collaborate and develop with engineers, platforminfrastructure teams, product managers, designers and support teams
+Build upon skills and knowledge across a range of technologies such as Go, GraphQL, Typescript, React and MySQL. Previous experience with these technologies is not required
+Own the operational health of production systems as we build for the future scale of an ever growing customer base
+Understand how an IoT platform solves real world problems as well as how to incorporate customer feedback and requirements into solutions
+Make an impact on our core architecture, roadmap and the wider engineering community
+Coach your team through complex projects to improve and empower those around you
+Champion, role model, and embed Samsaras cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+
+Minimum requirements for the role:
+
+This level role at Samsara is for someone with experience playing a key role in a skilled software engineering team. Youll be hungry to learn, help others to learn from your experience and be fascinated by the future
+You dont need to have worked with a big name or have a Computer Science degree, but youll be comfortable writing clean code and capable of building complex systems at scale
+Youll be comfortable with designing and building out complex end-to-end solutions as well as leading complex projects. A preference for front-end or back-end development is okay, but youll need to be happy working across the stack here 
+Communication skills are important to our engineering team. Youll be able to explain why you build something a certain way and be open to suggestions from other engineers and stakeholders
+You enjoy understanding users and their problem space to ensure that what you build has a real and relevant impact on customers day-to-day processes
+At Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewingsamsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where theyre based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individuals ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.

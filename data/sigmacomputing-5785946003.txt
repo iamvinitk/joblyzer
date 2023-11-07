@@ -1,0 +1,48 @@
+ 
+ Technical Writer, Information Architecture  
+About the Role
+We are looking for a technically skilled and user-focused Technical Writer to play a key role in transforming complex technical concepts into comprehensive, user-friendly documentation. Your natural curiosity, resourcefulness, and adaptability will be your greatest assets. We require self-motivated individuals who can seamlessly manage multiple tasks, communicate effectively, and excel in our fast-paced environment. 
+In this role, you will actively engage with technical pods, collaborating closely with Product Managers, Engineering, and Design teams throughout the entire product development lifecycle. You will be pivotal in crafting documentation that supports engineering teams releasing updates frequently. Your proactive identification of documentation gaps and commitment to improving our documentation culture will be instrumental in creating exceptional user resources.
+What You Will Be Doing
+
+Craft and elevate customer-facing documentation to enlighten our users.
+Contribute to an information architecture approach for organizing content and improve our authoring and production tools and processes.
+Work closely with the development team (including engineers, designers, and product managers) throughout the development process to understand features and functionality at the level of a subject matter expert.
+Collaborate with the development team to translate complex technical details into clear, digestible documentation, tutorials, and release notes.
+Supplement existing documentation based on feedback from customer-facing teams and actively address knowledge gaps, prioritizing user empowerment across all user levels.
+Develop visually captivating, dynamic documentation that includes diagrams, screenshots, and other visual aids.
+Innovate and refine documentation processes, leaving your mark on our style guide.
+Explore and validate product features through rigorous testing, sharing insights with the team.
+Learn from your peers work and anticipate user obstacles through regular communication and user experience research.
+
+Qualifications We Need
+
+5 years of software technical writing experience requiring self-sufficiency and autonomy in day-to-day responsibilities.
+Passion for instructional writing with a focus on clarity, straightforward storytelling, and an information architects approach to organizing material.
+Exceptional written and spoken communication skills, emphasizing clarity and approachability for various user personas.
+Established technical documentation expertise in data analysis, technical concept diagramming, and API or developer documentation.
+Outstanding time management skills, with ability to handle multiple management tasks and writing assignments simultaneously.
+Ability to bridge the gap between various teams and translate input from different disciplines into coherent documentation for end users.
+Hands-on approach to understanding complex technology and products, and thrive in a fast-paced environment.
+Proficiency in using documentation tools and software, such as content management systems (preferably Markdown-based), version control systems, and other relevant writing and publishing tools.
+
+Additional Job details
+The base salary range for this position is 140k - 160k annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidates qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Sigma Computing. This role is eligible for stock options, as well as a comprehensive benefits package.Note: The world around us is changing, but we at Sigma Computing are growing and scaling. We raised our Series C in Dec 2021. With that, and us being able to 3X our revenue year on year, hiring and building out the best version of our product is priority. That is why we want to talk to you.
+About us:
+At Sigma Computing, our mission is to empower everyone to make the best possible decisions at every turn by removing the barriers that prevent people from analyzing data across sources and delivering the full spectrum of self-service cloud analytics and business intelligence.
+We raised a 300M Series C from Co-Leads D1 Capital Partners and XN, Existing Investors Sutter Hill Ventures and Altimeter Capital, and Snowflake Ventures.
+Come join us to help us be smarter and grow together!
+Benefits For Our Full-Time Employees:
+
+Equity
+Generous health benefits
+Flexible time off policy. Take the time off you need!
+Flexible schedule, do the work you need to get done in the time you have to get it done
+At least 12 weeks of paid bonding time for all new parents
+Traditional and Roth 401k
+Commuter and FSA benefits
+
+Sigma Computing is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow.
+Note: We have an in-office work environment in both of our SF  newly opened NYC office.
+ 

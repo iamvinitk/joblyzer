@@ -1,0 +1,48 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+MANAGER, INFORMATION ASSURANCE
+SpaceX is looking for an experienced, well-rounded information assurance professional to provide support for a critical customer effort as an Information Assurance Manager with a specific focus on information assurance framework and management.
+RESPONSIBILITIES:
+
+Participate in all aspects of the administration and coordination of information security programs, accredited systems, andor activities to ensure compliance with government, customer, and company security policies and procedures
+Be the subject matter expert on government accreditation processes in classified spaces for a growing number of programs  understanding and communicating opportunities for efficiency, as well as nuances where programs require dedicated resources
+Manage the build-out of information systems against government requirements and regulations, including NIST 800-53 and derivatives
+Build analyses of the government requirementsregulations against novel systems and technologies at SpaceX  identifying gaps, building plans to work them, and ultimately closing the gaps
+Key technical point of contact for internal and external stakeholders to ensure mass production product meets customer and reliability targets
+Partner with various government agencies to ensure the organization is in compliance with directives and regulations  including interpretations and deviations from these directives and regulations, as appropriate
+Work with sales team to identify new opportunities that are a good fit for SpaceX, including getting buy-in and establishing resources to support these programs
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in engineering, computer science, information systemsIT, mathematics, physics, or other STEM discipline
+5 years of experience serving as an ISSO or ISSM
+CISSP or other DoD Approved 8570 Baseline Certification in the Information Assurance Management (IAM) Level III category
+Active Top Secret or Top Secret SCI clearance
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+7 years of professional experience in technical roles such as an Information Security Engineer or IT Administrator
+Knowledge of EM Security and TEMPEST standards
+Understanding of ICD-503, Risk Management, Certification, and Accreditation processes
+Experience with GRC tools and technologies such as SNOW
+In-depth knowledge of computer networking, Windows systems management, and Linux systems management
+Superb communication skills, both written and verbal
+Demonstrated technical project management skills
+Track record of getting things done quickly and with quality
+
+ADDITIONAL REQUIREMENTS:
+
+An active clearance may provide the opportunity for you to work on sensitive SpaceX missions; if so, you will be subject to pre-employment drug and random drug and alcohol testing
+Favorable completion of a U.S. Government polygraph pursuant to employment
+Must be willing to travel in support of programmatic requirements
+Ability to pass Air Force background checks for Cape Canaveral and Vandenberg
+
+COMPENSATION AND BENEFITS:      
+Pay Range:      Manager, Information Assurance: 130,000.00 - 180,000.00per year     
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

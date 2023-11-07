@@ -1,0 +1,30 @@
+ 
+
+Were currently hiring for remote team members in the following states: DC, DE, GA, MA, MD, NH, NJ, NY, OH, PA, SC, UT, and VA. BI-Remote
+Were AWeber - a remote-first company that helps small businesses around the world form meaningful connections with their customers and grow their businesses using our marketing software. We are fanatical about small businesses and we hope you are too!
+As Technical Lead on our Email Delivery team, you will design, develop, maintain, and operate applications that power AWebers ability to send our customers emails reliably and in a timely manner. Your mission will be to build and maintain efficient and dependable systems that power delightful experiences for our customers, while mentoring others on your team to do the same.
+Every day you will work alongside a team of skilled engineers to build and maintain our high volume transactional email sending system. You will be writing APIs and event-driven, distributed microservices in Python with frameworks like Tornado and Rejected. You will leverage internal tools to deploy applications onto a modern cloud-based platform leveraging Docker and Kubernetes. On any given day, you could be found designing and implementing systems to deliver emails more efficiently, evolving our technical solutions to deter abuse, or providing technical leadership on new infrastructure or APIs. Your code will capture metrics with tools like Prometheus, statsd, Graphite, and Grafana that you will use to monitor the health of services. You will join a 24x7 on-call rotation to make sure our product is available for customers around the clock.
+To thrive as a Technical Lead, you take pride in producing secure, well-tested and maintainable code that balances the many competing priorities of a modern web platform while delivering for the customer. You enjoy coaching more junior developers through code reviews, paired programming, and providing technical thought leadership. You feel energized when you work with a team to deploy a new feature or solve a tough problem. Learning quickly is one of your super-powers, and you enjoy technologies and problems that are new to you, eager to share what youve learned. You assume ownership over your areas of responsibility, always advocating for improvements and pushing to keep systems updated to current standards.
+ 
+About AWeber:
+At AWeber we create marketing communication software that empowers small businesses around the world to form strong connections with their customers and grow their businesses. Who are our customers you might ask? They are creators, bloggers, entrepreneurs - people just like you that are passionate about an idea or product they want to share with the world. At AWeber, YOU make an impact on these small businesses each and every day!
+As a team, we work remotely across the US, and although were in separate locations, nothing can keep us apart! We collaborate everyday using a variety of tools such as slack, google meet, and confluence JIRA to ensure were making decisions with our customers best interests in mind - something thats not possible when you work in a silo. At AWeber, YOUR voice and YOUR opinion matters, regardless of your role. We expect all AWeber team members will ask tough questions, provide receive feedback regularly, and explore their passions on a daily basis. Sound exciting? Take the next step and apply.
+AWeber Benefits:
+
+100 Remote - were not going back to the office and heres why.
+Strong culture that supports flexibility, entrepreneurialism, and collaboration. Think we should be doing something different? Share your feedback! Were looking for you to add your AWesomeness to our culture.
+We have some other pretty cool benefits to make your life easier:
+
+100 Company Paid PPO medical, dental, vision insurance (spousal and domestic partner benefits available).
+4-7 weeks of paid time off and holidays (based on tenure).
+4 weeks paid sabbatical (based on tenure).
+401K retirement plan with 4 company match.
+Company Profit Share.
+Home office equipment and internet stipend.
+Tuition reimbursement, conferences, and learning opportunities.
+Gym Memberships Reimbursement. 
+Company Paid Short Term Disability Insurance.
+Company Paid Life Insurance.
+Additional Supplemental Benefits (Long Term Disability, Critical Illness, and Additional Life Insurance).
+
+

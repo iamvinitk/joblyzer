@@ -1,0 +1,36 @@
+At Brain, we are working on some of the most exciting design challenges in the era of general AI. Our Human Interface Team (HIT) aims to humanize computing through liberating people from application silos and passive interfaces in old desktop metaphors, propelling them into a new age of intent-aware programs, alongside real-time generative interfaces.We are looking for designers and prototypers to join us in inventing the metaphors and patterns that make up this experience.
+The Prototyper thinks laterally and finds clarity through making. They are excited about metaphors, and jump at the chance to play with new tools and technologies. They move between engineering and design with fluidity, and value vision over pure craftsmanship. They are flexible about ideas, and uncompromising about doing the right thing. (edited) 
+As a Generative AI Creator at Brain, youll be using Brains Imagica platform to build Generative AI applications to showcase next-generation features. Youll interact deeply with Brains Emerging Technology teams to take their vision for Generative AI and make it real on the Imagica platform. You might be extending the Imagica platform by adding custom web services (with AWS LambdaAPI Gateway) andor custom Javascript.
+How youll contribute to the vision:
+
+Speak with internal next-generation teams to find out whats coming down the road
+Engage in design and user-centered thinking to brainstorm new relevant user journeys
+Build next-generation Generative AI-based applications with Imagica to showcase emerging technologies and features
+Communicate findings with internal teams, and work with teams to leverage prototype Imagica applications for other users
+Communicate projects, features, and capabilities on external forums such as user groups, technical showcases, etc...
+Potentially extend the Imagica tool with custom web services using AWS Lambda andor API Gateway and custom Javascript.
+
+Were excited about you because you:
+
+Are genuinely excited about the vast possibilities of Generative AI
+Want to be part of creating useful and innovative user-facing applications with Generative AI
+Gravitate towards out-of-the box thinking
+Excellent verbal and written communication skills, experience interfacing with users a plus
+Are currently pursuing or recently completed a B.S., M.S., or Ph.D in computer science, design, cognitive science, human computer interaction, or related field
+Industry exposure or internship experience programming, Python, AWS, Javascript a plus
+You are fearlessly self-driven, yet enjoy helping others meet our goals.
+You enjoy solving problems and helping others meet our goals.
+
+We know you work hard! Below are some benefits with working at Brain:
+
+We are a small team. You get to see many aspects of building a great product!
+We are also a growing team. We have plans to offer a lot more.
+Be a part of something massive and influence outcomes for our business.
+The ability to make, own and carry out decisions.
+
+What to expect during our interview selection process:
+
+A written portion where you will discuss what you find exciting about interning at Brain and ideas you have for Imagica.
+A face to face (remote) session where we will review your background, past projects, discuss your written exercise, and talk about your vision for the possibilities of Generative AI.
+
+About Brain:Brain Technologies is based in San Mateo, California and was founded by serial entrepreneur Jerry Yue in December 2015 after founding multiple successful tech companies in Beijing including billion dollar company Benlai. Brain currently hosts its growing team in San Mateo and Chengdu, China. If you want to build great applications with Generative AI, we want to hear from you!

@@ -1,0 +1,40 @@
+Als Schwestergesellschaft der Capco Deutschland GmbH untersttzt die Capco Solution Services GmbH unsere Kunden bei der erfolgreichen Umsetzung von Projekten im Finanzdienstleistungsbereich in der Anwendungsentwicklung. Du bist von Anfang an beim Aufbau unseres Teams dabei, und leistest Deinen Beitrag um die Capco Solution Services GmbH in eine erfolgreiche Zukunft zu steuern!
+(Java) Backend Developer fr die Capco Solution Services GmbH
+Deutschland - Dresden
+Deine Aufgaben
+
+Du entwickelst kundenorientierte Softwarelsungen, hauptschlich im Bereich Backend -basierend auf Java SEEE unter Nutzung von modernen Frameworks wie z.B. Spring-Boot
+Du untersttzt unsere Kunden, Product Owner und Business Analysten bei der Erstellung funktionaler und nicht funktionaler Anforderungen
+Du stellst mit Hilfe von Code-Reviews und integrierten Tests die Qualitt Deines Quellcodes sicher
+Du setzt nderungsanforderungen an bestehendem Code um, und fhrst Fehleranalysen durch
+Du bernimmst Packaging- und Konfigurations-Aufgaben beim Deployment Deines Codes nach Test und Produktion
+Du erstellst technische Dokumentationen und untersttzt Rollout und Betrieb der Software
+
+Dein Capco Profil
+
+Du verfgst ber eine Ausbildung zum Fachinformatiker, hast einige Semester Informatik studiert oder hast eine vergleichbare Qualifikation aus der Praxis
+Du hast belastbare Erfahrung in Java SE, Java EE oder mit Software-Entwicklung in Spring loCMVCBoot
+Du verstehst Architektur-Blueprints und Design Patterns, und kannst dafr den passenden Code erstellen
+Du hast Erfahrung im Design und mit der Implementierung von Schnittstellen (zum Beispiel REST-basierte APIs)
+Erfahrung in einer oder mehreren der nachfolgenden Technologien ist ein Plus: Maven, Apache Camel, Spring Security
+Erfahrung in einer oder mehreren der nachfolgenden Programmiersprachen ist ein Plus: Javascript  Typescript, Python, Go, Rust
+Erfahrungen mit SQL oder No-SQL Datenbanken ist ebenfalls ein Plus
+Deine Erfahrung in agilen Methoden (Kanban  Scrum) schtzen wir sehr
+Du besitzt eine gute Auffassungsgabe und ein ausgeprgtes analytisches Verstndnis
+Du bist es gewohnt, Deine Aufgaben eigenstndig, termingerecht und in hoher Qualitt zu erledigen und Du bist bereit, Neues zu erlernen
+Flieende Deutschkenntnisse runden Dein Profil ab
+
+Deine Benefits
+Du bist uns wichtig! Daher bieten wir Dir eine Vielzahl von Mitarbeitervorteilen. Darber hinaus bieten wir Dir ein umfangreiches Weiterbildungsangebot. Nach Feierabend hast Du bei Teamevents oder gemeinsamen Aktivitten die Chance, Dein Netzwerk zu erweitern und Deine Hobbies mit Kollegen zu teilen.
+
+Flexible Arbeitsmodelle und hybrides Arbeiten im Bro und von zu Hause
+Mobile IT Ausstattung
+Interne und externe Entwicklungs- und Weiterbildungsmglichkeiten
+Urlaubs- und Weihnachtsgeld
+Ausgleich von berstunden
+Weitere Mitarbeitervergnstigungen, wie Job-Tickets, Team Sport Events und betriebliche Altersvorsorge
+
+Bewirb Dich jetzt! Dauert nur 5 Min. Versprochen!
+(mwd): Wichtig ist nur, dass wir zueinander passen beyourselfatwork
+ 
+ 

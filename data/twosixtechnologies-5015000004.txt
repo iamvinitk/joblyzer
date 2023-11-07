@@ -1,0 +1,50 @@
+Two Six Technologies builds products and tools that leverage open source intelligence, social media, and mobile platforms, enabling an information advantage in mission critical decision making. Two Six supports government policy makers, military operations, and Fortune 50 commercial customers.
+We build unique data collection and delivery products that allow our users to operate effectively in the information environment. We solve hard problems related to data science, scalability, security, and reliability. We use JavaScript, React, Python, Elastic, and deploy our solutions on a Kubernetes infrastructure. 
+Our software engineering team is fully remote and distributed. We are looking for someone who shares our passion for using technology to solve hard problems.
+What you will do:
+
+Development of innovative, engaging, and effective UIUX features that help our customers solve complex problems
+Operating in a collaborative, agile environment, with a focus on taking action and working closely with peers to enable team success
+Creating proofs-of-concept and prototypes to quickly test ideas, as well as designing and building scalable, production-ready solutions
+Considering security best practices at every phase of software development
+Continuously learning and improving
+Working within Scrum and Agile methodologies and being an active part of our continuous improvement efforts
+Working in a fully remote team with a diverse set of skills and experiences
+Solving problems and questioning assumptions
+Reviewing code and performing manual and automated testing
+
+What you will need:
+
+Experience with the design, development, testing, and support of a scalable JavaScript application deployed to production
+Experience building UI solutions using JavaScript and TypeScript
+Experience with React, Next.js, or similar libraries  
+Experience working independently and as a part of an agile team 
+Bachelors degree in Computer Science, Computer Engineering, or a related field
+
+UI Technologies we use:
+
+JavaScript
+TypeScript
+React (React Hooks, React Router)
+Next.js
+Zustand
+Tailwind CSS
+Storybook
+Node.js
+
+ClearanceCitizenship:
+
+Ability to obtain and maintain a DoD security clearance
+
+Location:
+
+100 Remote
+
+ 
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

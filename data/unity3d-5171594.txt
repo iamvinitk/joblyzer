@@ -1,0 +1,35 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Are you an inventive, inspirational graphics engineer? Join us in Unitys Metal Graphics team and your passion and ability influence will be key in realizing the future!
+Meet and collaborate with hard working people across the world; engineers, QA, technical authors and many others seeking success, including industry partners in world famous companies. Become part of a team chipping in to runtime performance, implementing new graphics features and advocating for rendering perfection across the global organization, drawing upon your knowledge and experience.
+Graphics on Apple devices are exceptionally exciting. With rapid development in features and performance, and exciting new technology such as Apple Silicon and Apple Vision Pro, the potential is boundless. We squeeze the hardware, while navigating thermal limits, throttling and battery life. The goal is to empower millions of Unity developers to build successful games played by billions. Over 70 of the top 1000 mobile games are powered by Unity: in no other role will your impact be greater.
+What youll be doing 
+
+Contributing to Unity engine with a focus on low-level graphics on Apple devices (iPhone, iPad, Mac, Apple Vision Pro, Apple TV), adding features, improvements and bug fixes
+Maintaining knowledge of graphics; mentoring and sharing knowledge. Finding opportunities to improve the quality of graphics technology for our users
+Participate in roadmap planning; focussing on specialities, but also with regard to the larger picture in proposing improvements
+Advocate for iOS and macOS graphics and methodologies within the global RD group, demonstrating both insight and influence
+Collaborate in crafting quality documentation and detailed automated tests
+
+What were looking for 
+
+In-depth experience with the Metal API or another low-level Graphics API (For instance DirectX, Vulkan, etc.)
+Understanding of GPU architectures (especially those used by current Apple devices, or other Tile-Based GPU architectures)
+Graphics profiling and optimization; Apple tools, or similar tools such as Renderdoc
+Knowledge of 3D math, graphics algorithms and excellent C
+
+You might also have
+
+Experience in engine development or driver development
+Confirmed skills with C andor Objective-C
+Detailed knowledge of the Unity engine as a user, or other game development experience
+
+Additional Information:
+International relocation support is not available for this position.
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-MC2 SEN

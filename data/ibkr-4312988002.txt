@@ -1,0 +1,56 @@
+Join the INTERACTIVE BROKERS Team!
+Interactive Brokers has been at the forefront of the Fintech space for over 42 years and we pride ourselves on being a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers.
+We are looking for a Senior Quality Assurance Engineer to join our automated test development team.
+We are looking for someone who will:
+
+Develop, document, and maintain automated tests for multiple applications that relate to user registration, account management and trading
+Verify test results before software releases
+Investigate test failures
+Enter bugs into tracking system and keep bugs up to date
+Interact with application developers to identify performance issues and troubleshoot issues
+Contribute to the improvement of the testing framework
+Work with other quality assurance team members on implementing scalable tests
+
+You will need to have:
+
+Bachelors degree in computer science or in a related engineering field.
+Extensive experience with Selenium and JUnit
+2 years of Java programming experience 
+Five or more years of work experience in the field
+Strong written and verbal communication skills 
+
+What wed also love to see:
+
+LINUX environment experience
+shell andor Perl scripting experience
+Experience with SQL
+Understanding and usage of regular expressions
+Working understanding of HTML and JavaScript
+Basic network troubleshooting skills
+Familiarity with software design patterns
+
+Qualities we highly value:
+
+Ambition and diligence
+Innovative mindsets with a drive to improve upon existing systems
+A desire to solve challenging problems
+
+Company Perks:
+
+Competitive salary, annual performance-based bonuses, and annual stock grants.
+Daily company lunch allowance provided and a fully stocked kitchen with healthy options for breakfast and snack.
+401k with company match.
+Excellent medical, dental, and vision benefits.
+Newly renovated offices with multi-monitor setups.
+Team outings and dinners.
+Education reimbursement and learning opportunities.
+
+
+
+
+LI-SS1
+
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

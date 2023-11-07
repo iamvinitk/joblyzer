@@ -1,0 +1,38 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role 
+The Financial Crimes Model Validation and Analytics team is vital to the health and success of the enterprise FinCrimes Program. We apply a range of both technical skills and industry knowledge to propel the Program forward through validation and optimization of our Surveillance solutions, and providing strong monitoring around our clients, services, and work product.
+As a Data Solutions and Validation Specialist, you will collaborate with various teams to validate and optimize existing surveillance systems for sanctions screening, fund based and crypto transaction monitoring, as well as equity, derivative, and virtual currency trading. You will write detailed and concise reports, construct new surveillance and reporting, and support other regulatory requirements impacting FinCrimes.
+It is preferred that this role is located in one of the office locations listed on this job description which will align with our in-office working environment. This position is only eligible for remote work in limited geographies within the US where we do not have physical office locations. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Research and deploy data analytics or intelligent methods related to FinCrimes Surveillance and Filtering programs, targeting and optimizing their efficacy.
+Write constructive tuning reports explaining the approach, analyses performed, rationale behind recommendations and implications of results.
+Conduct code reviews and other testing to validate surveillance within various technology solutions.
+Engage in strategy sessions to build adaptable solutions in a timely manner when vendor-based solutions are unavailable, efficiencies can be gained, or for new regulatory guidance.
+
+What you bring 
+
+Bachelors or equivalent, in a relevant field
+3 years applied experience in the design, optimization, and validation of surveillance systems, preferably in the FinTech or traditional financial industry
+Strong SQL writing skills and conversant in Python, with experience working in NICE Actimize, LexisNexis Bridger or similar
+Familiarity with tuning techniques, financial markets, and risk management. Practical experience calibrating against accepted statistical measures, and using strategies such as segmentation to reasonably address risk.
+Effective verbal and written communication and critical thinking skills, particularly related to business and technical subject matter
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.
+US Zone 1: 102000 - 120000US Zone 2: 90000 - 106000US Zone 3: 80000 - 94000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

@@ -1,0 +1,37 @@
+GAQ224R138
+Our Databricks Business Systems team is seeking a Senior Manager (Salesforce) to mentor a team in India to drive career growth, involved in technical leadership areas like GTM applications (Salesforce, FinancialForce etc), Integrations and Data Analytics. Additionally this role will have the opportunity to help guide the business in process development and enhancement and work on future implementation needs. We want someone who is excited about being a crucial part of a high growth company with an incredible product.
+India team members will be dotted line to this position but directly report to the respective managers of Applications, Integrations and Data Analytics teams. In this role you will be the lead resource on a team where you will leverage your skills and expertise to enhance system capabilities.
+This is an on-sitehybrid role based in Bangalore. 
+The impact you will have: 
+DesignStrategy: Provide technical guidance to the team on application and integration designs by optimizing the resources and capabilities. Build and enhance core platform functionality on the Salesforce including the way Salesforce interacts with and is leveraged by other key business systems.
+Collaboration: You are the leader for helping our business effectively leverage and use of business systems capabilities. Mentor offshore team members both from technical and professional perspectives.
+Analytics: The role plays an analytical role in quickly and thoroughly analyzing business requirements for reporting and analysis and subsequently translating the emanating results into good technical data designs. In this capacity, the System Analyst configures, develops, and maintains technical specification documentation for all processes.
+What we look for:
+
+10 or more years of experience with Salesforce, Integrations andor dealt with reporting requirements.
+Prior experience as a ManagerSr Manager is must
+Experience with application development methodologies in a agile environment
+Release management skills are necessary to manage the release process
+Experience in Salesforce implementation skills with good command on Apex programming,Triggers, Configuration, SOQL and REST API
+Experience with integration platforms like mulesoft, boomi etc and API management
+Exposure to data analytics and reporting is definitely advantageous
+Knowledge of security and governance
+
+Benefits 
+
+Benefits allowance
+Employees Provident Fund
+Equity awards
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+Paid Parental Leave
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

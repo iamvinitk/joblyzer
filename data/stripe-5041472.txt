@@ -1,0 +1,53 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe aims to deliver the best experience for businesses in the industry.  Our high quality standards are what we pride ourselves on. A key component of that strategy is offering tools and technologies that make it delightful to build user experiences with Stripe. The UI platform team is responsible for Stripes UI technology stack across web, mobile, messaging, and leverages strategic investments like internationalization, accessibility, design systems, and our app platform. We have an ambitious vision for the Stripe UI, and we need great engineers to help shape and realize that future.
+ 
+What youll do
+
+
+Design and build the foundations of the Stripe UI platform
+
+
+Contribute to the overall software architecture of Stripe UI products
+
+
+Create a contribution process by which new use cases and capabilities can be reviewed, revised, and incorporated to the platform
+
+
+Build internal tooling and process to support developers building on your platform
+
+
+Work with stakeholders to instrument, measure, and improve the quality, reliability, and utility of your work
+
+
+Responsibilities
+
+Develop and execute against both short- and long-term roadmaps for building the foundations of the Stripe UI platform.
+Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation.
+Partner heavily with product engineers.
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+
+Residence in Barcelona, Spain
+
+3 years of industry front-end development experience, building, running, and debugging web applications using modern JS frameworks (React, etc).
+
+Experience building JavaScript developer tools in large codebases, whether thats open source or internal to your company.
+
+
+A passion for performance and love coming up with creative solutions to push it to the limit.
+
+
+Comfortable working with JavaScript AST, bundler internals, writing Babel plugins, codemods, etc.
+
+
+Appreciation for the importance of good documentation -- internal and external.
+
+
+Ability to collaborate with designers, product managers, and other Stripe product teams to come up with high-impact ways of quickly solving our users problems.
+

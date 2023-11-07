@@ -1,0 +1,32 @@
+We are a fast growing tech company in Berlin. Our web-based CRM software helps our customers with the marketing of real estate. With our product, we have been successfully changing the real estate market for several years. We now belong to FLOWFACT and are part of the ImmoScout24 digital ecosystem. Together we advance innovative ideas in a data-driven environment.
+For this we need your support as a (Senior) Fullstack Engineer (dfm).
+What do we offer you? 
+
+Your time is precious: Flexible working hours, hybrid working model, 30 days of vacation per year as well as December 24th and 31st off. 
+Further Training: Individual development including online courses via the ScoutAcademy, structured and regular feedback and language courses.
+Subsidies: We offer you a subsidy for company pension scheme and public transport.
+Do you have children? We support you with a professional family service that will help you find childcare or offer emergency childcare.
+Events: We are a team, and we celebrate this through activities and events.
+Our products: You can use our Plus membership for tenants on ImmoScout24 to find a new apartment.
+We are a tech company: We work with the latest technical tools and hardware.
+
+As a (Senior) Fullstack Engineer (dfm) you will become part of our agile engineering team and report directly to our Chief Technical Officer. In your daily tasks you are in close contact with our engineers and product managers and advance improvements within our cloud-based CRM software. 
+What do we expect from you? 
+
+Development of an innovative and high-quality cloud-based CRM software for the real estate market
+Participation in the definition of architectures and the selection of technologies
+Processing of a holistic range of tasks from conception to implementation to delivery to the customer via our cloud system
+Use of agile, iterative development processes
+Programming based on Ruby, Ruby on Rails, AWS, Postgres, GraphQL, Elastic, Typescript, NodeJS and Vue JS 
+
+What are you bringing with you? 
+
+You have at least five years of practical work experience as a Fullstack Engineer or in a similar role. It doesnt matter to us whether you have completed a degree or an apprenticeship
+You have good programming skills in Ruby and Ruby on Rails
+Ideally, you already have experiences in using AWS
+You are interested in new technologies and innovative software
+You have the will to make a difference and to be at the forefront with your team 
+You are interested in agile software development, e.g. pair programming
+You are fluent in English
+
+Contact: Do you have any questions? Lisa will be happy to help you?Lisa Marie Knig, HR Generalist, lisa_marie.koenigscout24.com

@@ -1,0 +1,28 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+Client Products  Emerging Tech
+The Client Products  Emerging Tech team is a newly established team that builds impactful product features for Airbnbs Guests and Hosts with new and existing technologies, as well as horizontal components such as navigation that aim to provide a cohesive user experience. The Senior Android UX Engineer joining this team will play a critical role in the end-to-end development of new product areas that leverage emerging technologies. They will collaborate closely with Design partners to rapidly ideate, prototype, develop, and ship innovative product experiences.
+The team is part of the Client Foundation  Products organization, which is responsible for Airbnbs product infrastructure including Design Language System (DLS), UI frameworks, media frontend, and data access across different client platforms (Android, iOS, and Web). It plays a central role in Airbnbs overall client strategy, contributes to libraries such as Lottie and Epoxy, and has more recently enabled Airbnbs transition to Jetpack Compose.
+Learn more about Mobile Engineering at Airbnb: Making Airbnbs Android App More Accessible, Introducing Showkase for Jetpack Compose, and Page Performance Score on Android. Also, meet our Client Foundation  Products leader, Jordanna Kwok!
+The Difference You Will Make: 
+
+Explore, shape, and develop new product experiences alongside cross-functional partners (design and product); from ideation to implementation at scale
+Lead investments into new technical capabilities that push the envelope and unlock product innovation
+Develop prototypes to validate ideas while proactively considering long-term implications on technical design and architecture
+Translate prototypes to high quality, scalable, and maintainable production code through iterative development
+Partner with peer engineering teams to integrate new features that impact different areas within the product
+
+Your Expertise: 
+
+5-9 years of industry experience with a BSMasters or 2 years with a PhD building consumer Android applications at scale, preferably in Kotlin and Compose
+Youre passionate about UI and Product development: deep knowledge of UI architecture and UI performance, with prior experience building delightful and fluid interactions, screens and graphics.
+Expertise in Kotlin or Java, and Jetpack.  Compose UI experience is highly desired!
+Ability to take a thoughtful, pragmatic, and efficient approach to problem solving.
+Experience collaborating with product designers, especially in a remote capacity
+Passion to up-level yourself and those around you through curiosity and fostering a collaborative and inclusive team environment.
+Bachelors, Masters andor Ph.D preferably in CS, or equivalent industry experience.
+
+Your Location
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can be employed in states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from. 
+Our Commitment to Inclusion  Belonging
+Airbnb is committed to working with the best and brightest people from the broadest talent pool possible. We believe a diversity of ideas fosters innovation and engagement, and allows us to attract the best people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply. If you need assistance, or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodationsairbnb.com.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range185,000—221,000 USD

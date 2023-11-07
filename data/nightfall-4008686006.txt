@@ -1,0 +1,34 @@
+Nightfall makes safeguarding sensitive data for every application simple and seamless. Organizations, from startups to global brands, trust Nightfalls software platform and APIs to discover, classify, and protect sensitive data.As a Frontend Engineer at Nightfall, you will be leading interesting UI and visualization projects that are critical to the company and its mission to protect personal data.
+Responsibilities
+
+Build reliable, scalable and performant user experiences using modern tools like React, TypeScript, Jest and Webpack
+Help define a scalable front-end architecture, advise other teams internally and also encourage best practices
+Provide technical leadership to more junior engineers on your team
+Get problem statements from designers and product managers, break projects into substantial tasks, and deliver the project with metrics and data with fellow engineers
+
+Qualifications
+
+3 years of industry web frontend development experience with modern JavaScript tooling (React, Redux or equivalent, and so on)
+Strong understanding of HTML, CSS, JavaScript, and related web technologies
+Experience working with react or node.js applications
+Experience with unit and integration testing
+Good written, verbal communication skills
+Great team player
+
+Tools We Use
+
+Go
+GraphQL
+Node.js
+React
+Python
+Cassandra
+Redis
+Terraform
+Docker
+Kubernetes
+AWS
+Kafka
+Envoy
+About Nightfall:
+Nightfall is a cybersecurity startup dedicated to helping organizations secure and manage their sensitive data. As a leading enterprise technology company, our product affects the personal data that people entrust businesses to store  process with care every day. Critical data in modern organizations is often sprayed across a broad set of cloud data silos, and its a herculean task for security  compliance teams to monitor, manage, and protect this highly sensitive data. Via machine learning, our product makes it easy for organizations to discover, classify, and protect this sensitive data across their cloud footprint - such as their corporate SaaS, data infrastructure, and even their own apps. In doing so, we prevent data leakage, provide unprecedented data visibility  protection across the cloud, and enable compliance. Were a technology startup founded in San Francisco, well-funded by leading institutional investors like Bain and Venrock, and a cadre of security  IT leaders from Okta, Salesforce, Atlassian, Splunk, FireEye, and more. Learn more on our website www.nightfall.ai or by reaching out via email at careersnightfall.ai.

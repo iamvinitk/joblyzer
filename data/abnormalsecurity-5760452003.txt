@@ -1,0 +1,58 @@
+About the Role
+ 
+As the Senior Manager of Engineering Effectiveness, you will be responsible for delivery of a key part of the Platform and Infrastructure roadmap. Our mission in Platform  Infrastructure (PI) is to enable the rest of engineering by providing an easy-to-use and self-service cloud platform upon which all Abnormal applications are built. You will report to our Director of Cloud Platform  Infrastructure Engineering, Aaron Rolett, work alongside our CTO, Sanjay Jeyakumar, and collaborate with our world-class team.
+ 
+Consider applying to this role if youre a passionate, first-principles, engineering leader with experience leading production engineering teams that build scalable distributed systems or cloud platforms - all in the name of making the world a safer place. 
+ 
+You should DEFINITELY apply if: 
+
+You want what you (and your team) do to have a massive  positive impact on the people who use what you create
+You want to lead a team of highly-capable  world-class individuals from diverse backgrounds who are all dedicated to achieving the same mission
+You think a culture of listening to customers empowers the next generation of successes
+
+ 
+Enterprises of all sizes trust Abnormal Securitys cloud products to stop cybercrime. To effectively realize our mission, Abnormal must launch a suite of cyber-security products built on top of a common platform that all run in datacenters around the world. 
+ 
+What you will do 
+ 
+
+Own the execution success of the quarterly roadmap for the Engineering Effectiveness team; engage continuously with the Tech Leads to help adjust and prioritize current roadmap items according to the teams charter and company priorities.
+Deliver On:
+
+Enabling engineers at Abnormal to develop their application in a way that they are confident there are no bugs because it has been both quickly and thoroughly tested through automation.
+Example areas include
+
+Pre-check in testing (unit-tests, build validation)
+Post-merge, pre-deploy testing
+
+Continuous integration tests, smoke tests and automated canary analysis 
+
+Effective development practices 
+
+Source code management, Code review and code owners, container and 3rd party library management, build automation
+
+Defining the golden path for how applications are developed at Abnormal (languages, build systems, best practices). 
+
+
+Drive processes to enable the team to deliver on projects that are set by TLs as part of the technical roadmap.
+
+Manage the quarterly roadmap updates, project time estimates, weekly sprint planning, day-to-day standups
+Identify risks on project delivery (technical, operational, dependency risks) and escalate to appropriate technical leads
+Able to assess progress in a metrics-oriented manner
+Provide continuous feedback
+
+Hire and mentor and grow engineers on the team. Provide consistent coaching at regular intervals to help them successfully execute high impact projects.
+
+ 
+Must Haves 
+ 
+
+5 years of professional experience as a hands-on engineer building backend systems andor platforms
+2 years of managing backend or platform teams.
+(Nice-to-have) Experience building out development platforms that enable engineers to effectively build and test their applications at scale.
+Customer obsessed: Working with our internal engineers to determine the engineering effectives roadmap. Meeting with customers to understand their needs and explain our engineering roadmap.
+Recruiting magnet - you are able to set up a hiring plan, attract senior engineers, outline the vision of the team and build out a large team.
+High standards - sets high standards and expectations for project execution for themselves and the whole team.
+
+ 
+LI-ML1At Abnormal Security certain roles are eligible for a bonus, restricted stock units (RSUs), and benefits. Individual compensation packages are based on factors unique to each candidate, including their skills, experience, qualifications and other job-related reasons. We know that benefits are also an important piece of your total compensation package. Learn more about our Compensation and Equity Philosophy on our benefits and perks page.Base salary range:203,500—234,100 USD

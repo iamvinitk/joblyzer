@@ -1,0 +1,41 @@
+Circle is a financial technology company at the epicenter of the emerging internet of money, where value can finally travel like other digital data — globally, nearly instantly and less expensively than legacy settlement systems. This ground-breaking new internet layer opens up previously unimaginable possibilities for payments, commerce and markets that can help raise global economic prosperity and enhance inclusion. Our infrastructure  including USDC, a blockchain-based dollar  helps businesses, institutions and developers harness these breakthroughs and capitalize on this major turning point in the evolution of money and technology.
+What youll be part of:
+Circle is committed to visibility and stability in everything we do. As we grow as an organization, were expanding into some of the worlds strongest jurisdictions. Speed and efficiency are motivators for our success and our employees live by our company values: Multistakeholder, Mindfulness, Driven by Excellence and High Integrity. Circlers are consistently evolving in a remote world where strength in numbers fuels team success. We have built a flexible and diverse work environment where new ideas are encouraged and everyone is a stakeholder.What youll be responsible for:
+You will design and help customers implement complex and business-critical solutions. As a member of the broader revenue team, you will play an integral role in executing our solution validation processes across the entire customer lifecycle. From discovery calls to post-sales support and implementation, you will partner with prospects and clients and guide them along their technical evaluation of Circles suite of products and services. You will help develop customized PoCs, solution diagrams, and implementation plans that articulate the value of Circles technology for our customers. You will heavily collaborate with our Product and Engineering teams to provide market feedback and analysis that will influence our product roadmap. Most importantly, you will set the foundation for long-term, successful customer relationships that rely on Circles technology and future innovation to grow their business.
+What youll work on:
+
+Partnering with Circles sales executives and owning all technical  solution aspects of the prospective client engagement.
+Explaining and demonstrating Circles products to prospective clients and letting them understand options to meet desired requirements.
+Leading technical discovery calls and capturing requirements.
+Unlock deals by designing technical client solutions and collaborating across functions to navigate around potential product gaps.
+Working with product and engineering teams to prioritize and close gaps.
+Partnering with Circles customer success manager and owning all technical aspects of the client engagement post-sales.
+Gathering market feedback and sharing with internal stakeholders, including product and engineering.
+Building and maintaining an internal knowledge base with information about current and future products.
+Consulting with internal and external stakeholders about Circles products and solutions.  
+
+You will aspire to our four core values:
+
+Multistakeholder - you have dedication and commitment to our customers, shareholders, employees and families and local communities.
+Mindful - you seek to be respectful, an active listener and to pay attention to detail.  
+Driven by Excellence - you are driven by our mission and our passion for customer success which means you relentlessly pursue excellence, that you do not tolerate mediocrity and you work intensely to achieve your goals. 
+High Integrity - you seek open and honest communication, and you hold yourself to very high moral and ethical standards.  You reject manipulation, dishonesty and intolerance.
+
+What youll bring to Circle:
+
+5 years experience as a Solutions Engineer, Sales Engineer, Pre-Sales Consultant, Product Manager, or similar at a B2B SaaS organization. 
+You are exceptionally good at making complex things simple and structuring solutions in simple, clear, yet comprehensive terms.
+Excellent communication, storytelling, and presentation skills at multiple levels of the organization.
+You are a real generalist who cracks problems with creative solutions.
+You are client-centric and seen as a reliable partner for sales, client success, and product executives.  
+A successful track record of scoping, designing, and validating technical solutions for large enterprise organizations.
+Hands-on in testing APIs, querying databases, drafting technical flow charts, and using developer tools.
+Experience working with developers on implementing, integrating, and building SaaS-based products. 
+Experience in managing a team is preferred. 
+A strong interest in blockchain solutions and, preferably, a background in Fintech.
+Finally, you have an entrepreneurial drive and enjoy moving at a fast pace, building strong cross-functional relationships, and helping clients thrive.
+Occasional travel in South East Asia will be required. 
+Proficiency in Google Suite, Slack, and Macbook preferred.
+English speaking required, Mandarin speaking preferred.
+We are an equal opportunity employer and value diversity at Circle. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Additionally, Circle participates in the E-Verify Program in certain locations, as required by law.
+LI-Remote

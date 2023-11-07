@@ -1,0 +1,57 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+We are looking for people who want to make the Airbnb platform safer for millions of users around the world. Wed love to talk to you if youre a talented individual who is passionate about finding security weaknesses, and designing scalable and usable solutions. We are enablers, not blockers, who make it easier for engineers to create secure features. This is a role for an experienced candidate who can cover a broad range of responsibilities from tool development to architectural consulting. If our mission sounds exciting to you, please reach out!
+The Difference You Will Make:
+The Application Security (Appsec) team at Airbnb works with our product teams to ensure we have secure systems and applications. The Appsec team builds close partnerships with key areas in our engineering organization to identify security leverage opportunities and drive high impact security initiatives. Our partner team, the Security Engineering team focuses on building paved roads, automation for security self-service, and vulnerability management to reduce security risk.
+We are looking for a security engineer to complement the teams new and growing partnership work with project-based engagements to reduce security risk. The goal is to help identify impactful security projects and conduct fast discovery and thoughtful solutioning to provide recommendations that improve the security of the Airbnb products, while enabling those teams to meet their release goals. You will work closely with engineering teams that build software to support our product. As a part of the team, you will also leverage your security skills to support the Airbnb bug bounty program, participate in our product security incident response efforts and other operational Appsec responsibilities.
+A Typical Day:
+
+
+Identify unaddressed areas of weakness and drive cleverly engineered, scalable solutions that improve our defense-in-depth.
+
+
+Helping engineers design more secure systems via design input and code review.
+
+
+Mentoring team members to uplevel technical and interpersonal security skills.
+
+
+Evangelize security to ensure engineering stays informed of security best practices.
+
+
+Define and refine measurements of security risk.
+
+
+Uplift security of acquired business units by creating security processes and onboarding security tools.
+
+
+Your Expertise:
+
+
+Significant experience working on an application security team.
+
+
+Strong understanding of web or mobile application security.
+
+
+Experience developing software, ideally with Java and Python.
+
+
+Experience partnering with product engineers to develop secure products by default.
+
+
+Penetration Testing, threat modeling, and architecture review experience.
+
+
+Strong communication skills across organizations.
+
+
+7 years experience in application security.
+
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—254,000 USD

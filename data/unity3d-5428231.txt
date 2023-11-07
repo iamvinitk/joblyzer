@@ -1,0 +1,38 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Shape the future of AI-driven creativity at Unity!
+Unity Muse is our new AI platform that accelerates the creation of real-time 3D applications and experiences like video games and digital twins. Our mission is to empower creators by developing groundbreaking AI models that will transform and elevate the way they create with Unity.
+We are looking for an outstanding Staff Research Scientist to join our Muse Generative 3D team. In this new role, you will be at the heart of our efforts to pioneer innovative approaches that contribute to enabling 3D content creation on a large scale.
+What youll be doing 
+
+Research  develop novel algorithms and machine learning pipelines in the field of Generative 2D and 3D modelling.
+Partner closely with our teams of researchers and engineers.
+
+What were looking for 
+
+Pursuing or has a Ph.D. in Computer Science  Mathematics  Statistics  Electrical Engineering.
+Strong foundation in generative models (GANs, LDMs, etc.).
+Strong background in computer graphics andor computer vision.
+Experience with DL frameworks such as PyTorch, TensorFlow or JAX.
+Comfortable with 3D computer graphics.
+
+You might also have
+
+Published research at leading conferences such as CVPR, ICCV, ECCV, NeurIPS, ICML, SIGGRAPH or Eurographics.
+Familiarity with the theory and practice of neural rendering algorithms.
+Experience working with cloud providers such as AWS  GCP  Azure.
+
+Additional Information
+
+International relocation support is not available for this position.
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+LI-AR1 SEN
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary183,700—248,600 USD

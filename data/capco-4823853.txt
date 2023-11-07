@@ -1,0 +1,39 @@
+Als Schwestergesellschaft der Capco Deutschland GmbH untersttzt die Capco Solution Services GmbH unsere Kunden bei der erfolgreichen Umsetzung von Projekten im Finanzdienstleistungsbereich in der Anwendungsentwicklung. Du bist von Anfang an beim Aufbau unseres Teams dabei, und leistest Deinen Beitrag um die Capco Solution Services GmbH in eine erfolgreiche Zukunft zu steuern!
+Senior Frontend Developer fr die Capco Solution Services GmbH
+Deutschland - Dresden
+Deine Aufgaben
+
+Du entwickelst kundenorientierte Softwarelsungen, hauptschlich im Bereich Frontend  fr das Web und fr mobile Gerte
+Du erstellst Single-Page-Anwendungen in HTML, CSS und Javascript  Typescript, mit Lazy-Loading-Funktionen unter Verwendung moderner komponentenbasierter Frameworks wie Angular, React und Vue
+Du entwickelst native oder hybride mobile Anwendungen fr Mobilgerte, zum Beispiel mit dem Ionic Framework oder React Native
+Du untersttzt unsere Kunden, Product Owner und Business Analysten bei der Erstellung funktionaler und nicht funktionaler Anforderungen, und bersetzt die UIUX-Designs und Wireframes in schne Webseiten und ansprechende mobile Anwendungen
+Du stellst mit Hilfe von Code-Reviews und integrierten Tests die Qualitt Deines Quellcodes sicher
+Du setzt nderungsanforderungen an bestehendem Code um, und fhrst Fehleranalysen durch
+Du bernimmst Packaging- und Konfigurations-Aufgaben beim Deployment Deines Codes nach Test und Produktion
+Du erstellst technische Dokumentationen und untersttzt Rollout und Betrieb
+
+Dein Profil
+
+Du verfgst ber eine Ausbildung zum Fachinformatiker fr Anwendungsentwicklung, hast ein paar Semester Informatik studiert oder eine vergleichbare Qualifikation 
+Du hast praktische Erfahrung in der Programmierung von Angular, TypeScript, HTML, CSS, Java Script sowie im UI Design und Erfahrung mit SQL-Datenbanken (MySQL, PostgreSQL), 
+Du verfgst ber ein gutes Verstndnis der objektorientierten Programmierung in PHP 
+Du hast Erfahrung mit Versionskontrolle, vorzugsweise Git sowie Erfahrung im Aufbau von REST-APIs  
+Deine zustzlichen AgileScrum-Erfahrungen werden sehr geschtzt 
+Du besitzt eine gute Auffassungsgabe und ein ausgeprgtes analytisches Verstndnis 
+Du bist es gewohnt, Deine Aufgaben eigenstndig, termingerecht und in hoher Qualitt zu erledigen 
+Du bist bereit, stets Neues zu erlernen 
+
+Deine Benefits
+Du bist uns wichtig! Daher bieten wir Dir eine Vielzahl von Mitarbeitervorteilen und ein umfangreiches Weiterbildungsangebot. Nach Feierabend hast Du bei Teamevents oder gemeinsamen Aktivitten die Chance, Dein Netzwerk zu erweitern und Deine Hobbies mit Kollegen zu teilen.
+
+Flexible Arbeitsmodelle und hybrides Arbeiten im Bro und von zu Hause
+Mobile IT Ausstattung
+Interne und externe Entwicklungs- und Weiterbildungsmglichkeiten
+Urlaubs- und Weihnachtsgeld
+Ausgleich von berstunden
+Weitere Mitarbeitervergnstigungen, wie Job-Tickets, Team Sport Events und betriebliche Altersvorsoge
+
+Bewirb Dich jetzt! Dauert nur 5 Min. Versprochen!
+(mwd): Wichtig ist nur, dass wir zueinander passen beyourselfatwork
+ 
+ 

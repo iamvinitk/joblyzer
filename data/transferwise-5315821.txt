@@ -1,0 +1,54 @@
+Wise is one the fastest growing companies in Europe and were on a mission: to make money without borders the new normal. Weve got 15 million customers across the globe and were growing. Fast.
+Current banking systems dont let us send, spend or receive money across borders easily. Or quickly. Or cheaply. 
+So, were building a new one.
+And, we need a Backend Engineer with a Java focus to join our mission and help us build a global platform thats scalable, reliable and secure. Were working on lots of algorithmical challenges, and youll dive right into projects on reconciliation, integrations, authorisations and authentications.
+The team you will join: Contact Handling team 
+The Contact Handling team at Wise is dedicated to connect Wises Customers with our Customer Support Agents (CS) around the world (from the Philippines to Austin, USA) and proving the tools for them to resolve Customers issues via chat, email and voice contact channels. Our team is also responsible for delivering accurate data that powers CSs efficiency metrics and Customers perceived effort when contacting us. Software engineers, data analysts, designers, UX researchers collaborate on a daily basis to continuously improve our systems and provide support to the whole CS team (over 1500 Wisers!).
+Our vision is to provide effortless and (cost) efficient resolution to our customers - so Wise can keep growing exponentially, backed up by a strong and efficient Customer Support while also fostering a strong partnership between CS and the product team to develop solutions that leverage their expertise.
+ 
+What does it take?  
+
+A strong product mindset and passion for user experience, you prioritise work with the customers in mind and  make data-driven decisions to fix customer pain-points
+Great communication skills and the ability to articulate complex, technical concepts to non-technical audience
+Experience working with relational and non-relational databases, query optimisation and designing schemas
+You enjoy writing testable code and believe in Test Driven Development
+You have 4 years of Java 8 knowledge, experience with Spring framework 
+You believe in and follow best coding practices, code reviews and open feedback
+Experience with CICD pipelines and Distributed and Concurrent Systems
+Hands on knowledge of system integration patterns 
+
+What does success look like?
+
+Youll have onboarded and found your place through understanding your team and tribe vision and how you can contribute
+Youll understand how our values can help you guide your work
+Youll understand the reasons behind problematic payments and customer difficulties and how to go about solving them
+Youll be raising the automation level to enable scaling of the product
+Understand our customers and the impact our product makes in their lives 
+Youll help us scale-up and build a world class money transfer product by finding solutions to our technical challenges and opportunities
+
+What you get back:
+
+The autonomy to solve problems your way
+The freedom to have real impact
+Loads of development opportunities 
+A fun work environment with social activities and events
+The opportunity to work with super smart people
+
+The salary ranges between HUF1,150,000 - HUF1,500,000month with an RSU package. 
+Furthermore, find out more about our benefits in our  Budapest  office. 
+Interested? Find out more:
+
+ How we work - a practical guide
+ Wise Vlogs: Omar, Engineering Lead 
+ The Wise Tech Stack, 2022 edition
+ Our Engineering career map
+
+...or check out our Engineering blog.
+Were people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if youre passionate about learning new things and keen to join our mission, youll fit right in.
+Also, qualifications arent that important to us. If youve got great experience, and youre great at articulating your thinking, wed like to hear from you.
+And because we believe that diverse teams build better products, wed especially love to hear from you if youre from an under-represented demographic.
+LI-ZK1Salary (monthly)1 150 000 Ft—1 500 000 Ft HUFWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

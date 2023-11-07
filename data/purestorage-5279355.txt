@@ -1,0 +1,50 @@
+BE PART OF BUILDING THE FUTURE.
+What do NASA and emerging space companies have in common with COVID vaccine RD teams or with Roblox and the Metaverse? 
+The answer is data, -- all fast moving, fast growing industries rely on data for a competitive edge in their industries. And the most advanced companies are realizing the full data advantage by partnering with Pure Storage. Pures vision is to redefine the storage experience and empower innovators by simplifying how people consume and interact with data. With 11,000 customers including 58 of the Fortune 500, weve only scratched the surface of our ambitions. 
+Pure is blazing trails and setting records:
+
+For ten straight years, Gartner has named Pure a leader in the Magic Quadrant 
+Our customer-first culture and unwavering commitment to innovation have earned us a certified Net Promoter Score in the top 1 of B2B companies globally
+Industry analysts and press applaud Pures leadership across these dimensions
+And, our 5,000 employees are emboldened to make Pure a faster, stronger, smarter company as we go
+
+If you, like us, say bring it on to exciting challenges that change the world, we have endless opportunities where you can make your mark.PURE IN PRAGUE
+We opened our RD Second Home (besides the one in Silicon Valley) in Prague in January 2020 and since then we have experienced unbelievable growth. Our Engineers are solving complex engineering problems (from low-level system software to cloud computing) that help us innovate our cutting-edge products. Besides our world-class Software Engineering teams, we have many other talented colleagues working in Product Management, Sales, Finance, and HR to name a few. Whats more, weve developed these teams from talent across the globe.
+FlashBlade Team
+The FlashBlade team is responsible for the FlashBlade product. With FlashBlade we are building a scale-out all-flash file and object store, designed for the modern world. 
+You will love it on the FlashBlade team if you:
+
+Want to understand how modern applications - like AI or Splunk - work with data and how we can make it better.
+Are ready to dive into a complex problem and be the one who will drive it to a resolution.
+Enjoy working with distributed systems, algorithms, operating systems, Linux kernel, database internals, hypervisors, containers, compilers and hardware or at least some of those.
+Want to work with other great engineers and develop or refine skills that will serve your entire career.
+Enjoy working in a collaborative team environment in an open office.
+
+If this describes you, lets talk! You can take a part in changing how the world works with data.
+IN THIS ROLE YOU WILL BE...
+
+Own and deliver innovation end-to-end, from concept to shipped product
+Design, develop and maintain customer-facing and internal-facing API and command line interface for end to end configuration and management of FlashBlade products using Java, Python and beyond
+Write clean, maintainable code experimenting with new technologies and architectural patterns such as microservices or data processing pipelines in order to push the state-of-the-art and innovate new solutions. 
+Experimenting with new technologies and architectural patterns in order to push the state-of-the-art and innovate new solutions
+Analyze and solve challenging problems through persistence and insight
+Work as a team with smart peers who inspire you and who are inspired by you
+Bringing a focus on design, development, unit testing, code reviews, documentation, continuous integration and continuous deployment
+
+WHAT YOULL NEED TO BRING TO THIS ROLE...
+
+A minimum of 5 years experience using Java or related programming languages and the enthusiasm to learn other programming languages
+Proven design sensibility and the willingness to work in a collaborative, team oriented environment
+A BS degree in Computer Science, advanced degrees are a bonus
+Must be able to work in a hybrid homeopen office environment
+
+You will be based in Prague, Czech republic. As this is an office-centric role, you are expected to be present in the office for 3 days a week. As outlined in Pures Hybrid Work Policy, there will be variations over periods of time, depending on business need.BE YOU—CORPORATE CLONES NEED NOT APPLY.
+Pure is where you ask big questions, think differently, and make an impact. This is not just a job, but a place where you have a voice and can accelerate your career. We value unique thoughts and celebrate individuality, and with ample opportunity to learn, develop yourself, and expand into different roles, joining Pure is an investment in your career journey.
+Through our Pure Equality program, which supports a flourishing field of employee resource groups, we nourish the personal and professional lives of our team members. And our Pure Good Foundation gives back to local and global communities through volunteering and grants.
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events.
+PURE IS COMMITTED TO EQUALITY.
+Research shows that in order to apply for a job, women feel they need to meet 100 of the criteria while men usually apply after meeting about 60. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+Pure is proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire. 
+If you need assistance or an accommodation due to a disability, you may contact us at TA-Opspurestorage.com.
+APPLICANT  CANDIDATE PERSONAL INFORMATION PRIVACY NOTICE.
+If youre wondering how or why Pure collects or uses information you provide, we invite you to check out our Applicant  Candidate Personal Information Protection Notice.

@@ -1,0 +1,43 @@
+RDQ424R176
+You will be the Product Manager for the Spark Engine team located in Belgrade. This team builds core capabilities for Databricks SQL, a serverless data warehouse on the Databricks Lakehouse Platform that lets you run all your SQL and BI applications at scale with up to 12x better priceperformance. As the Product Manager, you will develop a deep understanding of modern cloud infrastructure, gather requirements from customers who refine petabytes of data every day and deliver features that reduce the total cost of ownership of data.
+This role requires coordinating all product activities from vision to implementation, including engaging customers to understand their needs, developing long-term product strategy, defining product roadmaps, working with engineering to build those products, and coordinating with various internal stakeholders (both pre- and post-launch) to ensure product success.
+The impact you will have:
+
+Own the end-to-end product management process
+Gather customer requirements, design features and collaborate with engineering to deliver a polished market-ready product
+Drive integration with popular tools and services in the broader data warehousing  ecosystem
+Drive launches with product marketing through blog posts, release notes, webinars
+Define and measure OKRs for your products
+Drive the prioritization and development of features, measurably reducing the cost and time needed for operating ETL and machine learning workflows.
+
+What we look for:
+
+6 yrs of experience
+Bachelors degree in Computer Science or similar field
+Experience in Product Management (inbound, outbound, cross-functional processes)
+Technical skills
+Solid understanding of cloud infrastructure (AWS, Azure, GCP)
+Working knowledge of Apache Sparks execution model, query planning and execution and familiarity with Big Data technology
+Strong data analysis and operationalization skills (SQL, rollups, building operational dashboards)
+
+Benefits
+
+Enhanced Parental Leaves
+Fitness reimbursement
+Annual career development fund
+Home office  work headphones reimbursement
+Employee referral bonus
+Equity awards
+Fitness reimbursement
+Business travel accident insurance
+Mental wellness resources
+Health Allowance
+Life, accident  disability insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

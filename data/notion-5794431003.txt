@@ -1,0 +1,34 @@
+About Us:
+Were on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us cant build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+Weve been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, were growing fast and excited for new teammates to join us who are the best at what they do. Were passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays  Thursdays). 
+About The Role:
+Millions of people use Notion, and this number is growing daily. This signifies that a vast user base trusts us to provide a speedy, dependable, and secure experience, something we cherish immensely. Our aim is to continue earning this trust and to constantly surprise our users with the capabilities they can develop within Notion.
+The Serving Infra Teams mission is to provide reliable and high-performance backend services to millions of Notion users. Our aim is to develop a scalable architecture that can manage exponential user growth and a wide array of features across various regions. Additionally, we create and maintain common services throughout the company and support each product team in managing their unique services.
+
+What Youll Achieve:
+
+Youll contribute to scaling Notion as a top-tier service for our millions of users and teams who depend on us daily.
+Youll have the opportunity to build a brand new cell-based architecture in collaboration with senior architects and engineers on the team.
+Youll have the opportunity to develop your expertise in one or more domains within Infrastructure, which includes Services, Storage, Cache, Queue, Realtime Collaboration, Control Plane, among others.
+Youll be responsible for debugging systems in production, appreciating the skill and challenge of replacing production components with minimal user disruption. Youre able to be on an on-call rotation.
+Youll have the opportunity to scale production software to support rapid growth, monitoring production systems, and managing resource constraints. 
+
+Skills Youll Need To Bring:
+
+Open mindset: You are receptive to new ideas, concepts, and practices, with a strong interest in continuous learning and development. This involves being open to constructive feedback, being adaptable to changes in the work environment, and persistently seeking growth and development opportunities.
+Startup mentality: You are comfortable navigating the fast moving, unstructured nature of a hyper-growth startup. You are self-motivated to add value and bias towards action. You understand the importance of setting the engineering quality bar for the long term success of our business, but are able to make difficult prioritizations.
+Pragmatic and business-oriented: You care about business impact and prioritize projects accordingly. You dont just go after cool stuff—you understand the balance between craft, speed, and the bottom line. To you, technologies and programming languages are about tradeoffs. You may be opinionated, but youre not ideological and can learn new technologies as you go.
+
+Nice To Haves:
+
+You have experience in scaling a hyper-growth startup.
+You have experience working with distributed systems.
+You have expertise in architecting data models for scalability and performance.
+Youve heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why were big fans of their work.
+You have interests outside of technology, such as in art, history, or social sciences.
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If youre excited about a role but your past experience doesnt align perfectly with every bullet point listed in the job description, we still encourage you to apply. If youre a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation made due to a disability, please let your recruiter know.
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the roles scope and complexity, and the candidates experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is 145,000 - 220,000 per year. 
+LI-Onsite

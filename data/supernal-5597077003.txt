@@ -1,0 +1,45 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. Electric Motor Engineer is responsible for hardware development for the electric motors. This position will work closely with Battery Research  Technology, Vehicle Management Systems, Manufacturing, Quality, and Test  Evaluation teams.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Lead design and development of the electromagnetic components of the electric motor. This includes, but is not limited to, defining motor topology, control interfaces, and circuitry
+Assess development risks and coordinate mitigation strategies
+Coordinate all electric motor technology maturation activities in order to achieve aircraft certification and entry into service
+Lead analysis efforts to include: motor performance, thermal, electromagnetic and mechanical stress, and dynamicsvibrations
+Derive system level requirements and specifications based on vehicle Key Performance Parameter (KPPs) and requirements
+Define and mature mechanical, electrical, and communication and collaborate with aircraft systems that include airframe, wiring, transmissions, and vehicle management systems
+Collaborate with supplierspartners on technical development topics to ensure program achievements are achieved
+Work with flight test engineers to define instrumentation requirements and interfaces
+Collaborate with motor control team and system architecture and safety team to develop motor control validation and verification plans
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Electrical, Mechanical, Aerospace, or related engineering
+A minimum of five (5) years of industry experience in electric motor machine development (an equivalent combination of education and experience may be considered)
+Demonstrated ability to effectively manage schedule, budget, suppliers, and product development efforts
+Knowledgeable in electromagnetic topologies
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+Self-motivated and forward-thinking personality
+Proficiency with Simulink or other multi-physics simulation tools
+Advanced knowledge of power electronics products for EV powertrain: ACDC converters, battery chargers, inverters, EMI filters, high voltage power distribution and others
+Advanced understanding of EMC (electromagnetic compatibility) standards
+Advanced understanding of electrical engineering protocols and standards
+Advanced knowledge of DVPR and DFMEA
+
+You may also be able to contribute:
+
+Experience with full life-cycle of electric motor development, qualification, production and product support preferred
+Experience with motor control hardware andor software development preferred
+Experience with 500-1200 VDC systems is preferred
+Experience working in aviation industry is preferred
+Experience working with regulatory agencies is preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

@@ -1,0 +1,69 @@
+This role is an opportunity for a hands-on engineer with a passion for Linux and cloud technologies to build a career with Canonical and support the technical needs of customers leveraging Ubuntu and open source products. If you have a passion for technology and an eagerness to learn, then you will enjoy working with some of the best people in the industry at Canonical.
+The role of a Cloud Support Associate Engineer at Canonical  
+We regularly solve interesting, technical problems. From triaging complex Cloud environment issues, Linux kernel crashes weve never seen before to OS configuration issues and root cause analysis, we provide an expert level of support and satisfaction to our peer groups and customers.
+You will be accountable for delivering an outstanding technical support experience on the full cloud technical stack at Canonical. From problem qualification to full resolution, you will own and manage your cases. When needed, you will transfer your cases to your colleagues or involve senior engineers.
+Location: This is a remote role, based anywhere in Japan.
+What your day will look like
+
+Work from your remote home office and provide technical support for employees.
+Be available to take ownership of new cases via telephone, email and web
+Act as an internal customer advocate keeping them updated in a timely manner
+Ensure that each support case owned by you is handled according to our Service Level Agreement (SLA) with the highest possible customer satisfaction by setting the right expectations and fulfilling your commitments.
+Contribute new knowledge base articles and maintain existing articles, ensuring shared knowledge and lessons learned are available to customers.
+Draft and distribute technical notices for internal and external communication.
+Prioritise your work in order to accomplish the most important and urgent tasks first
+Keep on learning as our products and services grow and evolve
+Understanding Ubuntu development process to be able to set customer expectations correctly on timeline for a fix.
+Maintain regular communication and information exchange with the rest of the team, locally and remotely
+Identify and suggest any opportunities to provide a better service
+Participate in a regular weekend working rotation.
+
+Background check required
+What are we looking for in you
+
+Bachelors or equivalent four year degree in a technical field from an accredited college or university. Preferable majors: Computer Science, MIS, Electrical Engineering, etc.
+Experience with Linux troubleshooting (collecting logs and stack traces, fine-tuning by editing configuration files)
+Experience with Linux server administration
+Strong knowledge of Cloud computing concepts (provisioning, monitoring, orchestration, etc.)
+Knowledge or basic hands-on experience on 2 or more of:
+
+Virtualization  Cloud
+Containers
+Storage technologies
+Networking (bonding, firewalling, bridging, switching, network file system tuning, MTU issues, etc.
+
+
+Programming fundamentals in any language (bash, Perl, Ruby, Javascript, C or C, Go) 
+Ability to learn quickly, thrive on change and handle the pressure of a customer facing job
+Strong written and verbal English communication skills
+Strong written and verbal Japanese communication skills
+JLPT N1 is preferred for non-native speakers
+Ability to travel
+
+Additional skills that you might also bring
+
+Experience supporting virtualized environments (KVM, Virtual Box, VMWare)
+Experience with other open-source desktop technologies
+Active contribution to open-source projectsforumcode
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits below, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+ 
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

@@ -1,0 +1,52 @@
+Help empower our global customers to connect to culture through their passions.
+ 
+Why youll love this role
+As a Software Engineer, you will be empowered to take ownership of technology decisions and solutions while playing a pivotal role in establishing a successful engineering culture at a fast-growing company.
+This is a great opportunity to leverage your existing skills, to build a world-class team and to have a huge impact on how marketplaces can be redefined.
+Our Web technical stack comprises various systems and services built on Amazon Web Services. Our frontend component interacts with various other services via GraphQL and REST. The infra is developed and maintained via CircleCI, Kubernetes, Harness, Terraform, LaunchDarkly and Datadog. Analytics are published to Google Analytics or Segment.
+The technology scope includes all stacks and services (APIs and event processing systems) responsible for providing a seamless experience for our customers.
+We are looking for a motivated, highly enthusiastic, technical web engineer to join our Money Team. This team is responsible for building the most critical, high impact and scalable platform for Payments and Payouts. Our engineers are empowered to take ownership of technology decisions and solutions while playing a pivotal role in establishing a successful engineering culture at our fast-growing company.
+ 
+What youll do
+
+Work with product owners, internal stakeholders, PMs and EMs to clarify ambiguous requirements and propose a resilient technical solution which scales to future business needs.
+Efficiently break up large designs and guide the junior team members in detailed component design. Help the team to implement, deploy and monitor systems and services.
+Propose and adopt best engineering excellence practices and guide development standards.
+Foster a growth mindset culture. Be a team player. Contribute to and follow team processes for better Sprint outcomes.
+Apply considerations around security, scalability, reliability, and performance while proposing and building solutions. Further developing our core architecture, setting up tooling and automation, adopting new best practices and helping review pull requests.
+Use sound technical judgment to consider technology alternatives, impact on affected and adjacent systems and design choice tradeoffs.
+Demonstrate complete ownership for your area of work. Participate in supporting your systems and services through any system upgrades, live site issues and others.
+Effectively communicate with other engineeringproductCS teams of StockX on a need basis.
+Provide timely communication to stakeholders and users for resolving issues.
+
+ 
+About you
+
+3 years of relevant development experience
+Proficiency in HTML, CSS, Javascript (ES6, React, Typescript, Node.js)
+Well versed in jQuery, Bootstrap, React, Redux and other similar libraries, frameworks
+Good understanding of design patterns like MVC and MVVM
+Excellent analytical, organizational and communication skills. Ability to say No.
+Strong professional experience and understanding of app development best practices, including performance optimization, internationalization, and localization or equivalent experience in language and a willingness to learn and get up to speed quickly.
+Experience with influencing organizational wide technical decisions.
+Experience working with AWS or other cloud providers (e.g. Azure, Google Cloud Platform, etc.)
+Take responsibility for the performance and uptime of the services owned by the team by collecting metrics, participating in on-call rotations, monitoring production systems, debugging issues as they come up, and responding with a sense of urgency.
+
+ 
+Nice to have skills 
+
+Experience with working in an Agile environment
+Experience with refactoring frontend monolith into micro frontends is a plus. NextJS  Webpack, a plus.
+Ability to work in a fast paced and constantly changing environment
+Knowledge of GraphQL and REST Frameworks
+Knowledge of SDK integrations and the overheads
+Exposure to CiCD frameworks and toolstechnologies like Github, K8s, Harness
+Knowledge of AB test tool like LaunchDarkly
+
+ 
+
+ About Us
+StockX is the premier current culture platform for buying and selling authentic, new, sought-after products. Our powerful marketplace connects buyers and sellers for sneakers, apparel, accessories, electronics, collectibles and trading cards around the world. We provide millions of global customers with unprecedented access and market visibility powered by real-time data, allowing them to transact based on true market value. Launched in 2016 in Detroit, Michigan, StockX now employs more than 1,500 people in offices and authentication centers in 11 countries.
+ 
+ 
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time.

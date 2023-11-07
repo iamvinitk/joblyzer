@@ -1,0 +1,44 @@
+About Sentry
+Bad software is everywhere, and were tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+With more than 217 million in funding and 90,000 organizations that believe were on to something, were building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.About the role
+The Site Reliability Engineering team is responsible for the deployment, configuration, maintenance and monitoring of Sentrys hosted platform. We do this by leveraging automation tools to automatically spin up and scale services to meet the traffic demands of 1,000,000 developers. Sentry receives over a billion events a day, and processes terabytes of data to return complex aggregations with sub-second latency.
+As a Site Reliability Engineer, you will work with a multitude of technologies and have a direct impact on how Sentry evolves to handle 100x our current event volume.
+Youll contribute to the vision of Site Reliability Engineering in a world of cloud providers and partner with other engineering teams in their efforts to grow and sustain Sentry.
+In this role you will
+
+Work across Sentry to ensure the uptime and reliability of Sentrys hosted platform
+Architect and automate services and systems to meet the demand of scale
+Analyze and tune systems to operate at maximum efficiency
+Collaborate with other engineering teams to deploy and scale new and existing services
+Be a member of the teams on-call rotation - being available to respond and resolve critical issues
+
+Youll love this job if you
+
+Enjoy working with others to improve scalability and performance
+Enjoy fiddling with new cloud technologies and services
+Are not afraid to dig into system internals during the troubleshooting process
+Are familiar with the various SaaS ecosystems and have taken ownership of a service you once knew nothing about
+Have a story (or two) of royally goofing it and can tell us why it would never happen again under your watch
+
+Qualifications
+
+3 years of relevant experience
+Experience with production monitoring and logging tools
+Experience with some or all of the following tools:
+
+System Administration: Debian, Docker
+Cloud: Google Cloud Platform
+Databases: PostgreSQL, ClickHouse, Redis, BigTable
+Environment Management: Saltstack, Kubernetes, Terraform
+TCPHTTP Routing: Nginx, Envoy
+Data Streaming Platforms: Kafka, RabbitMQ
+
+
+Experience with programming and scripting (Python is a plus)
+Excellent written and oral English communication skills and ability to articulate technical concepts clearly and succinctly
+Please note visa sponsorship is not available for this position
+
+We are obliged by law to quote the minimum wage of EUR 52,220,-- gross per year for this position, in accordance with the respective collective agreement (IT-KV). The salary that Sentry offers you is adjusted to the current market situation and our starting point is EUR 75,000-- gross per year. A successful candidate will be eligible to participate in Sentrys employee benefit plansprograms applicable to the candidates position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Companys benefit plansprograms.Equal Opportunity at Sentry
+Sentry is committed to providing equal employment opportunities to its employees and candidates for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or other legally-protected characteristic. This commitment includes the provision of reasonable accommodations to employees and candidates for employment with physical or mental disabilities who require such accommodations in order to (a) perform the essential functions of their jobs, or (b) seek employment with Sentry. We strive to build a diverse team, with an inclusive culture where every teammate can thrive. Sentry is an open-source company because we believe that everyone, everywhere, should have the ability and tools to make great software. Software should be accessible. That starts with making our industry accessible.
+If you need assistance or an accommodation due to a disability, you may contact us at recopssentry.io.
+Want to learn more about how Sentry handles applicant data? Get the details in our Applicant Privacy Policy.

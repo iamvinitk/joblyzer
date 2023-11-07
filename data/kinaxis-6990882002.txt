@@ -1,0 +1,48 @@
+
+About Kinaxis  
+Kinaxis is the global leader in modern supply chain management. We serve supply chains and the people who manage them in service of humanity. Our software is trusted by renowned global brands to provide the agility and predictability needed to navigate todays volatility and disruption. We combine our patented concurrency technique with a human-centered approach to AI to empower businesses of all sizes to orchestrate their end-to-end supply chain network, from multi-year strategic planning through down-to-the-second execution and last-mile delivery. For more news and information, please visit kinaxis.com or follow us on LinkedIn. Manager, Software Development (Back-end team)
+Location: Ottawa, Canada - Hybrid 
+The Opportunity:
+We are looking for a talented and ambitious leader to join our team.  As a manager on our RD team, youll work alongside a great group of people.  Youll have a choice of working in our spectacular new office in Ottawa (preferred) or working remotely from elsewhere in Canada in Easter Standard Time (EST).    
+The core of our product is our in-memory database.  Kinaxis has its own proprietary database, optimized for Supply Chain.  With growing volumes of data and increasing adoption of our product, we have the opportunity to scale out our database and increase throughput.  We are in an era of fascinating and challenging work as we build the next-generation database architecture. 
+Youll guide your team to solve complex problems, implement challenging and important new features, optimize our process, apply new and emerging technologies. 
+If youre looking to do your best work, lead a talented team and work on an innovative product, this is the right opportunity for you.
+Youll get to do things like
+
+Provide leadership, inspiration and mentorship in the Database Development team
+Shepherd feature work to completion within our continuous delivery process
+Help drive continuous improvement. We aim for correctness, stability, scalability, performance, serviceability and reliability
+Manage a bug pool to ensure continued high quality
+Constantly monitor results from our sophisticated automated test environment and use these results to drive the teams work and make decisions about ship readiness. Think of more and better ways to test the product. 
+Lead our agile software development process (scrumkanban, TDD, code reviews, continuous integration)
+Facilitate team innovation in the area of database scalability, query, development tools and practices
+Recruit to grow the team
+Be a strong collaborator and communicator. Work closely with Product Management, Quality Assurance, Support, Cloud Engineering Release and other Development Teams.  Ensure that communication flows freely.
+
+Youll need the following experience
+
+Above all a passion for developing world class!
+5 years in a management or team lead role
+Minimum of 7 years of experience in software development
+
+
+C experience, especially multi-threaded
+
+
+Post-secondary degree in Computer Science or similar
+Proven ability to deliver enterprise class software
+Excellent communication skills. Ability to understand complex software problems and explain them to various audiences
+
+And this will make you stand out
+
+Significant experience with back-end development, preferably database and query
+Experience with databases, especially with database internals
+What we have to offer
+
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never done. Thats because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems theyre passionate about.
+Great People - We take our work seriously, but we dont take ourselves too seriously! Its in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+
+For more information, visit the Kinaxis web site at www.kinaxis.com or the companys blog at http:blog.kinaxis.com.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprogramskinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.

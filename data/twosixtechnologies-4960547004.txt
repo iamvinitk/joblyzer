@@ -1,0 +1,47 @@
+Two Six Technologies is recruiting a Principal Systems Architect to join our team! Youll join TSTs Cyber Business Unit, where you will architect state-of-the-art analysis and decision support platforms, enabling cross-functional software development teams, analysts, and field operations engineers to deliver on customer requirements.  
+The ideal candidate will have experience working as a systems architect, ideally developing and delivering large software platforms involving large volumes of data, integrated analytics, and sophisticated user interfaces that enable audiences to understand and act on data.
+About TST: TST is an agile development software company driving innovation for US national security. Our team values creativity, initiative, and collaboration. We strive for a collegial atmosphere that encourages intellectual cross-pollination and professional growth. In short, were passionate about empowering our customers missions and enjoy working together at the leading edge of technology!
+Responsibilities Include:
+
+Architecting large software platforms for US Government customers, to include the creation and definition of overall system plans, system design, system segmentation, and segment interfaces
+Identify and develop innovative technical approaches to fulfill customer requirements and accomplish program objectives.
+Working with cross-functional teams to translate architecture and customer requirements into technical requirements.  This may include recommending new cross-functional teams and assisting teams during development and delivery.
+Researching, assessing, and recommending technologies, as well as financial and personnel resourcing for optimal system development and delivery.
+Defining and overseeing system- and component-level acceptance tests
+Developing and maintaining risk plans, and responding to known and identified architecture issues.
+Facilitating internal and external communications on technical plans and development progress.
+Mentoring more junior engineers and developers, and helping to align tasking with their career goals.
+
+Minimum Qualifications:
+
+U.S. Citizenship with the ability to obtain and maintain Top Secret Clearance or higher
+Bachelors degree in Computer Science, Engineering, or related field
+Minimum 8 years experience in cybersecurity or related field
+Minimum 3 years experience architecting large cyber, IT, or other software systems
+Creation and delivery of at least one (1) large cyber, IT, or other software system, to include system- and component-level acceptance tests
+Experience presenting technical plans and status reports up to an executive level, and able to tune highly technical discussions to the audience
+
+Desired Qualifications:
+
+Active TSSCI security clearance
+Prior work integrating large cyber, IT, or other software systems into cloud environments, such as AWS and MS Azure
+Experience leading cross-functional teams that were not under your direct supervision
+General CICD knowledge and experience
+Experience with large cyber, IT, or other software prototype and first-release systems
+Experience with cost-benefits analysis of large cyber, IT, or other software systems
+Experience working in fast-paced, deadline-driven environments
+
+Location: This position will be based at TSTs Arlington, VA, headquarters, with an expectation of in-office presence.
+Citizenship and Clearance:
+
+US citizenship and the ability to obtain and maintain a government security clearance are required up to TSSCI and poly
+
+
+LI-PPLI-Hybrid
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

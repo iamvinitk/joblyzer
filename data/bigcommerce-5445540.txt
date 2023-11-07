@@ -1,0 +1,40 @@
+BigCommerces mission is to help merchants sell more at every stage of growth, from small startups, to mid-market businesses to large enterprises. We focus on being the best ecommerce platform so our customers can focus on what matters most: growing their businesses.
+We are equally passionate about growing our employees careers and providing them an incredible experience as we rapidly expand across the globe. We are proud to have been recognized numerous times for our product and workplace culture. We empower our people and customers to build, innovate and grow, so together we can redefine the ecommerce industry.BigCommerce seeks an analytics expert with exceptional interpersonal savvy, systems thinking, and collaborative leadership skills to build infrastructure and expand the impact of our Analytics function. This person will be a key analytical leader and builder during an exciting growth period for BigCommerce filled with change and opportunities to make an impact. This leader will be the advocate for analytics across BC.
+What Youll Do
+
+Partner closely with Operations Executives (up to and including COO) and Strategic Operations teams to understand key challenges and opportunities in a demanding environment, as well as provide insightful recommendations in a concise, absorbable manner
+Proactively identify gaps in corporate data insights and recommend a prioritized roadmap to address them 
+Collaborate with business stakeholders to develop and maintain a deep understanding of business levers that require measurement and controls
+Work closely with data engineers, business application administrators, and other stakeholders to ensure reliable data collection and measurement capabilities that all teams will benefit from
+Foster a culture of repeatability, scalability, and sharing amongst data-centric teams at BC, with a goal of building sustainable tools and processes that will last well into the future
+Bring industry best practices for efficiency in design and impact in data visualization to the table to craft dashboards and KPIs that provide insight into business performance, and lead others to do the same
+Constantly identify and mitigate risks to schedule, scope, and resources while balancing competing priorities across multiple initiatives and stakeholder requests
+Design and conduct statistical analyses of business performance in order to optimize and improve investment
+Identify trends in data and provide recommendations on how to respond
+Mentor less experienced team members
+
+Who You Are
+
+6 years in a dataanalytics role using SQL to analyze large datasets to answer business questions
+Proven ability with data visualization tools and techniques (Tableau, Looker, or Periscope Data preferred)
+Exposure to Python or similar scripting or programming languages
+Experience with eCommerce andor SaaS subscription models and related metrics a plus
+Strong business acumen, critical thinking skills, operational, and interpersonal savvy 
+Demonstrated ability to apply statistical models and techniques to business problems
+Knowledge of digital marketing analytics, website tracking and related technologies (experience with Google Analytics, Segment, Optimizely andor Marketo a plus)
+An energetic and creative problem solver who couples a scientific quantitative approach with business acumen
+Curious, hungry, absorbs information quickly and seeks answers in a tactful and efficient way
+An engaged, people person with experience in cross-functional roles and indirect influencing with impeccable verbal and written communication skills
+Ambitious, self-motivated, goal-oriented, proactive, comfortable independently solving problems despite ambiguity and collaborating as necessary
+A builder, a person who enjoys creating infrastructure to help teams unlock their best work
+Excellent verbalwritten communication and interpersonal relationship skills
+Ambitious, self-motivated, goal-oriented and analytical
+Excellent time-management skills
+A bachelors degree in a quantitative field (Statistics, Math, Business Administration, Finance, Economics), or applicable career experience
+
+LI-LP1Not all candidates will be eligible for the upper end of the salary range (or have the minimum apply to them), but rather, the exact salary will be dependent on the successful candidates location, relevant knowledge, skills, and qualifications.Targeted salary range104,500—145,000 USDDiversity, Equity  Inclusion at BigCommerce
+ 
+Our employees make the difference. At BigCommerce, we believe that celebrating the unique histories, perspectives and abilities of every employee makes a difference for our company, our customers and our community. We are an equal opportunity employer and the inclusive atmosphere we build together will make room for every person to contribute, grow and thrive.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions and to receive other benefits and privileges of employment. If you need an accommodation in order to interview at BigCommerce, please let us know during any of your interactions with our recruiting team.
+Learn more about the BigCommerce team, culture and benefits at https:careers.bigcommerce.com.

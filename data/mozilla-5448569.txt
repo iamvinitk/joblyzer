@@ -1,0 +1,46 @@
+Why Mozilla?
+Mozilla Corporation is the non-profit-backed technology company behind pioneering brands like Firefox, the privacy-minded web browser, and Pocket, a service for keeping up with the best articles online. More than 225 million people around the world use its products each month.
+Along with 60,000 volunteer contributors and collaborators all over the world, Mozilla Corporations staff are driven by our mission to ensure the Internet is a global public resource, open and accessible to all. We design, build and distribute open-source software that enables people to enjoy the internet on their terms.
+The Opportunity
+The MDN Web Docs (https:developer.mozilla.org) engineering team is looking for an experienced software engineer to help us maintain and evolve the open-source platform (https:github.commdn) that powers a website loved by millions of developers worldwide.
+Were a small, friendly and dedicated group of software engineers, and were not just looking for someone with the desired technical skills, but also for someone who wants to build and maintain a friendly and collaborative culture as much as we do. Were always striving to make MDN better, but we also want to have some fun and help each other along the way.
+Its an exciting time to join the MDN engineering team. Weve made dramatic changes to our platform over the past year, enabling us to resolve entrenched issues that have held MDN back for years, but theres so much more to do!
+What Youll Get To Do
+Were investing in MDNs platform, transforming it to support a faster pace of experimentation with new features and overall improvement. A major focus of this effort is refactoring our codebase to enhance flexibility and performance. In this role, you will collaborate closely with the team to bring this vision to fruition.
+Youll work in close partnership with team members across various disciplines, including technical writers, UX designers, product managers, and marketers. Additionally, we encourage you to share your expertise with the team and the dedicated volunteers who contribute to MDN, fostering a collaborative learning environment.
+As a Staff Software Engineer at Mozilla, your responsibilities will include:
+
+Maintaining and improving the MDN platform.
+Developing new features and owning them from local development to production.
+Enhancing MDNs build system to significantly reduce deployment times.
+Collaborating with our content team to enhance the MDN authoring experience.
+Refactoring our front-end client and SSR pipeline.
+Simplifying the integration of MDN data into other products.
+
+ Your Professional Profile 
+
+A minimum of a Bachelors degree in computer science or a related field, or equivalent years of experience.
+A minimum of 5 years of software development experience.
+Strong fundamentals in software engineering, including modularity, abstraction, data structures, and algorithms.
+Extensive experience with HTML, JavaScript, CSS and Web APIs.
+Experience with Rust (or a similar compiled language).
+Extensive experience in both frontend and backend web development, with a preference for experience on high-traffic websites.
+Good knowledge of developing continuous integration and deployment (CICD) workflows, particularly using GitHub Actions.
+Full-stack mentality, you care about building, deploying and running applications.
+The ability to work effectively on a remote, geographically distributed team.
+
+ Bonus Points for
+
+Experience in applicationsystems programming (LinuxMacOSWindows).
+Experience working within open source projects.
+
+About Mozilla 
+Mozilla exists to build the Internet as a public resource accessible to all because we believe that open and free is better than closed and controlled. When you work at Mozilla, you give yourself a chance to make a difference in the lives of Web users everywhere. And you give us a chance to make a difference in your life every single day. Join us to work on the Web as the platform and help create more opportunity and innovation for everyone online.
+Commitment to diversity, equity, inclusion, and belonging
+Mozilla understands that valuing diverse creative practices and forms of knowledge are crucial to and enrich the companys core mission.  We encourage applications from everyone, including members of all equity-seeking communities, such as (but certainly not limited to) women, racialized and Indigenous persons, persons with disabilities, persons of all sexual orientations, gender identities, and expressions.
+We will ensure that qualified individuals with disabilities are provided reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment, as appropriate. Please contact us at hiringaccommodationmozilla.com to request accommodation.
+We are an equal opportunity employer. We do not discriminate on the basis of race (including hairstyle and texture), religion (including religious grooming and dress practices), gender, gender identity, gender expression, color, national origin, pregnancy, ancestry, domestic partner status, disability, sexual orientation, age, genetic predisposition, medical condition, marital status, citizenship status, military or veteran status, or any other basis covered by applicable laws.  Mozilla will not tolerate discrimination or harassment based on any of these characteristics or any other unlawful behavior, conduct, or purpose.
+Group:
+LI-REMOTE
+Req ID: R2377To learn more about our Hiring Range System, please click this link.
+Hiring Ranges:Remote UK81,000—118,000 GBP

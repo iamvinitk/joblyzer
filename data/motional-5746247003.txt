@@ -1,0 +1,38 @@
+Mission Summary 
+As part of the CORE (Compute  Onboard Runtime Environment) integration team you will be working to improve the reliability and performance of the Motional autonomous system. Our largest fleet is based in Las Vegas, and we are looking for individuals with a breadth of experience who are comfortable working in embedded systems, high performance C applications, and who also have a good grasp of the Linux operating system.
+You will be working across the code base and across the various infrastructure and autonomy teams to do in depth root cause analysis of failures and performance issues in vehicles, and then work in the respective system to create a permanent resolution.
+The team is responsible to make sure that our fleet continues to be operational, and to ensure that vehicle performance is improving. This job requires getting hands on with the vehicle compute platform, engaging in live debugging in the vehicle, and being comfortable working to fix complex pieces of software with teams from across multiple disciplines and time zones. In addition you will also be active developers on the Remote Vehicle Assistance program (teleoperations), expected to design, implement, and test new features to enable our Remote Vehicle Operators to resolve situations the AV cannot yet handle.
+The Motional Las Vegas office is located less than 10 miles from the Las Vegas strip at 730 E Pilot Road, the Las Vegas office is home to one of the largest fleets of self-driving vehicles. The citys grid system of roads and being one of Americas smart cities allows for extensive research and development testing.
+What Youll Be Doing:
+
+Youll be directly contributing to the development of the Remote Vehicle Assistance, Real Time Infrastructure, and HIL Infrastructure.
+Your expertise will help us debug real, live issues in the cars as they come up in the operation of our fleet.
+Youll be collaborating across multiple disciplines and working with teams focused on embedded systems, the AV planning stack, perception, sensor data processing, and all of our in-car stack.
+
+What Were Looking For:
+
+Youre passionate about understanding how complex systems work
+Youll work with cross-functional teams to perform root cause analysis to achieve robust issue resolution
+Youre able to debug running, distributed systems
+You have experience working on both x86 and embedded architectures (ARM, RISC)
+Experience working on Linux operating system, especially network stack
+
+Bonus Points (not required):
+
+Experience working with real time sensor systems
+Experience tuning Linux kernel for performance
+
+Why you should join us:
+
+This is a unique opportunity where you will be able to form the foundation for developing cutting edge algorithms on Motionals self driving vehicle platforms. All the while helping to drive strong engineering practices in the embedded software space.
+The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. 
+Candidates for certain positions are eligible to participate in Motionals benefits program. Motionals benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more.Salary Range159,000—207,000 USDMotional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. Were driven by something more.
+Our journey is always people first.
+We arent just developing driverless cars; were creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+Were creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; its not only good for our business, its the right thing to do.  
+Scale up, not starting up.
+Our team is behind some of the industrys largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the worlds first robotaxi pilot, and operation of the worlds longest-standing public robotaxi fleet. Were driven to scale; were moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+ 
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.

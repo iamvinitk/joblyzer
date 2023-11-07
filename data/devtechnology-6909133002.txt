@@ -1,0 +1,53 @@
+Application Developer Intern, 676
+Clearance: Must be able to obtain a public trust clearance or higher as required
+Dev Technology Group is seeking talented rising juniors and seniors for our Summer 2024 Internship Program. Interns will be based out of our headquarters in Reston, Virginia. This is an excellent opportunity for those seeking professional experience in software development, sysadmin, DevOps, or related field. 
+What Youll Be Doing:
+Dev interns will work on a dynamic low-codeno-code software development project in support of a government client. This is an opportunity to contribute to improving software development outcomes for our client, and to observe and participate in many aspects of an Agile software development project. Interns will also work on a technical intern project with the rest of the internship team.
+
+Collaborate with our experienced ServiceNow team to understand business requirements and develop effective solutions using the ServiceNow platform
+Assist in the configuration, customization, and implementation of ServiceNow modules to meet specific business needs
+Participate in testing, debugging, and troubleshooting to ensure the successful deployment of ServiceNow solutions
+Support the creation of documentation, user guides, and best practices to aid in knowledge transfer and process improvement
+Stay updated with the latest trends and developments in the ServiceNow ecosystem to contribute innovative ideas to ongoing projects
+Work closely with cross-functional teams to understand interdependencies and foster a seamless IT service management experience.
+Practice Agile methodology by attending all Scrum related meetings, such as daily stand-ups, weekly sprint planning, and weekly retros
+Support the development of custom applications, UIs, workflows and workflow automations using Power FX, Python, PowerShell or VBScript and best in class low-codeno-code platform technologies
+Work with fellow summer interns on a technically focused project and present the groups results to the executive team at the end of the program. Past projects have included creating a mentorship web application, designing a wellness mobile application, and creating a technical environment as well as reaching out to local universities regarding a hackathontech challenge.
+
+Required Skills and Experience:
+
+Rising juniors and seniors working toward a bachelors degree in Computer Science, Information Technology or related field preferred
+Experience with ServiceNow, SharePoint, andor PowerApps 
+Familiarity with programming languages (e.g., JavaScript, HTML, CSS) 
+The ability to work independently and in a team with developers providing guidance and support
+A desire to learn new skills, including self-study if needed 
+The ability to follow through on tasks to completion
+True enjoyment of technology and the desire to contribute to a teams output
+Great people and communication skills which include a high emotional intelligence
+Must be able to commute to the Reston, Virginia office 1-3 days a week
+
+Preferred Skills and Experience:
+
+Rising senior (strongly preferred)
+ServiceNow certification (preferred)
+Who We Are
+Dev Technology is a growing IT company with an employee-centric culture that works on mission-critical projects for the federal government. We partner with our federal customers to deliver technology services and solutions, and to drive our clients missions forward through innovation. We use Agile and DevSecOps principles to provide services including application development, biometrics and identity management, cloud and infrastructure optimization, IT and legacy modernization, and data management.   
+As a Washington Post Top Workplace award winner for the past ten years in a row, the Top Workplaces USA for the past three years, and a recipient of the Companies As Responsive Employers (CARE) Award for the past four years, Dev Technology employees enjoy:   
+
+Generous and flexible time-off policy
+Flexible work schedules and telework options, including remote work availability for eligible projects
+Career development opportunities including a mentorship program, technical and management training through Dev University, hands-on learning through DevLab, tuition reimbursement, and paid training opportunities
+Industry-leading benefits including a choice of two health plans that include dental and vision, flexible spending account, commuter benefits, life insurance, and more
+401K matching with immediate vesting and end of year profit sharing  
+Regular team and company social events including our annual party, happy hours, fitness challenges, and more  
+A focus on community engagement including company wide support activities, employer match for donations, and time off for volunteer efforts
+To learn more about working at Dev Technology visit, Learn About A Day At Dev Technology
+
+ 
+Dev Technology Group operates in the following states: AL, AR, AZ, CO, DC, FL, GA, ID, IL, IN, MD, MA, ME, MN, NC, NJ, OR, PA, SC, TN, TX, VA, WV.
+ 
+EEOAADisabilityVets Employer
+ 
+
+
+ 

@@ -1,0 +1,36 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+Were looking for a Senior Business Intelligence Specialist to join our Data Science and Analytics team and help transform data into actionable insights. You will be responsible for crafting and maintaining innovative business intelligence solutions to supercharge our data-led growth. You will partner with engineering teams, product managers, and other company leaders to deliver end-to-end data analysis and visualization solutions.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+Responsibilities
+
+Build multi-source data pipelines and develop scalable reporting packages for reliable, timely business insights
+Design and maintain automated reporting, dashboards, and ongoing statistical analyses to enable data-driven decisions
+Create visually engaging and insightful analysis using visualization tools (e.g., Tableau, Plotly, Data Studio)
+Implement analytics solutions end-to-end, including project management, data gathering and manipulation, modeling, problem-solving, and communication of insights and recommendations.
+Mentor and guide junior data scientists in developing their analytical skills and understanding of business intelligence tools
+Stay informed about the latest BI tools and technologies and recommend their adoption as needed
+
+Requirements
+
+Bachelors degree in a relevant field (e.g., Business Analytics, Data Science, Statistics, Information Systems)
+5 years of proven experience
+Experience in programming to extract, transform, and clean large data sets
+Proficiency in scripting for automation (e.g. Python) and advanced SQL skills
+Expertise in data visualization tools such as Tableau or Data Studio for full-stack data analysis, insight synthesis, and presentation
+Excellent verbal and written communication skills with the ability to collaborate effectively with both technical and non-technical partners
+Able to relocate to or work in our New York or Pittsburgh offices
+
+Bonus Points
+
+Advanced degree (Masters or equivalent) in a relevant field
+Experience managing, analyzing and communicating results to senior leadership
+Experience at a high-growth company that has undertaken an IPO
+An impressive Duolingo XP or streak!
+
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 139,200 - 259,900. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

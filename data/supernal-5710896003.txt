@@ -1,0 +1,42 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Flight Control Systems Software Engineer helps support embedded coding decisions, supplier management of software development, and flight control computer architecture design. The role assists in managing low-level requirements and any in house software efforts. This position will also help support and follow the system best practices and system philosophy.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Work closely with Flight Controls Systems team in support of flight control computer architecture including hardware, processors, and compiler decisions
+Manage software team requirements to support Flight Controls Systems development and certification
+Define IO requirements for flight control software with other aircraft systems
+Follow coding standards and software process definitions
+Support supplier management of coding and low-level testing efforts
+Collaborate with Intelligent Systems, Avionics, Powertrain, and other aircraft systems in the development of the full software platform
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+BS degree in Engineering required; Electrical, Mechanical, or Aerospace Engineering preferred
+Minimum of 2-4 years of experience (an equivalent combination of education and experience may be considered)
+Experience with embedded coding and auto-coding
+Experience with defining software requirements
+Exposure to software supplier management
+Understanding of communications protocols (CAN, ARINC 429, RS-485, etc..)
+Familiarity with DO-178BC, DO-160, DO-254, ARP 4754A, ARP 4761
+Proficiency with CC
+Comfortable with MATLAB, Simulink, and Stateflow
+Some understanding of real time operating systems
+Highly collaborative and phenomenal communication skills
+Familiarity with FAA part 23252729 or other certification experience
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+Must have the ability to follow a prioritized plan and accomplish work within time constraints
+Self-motivated and forward-thinking personality
+Proficiency with Excel VLOOKUP, pivot tables, MS Office Suite
+
+You may also be able to contribute:
+
+M.S. in aerospace, electrical, or a relevant engineering field, is a plus but not required
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:133,120—186,160 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

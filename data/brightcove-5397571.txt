@@ -1,0 +1,41 @@
+The Security Architect will be responsible for defining and advising on security requirements for solutions. This position is a security subject matter expert applying broad technical skills and security-focused expertise in solution architecture, technical architecture and softwaresystems engineering. This individual will lead cross-functional efforts and ensure solutions meet Security standards and industry best practice.
+Job Responsibilities
+
+Review solution design for compliance to Information Security Standards.
+Provide security requirements and recommendations on solution design to technical and business teams
+Provide oversight and leadership for automation
+Review architecture diagrams, data flow diagrams, and network diagrams and advise on non-compliance issues.
+Lead security architecture direction for solutions as well as Influence peers, cross functional partners, and IT leadership
+Effectively communicate security risk to various audience levels
+Assist in setting the strategic security direction and approach for utilizing new technologies
+Utilize security expertise to influence approaches to solving strategic business needs
+Understand security trends and direction technology must take to support the business
+
+QualificationsExperience
+
+Bachelors degree in Information Technology (or a related discipline) or relevant work experience
+5 years of experience in information security, including engineering and implementation of complex security systems
+5  years of experience with OSI model, creation and maintenance of flow diagrams, network diagrams, communicating and collaboration in company environments
+Familiarity with industry benchmarks such as NIST-CSF, ISO 27001 etc.
+Analytical and problem-solving skills
+Solution development and thought leadership
+Must have working knowledge of standard IT technologies and Cloud services
+Demonstrated effectiveness working across multiple business units to achieve results
+Solid understanding of Threat and Vulnerability Management, SIEM, EDR, DMARC, DKIM, DLP, and PKI
+Proven Experience applying security architecture framework to IT solutions
+Experience with cybersecurity tools, process, methods, and fundamentals
+Significant technical expertise in cloud security, network security, application security
+Programming or system administration experience are a plus
+CISSP or equivalent security certification preferred
+Experience with SentinelOne is preferred 
+
+About Brightcove 
+Brightcove is a diverse, global team of smart, passionate people who are revolutionizing the way organizations deliver video. Were hyped up about storytelling, and about helping organizations reach their audiences in bold and innovative ways. When video is done right, it can have a powerful and lasting effect. Hearts open. Minds change. 
+Since 2004, Brightcove has been supporting customers that are some of the largest media companies, enterprises, events, and non-profit organizations in the world. There are over 600 Brightcovers globally, each of us representing our unique talents and we have built a culture that values authenticity, individual empowerment, excellence and collaboration. This culture enables us to harness the incredible power of video and create an environment where you will want to grow, stay and thrive. Bottom line: We take our video seriously, and we take great pride in doing it as oneteam.
+WORKING AT BRIGHTCOVE 
+We strive to provide our employees with an environment where they can do their best work and be their best selves. This includes a focus on our employees work experience, actively creating a culture where inclusion and growth are at the center, and hiring, recognizing, promoting employees who are committed to living and breathing these same ideals.  
+While remote work arrangements are available for most positions we also offer hybrid or on-site working options in our Boston office, located in beautiful Fort Point harbor. Employees enjoy access to fully-stocked kitchens and social activities including: happy hours, trivia, ping pong tournaments, and events and celebrations of all kinds. You will have plenty of opportunities to meet your colleagues around the globe as we also celebrate a variety of personal interests with organized groups and clubs including an Employee Action Committee, Women of Brightcove, Pride of Brightcove, Parents of Brightcove  and more!
+We recognize that no candidate is perfect and Brightcove would love to have the chance to get to know you. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. Brightcove embraces diversity and seeks candidates who support persons of all identities and backgrounds. We strongly encourage individuals from underrepresented andor marginalized identities to apply. If you need any accommodations for your interview, please email recruitingbrightcove.com. 
+The Brightcove Privacy Policy explains the processing and purposes of any personal information.
+LI-Remote
+BC20984At Brightcove, we believe that providing comprehensive and competitive compensation and benefits packages across the globe are essential to our employees. Base salary is just one component of Brightcoves total rewards program. We offer a wide range of benefits and perks that may include bonus or commission, Brightcove stock, unlimited paid time off, 401(K) matching, health insurance (medical, dental, and vision), generous employer Health Savings Account (HSA) contributions, tuition reimbursement, 100 paid parental leave and more.USA Brightcove Base Salary Range108,400—162,600 USD

@@ -1,0 +1,34 @@
+Building a team starts with valuing the team. We hire the best of the best to ensure youre working with people you can constantly learn from. Youre trusted to get your work done your way while testing the limits of whats possible and whats next. We work hard to provide a culture where everyone feels supported, and our employees feel it—their votes helped us become one of Newsweeks Top 100 Global Most Loved Workplaces in 2023.
+We also value sports. Not just because of the big wins and highlight-worthy plays, but because of the lasting impact sports can have: the lifelong lessons in teamwork and dedication; the influence of inspiring mentors; the priceless opportunities to play at the next level. Sports can change lives—thats what we value.
+Our team helps the world see sports differently through products that make it easier to capture video, analyze data, share highlights and do a lot more.  
+Ready to join us?
+Your Role
+Were looking for an Engineering Manager to join a team thats building tools for customers in emerging markets. Whether its a new club organization, or a venture into a new country, these markets each have unique user needs for sports team workflows like video capture, recruitment, organization and roster management. This is a chance to deliver real user value in some of our highest opportunity markets—and these markets offer substantial revenue opportunities—upwards of 25M—for the company.
+As an Engineering Manager, youll work closely with cross-discipline leaders to plan and deliver enhancements across many areas of our product suite that save these customers time and help Hudl establish itself in their markets. Our squads have the autonomy and freedom to find the best solutions with their expertise. Youll participate in Scrum ceremonies, be responsible for coaching, developing and serving the engineers on your team, and play a significant role in maintaining a strong team culture.
+Our priority is to hire someone for this role who lives near our office in Lincoln or Omaha, Nebraska, but were also open to remote candidates who live in the following states: AL, AZ, FL, GA, ID, IL, IN, IA, KS, KY, LA, MA, MI, MN, MO, NE, NH, NC, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, WI, WY. 
+Must-Have
+
+Experience in mature, full-stack web applications. You have 5 years experience building across all levels of a web application: from the client-side code, all the way down to the database. Youll likely be working with technologies like TypeScript, React, GraphQL, C, MongoDB and a number of AWS services.
+Leadership ability. Youve taken the lead on tackling ambiguous technical challenges, proposing solutions to upcoming problems, and providing technical input on others work.
+Coaching and mentorship experience. You know that direct feedback and support are some of the best tools to help an engineer grow and have provided both to members of past teams.
+Passion for fostering a collaborative culture based on trust. You firmly believe that teams succeed and fail together, and have experience pushing your team to be more collaborative and honest.
+
+Nice-to-Have
+
+Formal managerial experience. We dont require a background in formal management roles, but skills like career coaching or performance management will put you in a stronger position to succeed as an Engineering Manager at Hudl.
+Professional background in C, React, MongoDB andor AWS. Adjacent languages, frameworks and services used at scale are relevant experience, but direct background in our core technologies is a plus.
+Examples of product partnership. Engineering Managers at Hudl are strong partners to Product Managers, helping them solidify the teams upcoming roadmap. Experience in partnerships like these is an asset to your skills.
+
+Our Role
+
+Champion work-life harmony. Well give you the flexibility you need in your work life (e.g., flexible vacation time, company-wide holidays and timeout (meeting-free) days, remote work options and more) so you can enjoy your personal life too.
+Guarantee autonomy. We have an open, honest culture and we trust our people from day one. Your team will support you, but youll own your work and have the agency to try new ideas. 
+Encourage career growth. Were lifelong learners who encourage professional development. Well give you tons of resources and opportunities to keep growing.
+Provide an environment to help you succeed. Weve invested in our offices, designing incredible spaces with our employees in mind. But whether youre at the office or working remotely, well provide you the tech stack and hardware to do your best work.
+Support your mental and physical health. We care about our employees wellbeing. Our Employee Assistance Program, employee resource groups and fitness partner Peerfit have you covered.
+Cover your medical insurance. We have multiple plans to pick from to ensure youll have the coverage you (and your dependents) want, including vision, dental, fertility healthcare and family forming benefits.
+Contribute to your 401(K). Yep, thats free money. Well match up to 4 of your own contribution.
+Inclusion at Hudl
+Hudl is an equal opportunity employer. Through our actions, behaviors and attitude, well create an environment where everyone, no matter their differences, feels like they belong. We offer resources to ensure our employees feel safe bringing their authentic selves to work, including employee resource groups and communities. But we recognize theres ongoing work to be done, which is why we track our efforts and commitments in annual inclusion reports. We also know imposter syndrome is real and the confidence gap can get in the way of meeting spectacular candidates. Please dont hesitate to apply—wed love to hear from you.
+Privacy Policy
+Hudl Applicant and Candidate Privacy Policy

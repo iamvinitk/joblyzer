@@ -1,0 +1,46 @@
+About the Role
+ 
+Abnormal Security is looking for a passionate and energetic Group Product Manager to lead the Product Management organization in the Messaging Security Products (MSP) division.  We keep our customers—ranging from Global 2000 organizations to small businesses—safe from complex and cutting edge attacks that have the potential to cause financial loss and disrupt business operations. Our novel approach to email security, account takeover detection, and other use cases has resulted in us becoming one of the fastest-growing security companies of all time, with over 13 of the Fortune 500 in our customer base.
+ 
+The Messaging Security Products division is the foundation of Abnormals growth - we own the flagship Inbound Email Security product along with established messaging products like Abuse Mailbox (an automation solution to handle user-reported email attacks) and Email Productivity (removes spam from user inboxes, drastically improving customer productivity).  We also own key customer-facing services like the Dashboard, Threatlog, and Integration Systems.
+ 
+As the Group Product Manager you will help define the vision, strategy, and roadmap for these core products and services, collaborating with C-level executives and working closely with a world class engineering team.  Youll lead a team of product managers, growing their careers and creating a world-class Product Management organization.
+ 
+You will help increase our market share in established email products and grow our business into new messaging products.
+ 
+Join the MSP leadership team and be an integral part of growing and scaling our company.
+ 
+What you will do 
+ 
+
+Lead, manage, and grow the MSP product management team, providing mentorship and hands-on support for their products and helping them grow in their careers
+Develop product strategy across multiple products and services, synthesizing insights from multiple sources including analytics and customer feedback and collaborating with executive management
+Develop requirements across multiple products and services including Graymail, Dashboard, and Integrations
+Partner with internal teams (Support, CSM, Sales, Marketing, etc) to ensure successful product launches, customer satisfaction, and overall product growth 
+Work closely with world class engineering teams to deliver features and execute on product strategy
+Engage with high profile customers to present roadmap, define and validate features, and partner on early access and design partnership programs
+
+ 
+Must Haves 
+ 
+
+7 years of product management experience with an Enterprise SaaS business
+3 years in a leadershipmanagement role leading 3 or more customer-facing products across multiple engineering teams and with other product managers reporting to you
+Proven experience building and communicating product vision and strategy
+Deep experience with direct customer communication and presentation
+Strong leadership and communication skills, with the ability to influence and drive alignment across executives and cross-functional teams
+Proven experience managing and delivering multiple projects within the same time schedule
+Proven experience presenting plans and proposals to executive leadership and leading initiatives with key stakeholders
+Able to lead by example with strong individual contributor capabilities
+
+ 
+Nice to Have 
+ 
+
+Knowledge of Email Security industry or domain
+Knowledge of AIML systems
+Experience with integration platforms and partnering with 3rd party solutions
+Experience with high growth startup culture 
+
+ 
+LI-ML1

@@ -1,0 +1,62 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.Staff Software Engineer, Market Data
+Toronto, ON, Canada
+ 
+We are looking for a Staff Software Engineer to optimize and scale the way we use Market Data to power our liquidity businesses. Candidates will partner with quantitative developers, data engineers, and other software engineers to deliver best-in-class Market Data Assets.  Those assets will be used by stakeholders across the company - including Payments Product  Engineering, Applied Scientists, Trading  Markets, and Finance.  You will identify the need to build new services to consume and transform data, collaborating with stakeholders to define business problems to solve. You will also collaborate with our Data Platform team to leverage our modern cloud data platform to create accurate, maintainable, and highly-available Market Data Assets.  In this role, you will also mentor other engineers to create a multiplier effect on your expertise in areas of system design, best practices, and iterative, continuous deployment.
+ 
+Ideal candidates will have a track record of technical excellence in designing, building and delivering reliable solutions as part of a team. As a member of a growing initiative, you must be passionate about delivering Market Data Assets that power customer facing businesses.  You will architect and contribute code to production-grade services, raising the bar for engineering standards.  You are relentless in your commitment to operational excellence, ensuring that decisions are made based on the highest quality data possible. You can clearly identify feature requirements for solutions, even when problem statements are ambiguous and rapidly changing with our business.  
+
+WHAT YOULL DO:
+
+Be an entrepreneurial builder, working up and down the data stack, mixing software engineering, data engineering, and quantitative finance to deliver great Market Data Assets 
+Design and implement tools and processes for the entire Market Data lifecycle, including cleaning raw data, transforming raw data into Market Data Assets that will be used across the company
+Be curious about the Market Data landscape, using your high standards for data quality to identify new sources of Market Data for Ripple
+Implement automated monitoring solutions to maintain the health of our Market Data 
+Collaborate closely with consumers of Market Data Assets to understand data availability requirements that will inform your designs
+Be a technical subject matter expert, provide technical leadership, and share your expertise with a team of engineers
+Continuously raise our standard of engineering excellence by implementing and driving best practices for coding, testing, and deployment
+
+
+WHAT YOULL BRING:
+
+8 years of hands-on Software Development experience on large scale distributed systems, with the last 5-7 years in a major programming language (Java Python, Go, or similar) and 2 years experience working as a tech lead
+Experience building and deploying containerized applications (e.g. Docker) into modern distributed computing environments such as Kubernetes in production environments
+Experience with Application Performance Management tools (DataDog, Grafana) and configuring them to monitor system health
+Experience with cloud data platforms (GCP, AWS, Databricks), with experience building transactional systems (preferably in finance  banking  e-commerce domains) to manage large, structured event data sources such as tick data
+Experience with real-time data a huge plus
+Experience with Agile development of distributed services, with a focus on robust software design, scalability and security
+Eagerness to work openly and collaboratively with a diverse team
+Ability to encourage and drive engineering best practices
+A positive attitude and a passion for sharing knowledge
+BS in Computer Science or similar, MSPhD a plus
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

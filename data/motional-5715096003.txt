@@ -1,0 +1,41 @@
+Primary Purpose:
+An Associate Triage Engineer will deliver capabilities in support of maintaining a high level of system quality and vehicle behavior for our autonomous driving technology. Ideal candidates for this position must show interest in system and sub-system level analysis, verification and validation methodologies. Candidates should be willing to work across teams in collaborative environments  across software, testing and project management groups. Different from a traditional Software Quality Assurance (SQA) role, this position uniquely cross-cuts across testing and operations functions on the right half of the systems V-model and software development and systems  safety requirements functions on the left half of the V-model.
+Essential Duties:
+
+Perform detailed Root Cause Analysis (RCA), Fault Tree Assessment (FTA), Failure Mode Effect Analysis (FMEA) on several different test modalities such as -- public roads, closed course, simulation and Hardware-in-Loop (HIL)
+Closely partner with the software development teams to maintain a rapport for rapid and iterative feedback loop
+Synthesize test output data analysis in relation to the Systems, Safety requirements for the expected AV behavior
+Drive the issue identification, analysis  introspection, mitigation and reporting lifecycle with the software development teams
+Develop stakeholder documentation such as software release reports, process training, knowledge base for common issues and outbrief content to the Triage external stakeholders
+Partner with the engineering and operational teams on integrating Motionals commercial missions into the end-to-end Triage pipeline
+Support building product and system level AV performance metrics across the development and commercial milestones
+Show initiative and be a valued team member in our innovative, fast-paced, entrepreneurial environment where cooperative teamwork across locations is the norm
+Other duties as assigned
+
+Required Qualifications:
+
+Bachelors or higher degree in Engineering such as Computer Science, Electrical Engineering, Systems Engineering, Software Engineering, Robotics highly preferred; or at least two years of equivalent knowledge and work experience. 
+ExperienceFamiliarity with software engineering concepts, including requirements analysis, source control, build processes, design reviews
+Experience with Linux and scripting languages (E.g: BashShell, Python)
+Demonstrated problem solving skills and ability to think logically and remove bias from evaluation of problems
+Strong troubleshooting, debugging, and analytical and creative problem solving skills
+
+Preferred Skills:
+
+Experience with Autonomous Vehicle (AV) Functional Safety (FuSa) and SOTIF requirements
+Experience with systems verification and validation techniques
+Experience with automotive standards (E.g: ISO 12207, ISO 26262, ISO 21448)
+Experience with software quality management and assurance activities (E.g: IATF 16949, ISO 9001)
+Thorough understanding of robotics systems including sensors, actuators, mechatronics and software systems
+Experience using issue tracking and configuration management tools (E.g: Atlassian Confluence, Jira, Bitbucket, Git)
+Work in cross collaboration teams to address problems and find solutions
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. Were driven by something more.
+Our journey is always people first.
+We arent just developing driverless cars; were creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+Were creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; its not only good for our business, its the right thing to do.  
+Scale up, not starting up.
+Our team is behind some of the industrys largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the worlds first robotaxi pilot, and operation of the worlds longest-standing public robotaxi fleet. Were driven to scale; were moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+ 
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.

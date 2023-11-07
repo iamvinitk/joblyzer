@@ -1,0 +1,19 @@
+Virtu is a leading financial firm that leverages cutting edge technology to deliver liquidity to the global markets and innovative, transparent trading solutions to our clients. As a market maker, Virtu provides deep liquidity that helps to create more efficient markets around the world. Our market structure expertise, broad diversification, and execution technology enables us to provide competitive bids and offers in over 19,000 securities, at over 235 venues, in 36 countries worldwide.
+THE ROLE
+Our Operations Analysts are responsible for managing the clearance, settlement, and reconciliation of trades and positions on behalf of trade desks across the firm. Operations Analysts work closely with traders, finance, compliance, brokers and custodians, and firm customers to ensure timely settlement of trades, accuracy of books and records, and avoidance of unanticipated risk to both the firm and its customers. 
+This team also has the opportunity to work closely with software engineers to further automate and enhance robustness of the firms operations workflows and to enable trading and customer offerings in new markets and asset classes. Operations Analysts not only become experts in the logistics and mechanics of trade clearance and settlement, but they also play a crucial role in the ability of the firm to conduct trading efficiently and safely, perform challenging and stimulating data analysis, and participate in the architecture of new systems and controls. This is a great role for a candidate looking to start a career in the financial industry, or for a candidate already in the early stages of a career in this space who is looking for a more challenging role with greater responsibility.
+THE CANDIDATE:
+
+Bachelors degree required; specialisation in math, computer science, business, finance or related disciplines.
+Experience with VBA, SQL andor scripting (i.e. Python) preferred.
+Experience in operations, trade support or related experience is advantageous.
+0-5 years experience at a bankconsultancy firm is advantageous. 
+Ambitious and self-motivated, with the ability to use own initiative.
+Excellent problem solving and analytical skills; including effective troubleshooting in a fast paced, time critical environment.
+Strong communication (verbal and written), and excellent organisational skills are essential.
+
+THE PROCESS
+After passing an application screening, candidates will be sent an online programming test via email from a service called Codility as a first step of the process. This is to gain an understanding of the candidates coding ability.
+ 
+
+Virtu Financial is an equal opportunity employer, committed to a diverse and inclusive workplace, welcoming you for who you are and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.

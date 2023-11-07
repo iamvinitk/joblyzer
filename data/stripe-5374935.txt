@@ -1,0 +1,41 @@
+Who we are
+About Stripe
+Stripe builds the most powerful and flexible tools for running an internet business. We handle billions of dollars each year and enable hundreds of thousands of users around the world to scale faster and more efficiently by building their businesses on Stripe. The majority of US internet users have purchased something from a Stripe user in the past year.
+About the team
+Stripes Professional Services team works with our most strategic users; Integration Engineers lead technical workstreams with these users while they are onboarding and expanding with Stripe. Were seeking candidates with strong technical and business skills to drive high quality integrations while accelerating the time to go-live process. Youll work closely with cross-functional teams to drive product improvements, solve challenging and complex problems, and improve Stripes offerings.
+What youll do
+Responsibilities
+
+Own and drive relationships with external audiences of all kinds, from engineers to CTOs, to understand business objectives and translate requirements into integrations
+Lead users through technical implementations of products across the Stripe portfolio
+Integrate Stripes APIs to explore new products and features
+Review and validate integrations using Stripe APIs
+Advise and document best practices around integrations using Stripe APIs, Stripe products, payments, authorizations and optimizations
+Work closely with Stripe Product  Engineering teams to improve and evolve Stripe products
+Contribute to the development of Professional Services methodologies and tools to accelerate engagements and ease troubleshooting
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+At least 5 years of experience, with a strong technical generalist and coding background.
+
+Has at least 2 years of production-level software developer experience with fluency in at least 2 programming languages.
+Has at least 3 years of customer-facing experience working as a customer success engineer, integration engineer, solution architect, technical consultant, software engineer or similar role
+
+
+Can read, write, and understand code in multiple programming languages
+Has experience integrating Stripe or other RESTful APIs 
+A great verbal and written communicator, strong presentation skills, comfortable explaining complex technical concepts to both technical and non-technical audiences
+
+Preferred Qualifications:
+
+Superior time management skills to manage multiple external customers simultaneously
+Self-starter with the ability to assess, troubleshoot and work autonomously to decompose and solve complex problems
+Able to accommodate light travel quarterly for customer on-sites and team meetings 
+Thrives in a fast-paced, dynamic and collaborative environment
+
+You should include these in your application:
+
+Your resume, Github, or LinkedIn page
+Links to code or other work of which youre particularly proud

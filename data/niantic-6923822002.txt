@@ -1,0 +1,30 @@
+Niantic is a leading mobile gaming platform company known for creating popular augmented reality (AR) games such as Pokmon GO, Ingress, Pikmin Bloom and Monster Hunter Now. Our mission is to build interactive and immersive experiences that blend the real world with the virtual world, encouraging exploration, social interaction, and physical activity.
+Niantic is seeking a hard-working Data Scientist to join our team. As an Associate Data Scientist, you will play a crucial role in supporting the development and growth of the game Pikmin Bloom. You will be responsible for analyzing and interpreting large datasets to provide valuable insights and recommendations to enhance the games performance and user experience. English proficiency and business intelligence experience are essential for effective communication and data-driven decision-making. Familiarity with Looker is a big plus.
+Responsibilities
+
+Analyze and interpret complex datasets to identify patterns, trends, and opportunities for improving Pikmin Blooms gameplay, engagement, and monetization.
+Collaborate with cross-functional teams, including game designers, product managers, and engineers, to define and prioritize data-driven objectives and strategies.
+Create and deliver regular reports, dashboards, and visualizations to communicate insights and recommendations to stakeholders.
+Develop and maintain data models, algorithms, and statistical models to support predictive analytics and forecasting.
+Collaborate with the game engineering team to ensure data quality, integrity, and availability for analysis.
+Stay up-to-date with industry trends, best practices, and emerging technologies in data science and business intelligence.
+Collaborate with cross-functional team members and stakeholders, including regular and reliable attendance and participation in meetings.
+Required in-office 3 days on Tuesday, Wednesday, and Thursday.
+
+Qualifications
+
+Bachelors or Masters degree in a quantitative field (e.g., Computer Science, Statistics, Mathematics, Economics, or related disciplines).
+Strong proficiency in English, both written and verbal, to effectively communicate with international teams.
+Solid understanding of business intelligence concepts, methodologies, and best practices. Familiarity with Looker or similar business intelligence platforms is a plus.
+Proven experience in data analysis, statistical modeling, and data visualization using tools such as Python, R, SQL, or similar.
+Ability to translate complex data findings into actionable insights and recommendations.
+Passion for gaming and familiarity with Pikmin Bloom or other Niantic games is highly desirable.
+Ability to work in a fast-paced hybrid environment and handle stress appropriately andor ability to solve practical problems and be sufficiently adaptable to handle dynamic situations with little advance notice. 
+Experience working on cross-functional teams with ability to communicate effectively through written and verbal communications, including synchronous interactions with others.
+
+Join our team and contribute to the success of Pikmin Bloom by leveraging your data science expertise and English proficiency to drive data-informed decision-making and enhance the player experience.
+Join the Niantic team!
+Niantics global-scale augmented reality platform and digital map powers spatial computing experiences in the real world. Incubated out of the Maps team at Google, Niantic first created Ingress and then Pokmon GO, a cultural phenomenon and hit game played by tens of millions of people each month. Niantics Lightship platform, which powers Pokmon GO, also supports the companys other games including Pikmin Bloom, Peridot and Monster Hunter Now. Developers use Niantics platform to build their own AR applications and experiences, either with the Lightship Platform or directly through the web with 8th Wall.
+We believe that cultivating a workplace where our people are supported and included is essential to creating great products our community will love. Our mission emphasizes seeking and hiring diverse voices, including those who are traditionally underrepresented in the technology industry, and we consider this to be one of the most important values we hold close.
+Niantic is a hybrid first company. We believe that in person interaction and collaboration fosters creativity, a sense of community, and is critical to our future success as a company. Our hybrid work schedules allow for a mix of remote and in-office work.
+Were a hard-working, fun, and exciting group who value intellectual curiosity and a passion for problem-solving! We have growing offices located in San Francisco, Sunnyvale, Palo Alto, Bellevue, Kansas, London, Tokyo, Hamburg, Hyderabad, and Zurich. LI-HYBRID

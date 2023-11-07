@@ -1,0 +1,38 @@
+About Us:
+Were on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us cant build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+Weve been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, were growing fast—with more than 20 million users worldwide—and are excited for new teammates to join us who are the best at what they do. Were passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays  Thursdays) and requests that employees spend the majority of their week in the office (including a third day).
+About The Role:
+Its critical that Notions website tells a clear story about the product and the value and transformation it makes possible for teams and companies. Given Notions broad flexibility, its also important that we tell a compelling story to specific audiences based on user persona, industry, geographic location, and more. Our website is the most important and versatile tool we have to personalize this experience for the millions of visitors it attracts every month, and route them to the right products and plans for them.
+Success in this role looks like helping us build a dynamic, reliable, and instrumented website that captures peoples attention, helps them truly understand the products benefits, and increases conversion to paid plans. The role is on the marketing team and will partner closely with designers and developers who also sit on the team.
+Were at an exciting stage as a team where weve built out the foundational pieces of our marketing website. Our next focus is on refinement and taking the user experience to the next level. Were looking for someone who cares deeply about quality and craft and wants to push the boundaries of what a modern marketing experience looks and feels like.
+What Youll Achieve:
+
+Partner with design and product marketing to build out the website in a way that tells a strong story to more of our audiences - i.e. Notion for Engineers, Notion for Marketers.
+Drive the full stack development of our site: front-end, website infrastructure, data engineering, API integrations, logging, and more.
+Ensure the full site is accessible, reliable, performant, instrumented, and optimized to increase conversions across multiple geographies.
+Partner closely with growth to improve the performance of every page.
+Build product experiences on the website so that people can visualize and get a deep understanding how it operates and the benefits it provides.
+Pioneer external satellite sites, special projects, and experiments.
+Help evolve our modern, component-based marketing architecture. Our site is statically generated using React, Next.js, TypeScript, and an intuitive headless CMS.
+
+Skills Youll Need to Bring:
+
+8 years of experience building scalable platforms.
+Proficiency with HTML, CSS, and JavaScript (we use TypeScript) and engineering fundamentals like Git.
+Experience working with a front-end framework such as React or Vue (we use React  Next.js).
+Familiarity with structured data and headless CMS platforms like Contentful.
+Motivation to maximize business impact, and the ability to role up ones sleeves and get scrappy to make it happen.
+Rigorous attention to detail across the full stack  someone who wants to make sure our website is a perfect ambassador for our brand on the front-end and technically sound on the server-side.
+A good understanding of accessibility and a willingness to advocate for it.
+Passionate about getting creative, reasoning from first principles, and not just building things because other companies like us have in past. You love to reach for the fresh and bold.
+A brand mindset that gets excitement and joy out of telling stories in new ways and trying new things that havent been seen before on a SaaS website 
+Energy around collaborating with artists, writers, other designers, as well as engineers.
+
+Nice to Haves:
+
+An appreciation of design and understanding of what goes into crafting a great user experience.
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If youre excited about a role but your past experience doesnt align perfectly with every bullet point listed in the job description, we still encourage you to apply. If youre a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the roles scope and complexity, and the candidates experience and expertise, and may vary from the range provided below. For roles based in San Francisco and New York, the estimated base salary range for this role is 200,000 - 265,000 per year.
+LI-Onsite

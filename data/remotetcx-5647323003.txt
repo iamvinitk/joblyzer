@@ -1,0 +1,63 @@
+Ting Internet is a leading fiber Internet provider in the United States, delivering future-proof internet in over a dozen Ting Towns across the country.
+We are rapidly growing our footprint, and with a national focus on better infrastructure, we dont expect to slow down anytime soon!
+As part of Tucows (NASDAQ:TCX, TSX:TC), Ting is backed by outstanding resources and talent. We embrace a people-first philosophy that is rooted in respect, trust, and flexibility. We believe that whatever works for our employees is what works best for us. Its also why the majority of our roles are remote-first, meaning you can work from anywhere you can connect to the internet!
+The work we do genuinely changes lives. If this sounds exciting, wed love to hear from you!
+About the opportunity:
+The opportunity is completely remote within Europe, Canada and the United States!
+As a Network Automation Engineer in the Network Architecture team, you will play a major role in developing, maintaining and automating our infrastructure. Youll be part of a growing team that is building our next generation fiber Internet and backbone platform. The platform offers a robust API for provisioning and managing hardware, including core and access network devices in our fiber network and integrates with many other services and tools that power our business. These capabilities allow us to differentiate and scale our Ting Fiber network and business.
+The ideal candidate for this role has a computer science background with Python experience as well as an affinity with networking services. You develop, test, administer, deploy, and maintain our infrastructure. You are open to giving and receiving feedback, participating in peer reviews and design discussions.
+We are a distributed team with team members located across Europe, Canada and the United States. We recognize the unique advantage that remote work provides and work flexible hours.
+What youll be doing:
+
+
+Expanding and integrating our existing software tools.
+
+
+Open-sourcing internal software and contributing to various open source projects.
+
+
+Building CICD pipelines for our network and infrastructure deployment setup.
+
+
+Building tools that enable us to create the best customer service experience possible.
+
+
+Key skills and experience:
+
+
+3 years of experience as a Python developer.
+
+
+Experience working in an agile environment (we use sprints and Kanban to organize our work).
+
+
+Exposure to multiple programming languages (Go, Python).
+
+
+Good communication skills in English, both verbal and written.
+
+
+Experience working with external teams, building integrations with 3rd party systems.
+
+
+Will be required to be part of an on-call rotation.
+
+
+Nice to have:
+
+
+Knowledge and experience working at an ISP (Internet Service Provider).
+
+
+Knowledge of FTTH (Fiber to the Home) and service provider networks is a plus.
+
+
+Experience creating and contributing to open-source projects.
+
+
+The base salary range for this position is 127,000-143,000.00 USD for US residents OR 111,000.00- 131,000.00 CAD for Canadian residents. Other countries will differ. Range may vary on a number of factors including, but not limited to: location, experience and qualifications. Tucows believes in a total rewards offering that includes fair compensation and generous benefits. Learn more about Tucows Benefits.
+Tucows and its subsidiaries participate in the E-verify program for all US employees. 
+Want to know more about what we stand for? At Ting and Tucows we care about protecting the open Internet, narrowing digital divide, and supporting fairness and equality.
+We also know that diversity drives innovation. We are committed to inclusion across race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability status. We celebrate multiple approaches and diverse points of view.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+ 

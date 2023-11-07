@@ -1,0 +1,52 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+PRINCIPAL FULL STACK ENGINEER (STARLINK)
+The Starlink Consumer Platform team is responsible for the web services and front-end user experiences that make up the customer face of the Starlink service. This includes customer-facing experiences like the starlink.com website, order flows, account management system, and support portal in addition to internal-facing systems like management of payments, recurring billing, fulfillment and logistics management, tax and regulatory compliance, and our internal customer support tools. We are trying to create the first truly global ISP and provide capabilities ranging from traditional residential service to highly specialized enterprise or government applications, and this team is uniquely positioned to accelerate the growth of the business towards those objectives while maintaining a world-class product experience for all of our customers. 
+Were looking for a principal engineer for this team who is knowledgeable about the state-of-the-art technologies used in web services (our system is a .NET micro-service architecture running in Kubernetes and using Angular.js) and who is excited to work directly with the business, operations, and engineering teams to scale Starlink. We are seeking engineers who are passionate about rolling up their sleeves and working on the technologies directly and are willing to challenge their peers and team to delete complexity, improve reliability, and take end-to-end ownership of the outcomes for the business as a whole. 
+RESPONSIBILITIES:                                     
+
+Develop highly reliable and available software systems for our low latency, high capacity satellite-based global software-defined network
+Design and implement a highly available, fault-tolerant network that operates for long periods of time with minimal maintenance at scale
+Participate in architecture, design, and code reviews
+Develop prototypes to prove out key design concepts and quantify technical constraints
+Collaborate with other engineers to plan and organize the development of our products
+Assess the current platform architecture and recommend necessary changes while adopting the ideal tech stack to maximize efficiency, and user experience, and empower business teams
+Build a comprehensive customer support tool that helps identify and automate effective solutions
+Suggest and implement innovative ways to enhance the user experience through our consumer platform
+
+BASIC REQUIREMENTS:
+
+8 years of professional experience in software development with a bachelors degree in computer science, engineering, math, or STEM discipline; OR 10 years of professional experience in software development in lieu of a degree
+4 years of experience in full-stack development
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Programming experience in Python, C.NET, Go, Scala, Java, or similar object-oriented language
+Production experience with Docker and Kubernetes
+Front-end experience in Angular, React, or similar JavaScript framework
+Database experience with PostgreSQL, SQL Server, or similar database technologies
+Experience with version control, continuous integration, and continuous delivery concepts
+Expertise in designing software systems
+Deep understanding of testing, continuous integration, build, deployment  monitoring
+Expertise in profiling and improving application performance
+Experience with build systems (Make, BazelPantsBuck, Gradle) and package management tools (pip, npm)
+Established skills in strategic and critical thinking, decision-making, and relationship-building
+Ability to quickly grasp and synthesize complex issues
+Strong project management skills
+Highly organized, detail-oriented, and possess a proven ability to thrive under deadline pressure
+Successful experience working in a fast-paced, dynamic, results-oriented team environment
+
+ADDITIONAL REQUIREMENTS:
+
+Willing to work extended hours and weekends when needed
+
+COMPENSATION AND BENEFITS: 
+Pay Range:
+Software EngineerPrincipal: 200,000.00 - 270,000.00per year
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short  long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation  will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed based on merit, competence, and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

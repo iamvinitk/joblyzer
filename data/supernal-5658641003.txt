@@ -1,0 +1,40 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Lead Firmware Engineer - BMS serves as a lead member that architects and develops the BMS Software and Firmware for our Energy Storage Systems. The role is responsible for SW and FW architectures, code development and support verification and validation. This role works closely with other HW  Algo  Cell Engineers in the Battery team and other multi-functional team members to develop requirements and to support integration testing at the Powertrain, ESS system, or Cell module level.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Oversee and manage the BMS ESS SWFW team
+Development of high-level and detailed level RTOS based BMS SWFW architecture
+Definition for SWFW and HW dependencies internal to BMS and at aircraft system level
+Development of detailed SWFW design for distributed and redundant BMS system with self-test and discrimination capabilities compliant to DO178 standard
+Development and implementation of simple battery management algorithms
+Development of robust communication interfaces in line with aircraft system requirements
+Participation and driving system level tradeoffs on HW  SW  FW partitioning and trade off decisions
+Participation in architectural discussions with aircraft controls team  power train teams and driving optimal decisions for SWFW architectures
+Responsible for the tool selection, development and implementation of a robust SWFW dev  build environment, verification and rigorous follow up
+Establishment of high-quality design  code review processes and alignment
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in electrical or computer engineering with focus on embedded system development for real time applications required;  Masters or PhD degree preferred 
+Minimum of ten (10) years of real time, safety critical SW  FW development experience with resource constrained microcontrollers and in SW  FW development in BMS preferably for high voltage large format batteries (an equivalent combination of education and experience may be considered for this role)
+Proven experience in SW FW architecture development and production level SWFW development for BMS
+Demonstrated experience in implementing FW development and verification processes for real time systems
+Expert in real time embedded system requirement gathering, architectural development
+Excellent programming skills in C and C and scripting skills
+Understanding of DO-178C compliance for functionally safe SW development process
+Experience in development of simple algorithms for battery SOC estimation and the like
+Significant experience in implementing DSP algorithms in RTOS environment
+Excellent skills in communication, problem solving and strategic thinking.
+Excellent skills required in technical communication, and reliance on data for issue resolution and decision making
+Excellent organizational skills, team-oriented thinking, and attention to detail
+Proficiency with MS Office Suite specifically for data analysis, document creation
+Excellent verbal and written communication skills
+Must have the ability to independently prioritize and accomplish work within time constraints
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 192,400—289,120 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

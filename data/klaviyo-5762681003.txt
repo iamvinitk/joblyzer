@@ -1,0 +1,54 @@
+At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If youre a close but not exact match with the description, we hope youll still consider applying. Want to learn more about life at Klaviyo? Visit careers.klaviyo.com to see how we empower creators to own their own destiny.
+Email Deliverability is a core pillar to our customers success in delivering the right messages to the right people at the right time. The Email Deliverability Consultants provide technical deliverability support to our customers by root causing Klaviyo email services issues and providing solutions to support sending best practices. Deliverability Specialists ensure that Klaviyo and our customers are always up to date with the most recent industry best practices and changes. 
+We are looking for a Email Deliverability Consultant who is excited about providing the best support to customers who are scaling their businesses with Klaviyo by demystifying deliverability and leveraging it as a tool for sustainable growth. 
+DutiesResponsibilities:
+
+Develop an in-depth knowledge of the Klaviyo platform, sending infrastructure, and technical configurations 
+Provide high-quality technical support for Klaviyo customers, partnering with them to effectively understand and address their deliverability issues through email and phone. 
+Communicate thoughtfully and effectively to provide answers to questions for both technical and non-technical end users 
+Investigate and address email delivery problems by communicating with Internet Service Provider (ISP) abuse desks, email blocklist, and anti-spam technology providers in a professional manner
+Provisioning of new customers with a new IP address and new DNS records 
+Ensuring that Klaviyo and its clients are always up to date with the most recent industry best practices to improve sending reputation 
+Establish and maintain documentation such as sending best practices and playbooks to support repeatability as we expand 
+Radically collaborate with internal and external stakeholders to drive positive deliverability outcomes
+Take an active role in thought leadership through writing blogs, articles, and whitepapers
+
+Required SkillsAbilities:
+
+You are proactive and self-motivated to identify and solve problems; youre comfortable with a high degree of responsibility, ambiguity, and autonomy.
+You are data-driven and comfortable developing action items from large sets of data 
+Youre capable of learning quickly and mastering complicated systems and manual processes.
+Youre empathetic and customer-first.
+Your attention to detail and accuracy is evident in all that you do.
+You have the ability to empower others to be productive in their role by enabling them to effectively use the processes, systems, data and information available to them.
+Youre comfortable working independently and with multiple internal teams, from individual contributors to senior executives, as well as buildingmaintaining relationships with cross functional and geographically dispersed teams.
+You are energized by supporting teammates in achieving mutual goals; you have a passion for driving measurable impact in a dynamic environment.
+You strive to communicate brilliantly whether its in a meeting, an email, or a slide deck 
+
+Education and Experience:
+
+1-2 years of work experience in an analytic, data-driven email deliverability role
+Experience working with customers, preferably at an ESP serving multiple medium to large senders
+Expertise investigating and resolving technical problems
+Excellent, thoughtful communication skills, able to work with, influence and align with multiple stakeholders
+Ability to prioritize tasks and work effectively in a fast-paced, entrepreneurial environment
+Understanding of email industry practices and trends 
+Experience modeling complex problems, both conceptually and tactically (spreadsheets, analysis tools, visualization)
+Eligibility to work in the UK without restriction
+Experience with:
+
+Microsoft Office Suite, G-Suite, Google Sheets, PowerPoint, Zendesk, and Salesforce
+DNS, IPs and other networking concepts
+Email Authentication setup (Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication, Reporting  Conformance (DMARC))
+APIs
+Email marketing platforms and E-Commerce platforms
+Testing and analysis tools, like Litmus, Return Path, EDS, Google Postmaster Tools and SNDS
+
+
+Klaviyo in EMEA
+As part of the Klaviyo team you will be looked after with some great benefits locally in EMEA including equity for all, private health cover for you and discounted for your household, financial and professional coaching, a generous annual learning allowance (2.5k), 22 weeks full pay primary caregiver leave (16 week secondary) and free books (yes, any books!) to name a few.
+LI-Hybrid 
+Get to Know Klaviyo
+Were Klaviyo (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party data accessible and actionable like never before. We see limitless potential for the technology were developing to nurture personalized experiences in ecommerce and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious and collaborative teammates who stay focused on our north star: delighting our customers. If youre ready to do the best work of your career, where youll be welcomed as your whole self from day one and supported with generous benefits, we hope youll join us.
+Klaviyo is committed to a policy of equal opportunity and non-discrimination. We do not discriminate on the basis of race, ethnicity, citizenship, national origin, color, religion or religious creed, age, sex (including pregnancy), gender identity, sexual orientation, physical or mental disability, veteran or active military status, marital status, criminal record, genetics, retaliation, sexual harassment or any other characteristic protected by applicable law.
+You can find our Job Applicant Privacy Notice here.

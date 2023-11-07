@@ -1,0 +1,37 @@
+About Us:
+Were on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us cant build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+Weve been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, were growing fast and excited for new teammates to join us who are the best at what they do. Were passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+About The Role:
+You will work closely with our paid customers and engineers to resolve a variety of issues. You will also help build out systems and processes to manage tasks from report to completion. You will problem-solve with our technical teams and work to resolve as much as you can while scaling our systems. You will collaborate with members in different functions in Korea to grow business in the important market for Notion.
+What Youll Achieve:
+
+Work closely with our paid customers providing best-in-class support to meet customers expectations
+Work cross-functionally across engineering, product, and sales to build processes and manage issues
+Reproduce customer issues, perform initial triage and file software defects with Engineering
+Manage to key performance metrics defined within the Customer Experience Team
+Create and maintain internal knowledge libraries and contribute to the creation of user-facing content
+Participate in an on-call rotation to assist customers outside of normal working hours
+
+Skills Youll Need to Bring:
+
+You have at least 2 years of experience working in technical support, customer service or something similar
+You have native fluency in Korean
+You are a fluent communicator in English
+You are deeply passionate about customer experience and making life simpler with technology
+You have strong communication skills and can work with both technical and non-technical audiences
+You have strong analytical, debugging, and problem-solving skills
+You are able to balance user expectations while understanding policies and compliance boundaries
+You are able to work under pressure and remain focused, confident and professional
+You are able to collaborate effectively with peers and across teams that are located in multiple offices
+
+Nice to Haves:
+
+You have experience with Zendesk or similar ticketing system
+You have previous experience supporting a market at an early stage andor being part of a startup team
+You have experience troubleshooting SSO, SAML issues, APIs and similar open source technologies
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Notion.
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+ 
+LI-Onsite
+ 

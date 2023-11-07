@@ -1,0 +1,82 @@
+Nous croyons que la collaboration et la qualit de notre travail sont optimales lorsque nous partageons un environnement physique commun. Chez Unity, nous avons adopt une approche hybride qui favorise la cohsion et la connexion, tout en conservant les avantages de la flexibilit. Nos employs sont demands de travailler depuis nos bureaux en moyenne 3 jours par semaine, sauf en cas daccord contraire avec lentreprise ou dispositions spcifiques dans leur contrat de travail.
+Lopportunit
+Chez Unity, vous ferez la diffrence. Grce  votre ambition de rendre le monde meilleur, vous serez  lavant-garde de la rvolution du temps rel,  mesure que nous raliserons des avances technologiques passionnantes dans les domaines du divertissement, du cinma, de la vente au dtail, de la vente et dautres secteurs, le tout rendu possible par le moteur Unity, la plateforme de dveloppement 3D la plus utilise au monde.
+Unity renforce les capacits des crateur(rice)s de toutes tailles  concrtiser avec succs leur vision  travers la cration dexpriences 3D et 2D en temps rel. Notre ensemble exhaustif de solutions logicielles les accompagne tout au long du cycle de dveloppement en leur permettant de crer, dexcuter et de faire voluer des contenus immersifs en temps rel pour les tlphones mobiles, les tablettes, les PC, les consoles et les appareils de ralit augmente et virtuelle.
+Nous sommes  la recherche de stagiaires dveloppeurs de donnes analytiques, communicatifs et dots dune grande curiosit intellectuelle, qui nous aideront  favoriser la prise de dcision fonde sur les donnes et  identifier de nouvelles possibilits de croissance du chiffre daffaires.
+ quoi devrez-vous vous attendre pendant votre stage?
+
+Dure : 16 semaines en fonction de votre calendrier acadmique. Dates de dbut le 6 mai 2024
+Mentorat : Vous travaillerez simultanment avec un gestionnaire et un mentor qui vous aideront  dvelopper vos comptences
+Impact : Nos stagiaires travaillent aux cts des membres de lquipe  temps plein sur des projets qui ont un impact durable sur nos produits et nos services
+Rseautage et dveloppement : Des activits dapprentissage, des possibilits de rseautage et des vnements sociaux ont lieu tout au long de lt pour enrichir votre exprience
+
+Ce que vous allez faire
+
+Coordonner le travail des quipes de produits, lister les besoins, cibler les sources de donnes, dvelopper les processus dextraction, de traitement et de chargement des donnes (ETC), concevoir et fournir des tableaux de bord et raliser des analyses ponctuelles
+Soutenir la conception et la mise en uvre doutils dintelligence daffaires qui seront utiliss dans toute lentreprise, en particulier Looker
+Comprendre les questions et les dfis complexes relatifs aux affaires, et savoir les associer aux donnes
+tudier nos vastes jeux de donnes afin de cibler et denquter sur de nouvelles possibilits, notamment pour amliorer le rendement.
+Fournir de la documentation comprhensible par les services techniques et non techniques de lentreprise
+
+Ce que nous recherchons
+
+tudiant(e) universitaires qui suivent actuellement un programme pertinent et qui obtiendront leur diplme entre dcembre 2024 et aot 2025.
+Une passion pour les donnes, lanalyse et la rsolution de problmes
+Dexcellentes comptences interpersonnelles et en communication
+Un esprit dinitiative et la capacit  travailler de faon autonome et  mener le travail  terme dans les dlais impartis
+Une exprience de SQL et dExcel
+
+Vous avez peut-tre galement
+
+Une passion pour les jeux vido
+Toute exprience avec Unity ou dautres moteurs de jeu 3D, mme si ce ntait quun projet pour occuper une fin de semaine!
+
+La vie chez Unity
+Unity (NYSE: U) est la plateforme la plus utilise au monde pour la cration et lexcution interactive de contenu 3D en temps rel (RT3D). Des crateur(rice)s, notamment des dveloppeur(se)s de jeux vido, des artistes, des architectes, des concepteur(rice)s automobiles, des cinastes et bien dautres professionnel(le)s, utilisent Unity pour donner vie  leurs projets. Unity constitue la base sur lesquelles sont crs les contenus numriques les plus remarquables au monde. Plus prcisment, la plateforme de Unity offre un ensemble complet de solutions logicielles pour crer, excuter et montiser du contenu interactif 2D et 3D en temps rel pour les tlphones mobiles, les tablettes, les ordinateurs, les consoles et les appareils de ralit augmente et de ralit virtuelle.
+Au quatrime trimestre de lanne 2022, plus de 70 des 1000 meilleurs jeux mobiles qui ont t fait avec Unity sont drivs dun nombre combin des 1000 meilleurs jeux du Google Play Store et de lApp Store dApple. En 2022, les applications Made with Unity ont eu plus de 4 milliards de tlchargements par mois. Pour en savoir davantage, veuillez consulter le site www.unity.com.
+Unity est un employeur fier de garantir lgalit des chances. Nous nous engageons  favoriser un environnement inclusif et innovateur et  clbrer nos employs  travers lge, lthinicit, la couleur, lascendance, lorigine nationale, la religion, le handicap, le sexe, lidentit ou lexpression de genre, lorientation sexuelle ou tout autre statut protg conformment  la loi applicable. Nos diffrences sont des forces nous permettant de rpondre aux besoins croissants et volutifs de nos clients, partenaires et collaborateurs. Veuillez remplir ce formulaire si vous ncessitez des accommodations particulires pour rendre votre exprience dentrevue agrable et positive.
+Ce poste exige que son ou sa titulaire possde une connaissance de langlais qui soit suffisante pour lui permettre davoir des changes professionnels verbaux et crits dans cette langue, puisque laccomplissement des tches lies  ce poste ncessite des communications frquentes et rgulires avec des collgues et partenaire situs  lchelle mondiale et dont la langue commune est langlais.
+Les chasseurs de ttes et les agences de recrutement ne peuvent pas soumettre rsumesCV par ce site Web ou directement aux superviseurs. Unity naccepte pas des chasseurs de ttes non sollicits et des rsums (CV) dagence. Unity ne payera pas dhonoraires  aucune agence tierce ou entreprise qui na pas sign dententes avec Unity.
+La protection de votre vie prive est importante pour nous. Veuillez prendre un moment pour consulter nos politiques de confidentialit pour les prospects et les candidats. Si vous avez des questions concernant la protection de votre vie prive, veuillez nous contacter  DPOunity.com.
+
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+At Unity, youll make a difference. You and your desire to make the world a better place will be at the forefront of the real-time revolution, as we build exciting technological advancements in entertainment, film, retail, sales, and other industries  all made possible by the Unity Engine, the most widely used 3D development platform in the world.
+Unity empowers creators of all sizes to successfully realize their vision through building real-time 3D and 2D experiences. Our comprehensive set of software solutions supports them through the entire development lifecycle as they build, run, and grow immersive, real-time content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+We are looking for analytical, communicative, and intellectually curious Business Intelligence Developer Interns to help enable data-driven decision-making and identify new revenue growth opportunities!
+What to Expect From Your Internship
+
+Duration: 16 weeks depending on your academic calendar. Start date May 6, 2024
+Mentorship: You will work simultaneously with a manager and a mentor to help you develop your skills
+Impact: Our interns are working right alongside full time team members on projects that have a lasting impact on our product and services
+Networking  Development: Learning activities, networking opportunities, and social events take place throughout the summer to enrich your experience
+
+What youll be doing 
+
+Coordinating with partners, collecting requirements, identifying data sources, designing and delivering dashboards, and performing ad hoc analyses
+Supporting the design and implementation of business intelligence tools to be used across the company, specifically Looker
+Understanding complex product and business questions and challenges and relating them to the data
+Exploring our vast data sets to identify and investigate new opportunities and efficiencies
+Providing data documentation in an easily understood way to both technical and non-technical parts of the business
+
+What were looking for 
+
+Current university student pursuing a relevant program, and graduating between December 2024 and August 2025.
+A passion for data, analysis, and problem solving
+Superb communication and interpersonal skills
+Self-starter who can operate independently and drive work to completion in a timely fashion
+SQL and Excel experience
+
+You might also have
+
+A passion for games
+Any experience with Unity or other 3d game engines - even if it was only a weekend project!
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+ 

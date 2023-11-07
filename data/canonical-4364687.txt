@@ -1,0 +1,25 @@
+Real-time Linux is a key requirement for critical infrastructure like 5G towers, robotics and self-driving cars. We are excited to be bringing Ubuntu to the real-time space, and are looking for a specialist, quality-centric senior kernel engineer to lead our real-time kernel effort.
+This is an exciting opportunity for a senior software engineer passionate about open source software with extensive experience working in low latency and deterministic systems at the operating system kernel level. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+Canonicals kernel team delivers a wide array of optimized Linux kernels for Ubuntu on many of the worlds largest clouds and data centers to robotics, IoT and edge computing.  This senior kernel position will lead the effort in optimizing our Ubuntu kernels performance over real-time workloads. If you have solid general kernel development experience, real-time kernel development skills and love the idea of producing high-quality, high-performance Linux kernels, we encourage you to bring your talents to our growing Linux kernel team to help us provide the same world-class Ubuntu experience to real-time workloads. 
+What youll do
+
+Collaborate regularly and proactively with a globally distributed team  
+Lead the design and integration of real-time extensions in Ubuntu Linux kernels
+Work closely with a variety of customer and partner engineers to provide optimal latency and deterministic solutions for their platforms
+Drive the implementation of real-time performance measurement infrastructure
+Collaborate with internal and upstream maintainers to develop optimal Linux kernel real-time solutions
+Take responsibility for rigorous testing of the Ubuntu real-time kernels
+
+Who you are
+
+You love technology and working with brilliant people
+Strong grasp of real-time as a system of distinct components with a keen interest in tuning to achieve maximum performance
+Able to function and communicate effectively as part of a globally distributed team
+Communicate effectively in English, both written and oral
+Demonstrated ability to present oneself in a professional manner when interacting with colleagues, business partners, and the open source community
+Demonstrated expertise in working in operating system kernel internals in a real-time environment, Linux or other RTOS
+Direct experience with the PREEMPT_RT patchset while not required would be highly regarded
+Significant programming experience in C, with Python and Bash scripting also highly regarded
+Solid understanding of device drivers, BSPs, and other low level system engineering
+
+Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the worlds computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

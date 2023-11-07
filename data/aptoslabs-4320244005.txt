@@ -1,0 +1,37 @@
+Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.
+Founded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.  
+Aptos (Ohlone for The People) encompasses our mission and ethos for why we build.About The Role:
+We are searching for an experienced Full-Stack Engineer to join the Growth Products engineering team at Aptos. Our mission is to support and incubate web3 applications on Aptos that could serve people at scale. This is a product-oriented role, where you will build user-facing or developer-facing products on Aptoss blockchain. You will also advise on infrastructure to foster a thriving ecosystem of developers building apps on Aptos. We are looking for scrappy candidates who can build robust prototypes quickly, care about craft, and share a passion for building great products.
+What Youll Be Doing:
+
+Own the technical design and implementation of new and innovative web and mobile applications.
+Build web3-native features on top of our blockchain infrastructure.
+Write well-tested, reliable code for use by millions of users.
+Be a strategic thought partner to your product and design counterparts.
+Collaborate closely with engineers on other teams responsible for other layers of the product infrastructure.
+
+What Were Looking For:
+
+At least 5 years of experience as a hands-on software engineer.
+Extensive experience writing production code on shipped full-stack apps, with a strong foundation in data structures, algorithms, and system design.
+Experienced with React  React Native.
+Experienced with traditional backend development.
+Interest or familiarity in smart contract languages such as Move and Solidity.
+Demonstrated experience driving change within an organization and leading complex technical projects.
+Entrepreneurial, creative, scrappy, high attention to detail, and interest in craft.
+Experience building consumer products is a plus.
+Experience being a founder is a plus.
+Experience working in Web3 is a plus.
+
+The base salary range for this full-time position is 180k - 280k. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in the Bay Area at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.Our Benefits
+
+100 insurance premium coverage for medical, dental, and vision for you and your dependents (US Employees)
+Equipment of your choice
+Flexible vacation time, 11 holidays, and floating company days off 
+Competitive Salary
+Equity (RSUs)
+Protocol Token Grants
+401k matching (US Employees)
+Fun and inclusive in-person and digital events
+
+Aptos is committed to diversity in the workplace, and were proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.

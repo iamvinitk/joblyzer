@@ -1,0 +1,32 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe is building tools to help our Users build their businesses and grow the GDP of the internet. The Workforce Management team at Stripe helps manage our growing support operations network of both internal and external resources by consulting on operational change initiatives, modeling support requirements, and managing workload and resource allocations for optimal User experience.
+What youll do
+
+Run and coordinate  real time monitoring operations and Global Command Center analyst on roster during EMEA time-zone 
+Build mid-high complexity reports on the state of the queues, SLA  trends and capacity  outlook for the day
+Deep dive in mid term forward looking capacity models and act as main POC with vendor management and senior leadership on staffing mitigation plans 
+Oversee execution of Workforce Management across our outsourced operations working directly with BPO Real Time Analysts  to develop staff models that meet requirements
+Consult with senior stakeholders and business leaders to guide decision making and align expectations and operational execution
+Conduct regular check-ins with outsourcing partners and calibrate their operational approach to ensure they meet our requirements efficiently
+Dig deep into service failures using SQL and Tableau to find root causes and implement corrective actions
+Partner up with capacity planning to understand freshest volume forecast implications on budgeting and mid term staffing
+Proactively communicate with stakeholders providing performance updates, plans to improvemaintain and guidance on future performance
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+5 years in contact center operationsworkforce managementstaffingresource planning 
+SQL, Tableau or comparable tools knowledge to perform data analysis independently
+3 years experience in process optimization for mid-large operations
+Excellent communication skills
+
+Preferred qualifications
+
+Project  Management experience
+WFM Tools knowledge
+Outsourcing knowledge 
+Six Sigma certification Green Belt  or equivalent 

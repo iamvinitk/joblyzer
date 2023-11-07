@@ -1,0 +1,42 @@
+Company Description:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.Team Description: 
+Neuralink is seeking accomplished candidates with a record of outstanding achievement in software engineering. Engineers on the Lab Systems software team work closely with other teams  neuroscientists, physicists, roboticists, chip designers, pathologists, and mechanical engineers  to build Neuralinks centralized data aggregation and analysis platform. We are building a data platform to collect, organize, and visualize a diverse set of data ranging from neural signal recordings to brain histology images to microfabrication manufacturing data. As a member of our team, you will have the opportunity to own projects that drive engineering and experimentation at Neuralink.
+You will have the opportunity to fully own and drive projects, from interfacing with stakeholders, gathering requirements, and delivering exceptional software. 
+Jobs at Neuralink are highly dynamic; depending on your skills and our needs, you may work across a wide range of projects, from interpreting neural data to analyzing histology, building surgical tools, or developing brand-new BCI approaches. Successful candidates will be highly adaptable, able to deploy core technical and creative skills to tackle a wide range of problems and have a keen sense of urgency.
+Job Responsibilities and Description: 
+
+You find large challenges exciting and enjoy discovering and defining problems as much as solving them.
+You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a manufacturable solution that works every time.
+You are a cross-disciplinary team member. You are excited to work with and learn from software, mechanical, electrical, materials, biological engineers, and neuroscientists. You are comfortable communicating across teams.
+Resourceful, flexible and adaptable; no task is too big or too small.
+
+Key Qualifications:
+
+Evidence of exceptional ability in software engineering
+Experience owning and delivering projects that have had real world impact
+Excellent written and verbal communication skills
+Experience understanding requirements and delivering in an interactive manner
+
+Preferred Qualifications: 
+
+Note: You do not need to have any of these qualifications in order to be considered for this role! Any exceptional software engineer is encouraged to apply. 
+Experience with Ruby on Rails and Typescript
+Experience with React
+Pay Transparency:
+Based on California law, the following details are for California individuals only:California base salary range:  115,000—190,000 USDFor full-time employees, your compensation package will include two major components: salary and equity. Guidance on salary for this role will be determined according to the level you enter the organization (with the ability to gain more through time as you contribute). 
+ 
+Full-Time Employees are eligible for equity and benefits listed below in addition.
+
+What we offer:
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off  paid holidays.
+Equity  401(k) plan.
+Commuter Benefits.
+Meals provided.
+
+
+Multiple studies have found that a higher percentage of women and BIPOC candidates wont apply if they dont meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you dont check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.

@@ -1,0 +1,27 @@
+This role is home based in the Boston metropolitan area, and you are expected to be able to visit our Boston lab regularly, 4 - 6 times per month.
+This is a Python software engineering opportunity for a computer lab engineer passionate about open source software, Linux, and the latest server and network technologies. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company. If you love hacking in your home lab and are curious about hardware, you will love this opportunity.
+As an Python Engineer - Data Center Hardware Integration in Canonical, you will be responsible for the day-to-day management and operations of our lab in the Boston area which serves as a centre point for Ubuntu server certification of US based silicon and server designs.  This includes software defined hardware management, working with, and developing data centre automation tooling (MAAS), interacting with vendors, asset tracking and handling deliveries.  
+What youll do
+
+Own a fully automated server lab with the latest server and network silicon from leading vendors.
+Use your Python development skills to develop the Metal as a Service (MAAS) software to work with a large variety of server and network hardware.
+Actively expand MAAS functionality by creating integrations with testing and scheduling software such as Testflinger.
+Manage the physical setup of the lab, ensure it is well structured and tidy, and execute changes either self or through remote hands.
+Work to standardise processes, configurations, and procedures in cooperation with engineers in our other data centres.
+Improve and extend hardware and network monitoring through automation.
+Regularly update asset management tools to ensure accuracy and completeness of the labs hardware.
+Update of equipment firmware when appropriateneeded.
+
+Who you are
+
+Bachelors degree, preferably in Computer Science or Software Engineering
+Python programming experience
+Linux Administration experience
+Mix of Rack and Virtual systems experience
+Able to communicate clearly and effectively in English
+Strong time management skills
+Ability to manage competing priorities
+Ability to work with a globally distributed team of passionate engineers
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-Hybrid

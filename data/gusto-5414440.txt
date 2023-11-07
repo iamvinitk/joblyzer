@@ -1,0 +1,32 @@
+ 
+
+About Gusto
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. Thats why were committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. Gusto processes billions of dollars in payroll every month for small businesses and their employees. Our clients trust us with a huge amount of personally identifiable information (PII) and protected health information (PHI), including SSNs, EINs, salaries, home addresses, and more. Our business is largely built on trust, as a result protecting our clients information is our top priority.
+As the Senior Manager of Security Operations you will be responsible for overseeing our security operations team, ensuring the implementation and maintenance of robust security measures, and responding effectively to security incidents. You will play a critical role in shaping our security strategy, optimizing security processes, and maintaining a high level of preparedness against cyber threats.
+Heres what youll do day-to-day:
+
+Lead and mentor a team of security engineers, analysts, and incident responders responsible for 24x7 monitoring of Gusto systems.
+Work across organizations to affect positive security change as an collaborator, contributor, and communicator.
+Develop and implement cloud and corporate security strategies and initiatives aligned with organizational goals. Set goals and success metrics for the team.
+Continuously improve security operations processes and procedures.
+Oversee the monitoring of security systems, logs, and alerts to detect and respond to threats.
+Evaluate and select new security tools, technologies, and vendors when necessary.
+Manage internal security helpdesk that promptly assists employees with security questions and concerns.
+
+Heres what were looking for:
+
+5 years in security operations experience and 2 years experience leading teams.
+Experience managing teams responsible for detection and response, security operations, and incident management.
+Experience with incident response, either in-house or through an outsourced service provider. Involved in large scale incident response processes as an incident manager or other significant contributor.
+Ability to partner closely with cross-functional internal and external stakeholders to manage projects and incidents to create positive change for the organization.
+Demonstrated knowledge of AWS and other cloud technologies.
+Strong understanding of security principles, best practices, frameworks, and technologies.
+
+Our cash compensation amount for this role is targeted at 214,000yr to 262,000yr in Denver  most remote locations, and 251,000yr to 307,000yr for San Francisco  New York. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gustos subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas. 
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. 
+Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodationsgusto.com.

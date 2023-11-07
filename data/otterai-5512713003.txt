@@ -1,0 +1,40 @@
+
+
+The Opportunity
+We are seeking a talented Engineer with extensive system knowledge who wants to be part of a team to build and operate large-scale systems that enables reliable and rapid deployment with effective monitoring and resilient operations.  
+
+Your Impact
+
+Automation! Capability! Performance! Scale!
+Have a strong influence in defining our engineering best practices and deployment process
+Help automate the continuous integration and testing processes to enable and scale
+Manage and maintain infrastructure 
+Own, design and implement monitoring systems such as Prometheus and Grafana
+Optimize Linux systems for performance, reliability, and security
+Own configuration management process(es) and build product features as appropriate
+Investigate and dig into data to find the root of a problem and strategize with our engineers on solutions
+Participate in on-call rotation
+
+Were looking for someone who
+
+You have 5 years experience in SRE, Production Engineering andor DevOps 
+Expert level experience architecting, developing, and troubleshooting large scale systems
+Advanced level proficiency with one or more programming languages (i.e. Python, Golang)
+Deep experience with data structures and Linux systems internals (e.g., filesystems, system calls) and administration
+Extensive experience with CICD pipelines and infrastructure as code (i.e. Terraform, Ansible)
+You have a strong familiarity with AWS services (i.e. ECS, S3, ALB, VPC) 
+You have knowledge in containers and orchestration using Kubernetes
+Experience building production quality cloud infrastructure that enables reliable and rapid deployment of large-scale systems with effective monitoring and resilient operations 
+You thrive working in a fast paced, startup environment 
+You have a proven track record taking on projects from inception to launch
+Bachelors in Computer Science or Electrical Engineering (MS preferred)
+
+About Otter.ai 
+
+
+We are in the business of shaping the future of work. Our mission is to make the future of communication more collaborative, accessible, and productive for all.
+We are growing fast, last year we recorded a total of over 150 million meeting minutes, announced a 50 million Series B. and we were included in Business Insiders 10 AI startups that raised the biggest Series A and B list. In addition, Adam Cheyer the cofounder of Siri, Larry Heck the cofounder of Cortana and Greg Holmes, the first head of sales at Zoom, joined us as advisors.
+Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are dedicated to inclusivity.
+Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+Salary range
+Salary Range: 185,000 to 210,000 USD per year

@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The Team:
+As a member of the Engineering organization, the  Product Analytics  Data Sciences team provides analytic support and a strategic perspective to the product and engineering teams to enable them to make evidence-based conclusions. We deliver actionable insights by collecting, organizing, and interpreting data about user journeys, product telemetry, incidents, infrastructure utilization, sales motions, and much more. We transform data into analytic assets by conducting exploratory analysis, identifying outliers, validating hypotheses, building statistical models, quantifying risk; communicating findings through well-crafted stories and critical recommendations. The Role:
+As a Product Data Scientist in the Product Analytics  Data Sciences team, you will play a key role in developing and communicating data-informed insights that will help with strategic and tactical decision-making in a hyper-growth environment. You will partner with engineers and product team members to understand business problems and help define data solutions. You will build data pipelines for new data sources, develop machine learning models, and create visualizations to communicate findings and recommendations to engineers, managers, and executives. In this exciting role, in addition to crunching data, you will also need to facilitate data-informed discussions between stakeholders across the organization, through effective storytelling with meaningful insight.
+The work youll do:
+
+Serve as the data science specialist on the team, building data-informed insights to deliver findings and recommendations to product and engineering teams
+Build visualizations as well as written narratives to communicate quantitative insights and facilitate discussions with data-informed insights.
+Employ statistical analysis andor modeling techniques on a variety of data  - product telemetry, incidents, user journeys, sales motions, infrastructure utilization, and others, to drive resource optimization, feature improvement, or product adoption-related initiatives
+Collaborate with partners across the product and engineering teams to understand business motivations; formulate and deliver data analysis by engaging across all the steps of the process, including data gathering, building data pipelines, performing analyses, and delivering insights at scale 
+Continuously engage in refining data engineering processes to ensure data accuracy, consistency, and integrity through continuous audit and review.
+Effectively present and communicate analytical findings to stakeholders across the organization.
+
+The qualifications you need:
+
+Bachelors degree or equivalent with a strong focus on Mathematics, Computer Science, or Data Science. Masters preferred.
+6 years relevant experience as a Product Analytics Engineer  Data Scientist or similar, partnering with product, engineering, or growth teams 
+Technical proficiency with analytical tools for data extraction, visualization, and analysis (SQL, Python, Pandas)
+Strong understanding of statistical techniques and machine learning
+Experience working with large datasets and predictive modeling
+Outcome-oriented with strong decision-making skills and the ability to prioritize multiple goals while meeting deadlines
+Have excellent written and verbal communication skills; exceptional attention to detail
+Experience working in agile teams using collaboration software like Jira or similar
+Eager to work in a fast-growing organization with diverse and international teams spread across multiple locations
+The base salary range below is for the role in the specified location, based on a Full Time Schedule. Total compensation package will include base salary  bonuscommission  equity  benefits (health, dental, life, 401k, and paid time off). Please note that the base salary range is a guideline, and that the actual total compensation offer will be determined based on various factors, including, but not limited to, applicants qualifications, skills, experiences, and location.The base salary range below is for the role in California, based on a Full Time Schedule.  164,000—214,000 USDWhat Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

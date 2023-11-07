@@ -1,0 +1,46 @@
+About MasterControl:MasterControl Inc. is a leading provider of cloud-based quality and compliance software for life sciences and other regulated industries. Our mission is the same as that of our customers to bring life-changing products to more people sooner. The MasterControl Platform helps organizations digitize, automate and connect quality and compliance processes across the regulated product development life cycle. Over 1,000 companies worldwide rely on MasterControl solutions to achieve new levels of operational excellence across product development, clinical trials, regulatory affairs, quality management, supply chain, manufacturing and postmarket surveillance. For more information, visit www.mastercontrol.com.
+SummaryAt MasterControl we are building our next generation data platform that will leverage AIML techniques to help redefine how our customers bring life-saving and life-changing products to market. To enable this, we are looking for a Senior Data Engineer to support our Data Science and Machine Learning teams.
+Key Qualifications
+
+Expertise working with distributed data technologies (e.g. Hadoop, MapReduce, Spark, Flink, Kafka, etc.) for building efficient  large-scale data pipelines.
+Software Engineering proficiency in at least one high-level programming language (Java, Scala, Python or equivalent).
+Experience building stream-processing applications using Apache Flink, Spark-Streaming, Apache Storm, Kafka Streams or others.
+Knowledge of multi-dimensional modeling like start schema, snowflakes, normalized and de-normalized models.
+Knowledge of flexible, scalable data models addressing a wide variety of consumption patterns including random-access, sequential access including necessary optimizations like bucketing,aggregating, sharding.
+Expertise in one or more NoSQL database (Neo4J, Mongo DB, Cassandra, HBase, DynamoDB, Big Table etc.).
+
+Personal Qualities
+
+You are tenacious, relentless,  determined.
+You are curious: always learning new technologies, rapidly synthesizing new information, and understanding the why before the what.
+You are self-directed and capable of operating amid ambiguity.
+You are poised and display excellent judgment in prioritizing across difficult tradeoffs.
+You are pragmatic: not letting the perfect be the enemy of the good.
+You are humble, continually growing in self-awareness and possessing a growth mindset
+
+Education and Experience Qualifications
+
+7 years in a Data Engineering role
+CS Bachelors degree 
+
+Why Work Here?
+WhyWorkAnywhereElse?MasterControl is a place where Exceptional Teams come together to do their best work. In fact, hiring Exceptional Teams is a core value of ours. MasterControl employees are surrounded by intelligent, motivated, and collaborative individuals. We like to call it TheBestTeamOnThePlanet.We work hard to develop and challenge our employees skillsets, recognize their contributions, encourage professional development, and offer a one-of-a-kind culture. This is why we say WhyWorkAnywhereElse? MasterControl could be your next (and last) career move!Here are some of the benefits MasterControl employees enjoy:
+
+Competitive compensation
+100 medical premium coverage (yes, you read that right!)
+401(k) plan with company match
+Generous PTO packages that increase with tenure
+Schedule flexibility
+Fitness clubs (you get paid to have fun and be active!)
+Company parties and employee recognition programs
+Wellness programs (free Fitbit, gym membership and athletic shoe reimbursements, etc.)
+Onsite physician and massage therapist
+Innovation center and gaming rooms at the office
+Dentalvision plans
+Employer paid life insurance policy
+Much, much more!
+
+Applicants must be currently authorized to work in the United States on a full-time basis.
+The US base salary range for this full-time position is 120,000-220,000  equity  benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+MasterControl is an Equal Opportunity Employer. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact MCTalentMasterControl.com or call (801) 942-4000 and ask to speak with a member of Human Resources.
+ 

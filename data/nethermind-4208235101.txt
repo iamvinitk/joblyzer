@@ -1,0 +1,54 @@
+What are we all about?
+We are a team of world class builders and researchers with expertise across several domains: Ethereum Protocol Engineering, Layer-2, Decentralized Finance (DeFi), Miner Extractable Value (MEV), Smart Contract Development, Security Auditing and Formal Verification.
+Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, StarkWare, Gnosis Chain, Aave, Flashbots, xDai, Open Zeppelin, Forta Protocol, Energy Web, POA Network and many more.
+We actively contribute to Ethereum core development, EIPs and network upgrades together with the Ethereum Foundation, and other client teams.
+
+
+
+
+
+
+
+Today, there are nearly 200 of us working remotely from over 45 countries.
+
+
+
+
+
+
+
+You can view all our open positions here: https:jobs.nethermind.io
+Do you have a passion for verification and programming language semantics? Do you want to work at the bleeding edge of crypto, securing the Ethereum ecosystem? Do you want to help shape the future of Decentralized Finance?
+We are hiring formal verification engineers to work with other teams at Nethermind as well as external customers (code name: Lamport) to fulfill a wide range of formal verification needs within the Ethereum ecosystem. Were looking for team players, with a keen eye for detail and strong problem-solving skills.
+Responsibilities:
+
+Work with other teams and external customers to design formal specifications of languages, compilers, smart contracts, etc...
+Produce clean and efficient specifications based on documentation and communications with stakeholders.
+Use a proof assistant to prove a wide array of different properties of these specifications.
+Extract property testers and formally verified utilities from these specifications.
+Recommend and execute improvements.
+Create technical documentation for reference and reporting.
+
+Requirements:
+
+Background in computer science.
+Background in formal language semantics and verification. Particularly knowledge of Hoare and Temporal logic.
+Strong background in functional programming and proof assistants, preferably Lean 4.
+Ability and desire to learn new programming languages and understand their specification e.g. Cairo, Solidity, Yul, etc...
+Knowledge of compilers.
+Understanding of theoretical computer science: Turing Machines, Complexity, etc
+Experience with software design and development.
+Strong reasoning skills.
+Excellent communication skills.
+Good English.
+
+
+Perks and benefits:
+
+Fully remote
+Flexible working hours
+Plus equity
+Disclaimer: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (ta Nethermind) (the Company) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details. Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnoticesnethermind.io Keep up to date on what we are working on by following us on our social channels
+      
+ 
+Click here to view our Privacy Policy.

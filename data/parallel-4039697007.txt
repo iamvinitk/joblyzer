@@ -1,0 +1,35 @@
+Parallel Systems is a Series A startup company developing the future of intermodal transportation. Our mission is to decarbonize freight while improving supply chain logistics and safety. We are developing vehicles and software to create new autonomous and electric transportation systems for existing rail infrastructure.
+At Parallel Systems, we value the team as much as the mission. We want to work with talented people who are humble, motivated, and persistent. Our most successful team members are self-starters and collaborate with others to reach our collective goals.
+
+
+Were looking for a senior functional safety engineer with a strong understanding of engineering principles, experience with the analysis of safety critical systems, and desire to lead. In this role, youll work with multidisciplinary engineering teams to shape the product and lead the assessment of innovative hardware and software for autonomous rail. Youll lead the effort for functional safety compliance with regulators and work closely with engineers and test staff to verify and validate systems.
+Responsibilities
+
+Work with cross functional teams on the strategy, development, implementation, testing, and approval of safety critical systems
+Define and derive safety-related requirements for on board electronics, braking, and train control systems
+Participate in internal design reviews and ensure projects in development will meet safety requirements and that verification and validation plans are in place
+Lead and perform hazard and risk analysis of specific subsystems
+Author safety assessments and safety plans in accordance with applicable regulations
+Lead and manage regulatory application projects
+Communicate and present safety narrative to regulators
+
+Basic Qualifications
+
+BS in Engineering or related field
+5 years of experience in functional safety field
+Experience with IEC 61508, IEC 62278, IEC 62289, EN 5102x, ISO 26262 or related IEC 61508 derived functional safety standard
+Experience applying functional safety processes to off-the-shelf and custom-designed electronic systems, software systems, and concepts of operation
+
+Preferred Qualifications
+
+Experience with new product introduction
+Experience managing a schedule, risks, and execution, of a complex project involving multiple people
+Experience with computer-based train control systems
+Experience with U.S. railway regulations including 49 CFR 236 Subpart H, 236 Subpart I, and 229
+Experience with international standards and regulations
+
+
+
+
+ Please note the national salary range listed in the job posting reflects the new hire salary range across levels that would be applicable to the position. Final salary will be commensurate with the candidates final level. Also, this range represents base salary only and does not include equity or benefits, if applicable.150,000year to 215,000year  equity  benefits150,000—215,000 USDParallel Systems is an equal opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to any discriminatory factor protected by applicable federal, state or local laws. We work to build an inclusive environment in which all people can come to do their best work.
+Parallel Systems is committed to the full inclusion of all qualified individuals. As part of this commitment, Parallel Systems will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please contact your recruiter.

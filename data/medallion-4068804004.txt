@@ -1,0 +1,31 @@
+
+
+About Medallion:
+Healthcare is going through an unprecedented transformation towards digital care. Medallion provides the critical administrative infrastructure to make that change possible. Our platform enables organizations to license their providers in new states, verify existing credentials, and get in-network with health plans. In just over two years, weve launched our platform, built an all-star team, powered hundreds of great companies, and served thousands of healthcare providers across the industry. To date, Medallion has saved over 250,000 administrative hours for our customers!
+Founded in 2020, Medallion has raised 85M from world-class investors like Sequoia Capital, Google Ventures, Spark Capital, Optum Ventures, and Salesforce Ventures.
+About the Role:
+As a senior software engineer, you will use hard-earned technical expertise to enable the all-round success of engineering at Medallion. Whether its writing a database migration, reviewing a line of code, or speccing out a project, you will draw on a wealth of experience to balance competing needs and priorities and set each project, system, and teammate up for success. Working with other senior engineers, PMs, and designers, you will shape the teams roadmap and ensure successful execution against it.Compensation for this role is between 160,000 - 220,000 depending on location and level.
+You will:
+
+Scope and lead large projects, addressing ambiguity, creating plans, and ensuring technical excellence
+Help develop the team roadmap, balancing key technical and product tradeoffs
+Teach and mentor members of the engineering team, constantly modeling how great software should be developed
+Introduce and champion improvements to our systems, code, and architecture
+
+You may be a fit for this role if you:
+
+Have 6 years of experience
+Have worked in multiple functional areas  frontend, backend, platform, services, data, or cloud infrastructure.
+Spent 3 years with a single codebase, witnessing how technical decisions play out over time
+Been the tech lead for a team or big project
+Care deeply about both technical success and product success
+Are an excellent communicator
+Get things done
+
+You might also have an interest in:
+
+Becoming a staff-level engineer, manager, or PM
+Starting your own company
+
+LI-remote
+

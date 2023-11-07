@@ -1,0 +1,31 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, youll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers. 
+Responsibilities:
+
+Provide technical leadership and direction to the team, helping define the teams roadmap, architecture, processes, and best practices
+Write well-crafted, well-tested, readable, maintainable code. Leave the code in a better state than when you found it (progressive refactoring).
+Perform thoughtful code reviews for colleagues to ensure code quality and distribute knowledge
+Unblock, support and effectively communicate cross functionally in order to achieve results
+Evangelize appropriate tech and engineering best practices, and occasionally give internal or external tech talks
+Participate in hiring activities: take part in technical interviews, live coding, share detailed feedback to hiring best technical talent in the function
+Act as a mentor to other developers on the team and across the company
+
+Mandatory Skills
+
+6 years of software engineering industry experience
+Experience with any backend programming language (e.g., Python, Golang, Java, C, node.js)
+Solid knowledge of algorithms, data structures, and object oriented programming
+Strong experience with relational andor non-relational databases
+Ability to design and implement scalable and reliable software solutions
+Passion for new technologies and performing research and development tasks
+Ability to learn fast, collaborate cross-functionally and communicate effectively.
+Write clear, scalable and clear design documentation
+
+Nice to have
+
+Familiarity with Flask
+AWS experience (EC2, Redshift for data warehouse, Elastic MapReduce for data processing)
+Experience in microservices architecture
+Experience managing small engineering teams
+
+This role will be in-office on a hybrid schedule if an established Lyft Location is available to the region — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.

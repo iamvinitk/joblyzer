@@ -1,0 +1,43 @@
+FEQ424R238
+ 
+The Solutions Architect Manager will lead a team of pre-sales Solutions Architects. As you will help to continue expansion of the French market, you will build technical pre-sales teams. Your experience partnering with the sales organisation will help close revenue with the right approach whilst coaching new sales and pre-sales teams to work together. You will guide and get involved to enhance your teams effectiveness; be an expert at communicating complex, business value-focused solutions; support complex sales cycles, and build relationships with important partners in large corporations.
+ 
+The impact you will have:
+
+Manage hiring and building the Solutions Architect team, scaling the designated field engineering segment organization without sacrificing quality
+Build a motivated collaborative culture within a hyper-growth team. To embody and promote Databricks customer-obsessed, teamwork and diverse culture
+Support increase Return on investment of SA involvement in sales cycles by 2-3x over 18 months
+Ensure a solution and value-based selling field-engineering organization
+Display an understanding of needs and revenue potential for accounts in the assigned region
+Continue to build Databricks brand in France in partnership with the Marketing and Sales team
+
+ 
+What we look for:
+
+Familiar with building a team of successful Big Data, Cloud, or SaaS professionals
+Have experience scaling and mentoring field or technical teams from scratch at hyper-growth speed
+Knowledgeable in and passionate about data-driven decisions, AI, and Cloud software models
+Great at instituting processes for technical field members to lead efficiency
+Technical background either in Data Engineering  Database technologies or Data Science
+Fluent in French
+
+ 
+Benefits: 
+
+Complementary health insurance
+Complementary life and disability coverage
+Complementary pension
+Equity awards
+Paid parental leave
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel accident insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

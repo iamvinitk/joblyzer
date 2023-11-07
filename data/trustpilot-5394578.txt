@@ -1,0 +1,92 @@
+Were a leading online reviews platform, free and open to all. Our mission is to be a universal symbol of trust. We are well on our way — but theres still an exciting journey ahead of us. Do you want to join us at the heart of trust?We are looking for a skilled Senior Machine Learning Engineer to join our Trustpilot team. You will work together with engineers, data scientists, and stakeholders to build solutions that will enable your colleagues and Trustpilot to scale. As a Senior ML Engineer, you will design, implement, and deliver internal tooling to support the deployment, maintenance, and monitoring of machine learning models. Automating and orchestrating data pipelines as well as maintaining those solutions is at the heart of this role, whilst also mentoring and coaching those around you and leading technical discussions. 
+A typical week for you will involve a planning meeting within your team, where you discuss the current tasks at hand and align on what creates the most value towards our current goal, and daily stand-ups where you can discuss the progress of your current tasks as well as any issues you might see.
+You will also have regular 1-on-1s with your manager, where you will be able to work on your personal growth and development, by setting clear goals, receiving actionable feedback, and discussing possible learning resources and opportunities.
+ 
+What youll be doing:
+
+
+Design and implement machine learning infrastructure capabilities, known in the industry as MLOps.
+
+
+Work with a large volume of data that supports the machine learning infrastructure.
+
+
+Partner with data scientists, engineers, and stakeholders across the organisation to define high-impact solutions and deliver high-quality systems and data pipelines.
+
+
+Productionize and operate ML models and pipelines at scale.
+
+
+Identify opportunities and implement best practices to improve our existing systems continuously.
+
+
+Participate in introducing new technologies to promote innovation.
+
+
+Inspire and challenge the organization with your knowledge of how to solve problems
+
+
+Help to mentor and coach less experienced colleagues
+
+
+Help to lead the technical direction of the team through the adoption of best practices and tooling
+
+
+ 
+Who you are:
+
+
+Proven experience productionising, maintaining and monitoring ML models.
+
+
+Experience with modern cloud architectures (serverless, event-driven) in AWS  GCP
+
+
+Proficiency in engineering best practices (CICD, observability, configuration management)
+
+
+Proven experience with Python, and the Python dataML ecosystem (NumPy, TensorFlow, PyTorch, scikitlearn) and strong experience with Java or other OOP languages.
+
+
+Understanding of data and compute-intensive data pipeline systems and tools
+
+
+Scientific and critical thinking skills, combined with the ability to present your ideas clearly and compellingly in both verbal and written form.
+
+
+A friendly and helpful personality, open to give and receive feedback in a constructive way
+
+
+Motivation to push yourself and the people around you to constantly improve, in a healthy way
+
+
+ 
+Whats in it for you:
+
+A range of flexible working options to dedicate time to what matters to you
+Competitive compensation package  bonus
+28 days holiday plus two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community
+Rich learning and development opportunities supported through the Trustpilot Academy, LinkedIn Learning and Blinkist
+Pension and life insurance Health cash plan, online GP, 247
+Employee Assistance Plan
+Full access to Headspace, a popular mindfulness app to promote positive mental health
+Paid parental leave
+Season ticket loan and a cycle-to-work scheme
+Central office location complete with all the snacks and refreshments you can ask for
+Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities and team socials.
+There is also breakfast and lunch in the office on Tuesdays and Wednesdays along with extra treats throughout the month
+Access to over 4,000 deals and discounts on things like travel, electronics, fashion, fitness, cinema discounts and more. 
+
+ 
+Still not sure?
+We are Open to All, which means we want everyone to feel like they can see themselves at Trustpilot. Were keen to hear about your experiences as well as how you can help to create a fantastic culture for our amazing Trusties. So, dont worry if youre looking at this job description and feel like you dont meet all the requirements, wed still really like to hear from you!
+ 
+LI-Hybrid LI-PM1About Trustpilot
+At Trustpilot, were passionate about our mission to offer a free and open to all review platform, built on collaboration. For consumers, were a place to connect with and influence businesses. For companies, were a platform for progress; a way to improve and innovate by engaging and collaborating with consumers. 
+Were driven by connection. Its at the heart of what we do. Our culture keeps things fresh  its built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be a tangible symbol of trust in an ever-changing world. With vibrant office locations all around the world and over 50 nationalities, were proud to be an equal opportunity workplace with diverse perspectives and ideas. 
+Our purpose is a tall order, but we keep it real. Were a great bunch of humans, doing awesome stuff, without fuss or pretense. 
+A successful Trustpilot future is driven by you  we give you the autonomy to shape a career you can be proud of. If youre ready to grow, lets go. 
+Join us at the heart of trust.
+
+Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences  are valued and respected. Trustpilot will consider all applications for employment without regard to race, ethnicity, national origin, religion, gender identity or expression, sexual orientation, neurodiversity, disability, age, parental or veteran status. Together, we are the heart of trust.
+Trustpilot is a global company and our data practices are designed to ensure that your personally identifiable information is appropriately protected. Please note that your personal information will be transferred, accessed and stored globally as necessary for the uses and disclosures stated in our Privacy Policy.

@@ -1,0 +1,40 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. ESS Test Engineer - Safety  Abuse is responsible for establishing, performing, and analyzing results from the Energy Storage System (ESS). In the ESS Test Engineer team, this position will be the primary point of contact for comprehending the safety limits of ESS from cell level to system level through test plans. The role collaborates closely with battery design engineers, Energy Storage System Design Assurance Engineer within the battery team, and multi-functional team members at the aircraft level to create and complete test plans necessary for design development cycles and compliance activities.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Develop and implement high-level and detailed-level validation plans verifying the performance of battery systems and their components with a focus on identifying abuse tolerance, failure propagation, large-scale thermal and fire testing
+Develop test strategy and plans for mechanical, electrical, and thermal abuse tests to verify and validate battery system for certification and functional requirements
+Contribute to test equipment selection and implementation of verification  validation test processes
+Design new safety and abuse test tools as needed
+Automate test cases and develop test tools required for battery system abuse testing
+Develop simulation and modeling methods for understanding thermal runaway
+Develop diagnostic techniques for battery state of stability
+Collaborate with design engineers to develop next-generation products
+May require up to 25 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in mechanical engineering, electrical engineering, or chemical engineering required; Masters or Ph.D. in engineering preferred
+A minimum five (5) years of experience with battery safety and abuse testing (an equivalent combination of education and experience may be considered)
+Experience in setting up tests and labs for battery safety and abuse testing in the consumer electronics or automotive industries
+Experience with LV and HV battery systems
+Experience with data acquisition systems, sensors, and other measurement equipment
+Experience in 3D CAD Design, Catia preferred
+Understanding of Lithium-based cell chemistries and expertise in battery safety limits
+Knowledge of safety-critical component testing requirements like margin testing, testing for reliability, etc.
+Strong problem-solving and analytical skills
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow-up
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+
+You may also be able to contribute:
+
+Exposure to aerospace standards preferred
+Experience with using Python as a scripting language to process large test data preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

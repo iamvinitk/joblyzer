@@ -1,0 +1,22 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. Pinterest is one of the fastest growing online advertising platforms. Continued success depends on the machine-learning systems, which crunch thousands of signals in a few hundred milliseconds, to identify the most relevant ads to show to pinners. Youll join a talented team with high impact, which designs high-performance and efficient ML systems, in order to power the most critical and revenue-generating models at Pinterest.
+What youll do
+
+Being the technical leader of the Ads ML foundation evolution movement to 2x Pinterest revenue and 5x ad performance in next 3 years.
+Opportunities to use cutting edge ML technologies including GPU and LLMs to empower 100x bigger models in next 3 years. 
+Tons of ambiguous problems and you will be tasked with building 0 to 1 solutions for all of them.
+
+What were looking for:
+
+BS (or higher) degree in Computer Science, or a related field.
+10 years of relevant industry experience in leading the design of large scale  production ML infra systems.
+Deep knowledge with at least one state-of-art programming language (Java, C, Python). 
+Deep knowledge with building distributed systems or recommendation infrastructure
+Hands-on experience with at least one modeling framework (Pytorch or Tensorflow). 
+Hands-on experience with model  hardware accelerator libraries (Cuda, Quantization)
+Strong communicator and collaborative team player.
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only135,150—278,000 USDOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

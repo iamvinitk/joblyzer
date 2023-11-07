@@ -1,0 +1,34 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses of all sizes. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Web Presence  Platform team at Stripe is composed of designers, front-end specialists, web strategists, platform engineers, and every skill set in between. We design and build what is, for many, their first impression of Stripe. We are strategic owners for stripe.com, link.com and press.stripe.com. We want to make every pixel count—we want it to be enthralling, informative and actionable—while reaching a diverse global audience. 
+There are several teams under the banner of Web Presence  Platform (WPP) at Stripe: Storytelling, Moments, as well as Tooling and Infrastructure. Together, these teams focus on the craft and impact of our web presence. We take meticulous care and strive for our work—everything from experience design, frontend and backend code, information architecture, content management and SEO—to set the standard for the internet. Moreover, we operate at scale. Today our site contains thousands of pages, each translated into multiple languages, and our Tooling and Infrastructure teams ensure theres a fast, efficient technology platform on which to build and run these pages.
+What youll do
+We are looking for an experienced engineering leader who can shape the vision and craft of the entire WPP engineering team. This person will be both a manager of managers across multiple teams and support talented IC engineers. 
+Engineers on WPP take on a variety of missions. From creating easy to use tools and increasing velocity for our team and our internal customers, to building a blazing fast site, we are focused on performance and ease. Were equally obsessed with and passionate about the experience our current and future customers have on our site, and aspire to set the standard for what they can expect from Stripe. Our site is beautiful, functional, aspirational, and performant. Youll lead the team that makes all of these things possible. 
+Youll foster the growth of the individuals on your team, providing support for their work and acceleration for their growth. Youll trust and empower the leaders on your team. Youll partner with WPPs leadership to devise and deliver on roadmaps focused on the strategic experiences we bring to our users. Youll develop and lead a collaborative team that is excited to meet you.  
+Responsibilities
+
+Develop the long-term vision and strategy for the WPP Engineering team, prioritize accordingly, and create an execution roadmap 
+Manage processes to help the team do its best work and engage effectively with the rest of Stripe 
+Mentor and coach engineering managers and senior engineers to create healthy and well-executing teams 
+Develop engineering leaders on the team, helping them advance in their careers 
+Recruit great engineering managers and engineers in collaboration with Stripes recruiting team 
+Contribute to engineering-wide initiatives as a member of Stripes engineering management team  
+Help your team focus on what they do best, and give them the opportunities to sharpen the skills theyre looking to develop
+Provide an environment in which they can thrive both as an individual, and as a member of a diverse community
+Give your team the agency in their work to shape outcomes they can proudly own
+Help your team partner closely with our user research team to better understand the audiences for the experiences they build
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. 
+Minimum requirements
+
+5 years of experience being a manager of managers, of a team of at least 40 people
+A track record of effectively recruiting, mentoring, and retaining great people
+Experience driving business and product success in a highly cross-functional organization
+Success building a team, defining its mission, and executing on its goals
+A history of thriving with a high level of autonomy and responsibility
+Experience working closely with peers in design and production
+A reputation for committing to quality and focusing on user experience 

@@ -1,0 +1,44 @@
+Security Specialist - Mexico
+About Nubank
+Nubank was founded in 2013 to free people from a bureaucratic, slow and inefficient financial system. Since then, through innovative technology and outstanding customer service, the company has been redefining peoples relationship with money across Latin America. With operations in Brazil, Mexico and Colombia, Nubank is today the largest digital banking platform in the world  and one of the leading technology companies in the world, reinventing over 60 million customers financial lives.
+Nubank achieved this by offering a no-fee credit card, entirely managed by a mobile app, and a digital account, free of taxes. Nubank also offers transparent and hassle-free personal loans, a business account tailored for SMBs, and life insurance. In 2020, Nubank acquired digital broker Easynvest, now called Nu invest, and became the leader in self-directed digital investments in Brazil. 
+Throughout the years, Nubank raised around US2 billion with some of the best-known growth and technology investors in the world, such as Berkshire Hathaway, Sequoia, DST, Tencent, Tiger, Kaszek, Founders Fund, Dragoneer, TCV, Redpoint, Ribbit, GIC, Whale Rock, Invesco, QED, and Capital Group.
+Today, Nubank is a global company, with offices in So Paulo (Brazil), Mexico City (Mexico), Buenos Aires (Argentina), Bogot (Colombia), Durham (United States) and Berlin (Germany). Nubank was founded in So Paulo by Colombian David Vlez, and cofounded by Brazilian Cristina Junqueira and American Edward Wible. For more information, visit www.nubank.com.br.
+ 
+You will fit well if you:
+
+You thrive in dynamic, fast-paced, results-oriented and diverse teams
+You are hungry and enjoy being constantly challenged to learn and do more
+You embrace conflict of ideas and like to question the status quo
+You learn fast and easily adapt to changing situations and priorities
+You believe in building great products and doing your best work
+You are enthusiastic for finding root causes, build things from scratch and deliver solutions
+You want to understand the big picture, to be held accountable and make a meaningful contribution with your work
+
+ 
+Our challenges:
+ 
+Technology is not a sector of our business: its intrinsic to every area at Nubank. We encourage everyone to challenge the status quo. Theres no innovation team - we hire innovative people for all our positions and encourage them to constantly question decisions to keep finding better ways to do something. Our business is experiencing hyper growth in several dimensions: number of customers, products, international markets and employees., and our engineering team must match that demand.
+As we grow, we need to:
+Relentlessly pursue, indicate and contribute to eradicate threats across complex environments. Report and help solving incidents at scaleWork in regulated environments aligning with all the requirementsCommunicate clearly with external and internal stakeholders such as regulators, managers, etc.., Build solutions that enable faster and more effective incident response. 
+ 
+The Security Specialist will be responsible for:
+Communicating fluently with diverse global teams in English and Spanish.Create and implement security controls in cloud and non-cloud based environmentsAutomation of security controls to avoid operational burden and monitoringUnderstanding root causes of issues and problems, collaborating with others to work on solutions. Creating strong relationships with diverse teams, by coordinating communication between different audiences, teams and stakeholders 
+ 
+What we are looking for:
+An ability to thrive in engineering environments, interacting with technical teams and being able to jump into technical conversations at least with a theoretical knowledge.Experience working implementing and automating security controlsExperience working with AWS and GCPExperience working with Clojure, Datomic, Java and scripting languages Experience working with visualization tools and platforms like Looker, Splunk, Databricks, et alKnowledge in ISO, PCI, NIST, FrameworksExperience working with regulatory requirements (SPEI, CUB, PCI, NIST, ISO) General knowledge in databases and applicationsGeneral knowledge of cloud infrastructure (private or public), microservices and distributed environments.Proficiency in English and Spanish.
+Preferred Qualifications
+Experience building scripts or with any programming language Understanding of infrastructure monitoring tools like Kibana or Prometheus Experience with tools for ticketing, whiteboarding, collaboration dashboarding, and google docs suites.Experience implementing and automating controls for certifications for ISO or PCI for a regulated institution in MexicoNatural interest in security operations, coordinating actions with several stakeholders and teams like incident response, defensive security, etc..  in large projectsExperience collaborating  in global projects, with distributed infosec teams.
+Benefits
+
+Equity at Nubank
+Health and life insurance 
+Food card
+15 days of paid vacation ]
+Holiday Bonus (Aguinaldo) of 30 days of pay per year
+NuCare - Our mental health and wellness assistance program
+NuLanguage - Our language learning program
+Extended maternity and paternity leaves
+
+Diversity  Inclusion
+At Nubank, we want to be sure that were building a more diverse and inclusive workplace that reflects the customers we serve and seek to empower. Thats why we hire based on equality. We consider gender, ethnicity, race, religion, sexual orientation, and other identity markers as enriching elements to our company while ensuring neither of them represent a barrier when recruiting fantastic talent.

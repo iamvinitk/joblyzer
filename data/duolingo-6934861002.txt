@@ -1,0 +1,41 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+As an Engineer in the Infrastructure Platform area you will have direct impact on the work of our entire engineering organization, and will help ensure the reliability, scalability and performance of our products.
+We have opportunities on two different teams:
+
+The Cloud Operations team is responsible for all of our infrastructure, and focuses primarily on making sure engineering teams have all the tools and support they need to build features our learners love. You will use and develop innovative tools to enable growth and stability across all Duolingo services and platforms. You will also act as an advisor for how to best apply these tools internally to accurately deploy, manage, monitor, and control the costs of production services.
+The Development Infrastructure team implements tools and processes to ensure the end-to-end experience of developing software at Duolingo is efficient, reliable and fun. You will work closely with our engineering teams to understand their workflows, improve and optimize our CICD infrastructure, and grow adoption of tools like GitHub Copilot, Codespaces and our services registry.
+
+You Will...
+
+Design and implement tools that help engineering teams focus on shipping features, while making sure we build infrastructure that is cost-efficient, secure and reliable.
+Streamline operational and development practices in order to provide an effective self-service platform to other Duolingo engineers.
+Monitor our infrastructure and develop strategies to keep our costs within budget and manage our capacity.
+
+You Have...
+
+Demonstrated expertise in problem solving and technical innovation.
+Technical experience in distributed systems, including: databases, caching, inter-service communication, networking, and cloud services.
+Excellent communication skills.
+
+Requirements: 
+
+Relevant work experience, including industry experience.
+Experience with one or more configuration management (Ansible, Puppet, Chef) or infrastructure management tools (Terraform, CloudFormation)
+Familiarity with containerization runtimes (Docker, rkt)
+Functional knowledge of Linux system administration and automation
+
+Exceptional Candidates Will Have...
+
+Extensive experience in fast-growing, consumer-facing, data-driven startups, ideally mobile app based.
+A Bachelors degree in Computer Science or related technical field
+Experience running a large infrastructure on AWS or Google Cloud
+
+ 
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingos world-class benefits. The starting base salary range for this role is, 148,800 - 274,600. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Take a peek at how we care for our employees holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

@@ -1,0 +1,70 @@
+CSQ125R43
+While candidates in the listed location(s) are encouraged for this role, there is a preference for candidates in Eastern or Central time zones.
+Project and Program Managers execute the mission of the Professional Services team, which is to drive project success and ensure a high level of customer satisfaction, influence product adoption, and balance delivery responsibilities with commercial goals of the professional services organization.
+The impact you will have:
+
+Project Managers are responsible for the successful completion and delivery of the assigned projects. Additionally, they also provide leadership and guidance to the implementation team on how to meet and exceed the goals of the project.
+Individually delivers on commitments by producing quality deliverables, status reports, project plans, and customer responses on time and requiring minimal rework through inspection and mentoring.
+Effectively manages the different aspects of a project including scope, schedule, finance, risk, quality, and resources.
+Consistently generates successful results based on a comprehensive deal preparation and design in the sales process and delivering on Statements of Work to meet customers business objectives.
+Reviews and participates in defining project and SOW structures for delivery of high risk, high visibility engagements.
+Actively participates in regular reviews of high risk and key engagements with the project team and Databricks stakeholders.
+Effectively builds and leverages customer relationships throughout the sales and delivery process.
+Ensures our projects are driving high customer satisfaction in both internal and external customers.
+Builds long-term relationships with clients that can be leveraged beyond specific engagements.
+Acts as the first point of escalation for customers when they have questions or concerns with our delivery. Additionally, provides escalation as needed into other parts of Databricks to ensure rapid resolution of technical and business issues.
+Consistently articulates a thorough understanding of Databricks vision and solutions to help sell and deliver successful implementations, ensure positive project outcomes, and attain project references.
+Candidates should be open to 50 travel to customer sites.
+
+What we look for:
+
+5 years working in a Professional Services Organization at an Enterprise Software Company (preferably SaaS company).
+Proven leadership and problem-solving skills.
+Familiarity with PS Operations will be a requirement as well as having a strong ability to drive delivery management.
+Experience with BI, Data Management, and Big Data technologies is a big plus.
+Excellent communication and have strong conflict resolution skills.
+Proven written communication and documentation skills, along with strong project management experience and negotiation skills.
+Strong abilities to multitask, manage multiple engagements, while delivering extremely high level of customer satisfaction.
+Experience working with PSA tools is a huge plus.
+Comfortable with traveling to multiple customer locations
+
+Benefits 
+
+
+Comprehensive health coverage including medical, dental, and vision
+
+
+401(k) Plan
+
+
+Equity awards
+
+
+Flexible time off
+
+
+Paid parental leave
+
+
+Family Planning
+
+
+Gym reimbursement
+
+
+Annual personal development fund
+
+
+Employee Assistance Program (EAP)
+
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range91,200—161,200 USDZone 2 Pay Range82,100—145,100 USDZone 3 Pay Range77,500—137,000 USDZone 4 Pay Range72,900—129,000 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

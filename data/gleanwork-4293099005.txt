@@ -1,0 +1,35 @@
+About Glean
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+About the role
+We are seeking an experienced Technical Writer to manage our pre-sales and post-sales technical documentation, including information on how Glean works such as explaining key parts of the architecture, how Glean maintains security and how to connect various third-party applications. The successful candidate will be responsible for defining the content information structure, writing and collaborating with the engineering team to keep technical documentation up-to-date.
+Key Responsibilities:
+
+Develop and maintain comprehensive technical documentation for pre-sales and post-sales processes, including user guides, system overviews, and integration instructions
+Collaborate with the engineering team and other stakeholders to gather necessary information and ensure the accuracy of technical documents
+Define and implement the content information structure, including where documents should live and how they should be organized
+Work closely with the web development team to provide requirements for implementing the knowledge base
+Establish and maintain a consistent tone and style across all technical documents, ensuring a professional and easy-to-understand presentation
+Continuously update and revise documentation to ensure alignment with the latest product updates, features, and best practices
+Manage multiple projects and priorities effectively, ensuring timely delivery of high-quality documentation
+
+You will thrive at this role if:
+
+You have a Bachelors degree in Technical Writing, English, Communications, Engineering, or a related field
+You have 3 years of experience in technical writing, preferably within the SaaS industry
+You have Demonstrated ability to create clear, concise, and comprehensive technical documentation
+You are excellent at project management and organizational skills, and have the ability to prioritize and manage multiple projects simultaneously
+You possess strong communication and interpersonal skills, with experience working with engineering teams and other stakeholders
+You are proficient in documentation tools and technologies, such as Zendesk, Contentful, Markdown, etc
+
+Benefits
+
+Competitive compensation
+Healthcare
+Flexible work environment
+Transparent culture
+Learning and development opportunities
+Company events
+Free meals 

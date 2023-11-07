@@ -1,0 +1,34 @@
+We work closely with major silicon companies to optimise Ubuntu for their latest hardware. 
+As a software engineering manager you need to bring both technical and management skills to the leadership of your team. You will be leading an engineering team that works across the full Linux stack from kernel to GUI, to optimise Ubuntu, the worlds most widely used Linux desktop and server, for the latest silicon. 
+You will also represent the team in direct partner engagement as well as ensuring timely delivery on agreed project milestones. 
+As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in software development is a must, so that youre able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.
+What youll do
+
+Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks
+Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms
+Develop your team through coaching, mentoring, leading by example, and feedback
+Oversee commercial engagements and support timely delivery on agreed project milestones
+Ensure an ongoing commitment to strict quality and reliability standards
+Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps
+Work from home with global travel up to twice a year for up to two weeks
+
+Who you are
+
+You have worked with Linux distributions, debian packaging and high performance, server-class hardware
+You have experience working directly with customers, resolving their technical issues, interpreting their business challenges and effectively communicating how your solution will meet their needs
+You have demonstrated experience managing or leading a team of software engineers
+You have understanding of agile software development methodologies
+You collaborate effectively across multiple internal teams, building trust and delivering results
+You have effective communications skills in English, both written and oral
+You have a bachelors (or equivalent university level) degree, preferably in a technology field
+
+What Canonical offers
+
+Learning and Development opportunities
+Annual Compensation Review
+Recognition Rewards
+Annual Leave
+Priority Pass for travel
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration
+ LI-remote

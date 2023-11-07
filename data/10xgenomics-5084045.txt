@@ -1,0 +1,37 @@
+ABOUT THE ROLE
+10x Genomics was founded to deliver powerful and reliable tools that fuel key scientific discoveries and drive exponential progress in our mastery of biology to advance human health. Our talented team has a distinguished record of creating innovative instruments, reagents, and software that analyze biological systems at a resolution that matches the complexity of biology.
+We are looking for a SeniorStaff Software Engineer to join our Embedded Software team.
+You have expert-level knowledge of creating advanced instrument control software  firmware with C, C, Python andor Rust. You can handle threading, multiprocessing and interfacing with low-level drivers, firmware  hardware with ease. You are a stickler for testing and thrive on creating a clean and maintainable codebase. 
+You are the engineer that other engineers can count on; you are technically excellent, you attack every problem with enthusiasm, you care deeply about what it takes to build high quality software. You are a self-starter, team player, have the hunger to venture quickly into unknown areas, code and make the system work.
+WHAT YOU WILL BE DOING
+
+Design and develop Embedded Control software and firmware for instrumentation 
+Develop microcontroller-based unit control logic with real-time performance characteristics.
+Write well structured, testable, efficient and maintainable software
+Contribute to the entire software lifecycle from requirements gathering to validation
+Work closely with the team lead and cross-functional team members to deliver high quality solutions
+
+MINIMUM REQUIREMENTS
+
+Bachelors degree in computer science, engineering, math, or scientific discipline and 4 years of software development experience; OR 6 years of professional experience building software
+Modern C
+Embedded Development
+Python3
+Linux
+
+PREFERRED SKILLS AND EXPERIENCE
+
+Control Systems Development
+Firmware Development  EE knowledge (Digital  Analog Design)
+Rapid software prototyping  validation with attention to detail and engineering diligence
+Strong analytical and problem-solving skills
+Strong verbal and written communication skills
+Instrumentation system design  architecture
+Background in biology and DNA sequencing is not required. Interest in the field is.
+
+LI-RT1
+LI-OnsiteBelow is the base pay range for this full time position.  The actual base pay will depend on several factors unique to each candidate, including ones skills, qualifications, and experience.  At 10x, base pay is also just one component of the Companys total compensation package.  This role is also eligible for 10xs equity grants, its comprehensive health and retirement benefit programs, and its annual bonus program or sales incentive program.  Your 10x recruiter can share more about the Companys total compensation package during the hiring process.Pay Range180,000—220,000 USDAbout 10x Genomics
+At 10x Genomics, accelerating our understanding of biology is more than a mission for us. It is a commitment. This is the century of biology, and the breakthroughs we make now have the potential to change the world.We enable scientists to advance their research, allowing them to address scientific questions they did not even know they could ask. Our tools have enabled fundamental discoveries across biology including cancer, immunology, and neuroscience.Our teams are empowered and encouraged to follow their passions, pursue new ideas, and perform at their best in an inclusive and dynamic environment. We know that behind every scientific breakthrough, there is a deep infrastructure of talented people driving the life sciences industry and making it possible for scientists and clinicians to make new strides. We are dedicated to finding the very best person for every aspect of our work because the innovations and discoveries that we enable together will lead to better technologies, better treatments, and a better future. Find out how you can make a 10x difference. 
+Individuals seeking employment at 10x Genomics are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation, or any other characteristic protected by applicable law.
+10x does not accept unsolicited applicants submitted by third-party recruiters or agencies. Any resume or application submitted to 10x without a vendor agreement in place will be considered unsolicited and property of 10x, and 10x will not pay a placement fee.
+    

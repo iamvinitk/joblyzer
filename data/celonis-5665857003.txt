@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The Team:
+As a member of the Global Customer Support Team, the primary role of Service Process Manager is to govern the incident management process thats the foundation to provide first class customer support to our global customers and partners.
+The Role:
+Youll be responsible to ensure defined workflows and the end-to-end incident management process is clear, followed and constantly improved. Working closely with internal and external teams to minimise service impact is another key deliverable and as such you will be a primary contact for major  critical incidents and escalated cases in our environment. We are looking for someone with an in-depth understanding of the Celonis EMS, associated products and a familiarity of cloud based environments and DB technologies eg AWS, MS Azure, SAP HANA. An absolute focus of maintaining high standards and improving customer satisfaction and a customer first attitude rounds off your profile. 
+The work youll do:
+
+Collaborate effectively with customers and our Product and Engineering organization to resolve issues in line with our service goals
+Manage major  critical incidents end to end from a Customer Support perspective
+Provide updates to management and customers during each phase of incident escalation
+Provide input and guidance to the continual improvement of the incident management process
+Ensure cases are updated with relevant information by committed times
+Proactively categorise and prioritise incidents to ensure the right SLOs are meet
+Develop and provide incident and escalation performance metrics to management and customers on a monthly basis
+Train internal and external audiences about the Celonis incident management process
+
+The qualifications you need:
+
+have completed an Education in the field of IT, Computer Science, Engineering or similar 
+have proven track record with min 4 years experience in a high-pace complex SaaS technology provider 
+experience in handling handling complex technical issues in accordance to ITSM processes and SLA adherences
+have very good working knowledge of at least one help desk ticketing system (eg Salesforce, ServiceNow, FreshService) and jira
+either have first hand experience with major Cloud Platforms such as AWS and MS Azure or demonstrable understanding of key Cloud Platform concepts.
+have previous experience with a cloud monitoring solution (eg Datadog, Dynatrace, New Relic) or monitoring  observability tools (eg Kibana, Grafana, Promotheus)
+have a goal-oriented, independent and structured approach to the analysis and solution of complex problems in virtual and cloud-based environments
+are not afraid of customer contact and you are communicative and service-oriented
+are passionate about topics like Execution Management, Process Mining and Data Lake
+have very good English skills, additional languages are a plus
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

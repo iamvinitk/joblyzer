@@ -1,0 +1,64 @@
+What are we all about?
+We are a team of world class builders and researchers with expertise across several domains: Ethereum Protocol Engineering, Layer-2, Decentralized Finance (DeFi), Miner Extractable Value (MEV), Smart Contract Development, Security Auditing and Formal Verification.
+Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, StarkWare, Gnosis Chain, Aave, Flashbots, xDai, Open Zeppelin, Forta Protocol, Energy Web, POA Network and many more.
+We actively contribute to Ethereum core development, EIPs and network upgrades together with the Ethereum Foundation, and other client teams.
+
+
+
+
+
+
+
+Today, there are nearly 200 of us working remotely from over 45 countries.
+
+
+
+
+
+
+
+You can view all our open positions here: https:jobs.nethermind.ioAbout Twinstake: Twinstake is a leading institutional staking provider which offers unrivaled knowledge and experience of the institutional market from on our founding heritage coupled with deep crypto expertise and technology from our team of core devs and industry veterans.
+We stand out in:
+
+Regulatory Compliance
+Non-custodial Solution
+Enhanced Reporting and Data
+Optimized Performance
+Premier Service
+
+Role:
+We are looking for a Lead Software Engineer who is passionate about leading project teams and ready to take the reins of our Engineering Team.. You will be at the forefront of developing innovative staking solutions, ensuring the teams success, and guiding them through various technical challenges. Your role will be pivotal in upholding our commitment to regulatory compliance, performance optimization, and premier service standards.
+Responsibilities:
+
+Lead a dedicated team in crucial projects, providing both technical direction and mentorship.
+Evaluate technical risks within project scopes, offering insightful recommendations and introducing best practice.
+Collaborate closely with the Product Manager, understanding the intricacies of our business, products, and customer base.
+Drive the architectural design and practical implementation of innovative software solutions.
+Enhance the performance, scalability, and reliability of our software systems.
+Guide the development team through all stages of the software development life cycle, ensuring excellence in design, coding, testing, and debugging.
+Produce scalable and efficient code, setting the bar for the teams coding standards.
+Perform code reviews, providing valuable feedback for continual improvement.
+
+Ideal Candidate:
+
+Has strong proficiency in Python.
+Has experience with at least one of the following: C, Java, C, or GO.
+Possesses extensive experience in working with and building robust APIs, demonstrating a deep understanding of how to integrate multiple systems together in a cohesive and efficient manner.
+Experience in building reliable infrastructure on the Cloud.
+Familiarity with data engineering practices, tooling and approaches.
+Familiarity with Airflow or other similar tools.
+Proven track record of building and nurturing teams in a dynamic environment.
+Genuine interest in cryptocurrency and blockchain technology.
+Enjoys being deep in the technical weeds as well as taking a bird eye view for the future of the team and position of the tech within the wider business
+Exceptional communication skills.
+
+Bonus:
+
+Hands-on experience in the crypto industry.
+Experience working with data pipelines.
+Comfort in writing and optimizing SQL queries.
+
+Disclaimer: Please note, the advertised roles are offered by Twinstake UK Limited, not Nethermind. However, the Nethermind team shall carry out the first stage of the recruitment process before passing the successful job applications on to Twinstake.Disclaimer: I hereby consent to my personal information being stored and processed by Demerzel Solutions Limited (ta Nethermind) (the Company) for recruitment purposes in relation to both the selected job role and any other role the Company considers me a qualified candidate for. All data storing and processing by the Company takes place in accordance with the UK GDPR. Kindly refer to our privacy policy for more details. Your consent to share personal information is entirely voluntary, and you may withdraw your consent at any time. Should you have any questions about this process, or wish to withdraw your consent please contact: legalnoticesnethermind.io Keep up to date on what we are working on by following us on our social channels
+      
+ 
+Click here to view our Privacy Policy.

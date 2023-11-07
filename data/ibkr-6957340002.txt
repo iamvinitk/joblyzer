@@ -1,0 +1,51 @@
+
+Position
+Interactive Brokers is seeking a back-end software engineer to drive the infrastructure development of a new educational app. This greenfield project promises to impact global financial literacy significantly and offers high visibility. The role demands the ability to work autonomously in server-side logic and integration. If you possess strong proficiency in Java and SQL and have experience in UnixLinux environments, this might be your next career move. Youll be tasked to develop scalable and robust server-side systems within a professional team in a dynamic, startup-like environment.
+ 
+This project isnt merely about coding; its about reshaping how financial education is presented via digital channels. As our back-end developer, you will be responsible for the server side of our application, enabling innovation and maintaining the highest software development standards.
+ 
+Responsibilities
+
+Architect and implement the back-end infrastructure of a novel educational app.
+Ensure the responsiveness and scalability of the application.
+Collaborate with front-end developers and other team members to establish objectives and design functional, cohesive codes to enhance the user experience.
+Manage and optimize databases for application functionality.
+Collaborate with engineering teams from Interactive Brokers other global offices.
+Solve technical issues across different areas, working hand in hand with front-end developers and other teams.
+
+ 
+Qualifications, Skills  Attributes
+Minimum qualifications:
+
+Architect and implement the back-end infrastructure of a novel educational app.
+Ensure the responsiveness and scalability of the application.
+Collaborate with front-end developers and other team members to establish objectives and design functional, cohesive codes to enhance the user experience.
+Manage and optimize databases for application functionality.
+Collaborate with engineering teams from Interactive Brokers other global offices.
+Solve technical issues across different areas, working hand in hand with front-end developers and other teams.
+
+ 
+Preferred qualifications:
+
+Profound knowledge of computer science, with solid competencies in data structures, algorithms, and software design
+Capacity to function under pressure in time-sensitive scenarios, exercising sound judgment and professionalism, and switching between tasks as necessary
+Eagerness to be on the cutting edge of technology, underlined by a tech-driven career aspiration
+
+ 
+Company Benefits  Perks
+
+Discretionary annual bonus (cash and stock)
+Private healthcare insurance
+Free recreational pass (AYCM XL package)
+Daily food allowance in the office
+Monthly BKK pass
+Hybrid way of working (2 days home officeweek)
+Modern office in the heart of Budapest with free amenities
+Great atmosphere with friendly and exceptional colleagues and frequent company outings
+
+ 
+The benefits package will be reviewed regularly and may be subject to change.
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

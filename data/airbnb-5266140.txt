@@ -1,0 +1,57 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join:
+Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. Customer Support (CS) aims to build the worlds most loyal travel community through exceptional service. And AI has been and will continue to be the key to unlock timely, reliable, and empathetic solutions at scale.
+As a Data Scientist working on Algorithms, CS, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operation agents to build scalable and robust systems to detect, mediate, and solve issues across a wide spectrum. You will be able to create meaningful impact through deep scientific understanding and interventions for Airbnb CSs most critical challenges.
+The Difference You Will Make:
+For this role, were seeking an NLP expert to join the Customer Support Data Science team, and have a direct opportunity to contribute, influence, and lead in the CS x AI space by designing scalable scientific solutions for problems like: 
+
+Detect intents across various entry points with large scale unstructured data using NLP methods
+Generate most helpful self-solve contents in line with Airbnb policy leveraging generative AI to automate low-complexity issues
+Route high-complexity issues to agents with personalized strategy, incorporating user history and agent performance
+Summarize customer journey and conversations with foundational or fine tuned large language models (LLM) to assist CS agents
+Collect evidence from images and receipts to gauge monetary value of the request leveraging computer vision
+
+A Typical Day: 
+
+Identify high impact business opportunities through data exploration and model prototype, translate business problem into scientific formulations  
+Work collaboratively with cross functional partners including software engineers, product managers, operations and research, to refine requirements for machine learning models, drive scientific decisions, and quantify impact
+Hands-on develop, productionize, and operate machine learning models and pipelines at scale, including both batch and real-time use cases, structured and unstructured data
+Build reusable, high-performing, scalable machine learning models with internal paved path tooling, incorporating third-party information and state-of-the-art innovations
+Regularly present work internally at monthly meetings to technical, engineering and product stakeholders to iterate and generate excitement on roadmap progress
+Publish externally and engage with the scientific community to advance Airbnbs standing
+
+Your Expertise:
+
+9 years of relevant industry experience (e.g. ML scientist, tech lead, junior faculty) and a Masters degree or PhD in relevant fields
+Strong fluency in Python and SQL, experience with Tensorflow, PyTorch, Airflow and data warehouse
+Deep understanding of Machine Learning lifecycle best practices (eg. trainingserving, feature engineering, featuremodel selection, labeling, AB test), algorithms (eg. gradient boosted trees, neural networksdeep learning, optimization) and domains (eg. natural language processing, computer vision, personalization and recommendation, anomaly detection)
+Comfort to collaborate with software engineers to understand complex systems and abstracted logs
+Proven ability to communicate clearly and effectively to audiences of varying technical levels
+Proven mix of strong intellectual curiosity with high level of pragmatism and engagement with the technical community. Publications or presentations in recognized journalsconferences is a plus
+Ability to take a product-oriented mindset in using conceptual and innovative thinking to develop and apply solutions taking into consideration the user experience
+
+Benefits:
+
+Stock
+Competitive salaries
+Quarterly employee travel coupon
+Paid time off
+Medical, dental,  vision insurance
+Life insurance and disability benefits
+Fitness Discounts
+401K
+Flexible Spending Accounts
+Apple equipment
+Commuter Subsidies
+Community Involvement (4 hours per month to give back to the community)
+Company sponsored tech talks and happy hours
+Much more
+
+ 
+How Well Take Care of You:
+Our job titles may span more than one career level. The starting base pay for this role is between 200,000 - 254,000. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+If you need assistance, or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodationsairbnb.com.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range185,000—245,000 USD

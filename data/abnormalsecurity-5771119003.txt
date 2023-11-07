@@ -1,0 +1,35 @@
+About the Role
+ 
+Abnormal Security is looking for an experienced Software Engineer to lead the Presentation team for Messaging Security Products. This is a new team thats scheduled to be spun off from a larger team in the new year, focusing on our Portal Dashboards and other components our customers interact with, responsible for the frontend  backend layers. The ideal candidate will have worked across the stack, has in-depth knowledge about frontend development and can work autonomously on the backend API layer.  
+ 
+What you will do 
+ 
+
+Work with the Engineering Manager  Product Manager to craft the roadmap for the MSP Presentation team. 
+Architect efficient and reusable front-end systems that drive complex web applications
+Implement features and user interfaces to better demonstrate Abnormals value to our customers. 
+Identify and resolve performance and user interface issues
+Provide guidance and mentorship for junior members of the team 
+Raise the bar of excellence in engineering, actively contributing to knowledge sharing within the team and participating in professional development activities.
+
+ 
+Must Haves 
+ 
+
+BS degree in Computer Science, Electrical Engineering or other related engineering field
+5 years experience designing and building full stack web applications
+1 years as a techteam lead for a team developing end-user facing features
+Expert on JS, Typescript, React, Redux
+Familiarity with Python
+Youre growth driven  looking to increase impact  responsibility over time
+
+ 
+Nice to Have 
+ 
+
+MS degree in Computer Science, Electrical Engineering or other related engineering field
+Familiarity with our backend stack - Django, PostgresMySQL, AWS
+Startup or Cybersecurity Experience
+
+ 
+LI-ML1

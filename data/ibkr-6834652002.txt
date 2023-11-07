@@ -1,0 +1,54 @@
+Job Description and Responsibilities:
+ 
+We seek a highly skilled Mobile Support Engineer with expertise in creating custom-branded builds to join our dynamic team. As a Mobile Support Engineer, you will develop and deliver customized mobile applications focusing on branding and visual customization. Your primary goal will be to ensure that our mobile applications are aligned with clients unique brand identities, providing them with a seamless and tailored user experience. 
+ 
+Responsibilities
+
+Collaborate with clients, project managers, and development teams to gather requirements for custom-branded builds.
+Customize mobile applications by implementing branding elements like logos, color schemes, fonts, and UIUX components.
+Develop and understand client brand guidelines deeply and ensure all visual elements align with their brand identities.
+Optimize application performance and user experience by thoroughly testing and debugging custom-branded builds.
+Ensure timely delivery of custom branded builds, meeting project deadlines and client expectations.
+Collaborate with cross-functional teams to integrate custom-branded builds into existing mobile platforms and frameworks.
+Stay updated on the latest industry trends, tools, and technologies related to mobile application development and branding.
+
+Qualifications
+
+Bachelors degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).
+Proven experience in mobile application development, with expertise in customizing branding elements.
+Familiarity with App Store and App Store Connect 
+Familiarity with Scripting languages, primarily Python
+Nice to have: knowledge of mobile platforms such as iOS and Android, including development frameworks and SDKs.
+Nice to have: proficiency in programming languages like Swift, Objective-C, Java, Kotlin, or React Native.
+Experience with mobile UIUX design principles and ability to create visually appealing and user-friendly interfaces.
+Familiarity with version control systems (e.g., Git) and agile development methodologies.
+Excellent problem-solving skills and ability to troubleshoot technical issues in mobile applications.
+Strong communication skills and ability to collaborate effectively with cross-functional teams and clients.
+Attention to detail and a keen eye for design aesthetics.
+Ability to manage multiple projects simultaneously and work in a fast-paced, deadline-driven environment.
+
+Preferred Qualifications
+
+Experience working with diverse clients across different industries.
+Familiarity with continuous integration and deployment (CICD) pipelines.
+Knowledge of mobile security best practices.
+
+Join our team and take part in shaping the mobile experiences of our clients by creating custom-branded builds that align with their unique brand identities. Apply today by submitting your resume, cover letter, and any relevant portfolio demonstrating your expertise in mobile application customization.
+Company Benefits  Perks: 
+
+Competitive salary package.
+Performance-based annual bonus (cash and stocks).
+Hybrid working model (3 days officeweek).
+Group Medical  Life Insurance.
+Modern offices with free amenities  fully stocked cafeterias.
+Monthly food card  company-paid snacks.
+Hardshipshift allowance with company-provided pickup  drop facility
+Attractive employee referral bonus.
+Frequent company-sponsored team-building events and outings.
+
+ Depending upon the shifts.
+The benefits package is subject to change at the managements discretion.
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

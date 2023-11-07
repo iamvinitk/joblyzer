@@ -1,0 +1,32 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Test Environment Infrastructure  Frameworks team is responsible for accelerating Stripes developers and providing a happy experience. We work on tools, processes, and code refactoring to accelerate Stripe engineering as Stripe scales.
+The team has three main areas of responsibility. Our mission encompasses optimizing our QA infrastructure environment, advancing the capabilities of the Synthetics tool, and facilitating effective service-to-service testing. Through these efforts, we aim to improve the reliability of Stripes systems and platforms, enhance the quality of deliverables, and ultimately foster a more efficient and innovative development process.
+What youll do
+You will be responsible for defining and driving the core feature set of the platform, as well as the user experience of using the platform. The scope includes engineers who iterate on features locally, and engineers who run end-to-end tests in any supported deployment environment such as QA or pre-production.
+Responsibilities
+
+Build large scale distributed systems, tools and libraries that serve as the interface to QA and testing infrastructure for all of Stripes engineering teams
+Maintaining and evolving existing distributed, and local, services.
+Collaborating with engineers on the team, as well as cross-functional stakeholders, to develop prototype solutions for domains which are underserved by existing tooling.
+Design, build, and maintain distributed cloud infrastructure services
+Participate in roadmap planning and prioritization
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+4 years of professional, full-time software development experience
+Experience designing, developing, maintaining and debugging distributed systems built with open source tools.
+Experience writing high quality code in a major programming language, preferably Ruby, Java.
+Experience building developer productivity tools (CICD, Testing tools ..) , and empathy for the end users
+
+Preferred qualifications
+
+Experience optimizing the end to end performance and reliability of distributed Systems.
+Experience working with infrastructure as a code tool, preferably terraform.
+Proficiency in either Java or Ruby.
+Excellent communication skills and the ability to work well in a collaborative environment.
+Experience leading other engineers is a plus.

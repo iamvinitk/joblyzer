@@ -1,0 +1,74 @@
+Nous croyons que la collaboration et la qualit de notre travail sont optimales lorsque nous partageons un environnement physique commun. Chez Unity, nous avons adopt une approche hybride qui favorise la cohsion et la connexion, tout en conservant les avantages de la flexibilit. Nos employs sont demands de travailler depuis nos bureaux en moyenne 3 jours par semaine, sauf en cas daccord contraire avec lentreprise ou dispositions spcifiques dans leur contrat de travail.
+Lopportunit
+Chez Unity, nous avons la passion du jeu. Nous aimons offrir aux crateur(rice)s professionnel(le)s et indpendant(e)s la plateforme par excellence qui leur permettra de donner vie  leurs ides. Chaque mois, des milliards de personnes  travers le monde dcouvrent les incroyables jeux raliss avec Unity, favorisant ainsi la russite des dveloppeur(se)s et le plaisir des joueurs(se)s.
+Le gestionnaire des paquets de Unity a pour rle de renforcer les capacits des crateur(trice)s  crer, partager et exploiter les extensions qui acclrent et facilitent la cration de leurs projets. Lquipe du gestionnaire des paquets collabore avec de nombreuses quipes internes pour leur fournir les outils dont ils ont besoin pour faire de leur vision une ralit!
+Vous tes un(e) dveloppeur(se) expert(e) en back-end et server-side et vous aimez la collaboration? Si cest le cas, nous aimerions vous rencontrer.
+Ce que vous allez faire
+
+Dvelopper et faire voluer lapplication du gestionnaire de paquets et le magasin dactifs de Unity, en mettant laccent sur les partenaires importants
+Assister et soutenir les quipes internes de Unity  travers le monde
+Travailler en troite collaboration avec les membres de lquipe et les dveloppeurs dautres quipes
+Piloter des initiatives qui sefforcent damliorer et de transformer la gestion des paquets
+Redfinir et crer la prochaine gnration de lcosystme Unity
+
+Ce que nous recherchons
+
+Des comptences confirmes en matire de dveloppement de logiciels (NodeJS, C, C)
+Une capacit  laborer des solutions pour rsoudre des problmes complexes
+Une aptitude  nouer des liens avec des personnes du monde entier
+Un dsir et un intrt pour le travail en quipe
+Une attention exceptionnelle  la qualit
+
+Vous avez peut-tre galement
+
+Une exprience de travail avec ou sur dautres systmes de gestion de paquets
+Une exprience de travail sur des paquets ou des actifs Unity
+Une passion pour travailler sur un projet qui fera la diffrence pour des millions dutilisateurs!
+
+La vie chez Unity
+Unity (NYSE: U) est la plateforme la plus utilise au monde pour la cration et lexcution interactive de contenu 3D en temps rel (RT3D). Des crateur(rice)s, notamment des dveloppeur(se)s de jeux vido, des artistes, des architectes, des concepteur(rice)s automobiles, des cinastes et bien dautres professionnel(le)s, utilisent Unity pour donner vie  leurs projets. Unity constitue la base sur lesquelles sont crs les contenus numriques les plus remarquables au monde. Plus prcisment, la plateforme de Unity offre un ensemble complet de solutions logicielles pour crer, excuter et montiser du contenu interactif 2D et 3D en temps rel pour les tlphones mobiles, les tablettes, les ordinateurs, les consoles et les appareils de ralit augmente et de ralit virtuelle.
+Au quatrime trimestre de lanne 2022, plus de 70 des 1000 meilleurs jeux mobiles qui ont t fait avec Unity sont drivs dun nombre combin des 1000 meilleurs jeux du Google Play Store et de lApp Store dApple. En 2022, les applications Made with Unity ont eu plus de 4 milliards de tlchargements par mois. Pour en savoir davantage, veuillez consulter le site www.unity.com.
+Unity est un employeur fier de garantir lgalit des chances. Nous nous engageons  favoriser un environnement inclusif et innovateur et  clbrer nos employs  travers lge, lthinicit, la couleur, lascendance, lorigine nationale, la religion, le handicap, le sexe, lidentit ou lexpression de genre, lorientation sexuelle ou tout autre statut protg conformment  la loi applicable. Nos diffrences sont des forces nous permettant de rpondre aux besoins croissants et volutifs de nos clients, partenaires et collaborateurs. Veuillez remplir ce formulaire si vous ncessitez des accommodations particulires pour rendre votre exprience dentrevue agrable et positive.
+Ce poste exige que son ou sa titulaire possde une connaissance de langlais qui soit suffisante pour lui permettre davoir des changes professionnels verbaux et crits dans cette langue, puisque laccomplissement des tches lies  ce poste ncessite des communications frquentes et rgulires avec des collgues et partenaire situs  lchelle mondiale et dont la langue commune est langlais
+Les chasseurs de ttes et les agences de recrutement ne peuvent pas soumettre rsumesCV par ce site Web ou directement aux superviseurs. Unity naccepte pas des chasseurs de ttes non sollicits et des rsums (CV) dagence. Unity ne payera pas dhonoraires  aucune agence tierce ou entreprise qui na pas sign dententes avec Unity.
+Le support  la relocalisation nest pas disponible pour ce poste.
+La sponsorisation de visa de travail nest pas disponible pour ce poste.
+La protection de votre vie prive est importante pour nous. Veuillez prendre un moment pour consulter nos politiques de confidentialit pour les prospects et les candidats. Si vous avez des questions concernant la protection de votre vie prive, veuillez nous contacter  DPOunity.com.
+
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+At Unity, we are passionate about gaming, and we love that we provide professional and indie creators with the leading platform to bring their ideas to life. Monthly, billions of people around the world discover incredible games that are Made with Unity, enabling the success of developers and the delight of game players.
+Unitys package manager empowers creators to build, share and leverage extensions that accelerate and facilitate the creation of their projects. The package manager team collaborates with numerous internal teams to supply them with the tools they need to make their vision a reality!
+Are you an expert backend and server-side developer with a collaborative approach? If so then wed love to speak to you.
+What youll be doing 
+
+Develop and evolve Unity package manager application and asset store, focusing on important partners
+Help and support Unitys internal teams across the world
+Work closely with team members and developers of other teams
+Drive initiatives that strive to improve and transform package management
+Redefine and build of the next generation of Unitys ecosystem
+
+What were looking for 
+
+Proven skills in software development (NodeJS, C, C)
+Craft solutions to sophisticated issues
+Ability to connect with people from all over the world
+Desire and interest for teamwork
+Phenomenal attention to quality
+
+You might also have
+
+Experience working with or on other package management systems
+Experience working on Unity packages or assets
+A passion in working on a project that will make a difference for millions of users!
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Relocation support is not available for this position.
+Work visaimmigration sponsorship is not available for this position.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+SEN LI-JR2

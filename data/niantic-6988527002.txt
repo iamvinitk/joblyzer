@@ -1,0 +1,42 @@
+Niantic Labs, creator of Ingress and Pokmon GO, is seeking a Content Game Designer to help build meaningful gameplay experiences that delight and engage our players. Were a fast-moving, multi-disciplinary team of software developers and creative professionals based in San Francisco and Seattle. You will be responsible for using content, game mechanics, and systems to piece together a compelling LiveOps plan and seasonal narrative for Pokmon GO, helping merge the virtual with the real world and inspiring people to explore the world, together.
+Responsibilities
+
+Build, test, and tune game rules for live operations and seasonal gameplay in Pokemon GO.
+Create one-page designs, content drafts and game design process documentation.
+Communicate content requirements, implementation processes, risks, and interactions.
+Collaboratively identify and implement new ways to utilize content to keep the game fresh and engaging for players.
+Collaborate with IP holders to ensure brand integrity.
+Partner with producers, designers, artists, engineers and marketing to deliver compelling live service experiences.
+Work with a cross-functional team to build and run global live events.
+Be available for on-call troubleshooting for live events.
+Collaborate with cross-functional team members and stakeholders, including regular and reliable attendance and participation in meetings.
+Required in-office 2 days on Wednesday and Thursday.
+
+Qualifications
+
+3 years designing and managing content for a live mobile game.
+Extensive content creation experience, completing implementation from concept to delivery.
+Experience with game balance and pacing in a free-to-play economic model.
+Expertise with spreadsheets and in manipulating, summarizing, and maintaining large data sets.
+Excellent verbal and written communication.
+Passion for video games; a passionate gamer with a solid understanding of mobile games.
+Solid knowledge base of Pokmon GO and the general Pokmon franchise.
+Have worked on a high profile game with a significant amount of daily active users.
+Ability to work in a fast-paced hybrid environment and handle stress appropriately andor ability to solve practical problems and be sufficiently adaptable to handle dynamic situations with little advance notice. 
+Experience working on cross-functional teams with ability to communicate effectively through written and verbal communications, including synchronous interactions with others.
+
+Plus If...
+
+Experience with AR games or features.
+Experience with prototyping data models.
+Proficiency in Unity game development.
+Proficiency in scripting or tools writing.
+Experience in other related fields such as user interface design, art, programming or sound.
+
+The total compensation package for this position includes a new hire offer base salary range of 112,000 - 130,000  bonus  equity  benefits.
+Individual pay within this salary range is determined by work location and additional factors, including assessed job-related skills, experience, and relevant education or training. Your recruiter can answer any questions about new hire total compensation during the hiring process. An overview of benefit offerings for your location can be found on the careers page.
+Join the Niantic team!
+Niantics global-scale augmented reality platform and digital map powers spatial computing experiences in the real world. Incubated out of the Maps team at Google, Niantic first created Ingress and then Pokmon GO, a cultural phenomenon and hit game played by tens of millions of people each month. Niantics Lightship platform, which powers Pokmon GO, also supports the companys other games including Pikmin Bloom, Peridot and Monster Hunter Now. Developers use Niantics platform to build their own AR applications and experiences, either with the Lightship Platform or directly through the web with 8th Wall.
+We believe that cultivating a workplace where our people are supported and included is essential to creating great products our community will love. Our mission emphasizes seeking and hiring diverse voices, including those who are traditionally underrepresented in the technology industry, and we consider this to be one of the most important values we hold close.
+Niantic is a hybrid first company. We believe that in person interaction and collaboration fosters creativity, a sense of community, and is critical to our future success as a company. Our hybrid work schedules allow for a mix of remote and in-office work.
+Were a hard-working, fun, and exciting group who value intellectual curiosity and a passion for problem-solving! We have growing offices located in San Francisco, Sunnyvale, Palo Alto, Bellevue, Kansas, London, Tokyo, Hamburg, Hyderabad, and Zurich. LI-HYBRID

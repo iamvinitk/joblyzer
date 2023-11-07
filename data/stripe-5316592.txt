@@ -1,0 +1,34 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+WPP is organized into two pillars, each of which is grouped into pods that focus on the central tenets of Stripes public mission. The Presence pillar creates industry-leading designs for Stripes front door surfaces, educates customers about the power of our platform, and drives our business success. The Platform pillar builds the internal machinery that powers these surfaces, and is responsible for making our websites fast, stable, and easy to modify.
+Together we design and build stripe.com and other sites that amount to what is, for many, their first impression of Stripe. As such, WPP offers exciting opportunities to have a major impact on Stripes success. We want to make every pixel count, we want it to be enthralling, and we want to help other Stripes seamlessly benefit from our systematic work.
+ 
+What youll do
+As a Design Engineer you will have the breadth to design, concept, prototype, and build new experiences for our web presence. Youll bring your creativity and expertise to the full range of the Stripe brand, across evergreen pages as well as time-based campaigns. Youll both utilize and contribute to our libraries and design systems, and when appropriate work outside established systems to create new digital moments.  Youll constantly have in-browser performance in mind, and create abstractions that other designers and engineers consume and build upon.
+All Design Engineers in WPP have a shared commitment to user experience and craft, but each pod has subtly different focus areas. The Storytelling pod leverages design, animation, and interaction to explain Stripe and educate our users across the primary Stripe.com surfaces. The Moments pod focuses on creating events and reinforcing brand moments outside of the core Stripe.com identity, with ownership including Stripe Sessions, Stripe Press, and Link.
+Responsibilities
+
+Collaborate with our teams designers to prototype and implement web animations and interaction-heavy sites and experiences
+Work closely with other design engineers, pairing, mentoring, and continually building a culture of excellence
+Design and build entire web experiences, including campaigns, event promotions, standalone microsites, and sections of our core sites
+Concept and prototype UX components and motion studies
+Comfortably operate within established design systems as well as creating new experiences outside of systems
+Build high-performance web pages
+
+ 
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+5 years of relevant web front-end development or creative technology experience at a tech-forward, product-driven company
+Advanced knowledge of modern HTML and CSS
+Experience writing clear, elegant code in a team environment
+A zeal for the web as a storytelling medium, demonstrable through a portfolio of design work and frontend code showcasing design systems, engaging microsites, Figma plugins, webGL experiments, CSS art, or anything else—you tell us
+Experience designing and building public facing websites that work elegantly across commonly used browsers and devices
+
+Preferred qualifications
+
+A good understanding of the formal elements of design, not just limited to the web and including typography, layout, balance, and proportion
+Experience with campaigns, events, or registration platforms

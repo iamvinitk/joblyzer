@@ -1,0 +1,22 @@
+As a member of the Kubernetes product team, you will build the operators and addons; the former, offering complete lifecycle management of mission-critical components, and the latter, a zero-ops experience for seamlessly integrating projects into your Kubernetes.
+You will gain familiarity with the latest features in Kubernetes and look to incorporate the best of open-source to bring functionality to our end-users. You will collaborate with industry peers and partners to bring the right solutions to our customers.
+This is an exciting opportunity for a software engineer passionate about open source software, Linux, Python, Golang and Kubernetes. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.
+What youll do
+
+Write high-quality code to create new features
+Debug issues and interact with a vibrant community
+Collaborate proactively with a distributed team
+Work with helpful and talented engineers including experts in many fields
+Work from home with global travel 2 to 4 weeks for internal and external events
+
+Who you are
+
+You are a Python programmer with interest or experience in Golang
+You have experience with Kubernetes
+You have strong written and verbal communication skills
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You love technology and working with brilliant people
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-Remote Stack

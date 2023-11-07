@@ -1,0 +1,46 @@
+About AppLovin
+AppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end software and AI solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.
+To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.
+Fortune recognized AppLovin as one of the Best Workplaces in the Bay Area 2022, and is a Certified Great Place to Work in 2021, 2022 and 2023. Check out the rest of our awards HERE.Introduction:
+Data driven decision-making is integral to marketing, game development and operations at Applovin. Were looking for sharp, disciplined, and highly quantitative machine learning engineers with big data experience and a passion for digital marketing and game technologies to help drive informed decision-making. You will work with top-talent and cutting edge technology on, for example, but not limited to, performance marketing and next-generation games and have a unique opportunity to turn your insights into products influencing billions of users. The potential candidate will have an extensive background in distributed training frameworks, will have experience to deploy related machine learning models end to end, and will have some experience in data-driven decision making of machine learning infrastructure enhancement. This is your chance to leave your legacy and be part of a highly successful and growing company!
+What youll be doing:
+
+Architecture, build, and maintain scalable and efficient machine learning model serving infrastructure using C and other programming languages as needed.
+Collaborate with data scientists and other engineers to design and implement machine learning modeling frameworks (PyTorchTorchServe, TensorflowTF Serving, etc).
+Develop and implement data processing  DNN training  model persistence end to end pipelines for large-scale data sets using distributed cloud computing technologies.
+Design and implement testing and monitoring tools to ensure the quality and reliability of machine learning systems.
+Work with other engineering teams to integrate machine learning systems into our products and services.
+
+Your background and who you are: 
+
+MS or Ph.D. in Computer Science, Software Engineering, Electrical Engineering, or related fields.
+5 years of experience in developing machine learning infrastructure using C and Python.
+Experience with GPUTPU model inference and serving.
+Experience with distributed computing technologies such as Hadoop, Spark, or Kafka.
+Strong knowledge of software engineering principles, algorithms, and data structures.
+Good understanding of machine learning algorithms and techniques, including deep neural networks.
+Excellent communication and collaboration skills, able to work in a fast paced environment.
+
+Preferred Qualifications:
+
+Contributions to open source (e.g., CpythonR packages) would be a plus.
+Familiar with AdTech Real Time Bidding space.
+Motivation to make downstream modelers work smoother.
+
+Perks:
+
+Competitive salary and equity compensation
+Free medical, dental, and vision insurance
+Work from home stipend each paycheck
+401k matching and employee stock purchase plan
+Flexible time off - take time when you need it
+AppLovin provides a competitive total compensation package with a pay-for-performance rewards approach.
+
+ 
+The expected base pay range for this CA based position is 167,000 - 266,000. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical and other benefits.AppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.Bay Area base pay range; Total compensation package commensurate with experience167,000—266,000 USDAppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here.
+ 
+If you need assistance andor a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at accommodationsapplovin.com.
+ 
+AppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law.  If youre applying for a position in California, learn more here.
+ 
+If you are a California resident, read our CA Privacy Notice to learn more about how AppLovin processes your personal information.

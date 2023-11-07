@@ -1,0 +1,16 @@
+
+ABOUT WINDELIVERYWe are a rapidly growing Food Delivery tech company that is always looking for talented new team members. Join our innovative team with an ambitious roadmap, as an integral part of the companys mission to become leaders in the Food Delivery sector,collaborating with major brands across EMEA.
+ 
+WHATS IN OUR TOOLBOX? AWS, Node, Angular, Flutter, Python, Git, Terraform
+WHAT YOULL DO Participate in impactful technical projects that shape our business. Develop software using modern engineering approaches and agile principles. Scale our technology and team as the business expands. Work with your team members and other stakeholders to gather requirementsand design and develop backend solutions that meet those requirements. Take ownership of your deliverables from start to finish, delivering high-qualitysolutions. Actively participate in technical decisions and product experimentation. Collaborate proactively with colleagues, fostering a supportive environment formutual learning and growth.
+ 
+ 
+WHAT WERE LOOKING FOR
+ Bachelors degree in Computer Science or a related field, with 3 years of BackendDevelopment experience, with strong focus on Node  TypeScript.
+ Strong experience diagnosing and resolving performance problems in complexsoftware systems. Proficiency in other high-level programming languages. Experience with AWS Stack, specifically Lambdas, EC2, APIGateway, and PostgresDatabase. Experience in developing Node APIs. Knowledge of Python is a plus. Proficiency in Agile methodologies and collaboration within multifunctionalteams. Experience in remote work environments. Solid understanding of Jira and Confluence for task management anddocumentation. Good written and verbal communication skills in English (Minimum B2 level). Strong preference for collaborative working relationships, valuing collaborationwith teammates, other engineering teams, and stakeholders.
+ 
+EXPERIENCE THE WINDELIVERY LIFE Join a dynamic company that is a benchmark in the sector, with significantexpansion opportunities and an open, transparent work culture and philosophy. Youll be part of a proactive, enthusiastic team that enjoys daily work, inspiringand motivating others. Flexible hours. We support work-life balance, trusting our employees and theirresponsibility. Training and specialization plans. Teambuilding events. Company that encourages open communication, where you can express yourselfand share your opinions and concerns. Focus on the work environment and the well-being of our employees: freebirthday leave (HOM Day), December 24th and 31st (Wind Days), office fruit,coffee, library, recreational and chill out areas, etc.
+ 
+OUR VALUES Gas: We work hard with energy and passion for what we do. Care: We act in the best interest of a sustainable future. Good Vibes: We always find the positive side in every situation, acting withfairness and honesty. Stay Humble: We embrace mistakes and feedback to learn from them. Winnership: We roll up our sleeves and get work done, regardless of our positionand level. High Bar: We focus on top performance.If you resonate with these values, we look forward to meeting you at WinDelivery!
+
+ 

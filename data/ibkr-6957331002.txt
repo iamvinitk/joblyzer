@@ -1,0 +1,53 @@
+
+Position
+Interactive Brokers is looking for a software engineer with iOS expertise to spearhead the development of a new educational app. This greenfield project promises a great impact on global financial literacy, offers high visibility, and requires the ability to work autonomously. If you are adept at crafting mobile applications and user interfaces with the iOS SDK, backed by solid proficiency in Swift or Objective-C, you might have found your next big opportunity.
+ 
+Here, youll be challenged to develop cutting-edge solutions in an energetic startup-like environment within a small group alongside a robust team of professionals.
+ 
+The project youll be involved in is not just about coding; its about revolutionizing how financial education is delivered through interactive digital means. As our mobile application developer, you will have full ownership of your role, driving innovation and ensuring the highest standards in software development.
+ 
+Responsibilities
+
+Drive the development and launch of a brand-new educational app from scratch.
+Create robust high-volume production applications and develop prototypes quickly.
+Collaborate with engineering teams from Interactive Brokers other global offices.
+Tackle user interface challenges, especially those involving access to extensive educational content and data.
+Solve problems across different areas, extending assistance to backend developers when necessary.
+
+ 
+Qualifications, Skills  Attributes
+Minimum qualifications:
+
+BAMA degree in Computer Science or related technical field from a reputable institution
+Three-plus years of relevant experience developing mobile applications with Swift or Objective-C
+Self-motivated and able to handle tasks with extensive autonomy
+Superb analytical and problem-solving skills
+Fluency in spoken and written English
+Ability to integrate into and thrive within a global team
+
+ 
+Preferred qualifications:
+
+Working experience with Git, REST APIs, Debugging, and Testing tools
+A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design
+Ability to perform under pressure in time-critical situations using sound judgment and professionalism and switch tasks as needed
+Desire to be at the forefront of technology, driven by a tech-centric career ambition
+
+ 
+Company Benefits  Perks
+
+Discretionary annual bonus (cash and stock)
+Private healthcare insurance
+Free recreational pass (AYCM XL package)
+Daily food allowance in the office
+Monthly BKK pass
+Hybrid way of working (2 days home officeweek)
+Modern office in the heart of Budapest with free amenities
+Great atmosphere with friendly and exceptional colleagues and frequent company outings
+
+ 
+The benefits package will be reviewed regularly and may be subject to change.
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

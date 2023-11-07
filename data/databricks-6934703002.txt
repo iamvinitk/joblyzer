@@ -1,0 +1,45 @@
+FEQ125R2
+While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations.
+At Databricks, our core values are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science, data engineering, and data analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward and drive innovation. Databricks Lakehouse makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement. You will be an essential part of this mission, using your technical expertise and business acumen to demonstrate how our Lakehouse Platform can help customers solve their complex data challenges and deliver business value. Youll work with a collaborative, customer-focused team who values innovation and creativity, using your skills to create customised solutions to help our customers achieve their goals and guide their businesses forward. 
+This role will give you the opportunity to grow your existing skills and build your personal brand within the Data and AI space - be that by access to cutting-edge technical training, attending and presenting at relevant public events, or by being a vocal advocate for the Lakehouse Architecture. Join us in our quest to change how people work with data and make a better world!  The role is reporting to the Manager, Field Engineering.
+The impact you will have:
+
+Form successful relationships with clients across the Energy, Manufacturing, or industrial sector, providing technical thought leadership to Databricks customers all the way up to the C-suite in collaboration with Account Executives.
+You will create compelling value narratives that highlight the business value and innovation that Databricks can bring to your customers.
+Operate as an expert in big data analytics to excite customers about Databricks. You will develop into a champion and trusted advisor on multiple issues of architecture, design, and implementation and drive the successful adoption of the Databricks Lakehouse platform.
+Scale best practices and support customers by authoring reference architectures, how-tos, and demo applications, and help build the Databricks community by leading workshops, seminars, and meet-ups.
+Grow your knowledge and expertise to the level of a technical andor industry specialist across one of the Energy, Manufacturing, or Industrial sectors.
+
+ 
+What we look for:
+
+Individuals who can engage customers in technical sales, challenge their questions, guide clear outcomes, and communicate technical and value propositions.
+Develop customer relationships and build internal partnerships with account executives and teams.
+Prior experience with coding in a core programming language (i.e., Python, Java, Scala) and willingness to learn a base level of Spark.
+Demonstrable success in a previous pre-sales role or Industry domain knowledge
+Proficient with Big Data Analytics technologies, including hands-on expertise with complex proofs-of-concept and public cloud platform(s).  
+Experienced in use case discovery, scoping, and delivering complex solution architecture designs to multiple audiences requiring an ability to context switch in levels of technical depth.
+Nice to have: Databricks Certification
+
+Benefits
+
+Private medical insurance
+Private dental insurance
+Health Cash Plan
+Life, income protection  critical illness insurance
+Pension PlanEquity awards
+Enhanced Parental Leaves
+Fitness reimbursement
+Annual career development fund
+Home office  work headphones reimbursement
+Business travel accident insurance
+Mental wellness resources
+Employee referral bonus
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

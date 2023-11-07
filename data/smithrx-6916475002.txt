@@ -1,0 +1,49 @@
+Who We Are:
+SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting-edge technology, innovative cost-saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country.
+We pride ourselves on our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values:
+
+Integrity: Do the right thing. Especially when its hard.
+Courage: Embrace the challenge.
+Together: Build bridges and lift up your colleagues.
+
+Job Summary:
+The Engineering team at SmithRx is developing the next-generation modern pharmacy benefits management (PBM) platform that will change how companies administer and manage pharmacy benefits. Our unified technology platform provides real-time actionable insights that drive cost savings, power clinical services, and result in a brilliant customer experience. A unified technology platform exists nowhere else in the pharmacy benefit ecosystem to programmatically solve widespread deficiencies. SmithRx delivers unmatched service quality and operational efficiencies that exceed all industry standards.
+As a Senior Product Manager, you will play a pivotal role in leveraging your Product expertise to set the Product strategy and ideating on your hypothesis to define and deliver an innovative and intuitive product that delights the customer and meets the business impact. With your ownership mindset and high accountability you will step up to collaborate with business stakeholders and customers and translate their needs into detailed requirements with clear prioritization and tight partnership with design, eng and program to execute the solution with high quality and on time delivery. 
+What You Will Do:
+
+Lead Product Strategy to build delightful products catering to customer and business value prop in collaboration with the tech team and stakeholders.  
+In this role, you will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds
+Collect, analyze and report on data and make adjustments to development plans as needed to land the outcomes and impact and meet the OKRs.
+Customer focused, understanding the needs and representing the voice of the consumer throughout the development process.
+Responsible for guiding products throughout the execution cycle, focusing specifically on analyzing, positioning, packaging, promoting, and tailoring our solutions to our users
+Lead PRDs by collaborating with tech teams (e.g., engineers, PgMs, UX) and other stakeholders (Marketing, Biz etc) during product design and development to implement the requirements to turn PRDs into OKRs for multiple teams
+Own and define project roadmaps to deliver the products.
+Drive development and secure buy-in for a product vision that identifies, defines, and supports the overall product narrative and direction, achieving an outcome that is greater than the sum of its parts
+Manage validation of market size and opportunity (e.g., user-based, strategic opportunity, revenue)
+Lead and harmonize processes to define, identify, collect, and track appropriate product or business metrics, both quantitative and qualitative for new or existing products or business ventures
+Have ownership of the roadmap, get stakeholder buy-ins and execute against it for delivery. 
+Drive and influence Product Management excellence. 
+Have nimbleness to validate hypotheses quickly to land MVP while having strategy for subsequent iterations by translating complex business needs into actionable user stories, maintaining alignment with business and technology drivers.
+ 
+
+What You Will Bring to SmithRx:
+
+Bachelors degree in Computer Science.
+6 years of experience in product management, on technical products.
+Proven experience managing different personas and stakeholders and setting strategy and doing yearly and multi-quarter planning. 
+Experience in commercializing technical product launches and scaling them and a comfortable grasp of technical concepts and products.
+Knowledge in security and privacy considerations.
+Strong understanding of the software development life cycle and proficiency in Agile methodologies.
+Ability to collaborate effectively with engineering, non-engineering teams, and cross-functional stakeholders with effective communication. 
+
+What SmithRx Offers You:
+
+Highly competitive wellness benefits including Medical, Pharmacy, Dental, Vision, Life insurance.
+Flexible Spending Benefits.
+Discretionary Time Off.
+401(k) Retirement Savings Program.
+Commuter Benefits.
+Paid Parental Leave benefits.
+Professional development and training opportunities.
+
+If you are excited to be part of a dynamic team that is revolutionizing the healthcare industry and driving meaningful change, apply now to join us as a Senior Product Manager at SmithRx.

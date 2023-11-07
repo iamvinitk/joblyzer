@@ -1,0 +1,49 @@
+See yourself at Twilio
+Join the team as our next Product Designer on our Design Systems team.
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+Although were headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. Were on a journey to becoming a globally anti-racist, anti-oppressive, anti-bias company that actively opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business. We employ thousands of Twilions worldwide, and were looking for more builders, creators, and visionaries to help fuel our growth momentum.
+About the job
+Twilio is seeking a Product Designer to join our Design Systems team. In this role, you will be empowered to create a best-in-class and inclusive-by-default UX platform, Paste, that helps designers and engineers express and build sophisticated user experiences. Your work will involve defining and designing robust, easy-to-use, and reusable components, patterns, and flows. Youll think platform-first, and prioritize high-quality communication and great documentation. Youll be part of creating a UX platform to power the next generation of the Twilio customer engagement platform, used by internal Twilions and Twilio customers.
+Responsibilities
+In this role, youll:
+
+Be curious, not judgmental. You will truly feel at home in this team if you approach your work with humility and curiosity, collaborate with fellow product designers and researchers, and are able to state your point of view with clarity.
+Youll create and maintain high-quality components and systems that are resilient and scalable so that all Twilions can deliver world-class customer experiences. Youll frequently evaluate the barriers to entry and implementation challenges that our product teams face, and find ways to make them better. Follow through on commitments, speak up when you see a problem, and offer to help when a team goal is at risk. 
+Conduct user research to improve and evaluate solutions for customers. Articulate customer-centric reasoning for design decisions. Youll write documentation to make the goals for your work clear, and to guide our product teams toward best practices.
+ Empathize with stakeholder needs and equip them with the tools required to succeed. Our culture is highly collaborative, and youll work closely with engineering, product design, and product management, among others, to create new user experiences and improve existing ones. Advocate for the needs of each user (not the average user) and commit to UI and systems that are accessible and approachable by all.
+
+Qualifications 
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+Required:
+
+Designs and ships high-quality user interfaces, components, and patterns in a systematic, detail-oriented way. Ensures the coded implementations are consistent with designs.
+Is proficient in maintaining component and style libraries in Figma.
+Has a solid understanding of visual design, typography, color, and hierarchy.
+Has a strong interest in creating beautiful, accessible experiences, and has an eagerness to learn and apply WCAG 2.1 AA guidelines.
+Uses research and evidence to improve and evaluate solutions for customers, developers, and designers.
+
+Desired:
+
+Has 4 years of industry experience and a related degree or equivalent experience in software interface design andor development. Bachelors or Masters in the field of Human Computer Interaction or Design is a nice to have.
+Experience at a SaaS software company serving B2B customers.
+
+Location 
+This role will be remote and based in Colombia.
+What We Offer
+There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+Twilio thinks big. Do you?
+We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. Thats why we seek out colleagues who embody our values — something we call Twilio Magic. Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts.
+So, if youre ready to unleash your full potential, do your best work, and be the best version of yourself, apply now!
+If this role isnt what youre looking for, please consider other open positions.
+ 
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

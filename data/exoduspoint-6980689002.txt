@@ -1,0 +1,29 @@
+ABOUT EXODUSPOINT
+ExodusPoint Capital, founded in 2017 by Michael Gelband and Hyung Lee, began managing investor capital in 2018. The firm employs a global multi-strategy investment approach, seeking to deliver compelling asymmetric returns by combining complementary liquid strategies managed by experienced investment professionals within a robust risk framework. ExodusPoint brings together an accomplished team with hands-on experience running multi-manager businesses to create an institutional investment management firm. 
+JOB DESCRIPTION
+We are seeking entry-level candidates to join the Quantitative Modeling (QM) team. The QM team is responsible for all aspects underlying the use of valuation and risk models for financial securities across asset classes. Moreover, many quantitative modeling applications rely ever increasingly on the use of historical and scenario data modeling. The ideal candidate will thus have a well-rounded educational andor professional background in financial engineering and data science (Machine Learning, Artificial Intelligence).
+Responsibilities:
+
+Development, testing and support of quantitative analytics and financial engineering libraries (CPython)
+Development of back-end analytics powering enterprise applications (monitors, dashboards, etc)
+Development of pre-trade tools for portfolio management
+Development of back-end analytics for risk management
+Development of end-user applications in Excel, Python
+Development of data-driven tools and time series products
+Support portfolio management teams on issues related to quantitative analytics
+Modeling of financial securities in a classical financial engineering context
+Empirical modeling of financial securities in a data science context
+
+Qualifications:
+
+MSc or PhD level qualification from a top university in a STEM discipline
+Intellectual maturity and scientific curiosity
+Well-rounded exposure to both applied mathematics and statistical learning
+Knowledge of front office pricing and risk models, across several asset classes
+Knowledge of data science, ML and AI techniques for financial securities
+Interest in working closely with front office tradersquantsrisk managers
+Interest for software development in C, Python and Excel
+Ability to learn new concepts, models and technologies quickly
+Ability to work independently and deliver high-quality work within tight deadlines
+
+ 

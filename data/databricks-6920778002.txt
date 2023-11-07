@@ -1,0 +1,53 @@
+CSQ224R42
+As a technical escalation manager, you will be responsible for coordinating the effort to resolve critical customer issues, customer impacting situations and major incidents. You will work with multiple teams internally (engineering, product management, Customer Success Engineering and Support) and externally (customers and partners) to effectively solve these customer impacting situations.
+The impact you will have here:
+
+Manage support escalation in partnership with engineering, product management, Customer Success Engineering, Support, Customers and Partners until resolution.
+Manage a disciplined customer-facing communication process for incidents and escalations by providing a timely RCA with the right set of details depending on the audience.
+Achieve customer satisfaction by ensuring incidents or escalations (and related cases)  are well and fully documented with timely execution of action items.
+Create and execute a data-driven customer get-well plan for every escalation and incident touched.
+Use business and technical skills to manage customer escalations, coordinate meetings, calls and deliverables, and interpret trends and patterns for reporting.
+
+
+Use data, metrics and feedback to make operational and tactical decisions to improve incidents and escalations management.
+Coordinate all the necessary resources required to fast-track and resolve new incidents and escalation from customers with a clear and detailed plan.
+Be an integral part of Engineering, support and account management team initiatives and meetings as required.
+Strengthen your AWSAzureGCP, Spark, PythonJavaScala and Databricks platform expertise through learning and internal training programs.
+Participate in weekend on-call rotations.
+Work closely with first party partners like Microsoft, GCP in defininghandling escalations.
+
+What are we looking for?
+
+Overall 5 years with a Minimum of 2 years of experience in customer support, support escalation and incident management is required.
+Enjoys working under pressure in a fast and high-performance environment.
+Work with a high degree of integrity, accountability, attention to detail, execution and planning expertise.
+Excellent contextual interpretation and writing skill with an effective ability to summarize and communicate to technical and business audiences is required.
+Demonstrates strong ability to make timely decisions for both business and technical perspectives.
+Understands proactive and reactive escalation management practices.
+Passion for customer service and escalation management
+Min 3 years of experience in designing or testing or maintaining PythonJavaScala-based applications in typical project delivery and consulting environments is required.
+Hands-on experience developing any two or more of the following: Big Data, Hadoop, Spark,Machine Learning, Artificial Intelligence, Streaming, Kafka, Data Science, ElasticSearch related industry use cases at the production scale.
+Hands-on experience in the performance tuningtroubleshooting of Spark-based applications at production scale.
+Proven and real-time experience in JVM and Memory Management techniques such as Garbage collections, HeapThread Dump Analysis is required.
+Working knowledge in Data Lakes and preferably on the SCD types use cases at production scale.
+Working and hands-on experience with any SQL-based databases, Data WarehousingETL technologies like Informatica, DataStage, Oracle, Teradata, SQL Server, MySQL
+LinuxUnix administration skills and Hands-on experience with AWS or Azure or GCP is required.
+Bachelors degree in Computer Science or a related field is required.
+
+Benefits
+
+Benefits allowance
+Employees Provident Fund
+Equity awards
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

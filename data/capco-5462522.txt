@@ -1,0 +1,35 @@
+ 
+A Capco  uma consultoria global de tecnologia e negcios, focada no setor de servios financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 32 escritrios nas Amricas, Europa e sia-Pacfico! Se criatividade e inovao so sua paixo, a Capco  ideal para voc. Vamos te apoiar e ajudar a acelerar sua carreira!
+Estamos  procura de um desenvolvedor back-end altamente habilidoso e apaixonado por tecnologia para integrar nossa equipe de desenvolvimento. Como desenvolvedor back-end, voc desempenhar um papel fundamental na criao e manuteno de sistemas robustos, escalveis e eficientes que suportam nossos processos de ETL (Extract, Transform, Load) e integrao de dados. Voc trabalhar com tecnologias modernas, incluindo microservios, NoSQL (MongoDB), arquitetura baseada em eventos e ferramentas de observabilidade para garantir que nosso sistema seja altamente observvel e fcil de depurar.
+Responsabilidades Principais:
+
+Desenvolver e manter servios e APIs back-end que suportem os processos de ETL e integrao de dados;
+Implementar solues de armazenamento de dados NoSQL, como MongoDB, para armazenar e consultar dados de forma eficaz;
+Projetar e implementar sistemas de integrao baseados em eventos para facilitar a comunicao entre os diferentes componentes do sistema;
+Trabalhar com protocolos FTP e lidar com arquivos posicionais para a troca de dados com parceiros externos;
+Garantir que o sistema de ETL seja altamente observvel, permitindo a fcil depurao de problemas e a monitorao de desempenho;
+Colaborar com equipes multidisciplinares para entender requisitos e garantir que as solues desenvolvidas atendam s necessidades de negcios;
+Realizar testes de unidade, integrao e aceitao para garantir a qualidade do cdigo;
+Manter a documentao tcnica atualizada e participar na reviso de cdigo;
+Ficar atualizado com as melhores prticas e tendncias em desenvolvimento back-end.
+
+Requisitos Tcnicos:
+
+Experincia comprovada em desenvolvimento back-end, preferencialmente em um ambiente de microservios com Linguagem Java e Spring Boot;
+Conhecimento slido em NoSQL, com experincia prtica em MongoDB;
+Experincia em desenvolvimento de sistemas ETL;
+Experincia com Cloud;
+Familiaridade com arquitetura baseada em eventos e ferramentas relacionadas;
+Conhecimento em protocolos FTP e manipulao de arquivos posicionais;
+Habilidade de escrever cdigo limpo, escalvel e de fcil manuteno;
+Familiaridade com linguagens de programao como Python, Node.js, Java, ou similares;
+Graduao em Cincia da Computao, Engenharia de Software ou rea relacionada;
+Ingls avanado (atuar em time internacional).
+
+POR QUE CAPCO:
+Juntar-se  Capco significa ingressar em uma organizao comprometida com um ambiente de trabalho inclusivo onde voc  incentivado a BeYourselfAtWork (Ser Voc Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a incluso, em todas as formas, so fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraramos saber o que o torna diferente!
+PRXIMOS PASSOS:
+
+Se voc est ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+
+ 

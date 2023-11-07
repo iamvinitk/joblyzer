@@ -1,0 +1,97 @@
+At Qualtrics, we create software the worlds best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers. When you join one of our teams, youll be part of a nimble group thats empowered to set aggressive goals and move fast to achieve them. Strategic risks are encouraged and complex problems are solved together, by passing the microphone and iterating until the best solution comes to light. You wont have to look to find growth opportunities—ready or not, theyll find you. From retail to government to healthcare, were on a mission to bring humanity, connection, and empathy back to business. Join over 6,000 people across the globe who think thats work worth doing.
+ 
+Systems Engineer
+ 
+Why We Have This Role
+ 
+
+Our team is a collection of extremely passionate engineers who are riding the cutting edge of cloud computing and web scalability. We organize and sort terabytes of data and develop solutions used by millions of users every day. We design tools that make sophisticated research simple. Our teams are empowered to choose technologies that are best to solve each problem. In our collaborative culture, you find plenty of opportunities to impact our full-stack product; from Web  mobile UI to data visualization  analysis to microservices APIs to data storage  processing.
+
+ 
+Things Youll Do
+ 
+
+
+Manage our observability platform, ensuring reliable systems monitoring and alerting
+Develop and maintain secure, high performing, scalable and cost-effective systems
+Be involved in architectural design decisions and drive system improvements
+Ensure on-time delivery of projects and creation of automated solutions for issue resolution
+Oversee platform lifecycle, document systems and participate in technical analysis
+Address complex problem-solving, including system feature design and complexity mitigation
+Monitor operational metrics and assist teams in resolving issues during incidents
+Collaborate across engineering teams to resolve issues and foster relationships
+Proactively address platform and infrastructure gaps by gathering feedback and setting standards
+Participate in on-call rotation and manage operational needs
+Guide and drive improvements across multiple teams within the organization
+
+
+ 
+What Were Looking For On Your Resume
+
+ 
+
+Proficiency in programming languages such as Python, Ruby, Go or Java
+Experience with distributed systems and microservices architectures
+Proven ability to troubleshoot complex issues, navigate through unfamiliar code, and quickly learn new technologies
+Strong experience with Linux OS and its administration
+Understanding of containerization technologies (Docker, Kubernetes)
+Excellent analytical and problem-solving skills
+Strong communication skills and ability to work effectively within a team and across various teams
+Leadership experience in driving initiatives across numerous teams
+
+
+ 
+Nice to have
+ 
+
+Hands-on experience with monitoring and logging tools: Splunk, Prometheus, Grafana, Elastic Stack, New Relic, Datadog
+Experience with Infrastructure as Code and automation tools (Terraform, Ansible, Puppet, Chef)
+Knowledge and practice of DevOps culture
+Experience in incident response and root cause analysis
+Familiarity with Chaos Engineering and Game Days
+Experience with distributed tracing systems (Jaeger, Zipkin)
+
+ 
+What You Should Know About This Team
+ 
+
+As a part of the Engineering Visibility (EngVis) team at Qualtrics, our goal is to empower all other teams to deliver top-notch, highly reliable products that our customers love. We are at the forefront of modern engineering, and provide invaluable expertise that helps minimize observability costs and maximizes reliability.
+We strive to be the go-to solution for all teams, guiding them to reduce time-to-market and create customer-focused solutions. We believe in closing the gap between cause and effect by providing robust monitoring and alerting services that everyone can rely on, allowing us all to concentrate on delivering outcomes that truly matter.
+Being on the EngVis team means being a crucial part of Qualtrics pursuit of engineering excellence at every step of the way. We are at the heart of the companys innovation, propelling teams to reach new groundbreaking heights.
+
+ 
+
+
+
+Our Teams Favourite Perks and Benefits
+
+
+Annual Leave: 20 or 26 annual leave days per annum plus an additional day for each year of service (to a max of 5).
+Private Medical Insurance- Luxmed health  dental cover for you and your dependants.
+Commuter Assistance- Up to the value of 80 PLN net a month for public transport.
+Savings Plan- Two company saving plans provided by Nationale Nederlanden: Employee Capital Plan (PPK)  Employee Saving Plan (PPO)
+QED PROGRAM- Qualtrics Engineer Development (QED) program: support, engineering learning activities up to 10 of engineering work time each quarter.
+Wellness- Up to the value of 800PLN gross per quarter can be reimbursed for a variety of wellness activities via our dedicated platform Twic.
+A choice of Multispot cards available.
+Our employee assistance program with Unum provides counselling and wellbeing support to all employees
+Experience bonus- 7000 PLN gross per annum. Qualtrics experience bonus is a program designed to provide experiences to our employees they might not otherwise have.
+Group Life  Income Protection Insurance
+GlassesContact lenses Reimbursement
+Free breakfasts, lunches, snacks, and drinks for everyone in the office
+Tax-deductible expenses (up to 75 depending on role)
+
+
+
+ 
+
+Qualtrics is an equal opportunity employer meaning that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic. Applicants in the United States of America have rights under Federal Employment Laws: Family  Medical Leave Act, Equal Opportunity Employment, Employee Polygraph Protection ActQualtrics is committed to the inclusion of all qualified individuals. As part of this commitment, Qualtrics will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please let your Qualtrics contactrecruiter know.
+ 
+Qualtrics Work Experience - As we look to the future, we believe that our teams are better together. Being together will help us learn more, grow faster and ultimately deliver better results for our customers and Qualtrics. Roles tied to an office location work 4 days per week in the office together and 1 day from home, with a strong spirit of flexibility around taking time for personal, health, and family moments in our work weeks. Our managers work with their teams to create a collaborative, engaged work environment, and arrangement that works for each of our team members.
+ 
+Not finding a role thats the right fit for now? Qualtrics Insiders is the one-stop shop for all things Qualtrics Life. Sign up for exclusive access to content created with you in mind and get the scoop on what we have going on at Qualtrics - upcoming events, behind the scenes stories from the team, interview tips, hot jobs, and more. No spam - we promise! Youll hear from us two times a month max with fresh, totally tailored info - so be sure to stay connected as you explore your best role and company fit.
+
+
+ 
+
+
+ 

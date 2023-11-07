@@ -1,0 +1,55 @@
+About the Company
+At Torc, we have always believed that autonomous vehicle technology will transform how we travel, move freight, and do business.
+A leader in autonomous driving since 2007, Torc has spent over a decade commercializing our solutions with experienced partners. Now a part of the Daimler family, we are focused solely on developing software for automated trucks to transform how the world moves freight.
+Join us and catapult your career with the company that helped pioneer autonomous technology, and the first AV software company with the vision to partner directly with a truck manufacturer.Meet the team:   
+The Safety and Security team ensures that Torcs products meet the highest safety and security standards. The Director of this group will provide senior-level leadership to the function charged with the definition, design, and development of critical elements of Torcs safety case across a wide array of engineering, product, safety, and legal teams. They will also interface with Torcs suppliers and partners to ensure safety and security homogeneity.   
+What youll do:   
+
+Provide leadership, direction and definition for the Safety Engineering function including planning, scheduling, coordination, and implementation 
+Develop and maintain best in class state of the safety framework 
+Define targets for product risk, reliability, availability, robustness, and security 
+Drive execution toward the target via validation and release strategies 
+Develop metrics to demonstrate release readiness and drive adoption via development cycle modifications 
+Assess technical quality of system, safety, and security artifacts 
+Lead team of technical experts and engineering managers  
+Effectively manage individual goals and objectives, performance, and employee development 
+Accomplish department objectives by supervising staff 
+Developing and monitoring work processes and organizing and monitoring work processes with the highest degree of quality and safety 
+Collaborate with executive leadership in engineering, PMO (Program Management Office), product management, System Engineering, Testing, Rigor and operations on workflows and artifacts 
+
+What youll need to Succeed:   
+
+Masters degree in computer science, Computer Engineering, Systems Engineering, or equivalent with 12 years relevant experience 
+7 years overall of proven experience in applying standards like ISO (International Standards Organizations) 26262, 21448 and 21434  
+Minimum 5 years performing personnel management activities including but not limited to performance planning and evaluations, corrective actions, and conflict resolution, recruiting and onboarding, and ensuring compliance to software policies and procedures 
+3 years experience leading engineers in the delivery of software centric solutions that include complex algorithm development and data models, with emphasis on best practices in coding standards, testing, and systems integration 
+Proven experience at advancing careers and technical development of experts and leadersmanagers  
+Proven experience in applying methods like STPA (Systems Theoretic Process Analysis), FMEA (Failure Mode and Effects Analysis), FTA, DRBFM, 3x5 Why 
+Excellent experience applying Agile principles (ScrumKanban)  
+Experience in software development, operating systems, development languages, and deployment of software products, or systems engineering including networking, database management, virtual environments, system design, integration, and maintenance 
+Exhibit excellent servant leadership characteristics and willingness to support the career growth of others 
+Exhibit excellent facilitation, technical team coaching, and critical systems thinking 
+Proficient knowledge of working with product andor quality managers, with understanding of business-level priorities 
+Excellent interpersonal, verbal, and written communication skills to build trust and strong working relationships, effectively create and proofread documents and reports, and communicate to a diverse workforce 
+Keen attention to detail to identify problems and processes that do not comply with protocol 
+Excellent time management and organizational skills to plan, develop, coordinate resources, prioritize effectively, and maintain competing demands simultaneously with frequent interruptions and in a fast-paced environment 
+
+Bonus Points:  
+
+Experience with AV (Autonomous Vehicle) and ADAS (Advanced Driver Assistance Systems) applications  
+Experience with production and series automotive safety critical projects 
+Experience with MLAI based products  
+Experience with data driven validationformal methods 
+
+Perks of Being a Full-time Torcr
+Torc cares about our team members and we strive to provide benefits and resources to support their health, worklife balance, and future. Our culture is collaborative, energetic, and team focused. Torc offers:  
+
+A competitive compensation package that includes a bonus component and stock options
+100 paid medical, dental, and vision premiums for full-time employees  
+401K plan with a 6 employer match
+Flexibility in schedule and generous paid vacation (available immediately after start date)
+Company-wide holiday office closures
+ADD and Life Insurance 
+
+Hiring Range for Job Opening US Pay Range226,400—271,700 USDAt Torc, were committed to building a diverse and inclusive workplace. We celebrate the uniqueness of our Torcrs and do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, veteran status, or disabilities.
+Even if you dont meet 100 of the qualifications listed for this opportunity, we encourage you to apply. Were always looking for those that are hungry, humble, and people smart and your unique experience may be a great fit for this role or others.

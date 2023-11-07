@@ -1,0 +1,41 @@
+ABOUT CAPCO
+Capco is a global technology and management consultancy dedicated to the financial services industry. We combine innovative thinking with unrivalled industry knowledge, to offer our clients consulting expertise, complex technology and package integration, transformation delivery and managed services to move their organizations forward.
+
+We specialize primarily in banking  payments, capital markets, wealth  asset management and insurance
+We have a collaborative and efficient approach
+We help our clients successfully innovate, increase revenue, manage risk and regulatory change, reduce costs and enhance controls
+We serve our clients from 32 offices across the Americas, Europe, and Asia Pacific
+
+If the mix of technology, engineering, consulting and delivery is your passion, then Capco is right for you to grow in an inclusive, diverse and collaborative environment. At Capco, we will train and support you to help accelerate your career.
+ 
+YOUR CAPCO DAY
+
+Advanced Software Development Experiences: Apply your advanced full-stack development skills to create and maintain cutting-edge financial software solutions tailored to the unique requirements of our clients. 
+Financial Domain Knowledge: Utilize your deep knowledge of finance, including regulations and IT trends, to ensure our software aligns with regulatory standards and enhances financial decision-making. 
+Cross-Functional Collaboration: Collaborate closely with cross-functional teams, including financial analysts, data scientists, and UIUX designers, to translate business requirements into modern software solutions. 
+Architectural Leadership: Lead the design and architecture of financial systems, ensuring scalability, reliability, and security, while optimizing performance and maintaining a focus on industry best practices.
+Mentorship and Team Development: Act as a mentor to junior engineers, providing guidance, code reviews, and fostering a culture of continuous learning within the development team. 
+
+ 
+YOUR CAPCO-FIT
+
+Educational Qualification: A degree in Computer Science, Software Engineering, or a closely related field at the bachelors or masters level.
+Proven Experience: A track record of at least five years of professional involvement in full-stack development, preferably in the financial sector or in consulting  
+Advanced Java Expertise: Extensive hands-on experience (5 years) and a strong command of Java programming, encompassing advanced expertise in Java frameworks and libraries. (Spring Framework, Spring Boot, SOAP  REST Webservices, JPAHibernate, SQL, Junit). 
+Java Design Pattern and Principles: Know the common Java design patterns and principles and feel confident in using them. (Singleton, Factory, Observer, Dependency InjectionInversion of Control (IoC), Interface Segregation Principle. 
+Cloud Expertise: Familiarity with one or more major cloud platforms like AWS, Azure, Google Cloud. Proficiency in using cloud-native services, such as compute, storage, networking and database solutions. Experience deploying Java applications in cloud environmentscontainer technologies and designing them to scale horizontally or vertically based on demand. Certification in cloud platforms (e.g. Azure Solutions Architect) is a plus. 
+Comprehensive Understanding of Software Architectures: A profound comprehension of modern software architectural frameworks, including microservices, serverless computing, or containerization, along with the capacity to implement these frameworks. 
+Proficient with Agile delivery methodologies: Experience in effectively applying agile delivery methodology, including a deep understanding of agile principles, iterative development, collaboration with cross-functional teams, and delivering high-quality software products in a dynamic and customer-centric environment. 
+Consulting experience: Ability to provide strategic guidance, solve complex technical challenges, and deliver tailored solutions while effectively communicating with clients and stakeholders.
+Problem-Solving and Innovative Thinking: A proven track record of addressing technical challenges, recognizing opportunities for innovation, and executing solutions that align with industry best practices. 
+Bilingual Proficiency: Proficiency in German and English is mandatory, ability to communicate fluently in French is a plus. 
+
+ 
+WHY CAPCO?
+A career at Capco is a chance to help reshape the competitive landscape in financial services. We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset, and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or  ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, Technical skills and soft skills training, both classroom and on the job, with support for external certifications, exceptional benefits in daily sickness allowance and accident insurance (private), attractive pension scheme model, smartphone, fast mobile internet, laptop and opportunities to volunteer, participate in team sports, etc.
+ 
+READY TO TAKE THE NEXT STEP?
+If this sounds like you, we would love to hear from you. This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.

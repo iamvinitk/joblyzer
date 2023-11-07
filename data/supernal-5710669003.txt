@@ -1,0 +1,47 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Senior CLAW Engineer will be a member of the Flight Controls team who will actively participate in designing and implementing the algorithms for the aircraft. This role will be heavily involved in the analysis of aircraft stability, defining the control architecture, testing control law implementation and dynamics. The Sr. Engineer will conduct testing both on a desktop simulation as well as in the systems integration lab and will be involved in certification aspects of applying ARP 4754A and DO-178C rules to their control law design. The role will collaborate with engineering teams throughout the business in the design and testing of the control laws.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Design and implement flight control algorithms for a VTOL aircraft with a novel configuration
+Proficiency in implementing classical and modern control law
+Conduct trade studies between different design considerations and control schemes.
+Define control system architecture, response types, etc. for an aircraft that might change configuration between flight regimes.
+Conduct stability and control related analyses in time and frequency domain.
+Collaborate with the Systems engineering team to define requirements related to the flight control system and system safety
+May require up to 10 of domestic and international travel
+
+What you can contribute:
+
+B.S. in aerospace or relevant engineering field required
+A minimum of 5-8 years of experience in flight control algorithm design for rotary-wing andor fixed-wing Fly-By-Wire aircraft systems (an equivalent combination of education and experience may be considered)
+Proven experienced in analyzing flight dynamic modes for stability and control
+Experience with actuator and motor control loops
+Experience with mixing and blending of control surface commands
+Experience with flight testing
+Experience with sensor processing and Kalman filter design
+Experience with requirement definition
+Experience on aircraft with multiple different modes of flight, including vertical lift
+Experience building control laws for unmanned aircraft could be beneficial
+Experience with system identification and optimization tools (CIFER, CONDUIT)
+Experience in math model development of a physical system
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+Self-motivated and forward-thinking personality
+Familiarity with DO-178BC, DO-160, DO-254, ARP 4754A, ARP 4761
+Expertise in MathWorks tools for control algorithm development
+Familiarity with FAA part 23252729 or other certification experience
+Familiarity with aircraft handling quality requirements
+Familiarity with DO-331
+
+You may also be able to contribute:
+
+M.S. or PhD preferred
+Some experience in C is beneficial
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

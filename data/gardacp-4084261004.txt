@@ -1,0 +1,29 @@
+Garda Capital Partners (Garda) is a multi-billion dollar alternative investment firm with over 19 years of experience deploying relative value strategies across fixed income markets for institutional investors. Garda has offices in Wayzata, New York City, West Palm Beach, Geneva, Zug, Copenhagen, Singapore, and Scottsdale.Garda is looking to hire a .Net Software Engineer to be a part of our Research and Technology (RT) team based out of our Geneva office. This is an exciting position offering opportunities to gain exposure to enterprise software development practices at a global hedge fund.
+Position Responsibilities:
+
+Aid in the development of new lines of business solutions using C, .Net, Relational Databases, and Web Technologies.
+Support staff in designing and implementing complete solutions for our Middle OfficeRisk systems.
+Provide support for in-house and 3rd party applications.
+Diagnose and fix issues with trading desk systems (In-house analytics, Bloomberg, TradeWeb, other vendor and proprietary systems)
+
+Qualifications  Desired Skills:
+
+Bachelors Degree in Computer Science, Software Engineering, Mathematics or Finance
+Minimum 2 years experience in object-oriented development using C and Microsoft.Net
+Minimum 2 years of database, SQL, ORM experience
+Proficient in C, with a good knowledge of its ecosystems
+Familiarity with the .NET framework  .NET core, including their differences. Winforms experience a plus.
+Strong understanding of object-oriented programming
+Experience with relational databases
+Experience with Web Technologies (Typescript, React or other framework) a plus
+Proficient understanding of code versioning tools (Git preferred)
+Familiarity with continuous integration
+Must be comfortable with development across the application stack
+Strong analytical and problem-solving skills
+Ability to complete complex projects independently
+Must be comfortable with providing Application Support across multiple teams
+Interest in financial trading industry
+Ability to work effectively in a high-energy, time sensitive team environment
+Ability and willingness to work unconventional hours
+Detail-oriented with strong verbal and written communication skills
+Knowledge of fixed income trading and related financial instruments a plus

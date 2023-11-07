@@ -1,0 +1,59 @@
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40 of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means youll help define the future of physical operations and be on a team thats shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, youll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards weve won include:
+Glassdoors Highest-Rated Tech Companies for Culture and Values 2023
+Great Place To Work Certified 2023
+Best Place to Work by Built In 2023
+Financial Times The Americas Fastest Growing Companies 2023
+Deloitte Fast 500 Companies
+We see a profound opportunity for data to improve the safety, efficiency, and sustainability of operations, and hope you consider joining us on this exciting journey. About Samsara Hardware Engineering:
+Samsaras hardware systems bridge the gap for the rapidly evolving world of physical operations to a cloud platform that enables our customers to increase the safety, efficiency, and sustainability of the operations that power the global economy. The hardware footprint is big  we build ultra low power sensors, ruggedized asset trackers, vehicle ADAS systems with AIML, telematics systems, rackmount video inspection with AIMl and maybe much more. We leverage myriad technologies including low power MCUs, beefy SoCs, DSPs, LTE, GPS, BLE, WiFi, imaging sensors, MLAICV, accelerometers, and more.  Our challenges span the gamut from eeking out single digit microamps to thermals to desense to cost reduction to antenna design to enclosure design that survives extreme environments. 
+About the role:
+Were looking for a Senior Electrical Engineer to join our team. In the day to day, you will be responsible for driving the EE aspects of the architecture and design of products based on thorough feasibility, design, and cost studies encompassing key component selection, thermals, antenna, etc. We have a tremendous amount of telemetry and access to customers that help guide our design process. You will work directly with our customers to ensure we lead the industry in our product design. We run a collaborative process working closely with Product Management, PD, FW, EPM, NPI, and Hardware leadership to make excellent tradeoffs and choices. Throughout this process, youll share your expertise with other engineers. The US and Taiwan EE teams are supported by the Supply Chain team, laboratories, JDM design resources, and a growing supply base. You will work closely with these internal and external partners to achieve our objectives.
+You should apply if:
+
+You want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, reduce emissions, and most importantly, ensure workers return home safely.
+You are the architect of your own career: If you put in the work, this role wont be your last at Samsara. We set up our employees for success and have built a culture that encourages rapid career development, countless opportunities to experiment and master your craft in a hyper growth environment.
+Youre energized by our opportunity: The vision we have to digitize large sectors of the global economy requires your full focus and best efforts to bring forth creative, ambitious ideas for our customers.
+You want to be with the best: At Samsara, we win together, celebrate together and support each other. You will be surrounded by a high-caliber team that will encourage you to do your best. 
+
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+
+Ship successful products.
+Conduct research: Stay informed of the latest silicon possibilities from all the top semiconductor companies. 
+Be an architect: Evaluate system feature tradeoffs and create the system specifications for development with product management and cross-functional engineering teams. 
+Spearhead the development process from prototyping through field validation according to performance, cost and schedule goals.
+Manage: We bolster our internal development team with top JDM companies to design, validate, certify and manufacture quality products, certification labs and other external consultants.
+Champion, role model, and embed Samsaras cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+
+Minimum requirements for the role:
+
+6 years of experience shipping high volume hardware programs with ODM and JDM partners.
+Systems design expertise such as chipsetSoC selection, power optimization, antennasRF, batteries, sensors, PCB design, etc.
+Proven record navigating tradeoffs between design, manufacturability, schedule, and cost.
+Worked on a wide variety of systems for different use cases including automotive, indoor and outdoor industrial areas leveraging low power, wireless (LTE, BLE, WiFi, GPS), embedded AIML, imaging, sensors, etc.
+Proven record of system bring updebug including desense, validation, power, etc.
+BS or MS degree in Electrical Engineering or related technical field.
+Ability to travel up to 25 when necessary.
+Strong ability to collaborate with cross-functional teams and drive independent work.
+Excellent written and verbal communication skills in English.
+
+An ideal candidate also has:
+
+Experience with certifications and testing involved with industrial and automotive settings (ISO16750, AECQ100, etc).
+Schematic and layout experience in Altium and Cadence Allegro.
+Systems design expertise with cameras, extreme environmental conditions.
+Experience with design for supply, design for reliability  testing, design for manufacture.
+
+LI-OnsiteSamsaras Compensation Philosophy: Samsaras compensation program is designed to deliver total compensation (based on role, level, and geography) that is above market. We do this through our base salary  bonusvariable  restricted stock unit awards (RSUs).  A new hire RSU award is awarded at the time of hire, and additional RSU refresh grants may be awarded annually.
+We pay for performance, and top performers are eligible to receive above target equity refresh awards which allow employees to achieve higher market positioning.The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience.138,720—204,000 USDAt Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewingsamsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where theyre based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individuals ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.

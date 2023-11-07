@@ -1,0 +1,41 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Developer Infra group is responsible for making Stripes developers happy and productive. We work on tools, processes, and collaborate with internal stakeholders to accelerate Stripe engineering as Stripe scales.
+Python is a popular choice for data engineering, data science, and machine learning, which underpin many of our products and business-critical processes. The Python infrastructure team works on both developer infrastructure and language-specific tooling to support Stripes engineers. This includes working on language processing tools, IDEs, build tools, and other infrastructure. Our users include engineers working in product, ML, Data Science, DevOps, and other infrastructure teams. Understanding and meeting the needs of our diverse userbase is key to allowing Stripe engineers working in Python to have the most productive time of their career.
+Were looking for people with a strong background in and interest in building language processing tools and language-specific developer tools. The ideal candidate will have a mix of technical expertise in language processing, a passion for solving developer experience problems, and a pragmatic ability to ship results iteratively in close collaboration with stakeholders and teammates.
+What youll do
+You will join a team working closely with machine learning engineers, data scientists, and other infrastructure teams to build powerful, flexible, and user-friendly tooling that greatly accelerates Python engineers at Stripe. Here are a few examples of the type of work you might do:
+
+Working closely with machine learning engineers building LLMs
+Improving IDE functionality for Python development
+Constructing systems for analyzing code health and applying automated fixes such as code formatting and type checking to Python
+Simplifying and automating Python dependency management
+Integrating Python with build tools for hermetic builds, such as Bazel
+
+Responsibilities
+
+Work with a team of technically sophisticated engineers who make developer experience their first priority
+Solve problems for fellow Stripe engineers by understanding their needs and coming up with both short term and long term solutions
+Use both qualitative and quantitative metrics to determine priorities and measure effectiveness
+Deliver practical, useful, and reliable tools, processes, and code refactorings to Stripe engineers
+Work with stakeholders across Stripe to balance and accommodate competing desires
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+3 years of professional, full-time software development experience
+Either deep Python language knowledge, or experience building tools to improve productivity with empathy for the end user
+Experience writing high quality code in a major programming language, preferably Python, Ruby, Java, or Go
+A background supporting engineer focused tools
+
+Preferred qualifications
+
+Excellent communication skills and the ability to work well in a collaborative environment
+Demonstrated ability in language tooling and runtimes
+Experience working with hermetic build systems, such as Bazel
+Have the ability to thrive on a high level of autonomy, responsibility, and think of yourself as entrepreneurial
+
+ 

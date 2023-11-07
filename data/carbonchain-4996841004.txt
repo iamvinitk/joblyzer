@@ -1,0 +1,56 @@
+Do you want to work on the most pressing problem of our generation? 
+Were building the infrastructure for the net zero transition, and were looking for brilliant builders who want to help define a low carbon future.
+Decarbonizing the economy requires a granular, real-time view of where emissions come from and how they might be reduced. We build software to automate the carbon footprinting of supply chains. Banks, traders, and manufacturers use our product to tame the complexity of international supply networks, identify the most carbon-intensive parts, and find greener alternatives. Having developed technology which is significant in advance of competitive solutions, we are now investing heavily in market adoption.You can find out more about interviewing at CarbonChain at https:www.carbonchain.comcareersinterview-process.
+About Us
+Do you want to work on the most pressing problem of our generation?
+Were building the infrastructure for the net zero transition, and were looking for brilliant engineers, designers, and data scientists who want to help define a low carbon future.
+Decarbonizing the economy requires a granular, real-time view of where emissions come from and how they might be reduced. We build software to automate the carbon footprinting of supply chains. Banks, traders, and manufacturers use our product to tame the complexity of international supply networks, identify the most carbon-intensive parts, and find greener alternatives.
+To join CarbonChain, youll be a keen technologist who loves to learn from others. Our company is made up of 10 passionate people with expertise ranging from oil refining to deep learning. Between us weve run Amazons European supply chain, built JustEats corporate meal delivery platform, and monitored industrial emissions with satellites for Al Gore. Weve got MBAs and PhDs but we know that theres a lot we dont know, and were hoping you can help fill that gap.
+Working at CarbonChain
+We encourage every member of our team to be the best they can be, whether thats developing skills through their learning budget or participating in reading groups. Our work requires everybody to straddle the physical and digital worlds, and a growth mindset is essential. One week you might become an expert in the production of copper and figure out how to represent copper electrorefining in Java, whilst the next might be spent modelling the emissions of container ships and visualizing how they compare to LNG tankers in D3.js.
+Our software has to be clever to represent the insane complexity of real-world supply chains, but clever software is worthless if nobody wants to use it. Were focused on building intuitive software which minimizes cognitive load. If people love our tools, theyll use them to make the changes the planet needs.
+What will you be responsible for at Carbon Chain?
+We are at the start of our journey and want to build the right things, the right way. We are cloud-first, allowing us to scale at will and experiment with adding new services quickly. As a Data Engineer youll play a key role within the company, taking responsibility for our core data infrastructure and its evolution to support the companys growth. Youll take pride in developing your team and its relationship with the wider business, getting involved in the end-to-end delivery process and owning projects of varying sizes.
+You can expect to have:
+
+Ownership of your projects
+An independent path to production
+The ability to make real changes with tangible business value
+
+The core of the system relies on a Python application, but we arent shy to add other tools that make us ship valuable features better and faster. Other tools comprise Java (Spring Boot), AngularTypescript, PostgreSQL, Redis, Neo4j, Google Identity, but our cloud-based infrastructure enables us to explore new technologies parallel with our existing platform. Wed love to bring on engineers who come from diverse backgrounds to help us explore new angles of solving business challenges and deliver solutions that wow our customers.
+We are particularly interested in strong Python engineers (ideally with previous exposure to FastAPI-like frameworks), data pipeline developers who have built and managed data infrastructure at scale (preferably on Google Cloud andor AWS stack), or people from any modern data management stack with bias for solid engineering principles and scalable system architecture.
+Our only must-haves are possessing a hunger to solve business challenges using technology and the ability to build close relationships with your team.
+Which tools, technologies, and processes will you work with?
+
+Containerised applications are the key to our technology vision allowing us to replicate production environments locally and scale services at will.
+Object-oriented code forms the bulk of our codebase.
+PostgreSQL, Neo4j and DynamoDB form the persistence layer - youll learn to navigate relational, graph, and document databases and appreciate their respective values.
+Infrastructure automation is owned by the whole team, helping to spread the DevOps mindset across the whole tech department (and beyond!).
+Testing approaches from unit testing to integration testing are key to delivering reliable and maintainable solutions.
+Quality assurance is owned by the team themselves - we believe that the ownership of the full development cycle should sit tightly within the team.
+Agile development, using various approaches from Scrum to Elephant Carpaccio, helps us deliver software in small iterations, learning and course-correcting in the process to make sure that what we deliver has an impact.
+GitHub PRs are an integral part of our core development flow - with reviews to improve quality and share knowledge.
+Continuous delivery is the approach we strive for - with metrics that help us optimise parts of the pipeline that need it the most.
+Teamwork and collaboration are fundamental to the delivery of our solutions. We encourage solutionizing between tech and the wider business.
+
+You dont need to be a pro at all of these skills to apply for the role, but wed love to hear about any relevant knowledge and experiences that you have in these areas.
+What we require from applicants
+
+Right to work in the UK and willingness to come to London office 2 days a week
+A passion for environmental issues
+A demonstrated interest in building products and collaborating tightly with engineers
+The grit and energy to work in an early stage startup
+
+What were offering
+
+Competitive salary  generous equity package
+Flexible working hours - we encourage regular breaks and being AFK (away from keyboard) to support your wellbeing
+Flexible working location (we like to meet in the office couple of times every week)
+1000 annual development allowance for you to spend on developing your current skills and learning new things
+Tech equipment of your choice
+Regular social activities
+Generous amount of holidays
+
+Were striving to build a diverse team and we would love to hear from applicants from backgrounds less frequently represented in technology, be that in terms of gender, race, or professional background.
+If you think your skills and experience match what were looking for and youd like to join a Carbon Tech industry unicorn, please get in touch!If you think your skills and experience match what were looking for and youd like to join a Carbon Tech industry unicorn, please get in touch!
+ 

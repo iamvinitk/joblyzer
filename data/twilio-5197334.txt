@@ -1,0 +1,77 @@
+See yourself at Twilio.
+Join the team as our next Principal Software Engineer, Platform Extensibility  Ecosystem
+ 
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+ 
+Although were headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. Were on a journey to becoming a globally anti-racist, anti-oppressive, anti-bias company that actively opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business. We employ thousands of Twilions worldwide, and were looking for more builders, creators, and visionaries to help fuel our growth momentum.
+ 
+About the job
+This position is needed to create high-quality, modern solutions to complex engineering problems and help define the future of Customer Data Platforms. Our mission is to help businesses unlock customer insights and make better decisions faster and cheaper by creating a suite of industry-leading storage and compute services.
+In this role, you will be responsible for designing and building a suite of platforms and services that form the basis of a Customer Data Platform capable of handling billions of events in near-realtime Youll also be responsible for mentoring, sharing knowledge, and guiding the technical decisions of the team to set us up for long-term success, both as a product and as a team.
+More about the CDP products: 
+
+https:segment.comproductconnectionsfunctions
+https:segment.comblogintroducing-functions
+https:segment.combloguse-functions-to-customize-your-data-pipeline
+https:segment.comdocsconnectionssourcesabout-cloud-sources
+https:segment.comdocsconnectionsdestinations
+
+ 
+Responsibilities
+In this role, you will:
+
+Design and build the next generation of Platform Extensibility Platforms, process billions of events, and power various use cases across Twilio Data and Applications
+Partner with principal engineers and architects from other teams and lead exploration of large-scale projects spanning multiple teams
+Build high-performance data pipelines using Go and Kafka
+Ship features that opt for high availability and throughput with eventual consistency
+Support runtime for invoking untrusted code at the extremities of the pipeline
+Support the reliability and security of the integrations platform
+Build and optimize globally available and highly scalable distributed systems
+Collaborate with teams across the engineering organization to ensure services are multi-region capable and meet regulatory requirements
+Mentor other engineers on the team on technical architecture and design
+Participate in an on-call rotation to support our business-critical infrastructure
+
+ 
+Qualifications
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+
+Required
+
+10 years experience writing production-grade code in a modern programming language.
+Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.
+Experience programming in one or more of the following: Go, Java, Scala, or similar languages
+Well-versed in concurrent programming, along with a solid grasp of Linux systems and networking concepts.
+Experience operating large-scale, distributed systems on top of cloud infrastructure such as Amazon Web Services (AWS) or Google Compute Platform (GCP)
+Have hands-on experience with container orchestration frameworks (e.g. Kubernetes, EKS, ECS)
+Experience shipping services (products) following CICD development paradigm.
+Deep understanding of architectural patterns of high-scale web applications (e.g., well-designed APIs, high volume data pipelines, efficient algorithms)
+Domain expertise in the Modern Data stack with experience in developing cloud-based data solution components and architecture covering data ingestion, data processing and data storage
+Have a track record of successfully leading teams, large projects, or owned and built an important, complex system end to end
+Ability to influence and build effective working relationships with all levels of the organization
+Are passionate about enabling other developers through your leadership and driving teams to efficient decisions
+Excellent written and verbal communication skills.
+Experience with Data platforms and warehouses is a plus.
+
+ 
+Location:
+This role will be remote and based in India.
+ 
+What we offer
+There are many benefits to working at Twilio, including things like competitive pay, generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+ 
+Twilio thinks big. Do you?
+We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. Thats why we seek out colleagues who embody our values — something we call Twilio Magic. Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts.
+ 
+So, if youre ready to unleash your full potential, do your best work, and be the best version of yourself, apply now!
+If this role isnt what youre looking for, please consider other open positions.
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

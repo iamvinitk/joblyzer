@@ -1,0 +1,46 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+SR. PRODUCTION CONTROL SCHEDULER (DRAGON) 
+RESPONSIBILITIES: 
+
+Take complete ownership of production scheduling for a given production work center, including managing both tactical day-to-day tasks as well as projecting long-term high-level rate needs for the department 
+Create a rate-based schedule for your hardware and definetrack constraints across your build for the next 6 missions 
+Use established schedule to create and generate stakeholder buy-in on various scenarios to determine optimal hardware allocation between newrefurb hardware that take into account customer needs, current mission manifest, and customer quality requirements 
+Work with production teams to set, track, and execute daily and weekly goals for the work center that take into account personnel and equipment constraints but support overall rate targets 
+Build strong relationships with customers as well as internalexternal suppliers and establish high-accuracy means of communication for both estimated hardware needs and completion dates 
+Understand MRP requirements and logic for your hardware and lead cross-functional efforts to manage and improve MRP accuracy to create better alignment between targeted and actual schedules 
+Manage the scheduling and prioritization of your hardware at shared resources that are common to multiple departments at SpaceX. Actively negotiate with peers in other departments for correct overall priority and seek creative solutions that drive the optimal business outcome 
+Leverage SQL Queries and Excel databases to identify hardware shortages for upcoming builds and lead the charge to pull this hardware into your production area  
+Identify, develop, and implement opportunities for increased scheduling automation across the Dragon department with a focus on reducing the manual operations required to develop, track, and update overall schedules 
+Drive down near-term and future schedule risk by conducting work-center level capacity analysis, identifying model and communication gaps that cause schedule slips, and leading initiatives (reactive and proactive) that mitigate those risks   
+Lead efforts to uncover root-cause and develop permanent resolution on issues found during product builds as required to eliminate internal and external blockers to deliver product on time. Drive conversations around assembly-level  integration misalignment. 
+Identify and support improvement opportunities for product yield, quality, safety, cost and team efficiency 
+
+BASIC QUALIFICATIONS: 
+
+Bachelors degree and 3 years of manufacturing scheduling, planning or operations OR 7 years of manufacturing scheduling, planning or operations
+Experience using ERPMRP systems in a production environment 
+
+PREFERRED SKILLS AND EXPERIENCE: 
+
+Remarkable problem-solving skills with a bias for speed and accuracy 
+Self-motivated, quick learner, and ability to prioritize efforts to meet customer and company goals 
+Ability to develop and maintain strong internal and external suppliercustomer relationships in a fast-moving and ever-changing environment 
+Technical knowledge and skills in coding and computer applications (e.g. MS Office Suite, VBA, Smartsheet, SQL, Confluence, JIRA, Power BI, etc.) 
+Strong track record of implementing continuous improvement efforts, ideally using problem solving frameworks including lean principles, six sigma, or Kaizen concepts 
+Experience leading multi-disciplinary and cross-functional teams working on strategic problems
+Project management professional certification 
+
+ADDITIONAL REQUIREMENTS: 
+
+Must be available for all shifts, extended hours, andor weekends as needed 
+Must be able to lift up to 25 lbs. unassisted 
+Must be able to stand for extended periods - 8 hours minimum  
+
+COMPENSATION AND BENEFITS:    Pay range:    Sr. Production Control Scheduler: 105,000.00 - 135,000.00per year    Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS: 
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.   
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status. 
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000. 

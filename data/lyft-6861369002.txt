@@ -1,0 +1,39 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+Lyft is seeking a highly skilled Data Platform Engineer to join our Data Platform team. 
+The ideal candidate should have a fair understanding of the modern Big Data stack and have used some Apache big-data frameworks (e.g., Hadoop, Hive, Spark, Airflow, Flink and ideally, Iceberg or Hudi). The candidate should also be familiar with infrastructure solutions capable of running this stack (AWS, Kubernetes, Hadoop, Kafka, etc.).
+As a Data Platform Engineer, you will work at the backend, data, and infrastructure engineering crossroads. You will focus on building out, scaling, optimizing, and managing the operations of the core storage (and surrounding platforms) and governance components of the Lyft Data Platform.
+Responsibilities:
+
+Build and maintain scalable and reliable data storage solutions that support various types of data processing needs.
+Optimize and scale the Platform to handle the increasing volume of data and user requests.
+Optimize data storage and retrieval, query performance, and overall system performance.
+Work closely with data scientists, data analysts, and other stakeholders to understand their needs and develop solutions to meet those needs.
+Collaborate with other engineering teams to ensure that data pipelines, analytics tools, ETL, and other data-driven systems are correctly used and well-integrated with the Lyft Data Platform.
+Troubleshoot issues with the data platform and provide timely resolution.
+Develop and maintain monitoring and alerting solutions to ensure platform availability and reliability.
+Participate in code reviews, design reviews, and other team activities to maintain high quality standards.
+Continuously evaluate new technologies and tools and provide recommendations on how to improve the data platform.
+Contribute to the documentation, knowledge base, and best practices of the data platform.
+
+Experience:
+
+At least 4-6 years of experience in data engineering, data architecture, or related fields.
+Strong programming skills in at least one of the following languages: Java, Scala, Python, or Go.
+Experience with Apache Big Data frameworks such as Hadoop, Hive, Spark, Airflow, Iceberg or Hudi.
+Experience with AWS cloud platform (S3, DynamoDB, etc).
+Experience with database technologies such as SQL, NoSQL, and columnar databases.
+Experience with distributed systems, data storage, and retrieval, and large-scale data processing.
+Experience with data governance, security, and compliance is a plus.
+Experience with CICD and DevOps practices is a plus.
+Strong analytical and problem-solving skills.
+Excellent communication and collaboration skills.
+
+Benefits:
+
+Health insurance, life and personal accident insurance benefits
+Mental health benefits
+28 days of paid time off in addition to 12 observed holidays
+Family building benefits
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+This role will be in-office on a hybrid schedule if an established Lyft Location is available to the region — Hybrid Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.

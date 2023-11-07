@@ -1,0 +1,43 @@
+GAQ324R10
+As Privacy Analyst, you will help manage Databricks Global Privacy Program by leading or supporting a variety of activities including, but not limited to, consumer rights requests, privacy by design processes, metrics tracking and reporting, policyprocess development or review, and control development and monitoring.
+The Impact you will have
+
+Assist in operationalizing Databricks Privacy Program Management including identifying potential gaps, analyze processes, and implement improvements to Databricks Privacy Program, including softwaretechnology solutions used to support to Privacy Program, emphasizing opportunities for greater efficiency and automation.
+Oversee, identify, and implement improvements to, and coordinate with the business to process, privacy rights requests received from customers, employees, and other stakeholders and execute responses.
+In coordination with the business, execute upon (and identify and implement improvements to) various Privacy by Design processes including, but not limited to privacy threshold assessments, data flow diagrams, transfer impact assessments, and data privacy impact assessments.
+Interpret and report on legalregulatory privacy compliance requirements and related best practices including the impact on privacy programs, privacy notices, product and service offerings, and business operations.
+Identify, and oversee the implementation of controls to help ensure compliance with privacy regulatory requirements and best practices.
+Develop new, and enhance existing, privacy policies, procedures, and training.
+Perform project management tasks as needed such as project plan development, task assignment, create presentations and tracking deliverables.
+Support Special projects as needed for the group.
+
+What we look for
+
+Bachelors degree or industry-related experience.
+Minimum 4 years of hands-on experience working with multiple facets of a global corporate privacy program, at least 2 years of which with a high degree of independence.
+Working knowledge of key global privacy legislation, including but not limited to CCPA and GDPR.
+Experience administering andor customizing various SaaS solutions to enable process improvement.
+Experience and comfort in preparing and leading presentations and discussions in a business setting.
+
+Benefits
+
+Comprehensive health coverage including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Annual personal development fund
+Employee Assistance Program (EAP)
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 2 Pay Range76,200—135,000 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

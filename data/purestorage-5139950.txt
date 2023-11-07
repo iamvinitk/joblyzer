@@ -1,0 +1,71 @@
+BE PART OF BUILDING THE FUTURE.
+What do NASA and emerging space companies have in common with COVID vaccine RD teams or with Roblox and the Metaverse? 
+The answer is data, -- all fast moving, fast growing industries rely on data for a competitive edge in their industries. And the most advanced companies are realizing the full data advantage by partnering with Pure Storage. Pures vision is to redefine the storage experience and empower innovators by simplifying how people consume and interact with data. With 11,000 customers including 58 of the Fortune 500, weve only scratched the surface of our ambitions. 
+Pure is blazing trails and setting records:
+
+For ten straight years, Gartner has named Pure a leader in the Magic Quadrant 
+Our customer-first culture and unwavering commitment to innovation have earned us a certified Net Promoter Score in the top 1 of B2B companies globally
+Industry analysts and press applaud Pures leadership across these dimensions
+And, our 5,000 employees are emboldened to make Pure a faster, stronger, smarter company as we go
+
+If you, like us, say bring it on to exciting challenges that change the world, we have endless opportunities where you can make your mark.SHOULD YOU ACCEPT THIS CHALLENGE...
+Technical Qualifications:
+
+8 years experience in Data Engineering of highly scalable data platformsecosystems.
+5 years experience in building and managing data platformsecosystems.
+3 years experience in Snowflake with knowledge in distributed computing preferred.
+Demonstrated innate passion for Data Engineering and data architecture pertaining to Analytics.
+Knowledge of Cloud data solutions, data engineering, data platforms and analytics and modern ways of automating data ingesting using cloud-based and on-premise technologies.
+Hands-on experience in cloud technologies, such as AWS, Azure, andor Google Cloud 
+Proficiency in SQL and database table design  able to write structured and efficient queries on large data sets.
+Experience in a role performing data warehouse and analytics solution design and development using a variety of techniques.
+Understanding of data architecture design, data modeling, and physical database design and tuning.
+Knowledge of data visualization tools such as Tableau, andor Power BI
+
+ 
+Soft Skills:
+
+Be a self-starter who takes autonomy and pride in your work.
+Have the ability to think independently while also working in a collaborative environment.
+Not be afraid to ask for help, voice your opinion, or make suggestions for improvements.
+Be a fast learner and have a passion and drive for continuous learning and challenging yourself.
+Be able to have fun in the midst of stress while maintaining great attention to detail.
+Adapt quickly to new situations and be forward-thinking.
+Have a clear and transparent communication style.
+Be creative and want to use your creativity to move the business forward.
+Have a willingness and openness to learning new practices, platforms, and technologies.
+Have the teamwork skills to build and enhance a successful IOPSBI business development team.
+Have a willingness to work with and help team members from all internal team members and also external stakeholders.
+
+
+Team Management
+
+5 years of experience managing a team of individual developers, supporting Go-To-Market, or Sales preferred
+Responsible for interviewing, selecting and training associates
+Must effectively resolve associate matters
+Responsible for day-to-day tactical team decisions
+Required to manage multiple tasks and projects simultaneously
+Accountable for teams use and adherence to the IOPSBI development methodology
+Createmaintain team staffing and scheduling, to include time tracking
+Demonstrated ability to schedule and execute data update releases
+Demonstrated ability to prioritize and assign tactical requests to the team
+Effectively provide associate feedback through regular objective reviews and by writing and delivering Annual Performance Reviews
+Working with associates to collaboratively establish an Individual Development Plan and review them on a timely basis
+Track associate performance and provide them with appropriate feedback
+
+ 
+This is a full time position and the candidate is expected to report into Pure Storages Bangalore office.  
+
+You will be based in Bangalore, India. As this is an office-centric role, you are expected to be present in the office for 3 days a week. As outlined in Pures Hybrid Work Policy, there will be variations over periods of time, depending on business need.
+
+
+ BE YOU—CORPORATE CLONES NEED NOT APPLY.
+Pure is where you ask big questions, think differently, and make an impact. This is not just a job, but a place where you have a voice and can accelerate your career. We value unique thoughts and celebrate individuality, and with ample opportunity to learn, develop yourself, and expand into different roles, joining Pure is an investment in your career journey.
+Through our Pure Equality program, which supports a flourishing field of employee resource groups, we nourish the personal and professional lives of our team members. And our Pure Good Foundation gives back to local and global communities through volunteering and grants.
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events.
+PURE IS COMMITTED TO EQUALITY.
+Research shows that in order to apply for a job, women feel they need to meet 100 of the criteria while men usually apply after meeting about 60. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+Pure is proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire. 
+If you need assistance or an accommodation due to a disability, you may contact us at TA-Opspurestorage.com.
+APPLICANT  CANDIDATE PERSONAL INFORMATION PRIVACY NOTICE.
+If youre wondering how or why Pure collects or uses information you provide, we invite you to check out our Applicant  Candidate Personal Information Protection Notice.

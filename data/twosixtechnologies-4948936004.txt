@@ -1,0 +1,43 @@
+Two Six Technologies is looking for a DevOps Engineering Team Lead to work within a cross-functional development team focused on advancing state-of-the-art projects within cybersecurity technology.
+Responsibilities Include:
+
+Spend roughly 75 hands on development, 25 managing your team
+Lead 5-7 DevOps Engineers and build a culture of DevOps excellence on your team and across the department
+Participate in strategy discussions with senior engineering leadership and align DevOps development activities with larger engineering goals
+Maintain and improve various build tools and processes
+Work with developers to execute software releases, configuration updates, and maintain the health and status of the build pipeline
+Utilize a strong work ethic and genuine curiosity and bring high energy and engagement to your team
+Respond to performance issues identified by alerting and other reported incidents
+Stay aware of cutting-edge DevOps-enabling technologies and integrate new tools and processes where you see fit
+
+Minimum Qualifications:
+
+Bachelors degree in Computer Science, Engineering, or related field
+Minimum 7 years experience working on DevOps focused teams
+Minimum 5 years experience with Bash and Python 
+Minimum 5 years experience developing and operating CICD pipelines, Jenkins, ELK stacks, or related technologies.
+Minimum 2 years experience leading developers and running a development team
+
+Nice If You Have:
+
+Active DoD clearance (Secret or above)
+Prior work with Cloud Service providers such as AWS and Google
+Experience with Docker, Packer, and RHEL
+General CICD tooling knowledge, experience, and best practices
+Experience with configuration managementautomation
+Familiarity with best practices for infrastructure security, reliability, and fault tolerance
+Proficient understanding of code versioning tools, such as Git
+Experience working in fast-paced, deadline-driven environments
+Understanding of cybersecurity systems
+
+Security Clearance:
+
+Candidate must be able to obtain and maintain a security clearance
+
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

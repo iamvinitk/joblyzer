@@ -1,0 +1,34 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripes Financial Connections group is building technology that expands the scope of problems we tackle beyond card payments. We aspire to enable individuals and businesses to securely share their financial data to improve their product experiences. With more, high-quality customer financial data, both Stripe and our users can offer better products to their customers. We have ambitious goals to enable all global businesses to run their entire financial life cycle on Stripe, and we want you to be part of our story. 
+Technical Operations roles in Financial Connections, and at Stripe, are a dynamic and key component of the organizations success. Focused on financial partner integrations, we sit at the intersection of productplatform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.
+What youll do
+Responsibilities
+
+Become a domain expert in an area of open banking, financial data access, and data aggregation
+Handle inquiries from internal Stripes and external partners technical teams, often requiring detailed investigation and sometimes codeconfiguration changes
+Engage with Stripes financial partners to drive alignment on product usage, troubleshoot and solve technical problems or breakages 
+Organize and direct complex technical changes and projects between Stripe and our partners
+Identify and automate inefficient or unnecessary manual processes through code changes, partner agreements, or making and coordinating more complex code changes across Stripe
+Design future anomaly detection systems and tools to ensure that data flowing through our partner and internal systems is reliable and correct
+Collaborate across the company, including engineering, accounting, financial partnerships and product, to trace and account for billions of dollars moving through the Stripe platform
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Technical Operations roles are one part technical and one part working closely with partners inside and outside of Stripe. The ideal candidate will have experience in interfacing with technical systems and managing complex projects. 
+Minimum requirements
+
+Drive to partner across multiple teams and external partners to push products forward in terms or features and performance.
+Proficient and comfortable navigating a variety of data systems to diagnose and scope issues. 
+Ability to write high quality code. We work mostly in Ruby. However, languages can be learned: we care much more about your general coding skill than knowledge of a particular language or framework
+Comfort with developer tools (e.g. git), and an ability to make well-scoped code changes in Stripes codebase
+Great technical problem-solving skills, with an ability to develop a working understanding of a technical system using a variety of methods. These include (but arent limited to): readingwriting code, reading documentation or partner specifications, running debugging programs, reading logs, asking well-formed questions to domain experts, or digging into the raw data through various interfaces.
+Great communication skills, with an ability to frame messages appropriately for technical and non-technical audiences
+The will to deliver results, with an ability to establish priorities and reliably execute on solutions (often with hard external deadlines)
+An instinct to produce work that increases the impact of others, and helps us scale and grow (e.g. documentation, tools)
+
+Preferred qualifications
+
+Experience with Presto, Splunk and other data querying languages is highly preferred.

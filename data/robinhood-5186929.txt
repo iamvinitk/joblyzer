@@ -1,0 +1,39 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role
+Robinhoods Security Engineering Team is looking for a stellar Engineering Manager to help build and lead our Authentication and Authorization Platform Team. You will be responsible for the building and management of the services and systems that control critical access flows to the Robinhood application and associated systems. The services you build will control access for and provide a phenomenal user experience to authorized Robinhood team members.
+Were looking for Engineering Managers who are deeply passionate about security, engineering, and building healthy teams to lead this critical effort.
+This role is based in our Menlo Park, CA or Seattle, WA office, dependent on applicants location.
+What youll do
+
+Work with technical leads to set the direction of our Authentication Platform
+Provide technical expertise and leadership in the implementation of Authentication  Authorization platforms, methods, scaling and associated services.
+Oversee the enhancement process including cross-functional build-out, and features required to support Robinhoods Authentication Platform
+Work with cross-functional business, product, analytics, and engineering leaders to negotiate, plan, and deliver a roadmap for the Authentication Platform team
+Lead strategic direction on solutions for Robinhoods Authentication  Authorization standard
+Coach team on role mining, definition, and automating workflows
+
+What you bring
+
+5 years of experience in software engineering management
+Experience making technical decisions and writing code
+Experience building teams, mentoring engineers, and leading people
+A hands-on transactional security service background, or related security experience
+Expert in Operational Excellence  Reliability at scale
+Ideally, prior experience owning a large scale AuthNAuthZ platform with 10 million users
+
+Technologies we use:
+
+AWS
+Kubernetes
+PythonGolang
+gRPC
+Kafka
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.
+US Zone 1: 217000 - 255000US Zone 2: 190000 - 224000US Zone 3: 169000 - 199000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

@@ -1,0 +1,40 @@
+Blend is a diverse team of problem solvers who believe that the worlds financial resources should be more accessible. Our cloud banking platform is used by Wells Fargo, U.S. Bank, and over 330 other financial services firms to acquire more customers, increase productivity, and deliver end-to-end digital experiences. Our software enables our customers to process an average of more than 5 billion in loans per day, making it possible for consumers to reach their financial goals faster and lead better lives. Come do work that matters.
+ At the heart of this transformation is Blend Builder, our in-house low-code platform, designed to exponentially enhance our ability to innovate, create, and deploy solutions for our customers. We are excited to form a new team dedicated to harnessing the potential of Blend Builder and are seeking individuals who can lead the way in becoming experts on this platform. Application Developers will work closely with cross-functional teams to design, develop, and implement innovative workflows that drive efficiency and value for our customers. 
+Note: This is NOT a remote role, you must be able to commute to the Detroit, Michigan office.
+How youll contribute:
+
+Create, modify, and optimize workflows within Blend Builder to address specific business needs and customer requirements
+Become a subject matter expert in Blend Builder, keeping up with the latest updates, features, and best practices to drive innovation
+Collaborate with product managers, developers, deployment leads, customers, and other stakeholders to understand business objectives and translate them into efficient workflow solutions
+Perform rigorous testing and quality assurance to ensure workflows are error-free and meet the desired functionality
+Provide post-production support for workflows by being on-call including during non-business hours as necessary
+Create comprehensive documentation for developed workflows, including user guides and best practice documentation
+
+ 
+Who you are:
+
+Bachelors degree in Computer Science, engineering, or a related field
+A solid understanding of integration patterns like REST and ability to write code using JavaScript or other similar programming languages
+Proficiency in low-code development tools like Mulesoft or Salesforce that include drag-and-drop tools capable of creating highly customizable solutions
+Strong problem-solving skills with the ability to translate complex business requirements into efficient workflow solutions
+Excellent communication skills to work effectively with cross-functional teams and convey technical concepts to non-technical stakeholders
+
+ 
+To comply with local legislation, as well as to provide greater transparency to candidates, we share base pay ranges on all job postings regardless of desired hiring location.
+For full time hires, the hiring base pay range for this position is between 110,500 and 136,850. The stated base pay range would generally be reduced 5 for candidates outside of CO, IL, MA, TX, VA, WA, and DC. Beyond base pay, Blend benefits and perks are described below.  
+Final base pay offer amounts will vary depending on multiple factors, including but not limited to function, level, geographic location, job related knowledge, skills, and experience. Base pay will be adjusted for part-time roles to reflect scheduled hours.
+Benefits and Perks: 
+
+Meaningful equity 
+401 (k) plan with employer matching contribution
+Comprehensive health benefits
+16 weeks of paid parental leave
+Generous vacation policy
+Work from home office set up stipend and internet stipend during COVID-19
+Wellness benefits covering a variety of wellness activities, gym memberships, fitness classes and more
+
+  
+Blend is an equal opportunity employer that values diversity, inclusion and belonging. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We will consider for employment all qualified applicants with arrest and conviction records in a manner consistent with applicable laws.
+Notice at Collection and Privacy Policy for California Job Applicants
+ 
+If you have a disability and you wish to discuss potential accommodations related to applying for employment, please contact Blend at (650) 550-4810 or hraccessibilityblend.com.

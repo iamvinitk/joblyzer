@@ -1,0 +1,34 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career. 
+About the team 
+Before Stripe, every growing internet platform had a payments team. Today, every growing internet platform has an Identity team. Stripe Identity is building a service that enables merchants to seamlessly verify their customers while scaling globally with ease. We believe Identity is a core piece of economic infrastructure for online businesses, just like payments. 
+Great Identity solutions not only enable complex, highly regulated businesses to work with ease on the internet, but they also effectively keep merchants and consumers in the internet economy. Stripe Identitys mission is to become the easiest way to verify a real-world identity on the internet.  
+What youll do
+We are looking for experienced Machine Learning Engineers to own the end-to-end lifecycle of applied ML model development and deployment in service of consumer facing products like Stripe Identity and Link. You will partner with ML engineers, product engineers, and xfn partners to define the scope of high-impact ML projects - from ideation to execution.
+Responsibilities
+
+Design, train and deploy new models using advances in deep learning to iteratively improve Stripes business-critical models and systems in identity verification workflow
+Analyze and model the lifecycle of consumers using Stripe to support offering a wide variety of financial services to them
+Think of creative new methods to deter credit risk, transaction fraud and identity theft, while working against constantly evolving adversaries
+Explore green-field projects and convert abstract requirements into concrete deliverables
+Design the next generation of model training and scoring infrastructure, in close collaboration with our ML infrastructure teams
+Improve the way we evaluate and monitor our model and system performance
+Collaborate with stakeholders and drive projects involving a wide variety of technologies and systems to successful completion
+Mentor and support other engineers in training and deploying new deep learning models
+
+Who you are
+Were looking for ML engineers with a background and passion for building products and services incorporating applied ML technologies. You are comfortable in dealing with changes. You love to take initiatives, have bias towards action, and enjoy sharing learnings with others.
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+An advanced degree in a quantitative field (e.g. stats, physics, computer science) and experience deploying models in a production environment
+7 years industry experience working on machine learning applications
+Experience designing and training machine learning models to solve critical business problems
+Knowledge about how to manipulate data to perform analysis, including querying data, defining metrics, or slicing and dicing data to evaluate a hypothesis
+
+Preferred qualifications
+
+Experience in the fraud or risk space
+
+ 

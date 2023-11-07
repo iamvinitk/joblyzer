@@ -1,0 +1,23 @@
+Founded in 2019, Cake Group is a leading decentralised finance services provider and Southeast Asias fastest growing fintech platform. We Do Crypto. You Do You. - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over 1 billion in assets. We are a profitable, cashflow positive private rocket ship thats just getting ready for take-off. Join us.
+ As Cakes Finance Data Analyst, youll join the Treasury and Ops Team and help Cake makes sound financial decisions. As a part of the starting team, therell be a huge potential for growth opportunities and career development. As your role develops at Cake, therell also be opportunities to expand your scope as the business expands.Specifically, you will ensure the integrity and accuracy of Cake financial numbers, by ensuring that such numbers are extracted from the database correctly. You will automate the blockchain to database reconciliation processes and report generation. You will be self-starter and a go-getter who embraces all opportunities to learn and add value. You thrive working in a challenging, fast-paced environment and are willing to roll up your sleeves, collaborate, share knowledge, and get things done.
+ 
+What youll do- 
+
+Automate the report generation process and ensuring the integrity of the financial numbers
+Support and manage the reconciliation between blockchain transactions and database
+Prepare internal and external reports on regular basis
+Support on audit  compliance work
+Work with other teams to improve overall processes
+
+What you need-
+
+Sharp problem-solving skill set; able to put structure to ambiguous problems and drive insights
+Able to read and code javascript
+Advanced analytical and technical (Financial ModellingSQLData VizSequelizePostgresql) skills working with large volumes of complex data
+Passion for crypto industry
+Entrepreneurial mindset, with a demonstrable bias towards action and execution
+Enjoys high-growth environments, and approaches challenges with a growth mindset
+Excellent communication and interpersonal skills
+Accounting knowledge would be nice to have but not necessary
+We want to transform and decentralise finance with tomorrows technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, youll have fun. The best places to work at, are often also the most fun to work at. Thats us.
+We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake Group, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.

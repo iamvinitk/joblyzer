@@ -1,0 +1,71 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Advanced Projects team is a cross-functional, multidisciplinary group that handles requirements-driven hardware development projects. We are focused on engineering design, developing custom electronics to fulfill our clients needs, and identifying the best components and techniques to implement the desired functionality, while emphasizing quality and reliability. Our projects tend to be larger, longer-term engagements, though team members often split time across multiple projects.
+We are looking for people who know how to get things done, who are always looking to grow their capabilities and deepen their knowledge, and who challenge assumptions, constantly pushing for better solutions and finding novel approaches to problems old and new. If that sounds like you, youve come to the right place.
+Job Overview:
+As a Senior Embedded Firmware Engineer, you will be a creative problem solver and gain exposure to a wide variety of technologies, concepts, and techniques in firmware development from concept and architecture through release and maintenance. Ideally, you have strong mentorship skills, a strong curiosity, a tenacious spirit, and a willingness to help solve complex engineering problems. 
+What You Will Do:
+
+Architect, develop, debug, and test embedded firmware for a wide variety of applications, including avionics systems, medical instruments, and consumer devices
+Interact with clients to lead the definition of firmware project requirements 
+Drive system-level design trades, including the selection of hardware and software interfaces, protocols, and development environments
+Develop application-layer firmware to implement digital signal processing and control algorithms
+Develop low-level drivers to interface with a wide range of embedded hardware peripheral devices, such as sensors, displays, and motors
+Develop code solutions to support memory management, bootloading, and firmware updates
+Create software test infrastructure tailored to the needs of individual projects
+Drive the development and maintenance of custom tools to support firmware development
+Provide technical mentorship and direction to project teams
+
+What You Will Need:
+
+Bachelors degree in Computer Science, Engineering, Math or Science discipline
+Demonstrated proficiency programming in CC
+3 years of experience developing embedded firmware or HDL
+Experience developing software for hardware devices, including knowledge of timers, interrupts, digital-to-analog, and analog-to-digital interfaces.
+Demonstrated experience in one or more specializations, such as DSP, controls, image processing, networking, or machine learning 
+Hardware debug experience and familiarity with benchtop test equipment, including oscilloscopes, logic analyzers, and protocol analyzers
+Familiarity with ARM Cortex-M or Microblaze processor architectures
+Familiarity with software development tools including Git, SVN, and Jira
+Experience working in a Linux environment
+
+What Would Be Useful:
+
+Masters degree (Electrical Engineering, Computer Science, Physics, Math, related field)
+5 years experience developing embedded firmware or HDL (can include experience from internships)
+Familiarity with a wide range of programming languages (e.g., Python, Rust, C, etc.)
+Experience with debugging, performance optimization, and unit testing techniques
+Experience with HDL and FPGA design tools (e.g., Xilinx Vivado, Altera Quartus II)
+Experience developing for one or more embedded communications interfaces, such as CAN, USB, or Ethernet
+Experience developing code targeted for Real-Time Operating Systems, such as FreeRTOS, RTEMs, or VxWorks
+Demonstrated knowledge of computer architecture, software systems, data structures, networks, and electronics hardware
+Experience designing systems for battery operation
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 145,000-185,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

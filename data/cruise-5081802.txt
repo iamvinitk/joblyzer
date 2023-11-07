@@ -1,0 +1,146 @@
+Were Cruise, a self-driving service designed for the cities we love.
+Were building the worlds most advanced self-driving vehicles to safely connect people to the places, things, and experiences they care about. We believe self-driving vehicles will help save lives, reshape cities, give back time in transit, and restore freedom of movement for many.
+In our cars, youre free to be yourself. Its the same here at Cruise. Were creating a culture that values the experiences and contributions of all of the unique individuals who collectively make up Cruise, so that every employee can do their best work. 
+Cruise is committed to building a diverse, equitable, and inclusive environment, both in our workplace and in our products. If you are looking to play a part in making a positive impact in the world by advancing the revolutionary work of self-driving cars, come join us. Even if you might not meet every requirement, we strongly encourage you to apply. You might just be the right candidate for us. The MPC Analysis team helps drive our AVs with data. We close the feedback loop on software development and help drive critical prioritization decisions. In this team, you will have the opportunity to address some of the most pressing challenges in how we evaluate safety, integrity and performance of the autonomous vehicle software. You will collaborate closely with teams across Cruise in Planning, Controls, Systems Engineering, Testing, Prediction and Perception to bridge the gaps in our understanding of how small changes in software cascade into large behavioral improvements.
+As a Senior Engineering Analyst, you will develop new metrics and evaluation roadmaps to provide insights on the inner workings of our motion planning and controls stack. Your work will be key in evaluating state-of-the art algorithms and helping push the boundaries by developing new ones. You will lead cross-collaborative analysis efforts investigating risk and impact of technical approaches, communicate your findings, and work with EMs and Staff Engineers to drive decision making.
+What youll be doing:
+
+
+Lead new strategies and methods to identify risk and impact of motion planning and controls features
+
+
+Build, deploy and maintain new metrics to measure performance of the motion planning and controls stack
+
+
+Champion metrics and observability in planning and control roadmaps
+
+
+Provide technical leadership and mentorship to the team
+
+
+Develop processes and tools to enable collaborators to make better data-driven decisions
+
+
+Translate data and analysis into impactful recommendations
+
+
+Build and manage relationships with key partners across Cruise
+
+
+What you must have:
+
+
+BS, MS, or PhD in Mechanical Engineering, Electrical Engineering, Aerospace Engineering, Physics, Computer Science, or another related field
+
+
+3 years of experience working with planning and controls algorithms, engineering analysis, statistical analysis or other related disciplines
+
+
+Experience working with large datasets and processing pipelines
+
+
+Strong coding skills in Python and C
+
+
+Proven track record of implementing data-driven solutions for complex technical systems
+
+
+Ability to adapt to change and operate in a self-directed environment
+
+
+Ability to clearly define and motivate problems and solutions in technical writing.
+
+
+Bonus points!
+
+
+Experience as an engineering analyst or software engineering working on autonomous vehicle planning and controls
+
+
+Experience with robotics, autonomous vehicles, model predictive control algorithms or numerical methods
+
+
+Ability to identify and act on opportunities to improve processes and increase efficiency
+
+
+Experience with working on robotics platforms based on ROS
+
+
+ 
+The salary range for this position is 161,500 - 237,500. Compensation will vary depending on location, job-related knowledge, skills, and experience. You may also be offered a bonus, restricted stock units, and benefits. These ranges are subject to change.Why Cruise?
+
+
+Our benefits are here to support the whole you:
+
+
+
+
+Competitive salary and benefits 
+401(k) Cruise matching program 
+Medical  dental  vision, ADD and Life
+Subsidized mental health benefits
+Flexible vacation and company paid holidays
+Healthy meals and snacks available for non-remote employees
+Paid parental, jury duty, bereavement, family care, and medical leave
+Fertility Benefits
+Dependent Care Flexible Spending Account
+Flexible Spending Account 
+Pre-tax Commuter Benefit Plan for non-remote employees
+CruiseFlex, a working policy for US-Based Cruisers, lets you and your manager find the working style thats best for you, whether its primarily in-person, primarily at home, or a combination of home and in-office time. - learn more about CruiseFlex here
+
+
+
+
+Were Integrated
+
+
+
+
+
+Through our partnerships with General Motors and Honda, we are the only self-driving company with fully integrated manufacturing at scale.
+
+
+
+
+
+Were Funded
+
+
+
+
+GM, Honda, Microsoft, T. Rowe Price, and Walmart have invested billions in Cruise. Their backing for our technology demonstrates their confidence in our progress, team, and vision and makes us one of the leading autonomous vehicle organizations in the industry. Our deep resources greatly accelerate our operating speed.
+
+
+
+
+Were Independent
+
+
+
+
+We have our own governance, board of directors, equity, and investors. Our independence allows us to not just work on the edge of technology, but also define it.
+
+
+
+
+Were Vested
+
+
+
+
+You wont just own your work here, youll have the potential to own equity in Cruise, too. We are competing in a market that is projected to grow exponentially, which gives our company valuation room to grow. We offer a new kind of equity program called Recurring Liquidity Opportunity (RLO), which combines IPO-like liquidity with the stability of remaining private - learn more about RLO here
+
+
+
+
+Were Safety Conscious
+
+We integrate staysafe, our top priority at Cruise, into our everyday work. Through our Safety Management System, every Cruiser is asked to do their part by reporting any potential issues or hazards they observe and making continuous improvements. Youll be able to contribute to safety at Cruise, no matter your job function or title.
+
+
+
+Cruise LLC is an equal opportunity employer. We strive to create a supportive and inclusive workplace where contributions are valued and celebrated, and our employees thrive by being themselves and are inspired to do the best work of their lives. We seek applicants of all backgrounds and identities, across race, color, caste, ethnicity, national origin or ancestry, citizenship, religion, sex, sexual orientation, gender identity or expression, veteran status, marital status, pregnancy or parental status, or disability. Applicants will not be discriminated against based on these or other protected categories or social identities. Cruise will consider for employment qualified applicants with arrest and conviction records, in accordance with applicable laws.
+Cruise is committed to the full inclusion of all applicants. If reasonable accommodation is needed to participate in the job application or interview process please let our recruiting team know or email HRgetcruise.com.
+We proactively work to design hiring processes that promote equity and inclusion while mitigating bias. To help us track the effectiveness and inclusivity of our recruiting efforts, please consider answering the following demographic questions. Answering these questions is entirely voluntary. Your answers to these questions will not be shared with the hiring decision makers and will not impact the hiring decision in any way. Instead, Cruise will use this information not only to comply with any government reporting obligations but also to track our progress toward meeting our diversity, equity, inclusion, and belonging objectives.
+Candidates applying for roles that operate and remotely operate the AV: Licensed to drive a motor vehicle in the U.S. for the three years immediately preceding your application, currently holding an active in-state regular drivers license or equivalent, and no more than one point on driving record. A successful completion of a background check, drug screen and DMV Motor Vehicle Record check is also required.
+Note to Recruitment Agencies: Cruise does not accept unsolicited agency resumes. Furthermore, Cruise does not pay placement fees for candidates submitted by any agency other than its approved partners. 

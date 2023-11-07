@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+
+The Team:Meaningful and interactive data visualizations are at the heart of the Celonis product and key value drivers which help our customers understand and improve their processes. The Visualization squad is a frontend engineering team dedicated to improving and extending the data and process visualization capabilities of the Celonis product based on customer problems as well as insights from Process Mining research and data visualization best practices. The team owns the development of an in-house chart library, builds bespoke data and process visualizations and develops user-friendly authoring tools for customers to configure interactive dashboards in Celonis Studio.
+The Role:As Visualization Engineer, you will work closely together with engineers, designers, and product managers to develop best-in-class data visualizations that are used by multiple teams across the Celonis product. You will take ownership over new features in our chart library and the development of configurable graph visualization components in Celonis Studio. Your work will play a vital role in enabling our customers to build custom visualization dashboards and execution apps to solve their unique business challenges. You will be reporting to the Team Lead of the Visualizations squad and work with TypeScript, D3.js, Angular, Webpack, Github, Jira, and Datadog. 
+The work youll do:
+
+Design and work with scalable and reactive frontend architectures for interactive data visualizations
+Design and develop effective algorithms to solve complex visualization problems that improve the user experience (eg. dynamic axis labels, histogram bucketing, fast interactions, dynamic graph layouts.)
+Find ways to optimize rendering performance in the browser to maintain a great user experience even with large amounts of data
+Support new chart requests by implementing generic functionalities such as scales, transformations, and visual marks in our chart library which is based on the Grammar of Graphics and d3.js
+Work with Process Mining experts to develop novel visualization techniques for Process Mining use cases from prototype to production
+Advocate for visualization best practices and data literacy by exchanging knowledge with team members, writing blog posts, and contributing to customer documentation and training materials
+Contribute ideas to the product roadmap for process and data visualizations by collaborating with Product Managers, UX Designers, and stakeholders from other teams
+
+The qualifications you need:
+
+University degree in the area of computer science, human-computer interaction or a comparable education
+Strong proficiency in web frontend technologies such as Typescript, HTML5, SCSS and Angular
+Experience with data visualization technologies such as d3.js, SVG, or chart libraries like vega-lite, observable plot, or highcharts
+Experience in writing and setting up unitintegration tests
+Passion to develop UX focused web apps
+Genuine interest or knowledge in data visualization theory and best practices
+An analytical mind with a great understanding of complex algorithms, profiling and optimization
+Strong communication skills and interest in presenting and testing your ideas
+Good knowledge of spoken and written English
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

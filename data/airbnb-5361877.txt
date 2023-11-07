@@ -1,0 +1,28 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+The Marketing Technology team is responsible for driving host and guest growth. We do this through devising data-driven marketing campaign strategies, reliable campaign delivery platforms, and advanced machine learning models. We build products that allow us to reach more audiences, improve our targeting, and optimize our bidding. 
+The Difference You Will Make:
+We are looking for a Senior Data Scientist to help improve our measurement of brand marketing and develop insights that support how we plan and optimize campaigns. The ideal candidate will have a strong knowledge of causal inference, the ability to work effectively with multiple stakeholders, and an eagerness to improve our measurement and insights. Examples of projects you might work on include leveraging third party data and quasi-experimental methods to estimate the impact of offline media, developing short-term proxies for marketings long term impacts, and working with the marketing team to improve campaign targeting. If youre passionate about using your skills to understand and improve the impact of our brand marketing, we want to hear from you.
+A Typical Day: 
+
+Inference: Apply or develop causal inferences methods to estimate the effect of Airbnbs offline advertising
+Experimentation: Design and analyze experiments to measure the effectiveness of our digital marketing spend
+Insights: Generate insights about customer segments and the companys most valuable guests to improve ad effectiveness and optimize spend
+Communication: Work closely with a range of stakeholders to design and implement measurement of brand marketing campaigns
+Empowerment: Think strategically about opportunities to improve and scale our brand measurement and customer insights
+
+Your Expertise:
+
+4 years industry experience in a quantitative analysis role (2 years with PhD degree)
+Strong knowledge of causal inference and experimentation
+Skilled in statistical programming (Python or R) and database usage (SQL)
+Ability to solve business problems using appropriate methods and models
+Ability to communicate clearly and effectively to cross functional partners of varying technical levels and drive impact
+Ability to translate complex findings and results into a compelling narrative
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual hourly rate is dependent upon many factors, such as: education, experience, and skills. The hourly rate is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. Pay Range120—125 USD

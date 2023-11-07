@@ -1,0 +1,50 @@
+If you shop online (and who doesnt these days?), then chances are youve already interacted with Yotpo. Were a leading eCommerce retention marketing platform, on a mission to help brands of all sizes turn one-time shoppers into customers for life. Loyalty programs, SMS and email marketing, subscriptions, and reviews are our bread and butter, but we have more solutions up our sleeve, too.
+We have teams across the world, including the US, Canada, UK, Israel, Bulgaria, and Australia — and were still growing. Our primary goal is to deliver the best technology in the industry.
+You can hear all about it in our latest brand video. 
+Sounds exciting? Then read on, because were in pursuit of the best and the brightest minds to help us achieve our vision.Yotpo is seeking an experienced Deliverability Manager to join our team. The Deliverability Manager will oversee our top-tier clients deliverability health, provide deliverability support and will manage our IP pools reputation. The Deliverability Manager will be the go-to person for email sending best practices, solving and preventing deliverability issues, and constantly improving our clients deliverability rates.
+Our Deliverability Manager will also work closely with Product  RD to shape the deliverability roadmap and contribute to the Yotpo Email product evolution. 
+This role combines analytical skills, technical understanding, and customer-facing experience in a high-paced dynamic environment. 
+Responsibilities
+
+Active monitoring of clients deliverability rates on a daily basis
+Help, coach, and monitor a portfolio of assigned clients on deliverability topics
+Troubleshoot and collaborate to find solutions to deliverability issues as they arise.
+Manage deliverability and delivery dashboards, reports and alerts, including bounce logs.
+Manage IP pools and IP reputation.
+Maintain relationships with ISP and other email providers.
+Conduct in-depth investigations, reviews, and audits into email sending practices.
+Assist customers with blocklists, spam traps, and issues with mailbox providers.
+Support clients migration.
+Staying up to date on trends and technologies in the deliverability and delivery space.
+Educating customers on email marketing best practices.
+Monitor delivery metrics and create strategic plans to improve their outcomes.
+Provide feedback to assist in improving tools and capabilities offered by the deliverability Product  RD team.
+
+Requirements:
+
+3 years of professional work experience in an email deliverability role
+Analytical, data-driven background, able to independently run reports, analyze data and provide insights and concrete recommendations
+Experience in a customer-facing role, preferably working at an ESP, familiar with approaching clients and assisting with their needs in the delivery and deliverability needs.
+Have good technical understanding of email authentication protocols, email-related DNS record types, bounce handling, spam traps, etc. 
+Have good knowledge of email regulations (e.g. CAN-SPAM), 
+Experience with third-party analysis, monitoring and testing tools, like Litmus, Google Postmaster Tools and SNDS
+
+If you dont meet 100 of the qualifications outlined above, thats okay! We believe in hiring people, not just skills. If you have a passion to learn and are excited about eCommerce and technology, then we want to hear from you. 
+About Yotpo US:
+
+100 coverage of employee medical premiums; 90 coverage for dependentfamily premiums.
+100 coverage of employee dental  vision premiums.
+Comprehensive life and disability insurance.
+Flexible Time Off (FTO) policy, sick time, and paid holidays.
+Equity in options.
+Company sponsored 401K matching.
+Pre-tax Commuter and Healthcare benefits.
+Comprehensive paid leave for new parents and Dependent Care FSA.
+Individualized career development, rewards and recognition.
+Wellness and philanthropic programming and events.
+We are now working in a flexible hybrid capacity.
+
+Yotpos employee-centric culture has consistently earned us coveted spots on Built Ins Best Places to Work lists in both NYC and Austin over the years. Directly inspired by employee feedback, we create opportunities to bring our teams together. Yotpo programming includes team events, educational fireside chats, end of year celebrations, affinity groups and partnerships.
+Yotpo is for everyone, and were committed to anti-racist work. We welcome and employ people regardless of race, color,  gender identity, religion, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status. We are proud to be an equal opportunity employer,  a place where your voice is heard and your perspective is encouraged. Come join us and help us build a global company where were all proud to belong.
+Base salary 120,000 - 150,000
+Base salary ranges are determined by multiple factors unique to each candidate, including skills and local market benchmarks.LI-Hybrid

@@ -1,0 +1,87 @@
+Creditas  uma plataforma digital focada em melhorar a vida das pessoas na Amrica Latina em 3 ecossistemas: auto, imobilirio e benefcios corporativos. A empresa disponibiliza um amplo leque de produtos e servios aos seus clientes, incluindo solues fintech, seguros digitais e solues ao consumidor, usando sua tecnologia proprietria para oferecer uma experincia nica. Sua carteira de crdito inclui crdito imobilirio, de veculo e emprstimo consignado, proporcionando acesso a solues e servios com opes integradas de financiamento e refinanciamento.
+Em solues para o consumidor, oferece reforma de imveis; uma plataforma prpria de seminovos (Creditas Auto) e, aps seu investimento estratgico na Voltz Motors, motocicletas e scooters eltricas. Em seguros digitais,  a maior corretora independente do Brasil, oferecendo seguros de automveis, residenciais e corporativos em parceria com mais de 16 operadoras. Fundada em 2012, emprega mais de 4.500 tripulantes (colaboradores) em escritrios em So Paulo, Barueri, Curitiba, Porto Alegre, Recife, Valncia (Espanha) e Cidade do Mxico. Recebeu aportes de fundos de capital de risco internacionais, que somam mais de US 829 milhes e foi reconhecida pelos rankings KPMG, Business Insider e Glassdoor como uma das fintechs mais promissoras do mundo.
+ 
+
+Nosso time de Product Technology
+Transformamos realidades por meio da Tecnologia.
+ com ela que escalamos o negcio, otimizamos processos, reduzimos custos e entregamos a melhor experincia para viabilizar novas conquistas de nossos clientes.
+Com tecnologia desenvolvida 100 dentro de casa, trabalhamos com todas as linguagens de programao do mercado. Ideal para quem, assim como a gente, ama se desafiar e se desenvolver na resoluo de problemas reais.
+Aqui, voc ainda escolhe seu lugar preferido para trabalhar, seja em casa, no escritrio ou na praia. E, alm dos escritrios em So Paulo e no Mxico, temos polos de tecnologia em Recife, Porto Alegre e em Valncia (Espanha). 
+Se Tecnologia tambm  seu combustvel e fazer a diferena  a sua paixo, embarque com a gente na Nave!
+Quais so as responsabilidades desta vaga:
+
+Administrao de banco de dados: Garantir que todos os bancos estejam operando de forma eficiente;
+Otimizao de desempenho: Monitorar o desempenho dos bancos de dados, identificar gargalos e realizar otimizaes;
+Backup e recuperao: Garantir que todos os bancos tenham um backup e plano de recuperao de desastre;
+Atualizao de verso de banco de dados;
+Migraes de dados entre plataformas;
+Monitoramento e alerta: Configurar sistemas de monitoramento e alerta para detectar problemas e tomar medidas proativas antes que eles impactem os servios;
+Suporte tcnico a equipe de desenvolvimento e membros da equipe, solucionando problemas de bancos de dados;
+Mentoria para as pessoas Jnior e Pleno da rea.
+
+Precisamos de algum com:
+
+Experincia com DBRE;
+Experincia com administrao e performance tuning PostgreSQL;
+Experincia em SQL, MySQL Aurora, SQLServer;
+Conhecimento em Redshift, Mongodb(Atlas);
+Experincia em situaes diversas em ambiente produtivo e na causa raiz;
+Experincia com Cloud AWS e em anlise de performance de AWS RDS;
+Experincia em ambiente Linux e Windows;
+Experincia em observabilidade de banco de dados;
+Suporte em banco de dados para equipes de desenvolvimento;
+Experincia ou conhecimento em metodologia gil;
+Experincia em migrao de banco de dados; 
+Perfil de liderana, adaptvel e comunicativo; 
+Perfil resiliente, orientado para o cliente;
+Disponibilidade para fazer trs dias de integrao presencial (onboarding), em So Paulo.
+
+Ser um diferencial se voc tiver:
+
+Experincia ou conhecimento em Windows Server;
+Conhecimento no teorema CAP e em banco de dados OLTP e OLAP;
+Conhecimento em microservios;
+Conhecimento em plataforma de dados, Data Lake e Ingesto de dados;
+Conhecimento em cdigo Terraform - (IAC Infra As Code);
+Conhecimento em Github;
+Conhecimento em linguagem de programao Python;
+Conhecimento em CICD;
+Conhecimento em CirleCI;
+Conhecimento em segurana da informao (LGPD);
+Conhecimento em airflow;
+Experincia ou conhecimento em Datadog.
+
+
+Nosso processo:
+O processo seletivo se inicia na candidatura e, para algumas oportunidades, h alguns testes adicionais. O tempo do processo  flexvel, mas no se preocupe! Nosso time de Talent Acquisition est preparado para proporcionar a melhor experincia para voc. Analisamos todos os perfis com ateno e sempre enviamos feedbacks, independente da etapa da candidatura. Alm disso, todas as instrues so enviadas por e-mail.
+Conhea nossos benefcios:
+
+Seguro de Vida Coletivo;
+Plano de Sade (SulAmrica);
+Plano Odontolgico (SulAmrica);
+Universidade Corporativa (Academy);
+Zenklub: atendimentos psicolgicos ou coaches gratuitamente;
+Gympass: acesso a academias e estdios com modalidades esportivas;
+Meditas ON: programa interno com Meditao Guiada, Yoga, Reiki e Tai Chi Chuan;
+Family Care: acolhimento da famlia durante a nova jornada da maternidade e paternidade;
+Auxlio Creche;
+Auxlio para Filhos(as) com Deficincia;
+Licena Parental: 6 meses de licena para a pessoa gestante e 35 dias de licena parental;
+Modelo de trabalho: remoto, presencial ou hbrido;
+Vale-Transporte (VT) ou estacionamento conveniado;
+Vale Refeio: Carto de benefcios flexveis (Creditas Card);
+WeWork: coworkings em diversos lugares do Brasil;
+Convnio farmcia;
+Creditas Store: plataforma exclusiva para comprar produtos com descontos direto em folha;
+Emprstimo consignado;
+Antecipao salarial;
+Programa de Educao Financeira.
+
+Diversidade no DNA
+Trabalhamos para construir um ambiente diverso e com equidade de oportunidades. Valorizamos e respeitamos todas as diferenas. Esse  um trabalho constante e sem pausas.
+Promover um ambiente diverso impacta diretamente na gerao das novas formas de resolver problemas e na criatividade para desenvolver produtos e solues inovadores. Cada vez que conhecemos uma nova perspectiva de mundo, novos horizontes e oportunidades se abrem.
+Para fortalecer essa rede, focamos em:
+Diversidade: Valorizamos a pluralidade e respeitamos todas as diferenas com empatia. Queremos que a nossa Tripulao tenha o mximo possvel de representatividade da sociedade onde vivemos.
+Incluso: Queremos promover um ambiente seguro e de bem-estar para que todas as pessoas, especialmente aquelas que fazem parte de grupos sociais sub-representados sintam-se acolhidas e se considerem parte da Creditas.
+Equidade: Temos o compromisso de promover e garantir oportunidades e condies justas para o crescimento e desenvolvimento de todas as pessoas dentro da Creditas, diminuindo vieses em todas as nossas decises.
+Mais do que acolhimento,  possvel encontrar espao para liderar e co-construir o futuro da Diversidade  Incluso na Creditas ao lado dos nossos grupos de afinidade.

@@ -1,0 +1,48 @@
+ 
+
+We are currently seeking a Software Engineer  Web Developer who will be responsible for designing, developing, coding, testing, and debugging complex new software products, or make significant enhancements to existing software. The ideal candidate is a hands-on platform builder with significant experience in developing scalable data platforms, with experience in business intelligence, analytics, data science and data products. They must have strong, firsthand technical expertise in a variety of configuration management and big data technologies and the proven ability to fashion robust scalable solutions that can manage large data sets. They must be at ease working in an agile environment with little supervision. This person should embody a passion for continuous improvement and innovation. The focus of work for this position will be web development and system front end.
+ 
+Clearance Requirements: TSSCI Active Polygraph
+ 
+QUALIFICATIONS
+
+Bachelors Degree in Computer Science, Electrical or Computer Engineering or a related technical discipline, or the equivalent combination of education, technical training, or workmilitary experience
+5 years of hands-on software development experience in .NET development language
+
+ 
+DESIRED KNOWLEDGESKILLS
+
+Experience with modern programming languages like .NETC, Java, Python, etc.
+Capable of delivering on multiple competing priorities with little supervision.
+Excellent verbal and written communication skills.
+Experience in web development (front end), Angular, ASP.net, or any third-party libraries like sync fusion, Dev Express, Kendo, or other packages with controls.
+
+ 
+Helpful Knowledge:
+
+Experience with Oracle and relational databases
+Experience with Amazon Cloud Services
+
+KEY RESPONSIBILITIES
+
+Test software development methodology in an agile environment.
+Provide ongoing maintenance, support and enhancements in existing systems and platforms.
+Collaborate cross-functionally with data scientists, analyst, project managers and other engineers
+Troubleshoots complex problems and provides customer support for software systems and application issues.
+Provide recommendations for continuous improvement.
+Work alongside other engineers on the team to sustain and advance our organizations capabilities
+
+ 
+ 
+Looking for other great opportunities? Check out Two Six Tech Opportunities for all our Companys current openings! 
+Ready to make the first move towards growing your career? If so, check out the Two Six Tech Candidate Journey !  This will give you step-by-step directions on applying, what to expect during the application process, information about our rich benefits and perks along with our most frequently asked questions.  If you are undecided and would like to learn more about us and how we are contributing to essential missions, check out our  Two Six Tech News  page!  We share information about the tech world around us and how we are making an impact!  Still have questions, no worries!  You can reach us at Contact Two Six Tech , we are happy to connect and cover the information needed to assist you in reaching your next career milestone.
+ 
+
+ 
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

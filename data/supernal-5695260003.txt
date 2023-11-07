@@ -1,0 +1,36 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Integrated Health Management System Lead will lead the integrated vehicle health management system as a whole. This position runs trade studies on sensor suites, understands maintenance needs, decides how to predict maintenance downtime, and more. The Integrated Health Management System Lead is the technical lead and comfortable with being not just a team player but also a team guider.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Exercise creativity, share your unique perspective, and have an open mind
+Make decisions based on the long-term and short-term success of the company
+Participate in the development of our teams culture
+Help with recruiting new staff members when necessary
+Exercise extreme ownership of the integrated health management system to include but not limited to: Architecture development, Writing requirements, Collaboration with research institutions, Implementation on prototype and production vehicles, Coordinating with software, hardware, and integration groups
+Be an individual contributor in one of the following areas: embedded software development, cloud software development, embedded software requirements development, hardware integration and test
+May require up to 10 of domestic and international travel
+Other duties as needed
+
+What you can contribute:
+
+Bachelors degree in a science, technology, engineering, or mathematics field preferred
+Minimum of ten (10) years aerospace hardware and software experience (an equivalent combination of experience and education may be considered for this role)
+Architectural thinker with attention to detail and interested in making air transportation ubiquitous
+Demonstrated achievement and capacity for personal growth
+Excellent verbal and written communication skills
+Proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+Able to independently prioritize and accomplish work within time constraints
+Self-motivated and forward-thinking personality
+
+You may also be able to contribute:
+
+Experience with health management systems
+Experience in a regulatory environment
+Experience with embedded devices and embedded programming language (e.g., C, C, Rust, Ada)
+Experience with MATLABSimulink
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. Individuals with disabilities may request to be provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position will include access to certain technology andor software source code, that will be subject to U.S. export control laws. If an export license or other export control authorization is required in connection with your employment, your employment is contingent upon Supernals receipt of such license or authorization and approvals and your continued compliance with all conditions and limitations contained in such license or authorization.Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:192,400—289,120 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

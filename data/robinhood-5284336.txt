@@ -1,0 +1,42 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team
+Robinhoods Technical Programs Department leads global engineering, quality, and planning initiatives across the business. We are looking for a Senior Technical Program Manager (TPM) who will help establish our deployment and testing strategy across a 750 person multi-organization engineering department. If youre excited about unlocking the potential of our teams and their ability to rapidly deliver, this may be the role for you. 
+The Senior TPM will partner with managers and executive leaders throughout Engineering to design and run programs that seek to reduce our time to delivery without compromising on quality. They will also partner with Engineering and Product to lead the planning and delivery of new products, features, important maintenance, and the deprecation of systems that are no longer needed. If this sounds like you, please come help us democratize finance for all!
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Evaluate existing resiliency to change and code quality programs and determine what good looks like what stays, what goes, what should we do instead?
+Use your technical understanding to identify risks and dependencies
+Provide technical transparency through concise summaries for the programs you own to audiences at all organizational levels
+Foster a constructive dialogue, harmonize discordant views, and build agreement
+Increase the productivity and effectiveness of teams by applying project management best practices
+Help plan for the unexpected, making sure that upstream and downstream systems are not broken by changes related to the efforts you manage
+Plan to make sure projects do not wear out individuals and system maintainability is not compromised
+Ship products on a live, large-scale system while managing upstream and downstream dependencies
+Manage post-launch support plans and running retrospectivespostmortems
+
+What you bring
+
+5 years of experience as a technical program manager, engineering lead, or equivalent
+An understanding of the architecture of the systems you work with (e.g., workflows, APIs, runtime characteristics, design limitations, and maintenance requirements)
+Experience rolling out large and complex issue tracking and project management enterprise solutions
+Experience with AWS, K8s, or other distributed systems
+Bonus: PMI PMP, PgMP, or equivalent
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.US Zone 1: 166000 - 195000US Zone 2: 146000 - 172000US Zone 3: 129000 - 152000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

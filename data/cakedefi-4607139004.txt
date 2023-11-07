@@ -1,0 +1,30 @@
+Founded in 2019, Cake Group is a leading decentralised finance services provider and Southeast Asias fastest growing fintech platform. We Do Crypto. You Do You. - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over 1 billion in assets. We are a profitable, cashflow positive private rocket ship thats just getting ready for take-off. Join us.
+ Birthday Research
+Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.
+As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development — with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.
+We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.
+
+What youll do:
+
+Take ownership of Birthday Researchs product quality engineering and release pipeline
+Apply your quality engineering capability to improve our QE pipeline on top of our existing QA automation suite.
+Writing automation scripts and workflows driving greater adoption of test automation software.
+Collaborating with the team to; solve application faults, discuss verification protocols, identify and report bugs, identify quality issues
+
+What youll need:
+
+A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.
+Preferable knowledge of TypeScript plus Cypress [or at least willing to switch from Java Selenium etc]
+Have willing to write the manual cases as well, not a 100 of code
+Previous early stage blockchain related projects are highly preferred OR at least early stage startup to mid size company
+Understanding different SDLC as Kanban and Scrum, and the role QA on it
+Big plus is understanding what can automate and what not, and of course why:)
+Good understanding of Software Testing Life Cycle and its processes
+Experience working in a fast pace tech-driven startup as a quality engineer with at least 2 years of experience.
+Ability to take full ownership and work independently while collaborating with others in a fast-paced agile team.
+Comfortable working remotely via telecommuting with collaboration tools such as Slack; we have teams spanning multiple time zones.
+Experience participatingmaintaining in open source software development is highly preferred.
+Experience working with a blockchain company is a plus
+
+We want to transform and decentralise finance with tomorrows technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, youll have fun. The best places to work at, are often also the most fun to work at. Thats us.
+We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake Group, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.

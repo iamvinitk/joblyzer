@@ -1,0 +1,39 @@
+
+Knab is an online bank, run by people. Were known for being different. At Knab, you wont find men in suits who only think about sales all day. But people who look for innovative solutions with the wishes of the customer in mind, always. We do that from wherever we feel most comfortable at that moment. From our familiar attic room, our social hub in Amsterdam or from a dune house on Terschelling. We are a diverse group of people, which is why our working language is English.
+(Please note: fluentnative level Dutch is required for this position)
+ 
+The role
+In the team that is fully immersed in everything related to commerce, were looking for Database Marketeer. As Database Marketeer, you will ensure that data and marketing come together. This includes setting up new data connections and processes with our data engineers, working out customer journeys, optimizing and creating campaigns using the right data and generating insights from all available data. This is all done with the goal of making communication with our customers more relevant and personal.
+ 
+Your work and responsibilities 
+
+Designing and visualizing data landscapes, data connections and customer journeys
+Enriching the marketing database by adding relevant data sets and improving data quality
+Advising on approaching different target groups and using different channels
+Helping to set up new automated campaigns, where your focus is on data and relevance
+Thinking up and setting up new data connections in close cooperation with our data engineers
+Obtaining and generating useful insights from the database that enable us to be more specific to customer needs
+Creating marketing analysis and reports
+
+ 
+Your profile
+With the following qualities we think you can be very successful in this role:
+
+3 years experience as CRM database marketer or a related role
+HBOWO level of thinking
+You are good at understanding a relational database model
+You can translate insights and goals into campaigns and systems
+You know what is involved in setting up a new data connection and can guide and advise on this
+You see opportunities when diving into a CRM database and quickly know which analyses you want to make or which new (relevant) campaigns you want to set up
+Experience with data analysis (SQL) and reporting tools (ie Tableau)
+Very good analytical skills
+Youre fluent in Dutch and English
+Youre practical and results-oriented
+
+ 
+The team
+Within Knab we work agile. You are part of a multidisciplinary team. This means that you team up with a Product Owner, Customer Journey Experts and Digital marketers. The Database marketer has an HR reporting line to the Manager Data Science.
+ 
+Join the Krew 
+When you join us, Knab will become an important part of your life. We promise you that this is going to be an interesting part of your life. With many successes, fun drinks, great colleagues and special moments. Check out the benefits.
+If you have any questions about this position or the application process, feel free to contact us!

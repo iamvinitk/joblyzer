@@ -1,0 +1,55 @@
+Our growing investment in Ubuntu now enables us to hire a group of outstanding systems software engineers to focus on the connectivity of Ubuntu in a wide range of circumstances, from cloud to server to desktop and IoT. We would like to strengthen the tooling, services, documentation, robustness, security and clarity of Linux network abstractions to provide fast, reliable and secure connections for Ubuntu.
+The network stack is one of the most critical aspects of any operating system where stability, reliability and uptime are paramount. Its ease of use and reliability contribute to Ubuntus success from IoT, Desktop, Server to the Cloud. We are expanding our Foundations team to focus our efforts on this essential function and are looking for people passionate about lower level technologies involved in an operating systems network stack. Applicants will be comfortable discussing bridges, bonds, routing, DNS resolution and other technologies used to interconnect modern operating systems. Well work with a very wide range of upstream components and communities covering a wide range of connectivity tech. We might touch the kernel, iwd, networkmanager, wpa_supplicant, bluetooth stacks, conman, mobile data stacks, ethernet, infiniband, network virtualisation capabilities, VPNs and offload to smartnics. We model Ubuntu connectivity with Netplan and will continue to drive this forward as the easiest and most effective central tool to enable connectivity everywhere.
+The Ubuntu Foundations Team delivers and maintains the core of the Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest and best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer industry.
+As a Linux System Engineer, you will maintain and integrate core components involved in the network stack of the Ubuntu Distribution. You will be discussing design with other team members, upstream projects, mentor less senior engineers and participate in code reviews and design reviews.  You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu.
+Location: The Foundations team is based in EMEA and Americas time zones, from UTC4 to UTC-8.
+What your day will look like
+
+Collaborate proactively with a distributed team
+Shape software-define networking products for evolving data centre architectures to meet ever-increasing bandwidth, reliability, security, and interoperability demands
+Write high-quality, well-designed and well-documented software
+Debug issues and produce high-quality code to fix them
+Collaborate proactively with a globally distributed organisation
+Contribute to technical documentation to make it the best of its kind
+Display technical leadership internally, towards our partners, and in the open source communities
+Influence open-source projects and communities
+Shape innovative product strategies 
+Work from home, with global travel twice a year for company events of up to two weeks duration
+
+What we are looking for in you
+
+An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Knowledge of networking: architecture, design, and protocols
+Deep understanding and passion for Linux networking, from kernel to user space
+Professional experience with computer networks, including virtual networks, distributed systems as well as understanding of hardware offloading technologies.
+Interest in systemd-networkd, NetworkManager, ModemManager, iwd, conman, bluez, iproute2, Open vSwitch, WireGuard and similar software components
+Fluency in at least one of Golang, CC, Rust or Python
+Professional written and spoken English 
+Experience with Linux (Debian or Ubuntu preferred) 
+Interest in packaging software for Debian and Ubuntu
+Excellent interpersonal skills, curiosity, flexibility, and accountability 
+Passion, thoughtfulness, and self-motivation 
+Excellent communication and presentation skills 
+Result-oriented, with a personal drive to meet commitments 
+Ability to travel twice a year, for company events up to two weeks each
+
+What we offer you
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote

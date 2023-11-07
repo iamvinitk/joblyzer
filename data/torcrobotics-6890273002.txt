@@ -1,0 +1,40 @@
+About the Company
+At Torc, we have always believed that autonomous vehicle technology will transform how we travel, move freight, and do business.
+A leader in autonomous driving since 2007, Torc has spent over a decade commercializing our solutions with experienced partners. Now a part of the Daimler family, we are focused solely on developing software for automated trucks to transform how the world moves freight.
+Join us and catapult your career with the company that helped pioneer autonomous technology, and the first AV software company with the vision to partner directly with a truck manufacturer.About the Role: 
+Torc is looking for a Senior Systems Engineer  to join a team responsible for defining, tracking, and shaping the architecture design for our autonomous driving system. This team provides a central role in the product development process, describing the overall system architecture and its software and hardware components and establishing a clear trace from use cases and scenarios into physical implementation. To achieve this the team works closely with other systems, software, hardware, and safety teams and domain experts. 
+What youll do: 
+
+Develop system concepts and architectures for safety relevant applications.
+Employ model-based design practices to specify and simulate the behavior of the robotic system
+Model function chains on logical and physical architecture level in cooperation with our partners from SW and HW design
+Evaluate and decide on architectural tradeoffs through the architecture design process
+Build physical, logical, and behavioral architecture models, capturing different views of the system under development
+Connect systems architecture with our customers and partners from software development, hardware engineering, testing and validation, providing requirements and architectural context to support the autonomy software development process
+Create system specification documentation, translating product requirements to component requirements and architecture specifications.
+Work at multiple levels of abstraction within the product and generate a comprehensive and self-consistent architectural specification
+Maintain up to date knowledge of the technologies and approaches used to build autonomous solutions
+Mentor other team members, growing the overall autonomy and systems engineering expertise of the team
+
+What youll need to succeed: 
+
+BSMS or PhD in systems engineering, computer science, robotics, or related technical field  
+5 years technical design experience for robotic, automotive, or aerospace systems
+Applied Model-based systems engineering experience
+Experience defining architecture for autonomous systems
+Domain KnowHow of AD or DriverAssistance, incl. multimodal sensor configuration
+Broad understanding of engineering fundamentals in software, networking, electrical, and mechanical systems
+Experience in system level safety engineering and SOTIF practices
+Open to occasional travel to partner or customer facilities
+Experience in the usage of state-of art system design tools incl. requirements management (JAMA, DOORS NG) and architecture modelling (CAMEO, Rhapsody)
+System  Software engineering experience in vehicle safety critical systems
+Experience with designing and developing system and software in accordance with quality, functional safety and security standards (ASPICE, ISO 262626, ISOSAE 21434)
+
+Bonus Points! 
+
+Experience in developing perception and planung software algorithms
+Experience in working in agile teams
+Programming experience in C and Python 
+
+ At Torc, were committed to building a diverse and inclusive workplace. We celebrate the uniqueness of our Torcrs and do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, veteran status, or disabilities.
+Even if you dont meet 100 of the qualifications listed for this opportunity, we encourage you to apply. Were always looking for those that are hungry, humble, and people smart and your unique experience may be a great fit for this role or others.

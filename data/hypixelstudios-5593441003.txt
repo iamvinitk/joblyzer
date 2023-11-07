@@ -1,0 +1,51 @@
+Were looking for a Senior Continuous Delivery Engineer to join our team at Hypixel Studios, which collaborates remotely from around the world. Our members range from industry newcomers to experts with 25 years of experience. Team members come from a diverse set of backgrounds, but share a common passion for building polished player-focused, community-powered games.
+ 
+Join us on our mission to bring players together in an inviting, immersive world where they can make their mark. Hytale empowers creative expression across a spectrum of experiences including sandbox adventure, social play, minigames, and creativity using a suite of powerful and accessible tools.
+ 
+As a Senior Engineer for the Continuous Delivery team, you will be responsible for the platform that delivers Hytale code from commit to release - reliably, safely and efficiently. You will design, implement, and maintain the frameworks that build, test, version, and deploy the game software to empower and accelerate the entire game development team.
+ 
+Who you are:
+
+You have strong fundamental programming skills and can build robust, highly scalable systems from the beginning all the way to completion.
+You enjoy working to identify and deliver tools, systems and processes that drive productivity improvements across an engineering organization.
+You prize the opportunity to mentor and support your colleagues.
+
+ 
+Some of your role:
+
+Create and operate a best-in-class developer platform, supporting automated build and test across Windows, Mac, Linux, mobile and console.
+Consult with our developers to provide tools and data that empower them to use the platform on a self-service basis.
+Collaborate with our TechOps and Services teams to create and evolve shared infrastructure and standards.
+
+ 
+Essential Traits: 
+
+5 years of professional software development experience.
+3 years of experience with CICD systems (Jenkins, TeamCity, etc.)
+Strong understanding of CICD concepts and patterns such as static code analysis, automated unit and integration testing, artifact versioning, etc.
+Proficient at communication with both technical and non-technical individuals.
+Team-oriented, self-motivated, and autonomous.
+
+ 
+Bonus Traits:
+
+Experience configuring distributed, incremental build systems (FastBuild, Bazel etc.)
+Professional C Development experience
+Experience with proprietary or commercial game engine development
+Experience integrating CICD systems with mobile devices or console development kits.
+Experience working in cloud environments (AWS, GCP, etc.)
+
+ 
+We can offer:
+
+Competitive salary
+Annual Performance Bonus (APB)
+Quality of Life increases
+Christmas closure
+A chance to work on a new game project with an extremely motivated team
+Opportunities to learn and grow personally and professionally
+A stable and secure work environment
+The ability to work remotely
+
+ 
+Were looking for applicants who are self-driven, put players first, and that have a history of making cool stuff. In return, we can offer an environment that values and supports individual creativity and passion and believes in fostering new talent. We recognize the value of diversity in every sense and actively encourage candidates from diverse backgrounds to apply.

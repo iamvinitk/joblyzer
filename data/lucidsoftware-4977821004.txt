@@ -1,0 +1,40 @@
+Lucid Software is the leader in visual collaboration, helping teams see and build the future from idea to reality. We hold true to our core values: innovation in everything we do, passion  excellence in every area, individual empowerment, initiative and ownership, and teamwork over ego. At Lucid, we value diversity and are dedicated to creating an environment and culture that is respectful and inclusive for everyone. Lucid is a hybrid workplace. We promote a healthy work-life balance by allowing employees to work remotely, from one of our offices, or a combination of the two depending on the needs of the role and team.
+Since the companys founding, Lucid Software has received numerous global and regional recognitions for its products, business, and workplace culture. These include being named a Fortune Best Workplace in Technology and a 2022 Glassdoor Best Place to Work, inclusion on the Forbes Cloud 100, and ranking in the top 100 on G2s 2023 Best Global Software Companies. Top businesses use our products all around the world, including customers such as Google, GE, and NBC Universal. Our partners include industry leaders such as Google, Atlassian, and Microsoft.  
+Lucids customers trust us to keep their data secure. This trust is critical to our mission to help teams see and build the future. A successful Security Engineer at Lucid will be passionate about safeguarding customer and corporate data by proactively identifying and proposing solutions to remediate risks. 
+As a Security Engineer at Lucid, you will protect Lucids corporate assets, including our world-class web applications and employees. Lucid Softwares security team fosters an environment where business and development can quickly adapt and innovate. We stay abreast of evolving legal and business requirements through a risk and compliance mindset. Our mission is to protect and support the objectives of the business.
+Responsibilities:
+
+Design, implement, and maintain security controls for Lucids information systems.
+Evaluate security technologies and configuration for business tools.
+Perform effective security design reviews on complex system architecture proposals.
+Proactively identify threats and opportunities for improvements in security controls and processes across the business.
+Design solutions to mitigate risk and support business objectives.
+Actively participate in team-building activities and exercises.
+Promote and exemplify Lucids core values.
+
+Requirements:
+
+5 years of experience in a Security or IT related field within a SaaS environment 
+Experience and understanding of common identity management solutions such as Active Directory, Azure, and Okta along with their related security controls.
+Experience securing SaaS applications
+Experience establishing security enhancements for business processes in a way that favors guard rails over gates.
+Experience establishing a culture of practical security over security theater (i.e., tying security controls to specific risks).
+Good understanding of web applications and related security controls.
+Ability to establish valuable automation (i.e. via Python, Bash, Powershell and others).
+Good understanding of AWS common infrastructure components; especially those focusing on security.
+Practical understanding of common security frameworks and principles (e.g. NIST 800-53, ISO 27001, SOC 2, GDPR, CCPA, etc).
+Able to work independently and effectively with several different internal teams.
+Understanding of common risk analysis methodologies.
+Excellent verbal and written skills with great attention to detail.
+
+Preferred Qualifications:
+
+3 years experience with security controls in business systems (e.g., Google Workspaces, Anti-malware, Okta, etc.).
+General knowledge of and skill in applying risk management principles and practices
+Security-related certification(s) (e.g., Security, Networking, CISSP, OSCP, CISM, or CRISC)
+Bachelors degree in a related field
+Understanding of common fleet management systems such as Jamf, InTune, and Chef.
+Understanding of common forensics techniques and methodologies along with their prerequisite logging and alerting.
+
+If youd like to confirm job application information found on other hiring websites, please contact us directly at: talentacquisitionlucid.co 
+LI-DA1 LI-Remote

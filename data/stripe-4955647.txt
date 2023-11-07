@@ -1,0 +1,26 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Finance Engineering team is at the core of Stripe to empower mission-critical financial domains including Accounting, Finance  Strategy, and Treasury. Engineers on the Financial Engineering team build platforms, data pipelines, and financial products. The use cases include financial analytics and insights, financial planning  forecasting, and financial business intelligence.
+What youll do
+
+Design, build, and maintain large-scale services, data pipelines, tooling and systems
+Make direct business impact in some of Stripes most mission critical business domains like Finance  Strategy
+Build watertight controls across pipelines to ensure super high accuracy for all financial transactions (hundreds of billions of dollars). Ensure accurate, reliable, and timely financial reporting delivered to a single source-of-truth financial data warehouse
+Work in a collaborative environment involving different stakeholders and subject matter experts
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Were looking for people with a strong background or interest in building successful products or systems; youre passionate about solving business problems and making direct impact on customers, you are comfortable in dealing with lots of moving pieces; and youre comfortable learning new technologies and systems.
+Minimum requirements
+
+7 years professional software development experience, including technical leadership of projects across teams or product areas
+Experience designing and implementing solutions to large scale data problems
+Have delivered large scale production systems
+Attention to high quality code
+We work mostly in Scala, Java, and Javascript. However, languages can be learned: we care much more about your general engineering skill than knowledge of a particular language or framework
+Ability and willingness to commute to Stripes South San Francisco or Seattle offices 2x  week
+
+Preferred qualifications
+
+Experiences with big-data technologies such as Spark, Presto, Kafka, and Flink, and OLAP preferred

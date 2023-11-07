@@ -1,0 +1,62 @@
+At Vidyard, we make life easier for sellers, marketers and corporate communicators. Our video messaging tools, digital sales room platform, and other products are used by Microsoft, LinkedIn, and thousands of other companies. Were passionate about elevating our customers, our teammates, our communities, and ourselves.
+About the Role
+Vidyard is looking for a Security Lead to be the champion of our Security team. Reporting to the Director of Platform and Infrastructure, you will work with teams across Vidyard to ensure our security compliance and risk requirements are met, while driving security awareness across Engineering and the business. You will become a strong mentor to our IT  Security team on security practices to level up the teams knowledge and skills! 
+This is a remote role open to candidates located in Canada.
+About the Team
+Our Security team, led by the Director of Platform and Infrastructure, collaborates closely with the IT team to develop secure applications and platforms for both our customers and employees.
+This includes refining policies, streamlining processes and procedures, and making thorough preparations for our upcoming certifications. Additionally, the team partners with the sales department to ensure accurate responses to inquiries about our organization, its applications, and the security measures in place.
+As a cohesive team, they are deeply committed to ensuring our employees and customers remain well-informed and conscious of security practices, while actively cultivating a secure and collaborative environment for all stakeholders involved.
+As a Security Lead You Can Expect to:
+
+Partner with other teams to help them improve their security posture and monitor their configurations, vulnerabilities, and compliance
+Lead efforts to define, document and implement industry leading security practices  internal controls
+Evaluate new cybersecurity threats and IT trends to develop effective security controls
+Research, develop and maintain a high-quality securityvulnerability posture
+Assist with penetration testing and compliance certification audits with our security vendors
+Lend your expertise to enable our pre-sales technical teams to manage customer security questionnaires
+Monitor our security stance, and react and respond to alerts across our platforms and tools
+Collaborate with Developers and leaders to help triage, prioritize, and remediate weaknesses and vulnerabilities found during security assessments.
+Coordinate with internal teams to operationalize and audit infosec policies
+Advise on core internal security policies and processes such as Security Incident Management, Risk Management, Vulnerability Management
+Lead and facilitate all periodic regulatory processes (e.g. SOC2, ISO27001), coordinating and gathering information across the company to fulfill our obligations
+Manage our vendor assessment processes, interfacing with external stakeholders as necessary.
+
+What Youll Bring to this Role and Your New Team:
+
+8 - 10 years of related functional experience
+Deep expertise in the OWASP Top 10 and a thorough understanding of web application security principles and common vulnerabilities.
+Expertise in cloud security, preferably in AWS, with a strong understanding of cloud security best practices.
+Strong communication and collaboration skills, with the ability to work effectively across teams and influence stakeholders.
+
+Our Tech Stack
+
+Cloud Compliance Platforms
+SIEM products
+Network Security (eg. WAF, Security Groups)
+Cloud Security Tooling (eg. AWS Inspector)
+Static Application Security Testing (SAST) Tools
+Dynamic Application Security Testing (DAST) Tools
+
+
+Job descriptions can be overwhelming. At Vidyard we are motivated to drive change together and deeply value the unique experiences, abilities and opinions you possess, so if this role sounds like your next adventure, but you dont feel entirely qualified, apply! We value candidates who own it, and if youre relentlessly resourceful too, you might be exactly who we are looking for. 
+As we also value user obsession, we prioritize our users, customers and community so you can expect to hear from our team even if you are not selected to move forward.
+What Youll Love about Vidyard:
+
+Competitive pay
+Comprehensive, flexible benefits on day one
+Wellness allowance to spend on whats important to you 
+Flexible hours  unlimited vacation  programs to support travel while working, enabling you to live your best life
+Access to Inkblot, a digital mental health platform  1,500personyear for mental health coverage
+Allowance to support your ongoing growth and development
+Parental leave top-up
+Paid volunteer hours
+Employee resource groups to empower and drive change at Vidyard and in our communities
+RRSP match
+Stock options
+Flexible holiday program
+Home office stipend 
+Flexibility to work in the place that brings out your best: whether you thrive in the comfort of your home office, or are local to, and prefer the energy of our collaboration space in Kitchener, Ontario, Canada, there is flexibility for all.  Although we default to remote-first there will be occasional in-person meetingsevents purposefully designed for connection and collaboration.
+
+Benefits described are Canadian specific, if youre located in another country our People team will speak with you about localized benefits for you.
+We thank all applicants for your interest in Vidyard. Only those applicants selected for an interview will be contacted. Unsolicited resumes from Agencies will not be accepted.
+Vidyard is an equal opportunity employer. Applicants who require reasonable accommodation to complete the application andor interview process should notify us at recruitmentvidyard.com.

@@ -1,0 +1,64 @@
+About Us
+Nu was born in 2013 with the mission to fight complexity to empower people in their daily lives by reinventing financial services. We are one of the worlds largest digital banking platforms, serving millions of customers across Brazil, Mexico, and Colombia. For more information, visit our institutional page https:international.nubank.com.brcareers
+ 
+Engineering at Nubank
+We strive for state-of-the-art software development practices, that currently includes a variety of technologies. While we value candidates that are familiar with them, we are also confident that software engineers who are interested in joining Nubank will be able to learn from our team.
+
+Horizontally scalable microservices written mostly in Clojure, using Finagle and leveraging upon functional programming techniques and hexagonal architecture
+High throughput jobs and inter-service communication using Kafka
+Continuous Integration and Deployment into AWS
+Storing data in Datomic and DynamoDB
+Monitoring and observability with Prometheus
+Running as much as possible in Kubernetes
+
+We are a process-light organization that values human interactions. We value working in small, independent teams that feel like small startups within the company, and eschew coupling and centralizing where realistic. We understand that execution is the key to success and optimize processes to remove bottlenecks.
+You can read more about it in our engineering blog and get some insights into how we work.
+ 
+As a manager in Engineering, youll be expected to
+
+Build or scale up one or more software engineering teams
+Foster a culture of teamwork, feedback and continuous improvement
+Conduct effective 1:1s, team meetings and rituals
+Manage individual contributors, enabling them to be high performers and support others
+Deliver distributed systems at scale
+Align stakeholders around teams vision, goals, and metrics
+Reason about software architecture design decisions
+Look and implement improvements in the way we work and organize
+
+ 
+Once here, you will
+
+Coach and mentor engineers, supporting their growth and performance inside the teams they are part of 
+Facilitate continuous improvement of teams processes
+Ensure the team follows good development processes, is aligned internally and with stakeholders, and consistently delivers quality software
+Ensure the team maintains a high level of operational excellence
+Actively drive and improve recruitment
+Foster psychological safety and facilitate conflict resolution and performance issues
+
+ 
+We are looking for a professional who has
+
+Solid experience leading Engineering teams, ideally with a background as a software engineer
+Experience being accountable for people management, having exposure to performance assessment, hiring, supporting career growth, etc.
+Experience leading agile teams, being familiar with the most relevant ceremonies, metrics and processes
+A good level of technical understanding, being able to take part in architecture discussions with Engineers and to translate complex, technical projects and concepts for non-engineers.
+Advanced level of English
+
+ 
+Our Benefits
+
+Chance of earning equity at Nubank
+Extended maternity and paternity leaves
+Health and life insurance
+NuCare - Our mental health and wellness assistance program
+Nucleo - Our learning platform of courses
+NuLanguage - Our language learning program
+Vacations of 15 workdays
+Gym partnership
+
+ 
+Our Nu Way of Working 
+Our work model is hybrid and has cycles that can be from two to three months according to the business of expertise. For every eight or twelve weeks of remote work, one will be at the office. Check more information here.
+ 
+Diversity  Inclusion
+At Nu, we want to be sure that were building a more diverse and inclusive workplace that reflects the customers we serve and seek to empower. Thats why we hire based on equality. We consider gender, ethnicity, race, religion, sexual orientation, and other identity markers as enriching elements to our company while ensuring neither of them represent a barrier when recruiting fantastic talent.

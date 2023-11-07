@@ -1,0 +1,41 @@
+This is an opportunity to play a crucial role in shaping the security of Canonical and the whole open source community. We are looking for people to help us grow and expand our security offering, and to help us make the world a safer place. You will work alongside fantastic security professionals already onboard at Canonical, and share your time between contributing technically, and managing team members and projects.
+The security team aims to provide a secure, stable service to our users and customers, and to enable them to reduce and manage their risk in an ever-changing landscape. This role involves engaging directly with our community and customers, as well as coordinating efforts across multiple engineering teams and projects.
+As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in software security is a must, so that youre able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.
+We have multiple management focus areas open for the Ubuntu security management role: 
+
+Security Maintenance (CVE and vulnerability addressing life cycle)
+Security Technology (AppArmor, Secureboot, and Cryptography)
+Certifications and Compliance (FIPS, CIS, FedRAMP)
+
+Key responsibilities
+
+Build and lead a globally distributed team of engineers through hiring, coaching, mentoring, feedback and hands-on career development
+Guide the security posture for Ubuntu, and other Canonical products
+Support timely delivery of technical solutions to address business needs
+Manage competing priorities, communicating with internal and external stakeholders
+Advocate and advance modern, agile software development practices
+Grow a healthy, collaborative engineering culture in line with the company values
+Participate in strong engineering process through code and architectural review
+Guide the growth of the Canonical Security story
+Work from home with global travel up to 15 for internal and external events
+
+Valued skills and experience
+
+You love developing and growing people and have a strong track record of doing it
+You are knowledgeable and passionate about software security, either Security Certifications or Application Security 
+You have some experience in leading, managing, coaching and mentoring software developers
+You have solid experience working in an agile development environment
+You have strong written and verbal technical communication skills
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+
+What Canonical offers:
+
+Personal learning and development budget 
+Annual compensation review
+Recognition rewards
+Annual leave
+Priority Pass for travel
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-remote

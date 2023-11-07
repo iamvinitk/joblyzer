@@ -1,0 +1,68 @@
+CSQ424R39
+As a Sr. Solutions consultant on our Professional Services team you will work with clients on short to medium term customer engagements solving their big data problems using Apache Spark and the Databricks platform. You will perform work related to Data Engineering and Data Science, integration of client systems, training, and other technical tasks to help customers to get value out of their data with Databricks. You will report to the Director of Professional Services
+The impact you will have:
+
+
+Support customers successful understanding, evaluation and adoption of Databricks.
+
+
+Consult on architecture and design, bootstrap, and implement strategic customer projects.
+
+
+Build references architectures, how-tos, and demo applications for customers.
+
+
+Provide escalated level of support for customer operational issues.
+
+
+Architect, implement, and validate integrations with 3rd party applications.
+
+
+Work with the Databricks technical team, Project Manager, Architect and Customer team to ensure the technical components of the engagement are delivered to meet customers needs.
+
+
+Work with Engineering and Databricks Customer Support to provide product and implementation feedback and to improve rapid resolution for engagement specific product and support issues.
+
+
+You are open to 50 travel to customer sites
+
+
+What we look for:
+
+
+Experience with Big Data Technologies such as Spark, Hadoop, Kafka, and Storm.
+
+
+Experience with related Big Data technologies including Hadoop.
+
+
+Build skills in technical areas that support the deployment and integration of Databricks-based solutions to improve customer projects.
+
+
+Comfortable with traveling to multiple customer locations.
+
+
+Comfortable writing code in either Python or Scala.
+
+
+
+Fluent-English proficiency, both written and verbal is required
+
+Benefits 
+
+Private Medical Insurance
+Private Life Insurance
+Equity Awards
+Paid Parental Leave
+Fitness Reimbursement
+Annual Career Development Fund
+Home OfficeWork Headphone Reimbursement
+Business Travel Accident Insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

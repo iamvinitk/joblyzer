@@ -1,0 +1,58 @@
+At Qualtrics, we create software the worlds best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers. ,,When you join one of our teams, youll be part of a nimble group thats empowered to set aggressive goals and move fast to achieve them. Strategic risks are encouraged and complex problems are solved together, by passing the mic and iterating until the best solution comes to light. You wont have to look to find growth opportunities—ready or not, theyll find you. From retail to government to healthcare, were on a mission to bring humanity, connection, and empathy back to business. Join over 6,000 people across the globe who think thats work worth doing.
+Senior Director of Software Engineering  Human Frontline
+Why We Have This Role
+Qualtrics XM is the backbone of the worlds most successful companies. Our secure, agile, easy-to-use platform is a common framework for entire companies to design and improve customer and employee experiences - and to consistently drive innovation in a world where people demand ever more from products, brands, and experiences. The Human Frontline organization, powers organizations frontline employees with actionable insights. It is responsible for providing the underlying technologies that surface power insights and drive actions for the contact center and agents on the frontline of customer experience management.
+How Youll Find Success
+
+
+Create mechanisms that ensure designs are high quality, scalable, and sustainable
+Continually find ways to automate and optimize development processes and drive innovation
+Develop and maintain strong collaborative relationships with key stakeholders across the company and serve as an advocate for the function
+Manage several high-performing managers and teams
+
+
+How Youll Grow
+
+As a (Senior) Director, Software Engineering you will guide several teams of engineers in building simple solutions to solve hard scalability problems
+You will drive product and platform development from roadmap planning through engineering execution to production operations.
+You will be responsible for leading and developing a team of seasoned managers that focus on specific areas of the platform.
+
+Things Youll Do
+
+
+Define the vision and strategy for several engineering teams
+Design and influence product strategy
+Recruit, build and develop high performing engineering teams and leaders
+Communicate and drive engineering initiatives across functions
+
+
+What Were Looking For On Your Resume
+
+
+BSMS in Computer Science or related degree
+10 years of software engineering experience with demonstrated knowledge of engineering best-practices
+5 years experience managing engineering managers
+Demonstrated success building and leading high-performing cross-functional engineering teams
+In-depth technical knowledge on common technologies used as infrastructure
+Experience working with technologies used by software developers to develop, test, deploy, and operate their services. These include, but are not limited to Docker, Nomad, Kubernetes, Puppet, and Terraform.
+Proven track record of successfully tackling large, ambiguous, problems
+Strong interpersonal and communication skills.
+
+
+What You Should Know About This Team
+
+
+Customer Care provides world-class experience management for the contact center. Including but not exclusive to understanding  insights from structured and unstructured data.
+Leveraging the latest in NLU and NLP to drive customer loyalty and prevent customer churn. This includes offerings such as real-time agent assist, quality assurance and management for call centers and analytics to ensure frontline compliance.
+Location XM provides industry leading omni-channel touch point management. Including the ability to uncover insights from a variety of channels, including social reviews and aggregators, chat  direct messages - meeting your customers where they interact.  This includes offerings such as online review management and frontline engagement and productivity tools.
+
+
+Our Teams Favorite Perks and Benefits
+
+
+We lead the industry in workplace experience. Qualtrics boasts top-tier offices, wellness programs, employee experience cash allowances, and relocation stipends that include additional funds for those with dependents.
+We lead the industry in workplace experience. Qualtrics boasts top-tier offices, wellness programs, and employee experience cash allowances.
+In addition to the standard employee benefits package (medical, dental, vision, life insurance, etc) we also provide snacks, drinks, and free lunches in our offices
+
+
+ For full-time positions, this pay range is for base per year; however, base pay offered may vary depending on location, job-related knowledge, education, skills, and experience. For part-time or intern positions, this pay range is for base pay per hour. A sign-on bonus and restricted stock units may be included in an employment offer, in addition to a range of medical, financial, and other benefits, based on eligibility criteria.Washington State Pay Transparency Range251,500—419,500 USD

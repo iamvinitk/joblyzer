@@ -1,0 +1,40 @@
+Artsys mission is to expand the art market to support more artists and art in the world. Artsy has created the worlds largest two-sided art marketplace, offering more than 1 million works by 100,000 artists from 4,000 leading galleries, fairs, auction houses, and institutions in more than 100 countries.
+
+ Do you have a passion for Engineering and want to contribute to Artsys growing marketplace? 
+Were always looking for people to join our Engineering team at Artsy, and sometimes timing is everything. Thats why we want to hear from youwhenever!
+Submit your application with us today and well keep your information on file. When we have an opening, well reach out if there is a match.
+ 
+Engineering Roles at Artsy:
+Data Engineering
+We are a lean team that relies on Ruby for back-end services, Python for machine learning, Scala for data processing, and SQL for enrichment and analysis. Our stack includes Postgres, Elasticsearch, Redshift, RabbitMQ, Spark, and Hive. We integrate with services like Segment and Looker to accomplish our work, and are always evaluating new patterns, tools, and technologies.
+As a Data Engineer at Artsy, youll work on pipelines, databases, and APIs as well as critical services such as search, recommendations, and market insights. Youll architect systems for scale, and think about how to keep our complex, distributed platform resilient to data integrity issues or service disruptions.
+ 
+Backend, Frontend, Mobile or Fullstack Engineering
+Artsys Engineers are responsible for building the applications used by the collectors, galleries, and auction houses that make up the worlds largest online art marketplace.
+About our tech stack:
+—Building user experiences with our frontend stack, which includes React, React Native, TypeScript, GraphQL, Relay, Storybooks, Yarn, Jest, and Visual Studio Code.—Developing end-to-end features with our backend stack, which includes Ruby on Rails, RSpec, Node.js, GraphQL, Postgres and MongoDB.—Our Mobile Engineers have one foot in both the React Native and iOS native worlds - working closely with our mobile engineers to help Artsy deliver amazing user experiences.
+ 
+Engineering Management
+Engineering Managers at Artsy lead a group of engineers, typically between 3-8 people and are responsible for engineering within one of our product areas (Collector, Core Marketplace, Platform). Our managers are responsible for setting direct reports up for success in a distributed environment, enabling individual career growth  development, and having business impact. You will lead initiatives to benefit the engineering team at-large and are comfortable working in a cross-functional matrixed environment. 
+ 
+About Artsy Engineering:
+Artsys engineering principles are open source. We encourage knowledge building and sharing within the larger tech community through open source software, blog posts, and other free resources. Artsy would rather proudly discover (and improve) an existing tool than build it ourselves from scratch. Through our work, we try to create more value than we capture. That means that when we learn something new, we try to share that knowledge through blog posts and open source documentation. A successful candidate will bring their own unique perspective to help us achieve this mission.
+We are currently only able to support employment within Germany, the UK or in the US (EST time zone hours)
+What We Offer:
+
+Opportunity to reimagine the art industry while working with a talented, diverse, international team. 
+Competitive salary and equity
+Flexible time off: we empower Artsy employees to take time off based on their desires and needs that matter most to them
+We are a distributed-first company where employees have the flexibility to work from home. Offices are available for employees in New York, London, and Berlin. (In-person recommendations, and location will vary by role) 
+Comprehensive healthcare  benefit options specific to each region andor location
+Professional development, including: mentoring, lunch  learns, regular training, 1:1 management, and an open feedback culture
+Engaging opportunities and internal programming globally, to foster new relationships and build upon our collaborative community. Including: happy hours, holiday parties, global All Hands meetings, Artsy Salon (a yearly exhibition of our teams creativity), attendance to art world events, and more
+
+ 
+Artsy Values
+Artsy has five core values that will inform your experience at Artsy.
+For the Love of Art: We have relentless curiosity, empathy, and passion for collectors, artists, and the art market. We are here to make the art world more fair and welcoming.
+Own Our Outcomes: We are all individual owners of Artsys shared success. We are resourceful and resilient, and to get the job done, we each take responsibility for our outcomes.
+Lead with Openness: We trust in our teammates. We seek diverse perspectives, communicate authentically, and act with integrity. A more open art world starts with us.  
+Transform Together: Our mission asks us to challenge the status quo. We embrace feedback, learning, and change so that we can transform our industry, our company, and ourselves. 
+Impact Over Perfection: Using both art and science, we debate and decide swiftly and iterate on our plans as we learn. To make the biggest impact, we prioritize speed and clarity of action over perfection.

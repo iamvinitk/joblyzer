@@ -1,0 +1,65 @@
+About the Role: 
+Abnormal Securitys Posture Management  Knowledge Base team is building a suite of products that will allow customers to more easily view, manage, and respond to cyber-security threats. 
+Enterprises have thousands of users, documents, vendors, applications and many other entities, with the total number exceeding millions for the large companies. IT administrators today need to:
+
+Ensure all of these entities have the right configurations to avoid security vulnerabilities. 
+Scan the activity history when theres an incident that requires investigation. 
+Navigate complicated relationships to identify the root causes for exposures. 
+
+Today, customers deal with these hurdles by reconciling massive amounts of (incomplete) information from disjointed consoles and using other manual tools, but no solution provides a centralized environment to make the necessary information available and actionable. Thats where we come in...
+Our newly-formed team is looking to add a Full Stack Engineer, who will influence and advance our Security Posture Management  Knowledge Base team. 
+What youll Do: 
+
+A database that will house millions of records that reflect many types of entities, their activities  relations. 
+A suite of DjangoReact applications to allow intuitive  low-latency access to the stored data. 
+An API interface that will allow decoupled development on both backend  frontend.
+
+Must have Skills:
+
+A tech lead who wants to help grow and build a full-stack team for a 0 to 1 product. 
+
+Experience as a tech lead, comfortable with leading a group of 2-3 engineers in full stack development through technical design, code reviews, roadmap execution, technical mentoring, and interviews. 
+Comfortable with test driven development, working as part of a large organization divided by standardized interfaces. 
+
+
+
+A Django enthusiast who loves to build a high-volume of applications at a high-velocity 
+
+We are building a foundational framework which will power dozens of applications
+
+
+
+An aspiring entrepreneur who wants to work with world-class engineers, many of whom have founded andor built successful companies. 
+
+The execution of this new product will require listening and partnering with ProductDesignPotential customers as we build and find product-market fit (a start-up within a scale-up)
+Solid communication skills - can comfortably interact with PMs  stakeholders 
+
+
+This position is not: 
+
+A management position - although, we believe everyone leads by example. We do not see a direct path to a manager role within 1 year.
+A stepping stone into a Machine Learning engineer role
+A contract position (full-time applicants only)
+A position for someone who does not feel confident using or passing a React interview
+A hands-off role. This is an individual contributor role that will require you to hit the ground running and be coding a majority of the time.
+A fit for someone who likes to think about optimization over velocity 
+
+Nice to Have Skills: 
+
+Strong technical skills in: 
+
+React - you must have worked on at least one React Application that was ,used in production and developed for longer than a year
+Familiarity with AWS ecosystem
+
+Aligned with our VOICE values
+Experience as a tech lead
+4 years of web development experience
+
+Tech Stack:
+
+Language: Python
+Platform: AWS (Azure in the future) through Terraform, Docker, ECS
+Frameworks: React, Django, Celery
+Storage: Postgres, Parquet
+
+LI-AB2

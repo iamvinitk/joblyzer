@@ -1,0 +1,37 @@
+IBKR is looking for a highly skilled and motivated individual with operational experience in two factor authentication systems to join our team and help shape one of the worlds strongest brokerage brands.
+The ideal candidate will join the team responsible for the deployment, management, and support of our in-house IBKR Two-Factor Authentication (2FA) devices at IBKR. This person will report to the Technical Assistance Center Manager based in Chicago, Illinois.
+Your Responsibilities:
+
+Serve as the Subject Matter Expert (SME) in the area of secure login systems (IBKR 2FA, SMS and physical security devices).
+Process escalations from first level analysts who troubleshoot and resolve issues related to secure login devices to ensure seamless client experience.
+Monitor and analyse trends and patterns and link them to challenges clients face and propose solutions for those.
+Assist in the development and implementation of policies and procedures related to user authentication whilst ensuring industry regulations are considered.
+Provide expert guidance and support to colleagues from different client services and client operations by instructing on best practices and troubleshooting techniques.
+Taking ownership of the lifecycle of 2FA devices across all regions, including inventory tracking, maintenance, and decommissioning of expired or damaged devices.
+Implement a monitoring system for 2FA device usage which includes regular audits, identifying and addressing any anomalies proactively rather than reactively.
+
+Qualification and Experience:
+
+Bachelors degree in computer science, Information Security, or a related field (STEM). Masters degree is recommended.
+In-depth knowledge of two-factor authentication protocols and device types.
+Familiarity with industry standards and regulations related to secure login systems such as OAuth.
+Experience and advanced usability knowledge of common desktop and mobile operating systems.
+Exceptional experience in Excel andor other data analytic tools is a must.
+Languages: Fluent in English. Any additional language is a plus.
+
+Required Skills:
+
+Innate capability for pattern recognition and analytical problem solving.
+Excellent capability to apply an out-of-box solutions and approach to complex issues.
+Superior level of attention to detail with the ability to identify risks or vulnerabilities.
+Experience with independent data analysis and data tracking.
+Strong communication skills (spoken and written) to effectively convey security concepts to non-technical and technical staff.
+Ability to think creatively and independently in a structured environment.
+Ability to learn and adapt to new information and technology platforms.
+Proven skills in time management and prioritization.
+Ability to meet tight deadlines and make real-time decisions, while maintaining accuracy.
+Basic understanding of JIRA, Confluence and other problem, task, and knowledge management software.
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

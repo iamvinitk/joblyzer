@@ -1,0 +1,35 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe Capital provides access to fast, flexible financing to small-and-medium businesses on Stripe to accelerate their growth. Businesses use the funds for marketing, team growth, geographic expansion, working capital, new equipment purchases, and much more. Over 95 of our users say they love our product—and were just getting started!
+The Capital engineering team is responsible for building the infrastructure to launch and support our products across a diverse set of merchants and geographies.
+What youll do
+As a backend engineer on Capital engineering, youll have the opportunity to work on all parts of the product stack, from designing and building APIs and user-facing experiences to building complex low-level money movement workflows.
+Responsibilities
+
+Scope and lead complex technical projects, laying the groundwork for early-stage products that need to iteratively evolve and scale
+Align our technical decisions with Stripes broad strategic initiatives, while also advocating for needs specific to emerging new businesses
+Develop and execute against both short- and long-term roadmaps. Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation
+Engineer solutions across systems such as core money-movement infrastructure, data pipelines, banking systems, and more
+Be responsible to our users and partners for the reliability and effectiveness of the products, infrastructure, and tooling we build
+Mentor engineers earlier in their technical careers to help them grow
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. 
+Minimum requirements
+
+Have a strong technical background, including 6 years of experience designing and engineering large-scale systems
+Have experience with large datasets and distributed computing systems
+Are comfortable working on a new product under fluid conditions, seamlessly balancing tactical and strategic considerations
+Prefer simple solutions and designs over complex ones, and have a good intuition for what will last and scale
+Internalize the best ideas from across the organization, humbly setting a vision that others are excited to get behind
+Thrive in a collaborative environment involving different stakeholders and subject-matter experts, and you want to become a subject-matter expert yourself
+Are comfortable with goals that are ambiguous, and can help drive them towards clarity by defining metrics and investigating analytics as needed
+
+Preferred qualifications
+
+Have experience working on data pipelines using Apache Spark, Airflow or comparable systems
+Have helped grow a new team or product and are excited about helping make a great team environment
+
+ 

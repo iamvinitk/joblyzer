@@ -1,0 +1,39 @@
+Data Analyst - PLSQL
+About the team:
+Capcos Data Team helps our clients transform every aspect of their business.  We are highly skilled at formulating data strategy, defining business and technology initiatives across the data management lifecycle, and aligning multi-year strategic roadmaps with clients business goals. As digital technologies advance and regulations tighten, todays consumers  and, therefore, todays businesses  are becoming more aware of the importance of good quality data. We work to establish holistic ways to effectively manage data through the modern data supply chain and facilitate consumption through analytics, modelling, AI, machine learning, dashboarding, and reporting.
+About the Job:
+As a member of our Data Team, you will work across Capcos different domains and solution offerings to help break down large problems, develop approaches and solutions. As a Data Engineer, you will create analytics reporting and provide data-driven strategic insights, trends, and perspective to help drive transformation for our clients.
+What Youll Get to Do:
+
+Work on hard problems with smart people
+Be highly motivated, result-oriented, and take pride in being a problem solver
+Work with new technology, focus on using the right tool for the job, rather than any sticky preference for a tool or technology
+Learn and share knowledge across our engineering teams, so we can continue to iterate and improve
+Write reusable, testable, and efficient code as needed
+Design and implement of low-latency, high-availability, and performant database systems
+Work on implementation of data pipelinesdata warehousesdata martsODSsLakehouses
+Collaborate and work on integration of data storage solutions
+Focus on performance tuning, improvement, balancing, usability and automation
+
+What Youll Bring with You:
+
+4 years of SQL and PLSQL experience working in OLTP, Data Warehouse and Big Data databases. PLSQL is a must have.
+Previous Management Consulting experience.
+4 years in a Data Analyst role
+Strong attention to Detail
+2 years writing medium to complex stored procedures a plus
+Ability to collaborate effectively and work as part of a teamExtensive background in writing complex queries
+Extensive working knowledge of all aspects of Data Movement and Processing, including ETL, API, OLAP and best practices for data tracking
+Good Communication skills
+Self-Motivated
+Works well in a team environment
+Denodo Experience a plus
+Big Data Experience a plus (Hadoop, MongoDB, Exadata)
+
+Why Capco?
+A career at Capco is a chance to help reshape the competitive landscape in financial services.  We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, including medical, dental and vision insurance, a 401(k) plan, tuition reimbursement, and a work culture focused on innovation and creation of lasting value for our clients and employees.
+Ready to take the Next Step?
+If this sounds like you, we would love to hear from you. This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.

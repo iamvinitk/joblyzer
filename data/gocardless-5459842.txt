@@ -1,0 +1,50 @@
+About us
+At GoCardless we believe bank payments are the best way to pay and get paid. We also believe that bank account data is a powerful tool to make better, faster decisions. Were making it easy to use both- for businesses everywhere.  
+GoCardless is used for domestic and international payments by 75,000 organisations and counting, processing more than 30 billion across 30 countries. Were an award-winning London based fintech, with additional offices in Riga, Paris and Melbourne.The role
+We are looking for an engineer with expertise in Python to join our team in Latvia. You will be working in a team of experienced developers located in Riga, who develop and maintain the infrastructure that processes millions of bank account statements and payments a month.
+We endeavour to build simple, reliable systems and we believe in using the best technologies for each task. Joining the Connectivity Group, youll be working in a team that primarily uses: Python, Django, PostgreSQL, Celery, and Google Cloud Storage.
+Across GoCardless, our other technologies include: Ruby, Golang, Python, React, Kubernetes, Elasticsearch, Prometheus, Google Cloud (GCP).
+Youre not expected to have expertise in all these technologies. Members of our team have picked up the tools once theyve started working with the team. If youre unsure, please apply.
+What excites you 
+
+Professional experience of building applications in Python - You have experience building web products and services, and have an awareness of technologies across the stack.
+Adapt - to new technologies and processes quickly.
+You thrive in a collaborative environment - you believe the best products are built through collaboration.
+You care - about building reliable, well-tested systems.
+You enjoy solving problems - you are happy to take initiative to find better solutions.
+Development - you enjoy mentoring and supporting the development of team members and colleagues
+
+What excites us  
+
+Proven work experience in Python development;
+Experience with Django framework;
+Experience in API or Web development;
+Interest in data engineering;
+Passion for quality software;
+Fluency in written and spoken English.
+
+Salary Range: 5600 - 7500 monthly (Gross)
+We dont expect you to meet every requirement. If youre excited by this role, we encourage you to apply.(some of) The good stuff
+
+Wellbeing - stay healthy with dedicated support and medical cover
+Work away scheme - you can apply to work away from your country of residence for up to 90 days in any 12 month period
+Adaptive Working - allows you to work flexibly, around your lifestyle
+Equity - all permanently employed GCs get equity to help you make a valuable contribution 
+Parental leave - to suit everyone embarking on lifes great adventure
+Time off - generous holiday allowance,  3 annual volunteer days,  4 annual business-wide wellness days (GC Fridays)
+
+Life at GoCardless  
+Were an organisation defined by our values; We start with why before we begin any project, to ensure its aligned with our mission. We act with integrity, always. We care deeply about what we do and we know its essential that we be humble whilst we do it. Working this way creates the GC magic- the reason we all love showing up to work. 
+Diversity  Inclusion
+Were building the bank payment network of the future and our ambition is to move money anywhere, for anything, for anyone. If were going to achieve this goal, we need to build a team of GeeCees that is as wonderfully diverse as the world we live in - with a multitude of perspectives, experiences  backgrounds.
+Weve got a long way to go, but heres how were doing as of June 2023;
+42 identify as women
+28 identify as Black, Asian, Mixed or Other
+9 identify as LGBTQIA
+9 identify as neurodiverse
+2 identify as disabled
+Were rooting for you during your application and GoCardless aims to provide reasonable adjustments to make our recruitment process as remarkable and accessible as we can. Please speak to your Talent Partner if you need extra support.
+If you want to learn more, you can read about our Employee Resource Groups and objectives here as well as our latest DI Report 
+Sustainability 
+Were committed to reducing our impact on the environment, leaving a more sustainable world for future generations. In 2021 we became co-founders of the Tech Zero coalition, a group of businesses committed to taking climate action as part of the UNFCCC Race to Zero. We aim to reduce our impact and to create positive change on the natural world. Check out our sustainability action plan here. 
+Find out more about Life at GoCardless via Twitter, Instagram and LinkedIn. 

@@ -1,0 +1,18 @@
+Garda Capital Partners (Garda) is a multi-billion dollar alternative investment firm with over 19 years of experience deploying relative value strategies across fixed income markets for institutional investors. Garda has offices in Wayzata, New York City, West Palm Beach, Geneva, Zug, Copenhagen, Singapore, and Scottsdale.Garda is looking to hire a Software Engineer Intern (Python) to be a part of our Research and Technology (RT) team based out of our New York office, in Summer 2024. This is an exciting position offering opportunities to gain exposure to enterprise software development practices at a global hedge fund.
+Position Responsibilities
+
+Aid in the development of new lines of business solutions using Python, and SQL
+Support senior staff in designing and implementing complete solutions for our front officerisk systems.
+Provide support for in-house and 3rd party applications
+
+Qualifications  Desired Skills
+
+Pursuing a Bachelors or Masters Degree in Computer Science, Engineering, Mathematics, or Quantitative Finance
+Experience with the Python ecosystem of common libraries and working knowledge of at least one statically typed language
+Good grasp of computer science fundamentals (e.g. data structures, algorithms, operating systems etc.)
+Familiarity with object-oriented programming
+Strong problem-solving skills and commitment to high standards for code
+Interest or prior experience in the financial trading industry (particularly in fixed income) a plus
+Ability to work effectively in a high-energy, time-sensitive team environment
+Detail-oriented with strong verbal and written communication skills
+This role is also eligible for other forms of compensation and benefits, such as a discretionary bonus, healthcare plan, 401(k) matching program, etc. Within the range, individual pay is determined by work location and additional factors, such as job-related skills, experience, and relevant education.Base Salary for this role is expected to be between:45—55 USD

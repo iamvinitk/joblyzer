@@ -1,0 +1,45 @@
+Why PlayStation?
+PlayStation isnt just the Best Place to Play — its also the Best Place to Work. Today, were recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation5, PlayStation4, PlayStationVR, PlayStationPlus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation. 
+Join the award-winning team that created God of War
+Santa Monica Studio is seeking a Sr Animation Pipeline Programmer for the development of a new unannounced title!
+Youre into games  you love making them, you love collaborating to make them.  You spend your time figuring out how to get the best animations possible into games by digging deep to improve the game engine and by designing and building efficient animation pipelines. Your ideas result in the team making animations more efficiently, effectively, and to an incredibly high quality.
+Responsibilities
+
+Design, implement, own, and maintain the animation build pipeline
+Optimize game engine  build pipeline by taking full advantage of target hardware and architecture
+Collaborate with stakeholders such as other engineers, animators, technical animators, and character tech artists
+Liaise between team members; drive collaborative projects
+Identify problems; solve them: implement robust, high-quality solutions
+Write clear, maintainable, portable, and highly functional code
+Profile and optimize software systems to remove bottlenecks and improve performance
+Test and document code produced
+Mentor and guide less experienced programmers as needed
+
+Requirements
+
+B.Sc. degree in computer science or equivalent experience
+Minimum five years professional programming experience
+Expertise in C and C
+Animation experience that includes state machines, low-level systems, compression, blending, curves, IK systems, and warping
+Professional experience demonstrating proficiency in algorithm design, understanding of complexity, and software architecture and design
+Proficient in linear algebra
+Ability to write clean, maintainable and extensible code with attention to reusability
+Enthusiasm and initiative
+Excellent spoken and written communication
+Good collaborator within a large, diverse team
+
+Preferred Experience
+
+Knowledge of rigging systems a plus
+
+ 
+LI-SMSLI-AM1
+  Please refer to our Candidate Privacy Notice for more information about how we process your personal information, and your data protection rights.
+ 
+At SIE, we consider several factors when setting each roles base pay range, including the competitive benchmarking data for the market and geographic location.Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location. In addition, this role is eligible for SIEs top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click here to learn more.
+ The estimated base pay range for this role is listed below.123,000—184,600 USDEqual Opportunity Statement:
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.

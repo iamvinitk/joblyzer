@@ -1,0 +1,54 @@
+ Whatnot
+Whatnot is a livestream shopping platform and marketplace backed by Andreessen Horowitz, Y Combinator, and CapitalG. Were building the future of ecommerce, bringing together community, shopping and entertainment. We are committed to our values, whether working remotely or from one of our offices. We are building a team that has experience from top tech, retail and payments platforms in the world.
+Were innovating in the fast-paced world of live auctions in categories including sports, fashion, video games, and streetwear. The platform couples rigorous seller vetting with a focus on community to create a welcoming space for buyers and sellers to share their passions with others.
+And, were growing. Whatnot has been the fastest growing marketplace in the US over the past two years and were hiring forward-thinking problem solvers across all functional areas.
+ Opportunity Size
+Retail disruption is one of the largest opportunities in the startup space today. Livestream shopping is taking off around the world  a 300B GMV market in China thats grown 100 YoY. Whatnot is bringing it to the world through a community-first approach, starting in the U.S. where retail is a 5T market opportunity!
+ Team
+At Whatnot, our first principle is: Always listen to customers. Ensuring a seamless, fair customer experience, especially after a purchase for the buyer or a sale for the seller, is pivotal. It fosters trust and satisfaction between the communities of buyers, sellers, and Whatnot itself. 
+Our new Customer Support Engineering team is one of the most customer-impacting, cross-functionally collaborating teams in the company - owning tactical and strategic engineering efforts to make every customer happy, safe and trusting in Whatnot.
+ Role
+As an early member of this new product engineering team, youll be working with teams across the business. Armed with deep customer insights, you will define and develop effective, world-class customer support experiences, features and technology which drive top-line customer satisfaction metrics for the company. Youll be challenged as a Software engineer - making contributions across multiple software projects, our apps, data systems and more. Youll figure out how to make things work on a neardaily basis. 
+ You
+Curious about who thrives at Whatnot? Weve found that low ego, a growth mindset, and leaning into action and high impact goes a long way here. As a founding member of this new team, you should have 5 years of backend or generalist software development experience in high growth startups, plus:
+
+You can write code, ideally across the stack - (we primarily use Python, Elixir, React, JavaScript, Swift on iOS, Kotlin on Android - these arent pre-requisite skills, but we think youll pick a few of them up).
+Excellent product instincts. You first think about users rather than the best technical solution.
+Youre an excellent problem solver, and can ship features fast.
+Youre open to doing work at any part of the stack, even in projects and languages youre not familiar with. 
+Ability to pick up on new technologies very quickly.
+An interest or experience in Machine Learning solution development.
+A Bachelors degree in Computer Science, a related field, or equivalent work experience.
+
+Compensation
+For US-based applicants: 178,000year to 235,000year  benefits  stock options
+The salary range may be inclusive of several levels that would be applicable to the position. Final salary will be based on a number of factors including, level, relevant prior experience, skills and expertise. This range is only inclusive of base salary, not benefits (more details below) or equity in the form of stock options.
+ Benefits
+
+Competitive base salary and stock options
+Flexible Paid Time Off and Company-wide Holidays (including a Spring and Winter break)
+MedicalDentalVision (Supplementary Private Health)
+Pension Plan
+Food, Wellness, Home Office, and Dependent Care Allowance equivalent to local currency 
+
+1,350 quarterly allowance on food
+1,500 quarterly allowance for wellness
+5,000 annual allowance towards Childcare
+20,000 lifetime benefit for family planning, such as adoption or fertility expenses
+Laptop provided by Whatnot and home office setup allowance
+450 quarterly allowance for cell phone and internet
+
+
+Professional Development
+
+2,000 annual allowance to invest in your professional development
+
+
+Parental Leave
+
+16 weeks of paid parental leave  one month gradual return to work company leave allowances run concurrently with country leave requirements which take precedence.
+
+
+
+ EOE
+Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.

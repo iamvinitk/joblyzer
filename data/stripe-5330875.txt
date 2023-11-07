@@ -1,0 +1,30 @@
+Who We Are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Merchant Health Experience Teams mission is to provide Stripes Enterprise customers with personalized, real-time and actionable data and insights on the health, status and performance of their Stripes accounts, Stripes systems and services, and Stripes network partners. The team builds all the data infrastructure and machine learning models to support real-time alerting, dashboards, actionable insights and service performance reports. 
+What you will do
+
+Manage and grow a team of talented engineers to deliver high business impact projects on schedule with high-quality
+Partner with our recruiting team to attract and hire top talents
+Provide hands-on technical leadership on multiple fronts (architecturedesign, code reviews, quality assurance and incident management) to your reports
+Partner with the engineers on your team, product management, and group leadership to define the teams vision and product roadmap. 
+Independently own and drive multiple merchant health experience work streams, this include all planning, execution and operationalization of various capabilities delivered by your team. 
+Deliver value through a strong collaborative approach with multiple internal stakeholders across Stripe.
+Establish and drive adoption of design and coding best practices within your team
+
+Minimum requirements
+
+7 years of professional hands-on software development experience
+4 years of experience leading software engineering teams
+Hands-on experience designing and building large scale distributed systems
+A track record of managing and mentoring junior and senior engineers located across multiple time zones
+Customer obsession, ability to articulate and represent customer experience in various forums to drive the right outcome that benefits our customers.
+A track record of attracting and hiring top talents, and growing teams
+Demonstrated ability of defining  driving complex initiativesprojects across multiple teams
+Proven success with cross-discipline and cross-team collaborations.
+
+Preferred qualifications
+
+Experience building and operating highly-scalable data-intensive services. 
+Experience building and operating observability solutions, such designingbuilding telemetry collections, data transport and storage solutions and anomaly detection driven by machine learning models.

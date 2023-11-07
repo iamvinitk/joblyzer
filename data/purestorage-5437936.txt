@@ -1,0 +1,61 @@
+BE PART OF BUILDING THE FUTURE.
+What do NASA and emerging space companies have in common with COVID vaccine RD teams or with Roblox and the Metaverse? 
+The answer is data, -- all fast moving, fast growing industries rely on data for a competitive edge in their industries. And the most advanced companies are realizing the full data advantage by partnering with Pure Storage. Pures vision is to redefine the storage experience and empower innovators by simplifying how people consume and interact with data. With 11,000 customers including 58 of the Fortune 500, weve only scratched the surface of our ambitions. 
+Pure is blazing trails and setting records:
+
+For ten straight years, Gartner has named Pure a leader in the Magic Quadrant 
+Our customer-first culture and unwavering commitment to innovation have earned us a certified Net Promoter Score in the top 1 of B2B companies globally
+Industry analysts and press applaud Pures leadership across these dimensions
+And, our 5,000 employees are emboldened to make Pure a faster, stronger, smarter company as we go
+
+If you, like us, say bring it on to exciting challenges that change the world, we have endless opportunities where you can make your mark.SHOULD YOU ACCEPT THIS CHALLENGE...
+We are looking for an exceptional product manager who will be in the drivers seat for evolving and innovating the Pure Storage value with VMware technologies. In this role, you will lead Pures continuously growing billion dollar VMware-related business by developing, leading, and overseeing our VMware-focused product strategy. You will need to think strategically and creatively about how our data platforms can evolve to solve ever-changing business needs which will be critical to our success.
+As a business leader, you will measure your success based on the  overall health of the business and our ability to meetexceed company and market share growth targets while also ensuring your product is delivered on time. 
+The successful candidate will have that rare combination of best in class technical skills and business acumen and be a highly effective communicator and collaborator with a demonstrated history of working successfully across all levels of an organization. The right person will be highly curious, analytical and is motivated to always push for higher growth and improved performance - a person who does not settle for good enough. 
+Key responsibilities for this role include:
+
+Act as quarterback across Product, Engineering, GTM and finance to develop and drive our public cloud storage-as-a-service business.
+Perform deep business analysis to spot trends, uncover opportunities and lead the overall rhythm of the business reporting and operational excellence.
+Partner with BU leadership and finance to set the business growth related targets and OKRs for your productservice.
+Drive execution of this strategy to build a high growth business within a multi-billion dollar addressable market including on premises, hybrid and cloud deployments.
+Assess the competitive and market landscape from both a technical and business perspective and accurately predict trends.
+You will collaborate with customers, partners, Sales and Marketing to identify, define, and articulate a winning use case centric go-to-market model.
+Build and know core customer journey metrics to ensure adoption of new products and features that drive customers to renew, buy or add on services.
+Gather customer feedback to understand key issues, needs and trends in the install base. 
+Conduct market and technology analysis to get a broader sense of the market and competitive product use.
+Work closely with the executive team to establish the scope and goals of growth initiatives and provide leadership for the program teams.
+Engage with key account field sales teams and channel partners to support the sales process and drive the overall customer engagement model.
+You will be a key participant with a cross functional team focused on technical alignment and business development with key ecosystem partners.
+You will be a key spokesperson and evangelist for Pure and must be able to deliver compelling presentations to a wide variety of internal and external audiences. 
+Create and deliver both business and technical presentations to customers, partners, and a wide array of Puritans.
+
+WHAT YOULL NEED TO BRING TO THIS ROLE...
+
+7 years Product Management, Technical Marketing, andor Marketing experience
+Experience in VMware, Cloud, or core infrastructure technologies
+Experience with SQL, Oracle, and SAP HANA (and similar databases) use cases and related customer strategy
+Technical expertise with VMware vSphere technologies--with particular focus on block and file-based integrations and features.
+Understanding and insight into storage technologies and use cases, such as disaster recovery offerings and migration workflows.
+Expertise on the VMware stack and ecosystem--with particular focus on the cloud-based models such as Azure VMware Solution, VMware Cloud on AWS, and others. 
+Familiarity with disaster recovery, storage integrations and related use cases
+Understanding of VMware configurations and details of NFS, block (NVMe-oF, VAAI, and vVols), as well market adoption and uses of those technologies.
+High bias for action and execution with strong drive to achieve
+Direct experience driving successful field marketing programs is highly desired.
+Possess a blend of business and technical savvy that includes the ability to build and drive impact with teams across multiple disciplines, especially field teams
+Analytical and data-driven
+Possesses excellent writtenverbal communication; can communicate concisely and persuasively.
+A Bachelor of Arts or Science Degree is required, or equivalent experience. MBA strongly preferred
+Demonstrated ability to have conceived and executed multiple, extremely complex projects.
+Must be willing and able to work in an open office, team environment.
+
+You will be based in Santa Clara, CA. As this is an office-centric role, you are expected to be present in the office for 3 days a week. As outlined in Pures Hybrid Work Policy, there will be variations over periods of time, depending on business need.
+The annual base salary range is: 185,000 - 277,000. Salary ranges are determined based on role, level and location. For positions open to candidates in multiple geographical locations, the base salary range is reflective of the labor market across the applicable locations. This role may be eligible for incentive pay andor equity. And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events - check out purebenefits.com for more information.BE YOU—CORPORATE CLONES NEED NOT APPLY.
+Pure is where you ask big questions, think differently, and make an impact. This is not just a job, but a place where you have a voice and can accelerate your career. We value unique thoughts and celebrate individuality, and with ample opportunity to learn, develop yourself, and expand into different roles, joining Pure is an investment in your career journey.
+Through our Pure Equality program, which supports a flourishing field of employee resource groups, we nourish the personal and professional lives of our team members. And our Pure Good Foundation gives back to local and global communities through volunteering and grants.
+And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events.
+PURE IS COMMITTED TO EQUALITY.
+Research shows that in order to apply for a job, women feel they need to meet 100 of the criteria while men usually apply after meeting about 60. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+Pure is proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire. 
+If you need assistance or an accommodation due to a disability, you may contact us at TA-Opspurestorage.com.
+APPLICANT  CANDIDATE PERSONAL INFORMATION PRIVACY NOTICE.
+If youre wondering how or why Pure collects or uses information you provide, we invite you to check out our Applicant  Candidate Personal Information Protection Notice.

@@ -1,0 +1,91 @@
+About Us
+
+At Cloudflare, we have our eyes set on an ambitious goal: to help build a better Internet. Today the company runs one of the worlds largest networks that powers approximately 25 million Internet properties, for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazines Top Company Cultures list and ranked among the Worlds Most Innovative Companies by Fast Company. 
+We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us! 
+About the Role
+The leader of BDR Operations will support the BDR department by working closely with the Vice President of Business Development to develop and implement strategies to increase pipeline contribution at scale. This role will equip the team with actionable insights to enable key decisions on processes, programs and investments that will increase productivity and efficiency to drive increased pipeline contribution. The Business Development organization is anchored in a culture focused on the development  training of its employees, incubating talent across the company, teamwork, and celebrating success. With flawless execution, we believe the Business Development organization will be a competitive differentiator for Cloudflare.
+Key Responsibilities:
+
+Provide comprehensive BDR analytics and reporting regionally and globally. Identify problem areas and develop recommended solutions. 
+Support BDR leadership for QBRs, Global Pipeline Reviews, All Hands and other related meetings and presentations. Plan and manage BDR leadership All Hands and QBR agendas. Gather presentation materials from key stakeholders and participants. 
+Spend time with BDRs to understand pain points and then collaboratively develop processes, drive enablement requirements and identify solutions to solve those pain points 
+Effectively collaborate with Marketing Operations and Business Intelligence to optimize lead scoring and propensity models, MQL routing, account scoring and attribution models to drive the desired outcomes. 
+Hire, train and retain a world-class BDR Operations organization through coaching, mentoring and focused employee engagement initiatives. 
+Participate with BDR Leadership in setting the strategic vision and operational goals for the global BDR organization.
+Ensure leads and contacts are moving through the MQL to Closed Won process smoothly. Track conversion rates and pipeline velocity through each stage of the top of the funnel, analyze pertinent data and make recommendations for how to improve the pipeline contribution and velocity.
+Participate in selecting, implementing and managing sales automation tools.
+Manage CRM data. Manage contact lists, ensure that SFDC data for the BDR team is up to date, audit data for consistency, setup automation rules, manage custom fields  data and create the required reports and dashboards. 
+Liaise and collaborate with key stakeholders. Marketing, Sales, Rev Ops, IT, Business Intelligence, GTM Finance are key for this position. 
+Own the compensation process for global BDRs. Complete crediting process in a timely manner to ensure global BDRs are paid out on time and accurately. Be the point of contact for all compensation-related questions  calculations.
+Create regional  global views or all compensable metrics and related incentives to track performance in real-time.
+Own global program management for BDR Outbound campaigns through the creation of outbound prospecting guides and resources. Ensure a smooth process with shared services for requesting, sourcing, loading and tagging account and contact information for BDRs to perform outbound prospecting. 
+
+Key skills required:
+
+Min 6 years of experience working in SalesRevenue Operations or related area
+Min 5 years of people management experience
+Excellent quantitative and critical thinking abilities (ability to forecast accurately, monitor funnel performance, assess productivity gains, etc.)
+Strong business acumen
+Excellent analytical skills
+Organizational, time management skills and attention to detail
+Funnel and Pipeline Management experience
+Program Management
+Project Management
+Expertise in Analytics and Reporting 
+Understanding of CRM and Database Software
+Understanding of the full BDR Tech Stack
+Understanding the BDR Role and A Day in the Life of a BDR
+Experience with Financial Systems
+Ability to prioritize, focus, meet deadlines
+Proactivity
+Being and staying abreast of market trends and insights
+A growth mindset; forward-leaning and innovative while focused on continuous improvement
+Visionary influencer and change management skills to drive meaningful transformation
+Exceptional written and verbal communication skills
+Ability to problem solve on the fly
+Self-starter mentality with a high degree of follow through - can own and take tasks through to completion
+Interpersonal skills- ability to network inside the company and create relationships
+Experience with global teams and an appreciation for the associated cultural differences.
+The ability to travel as needed
+
+Compensation
+Compensation may be adjusted depending on work location.
+
+For Bay Area-based hires: Estimated annual salary of 254,000 - 310,000.
+
+Equity
+This role is eligible to participate in Cloudflares equity plan.
+Benefits
+Cloudflare offers a complete package of benefits and programs to support you and your family.  Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun!  The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.
+Health  Welfare Benefits
+
+MedicalRx Insurance
+Dental Insurance
+Vision Insurance
+Flexible Spending Accounts
+Commuter Spending Accounts
+Fertility  Family Forming Benefits
+On-demand mental health support and Employee Assistance Program
+Global Travel Medical Insurance
+
+Financial Benefits
+
+Short and Long Term Disability Insurance
+Life  Accident Insurance
+401(k) Retirement Savings Plan
+Employee Stock Participation Plan
+
+Time Off
+
+Flexible paid time off covering vacation and sick leave
+Leave programs, including parental, pregnancy health, medical, and bereavement leave
+What Makes Cloudflare Special?
+Were not just a highly ambitious, large-scale technology company. Were a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.
+Project Galileo: We equip politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflares enterprise customers--at no cost.
+Athenian Project: We created Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration.
+Path Forward Partnership: Since 2016, we have partnered with Path Forward, a nonprofit organization, to create 16-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one.
+1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Heres the deal - we dont store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers.
+Sound like something youd like to be a part of? Wed love to hear from you!
+This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.
+Cloudflare is proud to be an equal opportunity employer.  We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness.  All qualified applicants will be considered for employment without regard to their, or any other persons, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AAVeteransDisabled Employer.
+Cloudflare provides reasonable accommodations to qualified individuals with disabilities.  Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hrcloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.

@@ -1,0 +1,33 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+The Payments organization at Airbnb seeks to become a global leader in trusted, transparent, and frictionless payment services to empower our diverse global community. As our platform grows, the payments team is building a scalable platform to support global scale, helping the company grow by bringing new markets and demographics to the platform, protecting our community from bad actors, and enabling new business products to thrive by providing an intuitive, localized, and trusted payment experience. 
+The Difference You Will Make:
+Our data science team is focused on enabling Airbnbs mission by providing statistical insights and innovative data products that will drive improvements to our platform and empower our users around the world. As a Data Scientist working on Algorithms, Payments, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operational partners as you drive ideation, scoping, iteration, and execution of data-driven modelingML solutions. The challenges you will tackle range across a wide-range of organizational opportunities, from amplifying payment experiences, driving improved business outcomes, and bolstering fraud detection capabilities. 
+A Typical Day: 
+
+Identify high impact business opportunities through data exploration and model prototyping, translate business problems into scientific formulations.
+Work collaboratively with cross functional partners including software engineers, product managers, operations and research, to refine requirements for machine learning models, drive scientific decisions, and quantify impact.
+Hands-on develop, productionize, and operate machine learning models and pipelines at scale, including both batch and real-time use cases, structured and unstructured data.
+Build reusable, high-performing, scalable machine learning models with internal paved path tooling, incorporating third-party information and state-of-the-art innovations.
+Regularly present work internally at monthly meetings to technical, engineering and product stakeholders to iterate and generate excitement on roadmap progress.
+Publish externally and engage with the scientific community to advance Airbnbs standing.
+
+Your Expertise:
+
+Advanced degree in a quantitative field. PhD is a plus.
+5 years of relevant industry andor academic experience developing scientific frameworks, building machine learning models, and implementing advanced experimentation techniques.
+Strong fluency in Python and familiarity with modern frameworks (e.g. Pytorch, Tensorflow) for hands-on IC work and advanced data analysis in SQL at scale.
+Deep understanding of modern machine learning techniques and their mathematical underpinnings (e.g. classification, clustering, optimization, deep neural networks and natural language processing). Ability to develop, validate, and deploy new model applications as well as enhancing existing algorithms to achieve improved performance and model explainability.
+Comfortable collaborating with software engineers to understand complex systems and abstracted logs.
+Proven ability to create and drive technical and impactful roadmaps for the business, and lead seamless execution of it.
+Proven ability to communicate clearly and effectively to cross functional partners of varying technical levels.
+Prior experience working in Payments, RiskFraud, or a related area is a plus.
+Experience with advanced experimentation techniques is a plus.
+Experience productionizing real-time machine learning models is a plus.
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range165,000—208,500 USD

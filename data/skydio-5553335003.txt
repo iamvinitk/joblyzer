@@ -1,0 +1,43 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:Skydio is looking for a leader and manufacturing expert to drive our manufacturing engineering team. You will be responsible for the application of technology and operational excellence in our manufacturing processes to both develop new products while also supporting existing products in manufacturing. You will work closely with a cross functional team of design, EE, software, quality and reliability engineers, program managers, supply chain, and operations to develop new products from prototype to mass production. You will lead a team of manufacturing, material, process, and test engineers to develop the process, manufacturing line, fixtures, tests and suppliers to meet operational requirements at both internal and external manufacturing locations.
+In this role, you will:
+
+Develop vision and strategy - Build the global manufacturing engineering organization by setting a clear vision and operational execution plan.
+Act as the lead technical expert who aids in the development of manufacturing engineers and the validation of manufacturing processes.
+Lead team of manufacturing, process, component, and test engineers to develop new products and support existing products in manufacturing.
+New product development:
+
+Develop  launch new products while maintaining high standards of manufacturing cost, quality and manufacturability  
+Engage engineering and supply chain management teams to identify and qualify external manufacturing suppliers, equipment and materials
+Utilize PFMEA, DFM and prototype yield, quality and process data to align design with manufacturing strategy 
+Develop Processes, Control Plans, component and assembly CTQs, Inspections, Inline tests and Work Instructions
+Define and implement workflows, line layout, fixtures, and equipment while providing progressively refined labor, cost, and capacity estimates
+Develop and improve NPI processes
+Work cross functionally with the broader teams to identify problems, conduct RCCA and document development activities and milestones 
+
+Existing products:
+
+Analyze existing workflows, equipment placement and space requirements to improve manufacturing efficiency, improve yield and reduce cost
+Responsible for manufacturing equipment capital expenditure budgets.
+Coordinate with Reliability and Quality teams to analyze failures, define root cause and implement corrective actions
+Maintain line fixtures, calibration and quality measurement systems
+
+Key stakeholder in development and improvements to our PLM and MES systems to have traceability and actively monitor factory quality. 
+Define key performance indicators to drive continuous improvements in the process
+Execute on a people strategy through a mix of hiring outside and developing internal talent. Ensure that the team members are receiving development opportunities and coaching required to realize their full potential.
+Hire, develop and lead an inclusive, diverse, engaged, and high performing team.
+
+Minimum requirements for the role:
+
+Bachelors degree in Mechanical Engineering, Electrical Engineering, Manufacturing Engineering, Industrial Engineering or related engineering fields or equivalent experience. 
+BS  10 years of hands on experience in a manufacturing environment with expertise in high volume production in both internal as well as external contract manufacturers
+SPC, Lean, Six Sigma experience
+Must be able to analyze and resolve complex process development and ongoing support issues of a broad scope using independent judgment 
+Excellent interpersonal skills, with the ability to work cooperatively and collaboratively with all levels of employees.
+Eagerness to operate in a dynamic and fast-paced environment.
+Possess strong project management, detail orientation, and analytical skills.
+Ability to adapt to change and learn quickly.
+
+Compensation Range: The annual base salary range for this position is 190,000 - 275,000. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.
+LI-TS1At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

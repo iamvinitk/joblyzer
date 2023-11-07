@@ -1,0 +1,34 @@
+At Merge, we revolutionize the way B2B companies integrate. Unfamiliar with the integration problem? The average company expects to spend hundreds of hours a year integrating with dozens or more vendors. Alignment between sales, partnerships, product management, design, engineering, and customer success (a lot, right?) is absolutely critical — and a major headache. Integrations are a to-do that goes on and on.
+Our Unified API empowers developers to offer integrations with hundreds of platforms instantly. Now were hiring for you: an ambitious leader ready to help build, design, and support enterprise-grade software scaled to millions of users.
+Are you ready to be part of a team redefining how companies build for the future? Apply now! 
+Responsibilities
+
+Participate in roadmapping and architecture discussions
+Produce high-quality, production-ready, readable, maintainable code
+Lead large projects from initial inception to production
+Unblock and support your team of peers including engineers, designers, product managers, and business operators
+
+ 
+Experience
+
+8 years of full-time backend software engineering experience (10 preferred)
+Experience with Django, Python, and AWS services
+Extensive knowledge of SQL databases (Postgres preferred)
+
+
+ 
+Compensation
+
+The cash compensation range for this role is 200,000 - 250,000.
+Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years  depth of experience, certifications. In addition to cash compensation, all employees receive an equity compensation package.
+
+
+ 
+Benefits
+
+Unlimited PTO  10 company holidays
+100 covered health, vision, and dental insurance
+401K Plan
+200 one-time home office stipend
+Free dinner when working past 7pm
+Merge is an equal opportunity employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected class.

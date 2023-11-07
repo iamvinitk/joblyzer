@@ -1,0 +1,30 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. The ML Platform team provides foundational tools and infrastructure used by hundreds of ML engineers across Pinterest, including recommendations, ads, visual search, growthnotifications, trust and safety. We aim to ensure that ML systems are healthy (production-grade quality) and fast (for modelers to iterate upon).
+We are seeking a highly skilled and experienced Staff Software Engineer to join our ML Training Infrastructure team and lead the technical strategy. The ML Training Infrastructure team builds platforms and tools for large-scale training and inference, model lifecycle management, and deployment of models across Pinterest. ML workloads are increasingly large, complex, interdependent and the efficient use of ML accelerators is critical to our success. We work on various efforts related to adoption, efficiency, performance, algorithms, UX and core infrastructure to enable the scheduling of ML workloads.
+Youll be part of the ML Platform team in Data Engineering, which aims to ensure healthy and fast ML in all of the 40 ML use cases across Pinterest.
+What youll do:
+
+Implement cost effective and scalable solutions to allow ML engineers to scale their ML training and inference workloads on compute platforms like Kubernetes.
+Lead and contribute to key projects; rolling out GPU sharing via MIGs and MPS , intelligent resource management, capacity planning, fault tolerant training.
+Lead the technical strategy and set the multi-year roadmap for ML Training Infrastructure that includes ML Compute and ML Developer frameworks like PyTorch, Ray and Jupyter.
+Collaborate with internal clients, ML engineers, and data scientists to address their concerns regarding ML development velocity and enable the successful implementation of customer use cases.
+Forge strong partnerships with tech leaders in the Data and Infra organizations to develop a comprehensive technical roadmap that spans across multiple teams.
+Mentor engineers within the team and demonstrate technical leadership.
+
+What were looking for:
+
+7 years of experience in software engineering and machine learning, with a focus on building and maintaining ML infrastructure or Batch Compute infrastructure like YARNKubernetesMesos.
+Technical leadership experience, devising multi-quarter technical strategies and driving them to success.
+Strong understanding of High Performance Computing andor and parallel computing.
+Ability to drive cross-team projects; Ability to understand our internal customers (ML practitioners and Data Scientists), their common usage patterns and pain points.
+Strong experience in Python andor experience with other programming languages such as C and Java.
+Experience with GPU programming, containerization, orchestration technologies is a plus.
+Bonus point for experience working with cloud data processing technologies (Apache Spark, Ray, Dask, Flink, etc.) and ML frameworks such as PyTorch.
+
+This position is not eligible for relocation assistance.
+LI-REMOTE
+LI-AH2At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+Information regarding the culture at Pinterest and benefits available for this position can be found here.US based applicants only135,150—278,000 USDOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

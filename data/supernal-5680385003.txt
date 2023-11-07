@@ -1,0 +1,48 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. Power Electronics Engineer is responsible for hardware development of the electric motor controller power electronics and will be involved closely with control algorithm and software development. This position will work closely with Battery Technology, Flight Controls, Test  Evaluation, and Airframe teams.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Lead design and development of motor inverter power electronics. This includes, but is not limited to, defining power conversion topology, control interfaces and circuitry, and developing control algorithms.
+Collaborate closely with suppliers on design evaluation and validation of inverter hardware in order to meet technical specifications and program timelines
+Assess development risks and coordinate mitigation strategies
+Lead simulation and analysis efforts of electric drives and high voltage power electronics
+Work with system architecture and safety teams to develop requirements and specifications for motor control system and cascade down to components of the embedded systems
+Define and mature mechanical, electrical, and communication interfaces with aircraft systems to include airframe, wiring, electric motors, and vehicle management systems
+Work closely with the motor control team to outline controller requirements, develop and implement control strategies, and tune controller algorithms to optimize performance
+Assist in developing the safety of flight artifacts, including system safety assessments, fault trees, and FMEAs
+Provide hands-on support to model-in-the-loop (MIL), Hardware-in-the-Loop (HIL), and Software-in-the-Loop (SIL) test execution and troubleshooting
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Electrical Engineering or other related field required; Masters degree preferred
+Minimum five (5) years of relevant experience (an equivalent combination of education experience may be considered)
+Advanced knowledge of power electronics products for EV powertrain: ACDC converters, battery chargers, inverters, EMI filters, high voltage power distribution and others
+Advanced understanding of EMC (electromagnetic compatibility) standards
+Advanced understanding of electrical engineering protocols and standards
+Advanced knowledge of DVPR and DFMEA
+Knowledgeable in WBG, IGBT, and MOSFET technologies
+Knowledgeable in power converter topologies
+Strong skills in the ability to solve difficult problems related to power electronics componentsdevices
+Strong ability to identify and communicate risks, and drive issues to closure
+Eagerness to expand skills and knowledge into electric aviation propulsion systems
+Excellent verbal and written communication skills
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work within time constraints
+
+You may also be able to contribute:
+
+Experience with qualification of safety-critical software to DO-178B preferred, but hands-on experience with qualification to ISO26262 ASIL D is acceptable
+Experience with full life-cycle of electric motor control development, qualification, production and product support preferred
+Industrial experience in automobile, aviation, aerospace industry preferred
+Experience with permanent magnet synchronous electric motor design and development preferred
+Experience with 500-1200 VDC systems is preferred
+Experience working in aviation industry is preferred
+Experience working with regulatory agencies is preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

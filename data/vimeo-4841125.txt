@@ -1,0 +1,28 @@
+Senior Software Engineer (Fullstack, Backend heavy)
+If you are someone who is ready to elevate human expression through the power of video, eager to unleash its enormous capabilities for every employee, team and organisation across the globe by crafting robust, scalable and highly performant code with technology, then we need you!
+What youll do:
+
+Design, and develop software with high quality and take ownership.
+Technically guide an agile team and work collaboratively.
+Participate in a full development life cycle including planning and code reviews.
+Build solutions that can easily scale to the demands of Vimeo traffic bursts.
+Ensure the best technical design and approach with an aim for continuous improvement and following industry best.
+Mentoring teammates and setting high technical standards.
+Work closely with our Design, Product, and Analytics teams to move projects from conception to launch
+AB test new features, and release improvements iteratively
+
+Skill and knowledge you should possess:
+
+B-Tech  MTech in Computer science or equivalent degree
+Minimum 2 years of web development experience with React
+Minimum 4 years of experience in any backend technologies like  PHP Java Node.JS
+Very good in Algorithms, Data structures, and Time Complexities
+Very Good Database Knowledge (MySQL, Oracle, Redis, Memcache, etc) 
+Hands-on with Design, Coding, Debugging and Testing
+Strong troubleshooting and problem-solving skills
+Must have OOPS and Design patterns.
+Good understanding of cloud technologies.
+Willingness to learn and experiment with new technology.
+About Us:
+Vimeo (NASDAQ:VMEO) is the worlds most innovative video experience platform. We enable anyone to create high-quality video experiences to connect better and bring ideas to life. We proudly serve our growing community of nearly 300 million users — from creative storytellers to globally distributed teams at the worlds largest companies. Learn more at www.vimeo.com.
+Vimeo is headquartered in New York City with offices around the world. At Vimeo, we believe our impact is greatest when our workforce of passionate, dedicated people, represents our diverse and global community. Were proud to be an equal opportunity employer where diversity, equity, and inclusion is championed in how we build our products, develop our leaders, and strengthen our culture.

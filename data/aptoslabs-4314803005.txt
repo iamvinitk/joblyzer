@@ -1,0 +1,45 @@
+Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.
+Founded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.  
+Aptos (Ohlone for The People) encompasses our mission and ethos for why we build.About The Role
+We are looking for a passionate and experienced Developer Education Engineer to join our team. In this engineering role, you will be responsible for creating educational content and workshops to train new and existing developers in the Aptos ecosystem. You will work closely with product and engineering teams to understand the products technical capabilities and develop training materials that are relevant and effective. You will be a key contributor to the Aptos developer relations strategy, helping to build strong relationships with developers and improve the quality of their experiences with Aptos ecosystem.
+This role sits in our Palo Alto, CA office.
+What youll be doing:
+
+Independently create educational content that targets developers who are new to blockchain technology and who are coming from different web3 platforms.
+
+The educational content include functional end-to-end examples, tutorials, courses, and workshops on the Move programming language, building on Aptos, identity management technologies including Web3 wallets, and best practices.
+
+
+Collaborate with product managers, designers, and engineers on the presentation and visuals of developer docs to ensure the quality of presented materials.
+Manage and review the educational contents completed by contracted providers or community contributions.
+Work closely with engineering teams to understand the latest and upcoming technical capabilities of our products and services and develop training materials that are relevant and effective.
+Work closely with technical writers to ensure consistent coverage and referencing across documentation and education contents.
+Work closely with developer relation engineers to incorporate community feedback and continuously improve the relevancy and efficacy of the education content.
+Collaborate with product marketing team to ensure the training materials are aligned with Aptos mission and messaging.
+Organize and lead workshops, webinars, and other training events to help developers learn new skills and stay up-to-date with Aptos ecosystem.
+Evaluate the effectiveness of the training materials and events and make improvements based on feedback and data analysis.
+
+What were looking for:
+
+Bachelors degree in Computer Science or related fields.
+5 years of software development experience in Java, Python, or JavaScript.
+Experience with programming languages, runtime, toolchain.
+Experience with teaching, developing teaching materials from scratch.
+Understanding of blockchain technology and the difference in platform vs product.
+Strong communication and collaboration skills in working with cross-functional teams.
+Familiarity with analytics and data-driven decision-making.
+Ability to travel internationally when required.
+
+ 
+The base salary range for this full-time position is 130k - 210k. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in the Bay Area at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.Our Benefits
+
+100 insurance premium coverage for medical, dental, and vision for you and your dependents (US Employees)
+Equipment of your choice
+Flexible vacation time, 11 holidays, and floating company days off 
+Competitive Salary
+Equity (RSUs)
+Protocol Token Grants
+401k matching (US Employees)
+Fun and inclusive in-person and digital events
+
+Aptos is committed to diversity in the workplace, and were proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.

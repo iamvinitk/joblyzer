@@ -1,0 +1,31 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career. 
+About the team 
+Before Stripe, every growing internet platform had a payments team. Today, every growing internet platform has an Identity team. Stripe Identity is building a service that enables merchants to seamlessly verify their customers while scaling globally with ease. We believe Identity is a core piece of economic infrastructure for online businesses, just like payments. 
+Great Identity solutions not only enable complex, highly regulated businesses to work with ease on the internet, but they also effectively keep merchants and consumers in the internet economy. Stripe Identitys mission is to become the easiest way to verify a real-world identity on the internet.  
+What youll do
+We are looking for Machine Learning Engineers to own the end-to-end lifecycle of applied ML model development and deployment in service of consumer facing products like Stripe Identity and Link. You will partner with ML engineers, product engineers, and xfn partners to define the scope of high-impact ML projects - from ideation to execution.
+Responsibilities
+
+Design and deploy new models using tools such as XGBoost, Tensorflow, PyTorch and iteratively improve identity verification and fraud models to protect millions of users from fraud
+Work with huge payment datasets to find creative new methods of detecting and deterring fraudulent behavior
+Propose new feature ideas and design real-time data pipelines to incorporate them into our models
+Improve the way we evaluate and monitor our model and system performance
+Envision and develop new models for fraud detection
+Work with product and engineering partners, as well as risk and policy teams to build solutions that fit product needs
+Collaborate with stakeholders and drive end-to-end projects involving a variety of technologies and systems to successful completion
+
+Who you are
+Were looking for ML engineers with a background and passion for building products and services incorporating applied ML technologies. You are comfortable in dealing with changes. You love to take initiatives, have bias towards action, and enjoy sharing learnings with others.
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+An advanced degree in a quantitative field (e.g. stats, physics, computer science) 
+5 years industry experience doing software and model development on a data or machine learning team in a production environment
+Experience designing and training machine learning models to solve critical business problems
+Knowledge about how to manipulate data to perform analysis, including querying data, defining metrics, and slicing and dicing data to evaluate a hypothesis
+
+Preferred qualifications
+
+Experience in the fraud or risk space

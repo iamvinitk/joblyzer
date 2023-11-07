@@ -1,0 +1,28 @@
+With 1,000 employees, over 250M in sales, 1,500 clients, and rapid year-over-year growth, Recorded Future is the worlds most advanced, and largest, intelligence company!This Role: As an Associate Solutions Architect, your primary responsibility will be to help identify, develop, and deliver integration services opportunities leveraging the Recorded Future API, Fusion and best practices.  You will be working closely with Professional Services Engineers and Architects in showing existing and potential clients how Recorded Future can help an organizations Security Operations, Incident Response, and Threat Intelligence teams gain context, track information in real-time and aid in the detection and prevention of cyber attacks and breaches.
+What youll do as an Associate Solutions Architect:
+
+Understand the customers workflow and needs in:
+
+Incidents Response,  Vulnerability Management, Identity 
+
+Ability to capture requirements, illustrate described workflows and build the foundation of a design and data flow.
+Understand and drive customers cyber security use cases, workflows and overall needs to utilize Recorded Future integrations.
+Scope and implement custom solutions across a variety of client architectures, applications, and tools.
+Manage multiple projects in a dynamic, fast-paced environment
+
+What youll bring to the Associate Solutions Architect role:
+
+SOC analyst or SOC experience andor GRC, Active Directory  Identity, Security Controls 
+Knowledge of Cybersecurity, Threat Intelligence, or Security Operations and common issues faced by the Security Industry and experience in responding to or working around these issues.
+Experience with SIEMs and other security tools (TIPs, Vulnerability Management, Security Orchestration and Automation)
+Some customer-facing security consulting experience 
+Foundational understanding of basic scripting languages and data structures (e.g., Python, JSON etc)
+Ability to work independently and own tasks and projects from start to completion
+Strong problem solving and troubleshooting skills
+Confident presenting ideas and designs to customers and colleagues
+The hunger and drive to succeed in a highly competitive business
+Why should you join Recorded Future?Recorded Future employees (or Futurists), represent over 40 nationalities and embody our core values of having high standards, practicing inclusion, and acting ethically. Our dedication to empowering clients with intelligence to disrupt adversaries has earned us a 4.8-star user rating from Gartner and 8 of the top 10 Fortune 100 companies as clients.
+Want more info? Blog  Podcast: Learn everything you want to know (and maybe some things youd rather not know) about the world of cyber threat intelligenceInstagram  Twitter: Whats happening at Recorded FutureThe Record: The Record is a cybersecurity news publication that explores the untold stories in this rapidly changing fieldTimeline: History of Recorded FutureRecognition: Check out our awards and announcements
+
+We are committed to maintaining an environment that attracts and retains talent from a diverse range of experiences, backgrounds and lifestyles.  By ensuring all feel included and respected for being unique and bringing their whole selves to work, Recorded Future is made a better place every day.If you need any accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to our recruiting team at careersrecordedfuture.com 
+Recorded Future is an equal opportunity and affirmative action employer and we encourage candidates from all backgrounds to apply. Recorded Future does not discriminate based on race, religion, color, national origin, gender including pregnancy, sexual orientation, gender identity, age, marital status, veteran status, disability or any other characteristic protected by law.Recorded Future will not discharge, discipline or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant.

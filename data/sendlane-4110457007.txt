@@ -1,0 +1,59 @@
+Hi! Were Sendlane, a small but rapidly growing SaaS start-up on a mission to disrupt how merchants approach eCommerce and increase their ROI! If youre reading this, it means youre at least playing with the idea of ditching your current gig and level-up. Look no further, compadre. Have we got a challenge for you
+Were looking for our next Senior Software Engineer!
+Collaboratively working with a growing team of engineers and reporting directly to the CTO and Director of Engineering. Heavily back-end focused, you would be the thought-leader for our company, directly impacting our application by owning larger projects related to Sendlanes core features, scale and optimization. Since our team is smaller, it will really give you the opportunity to see the difference you make in the company, on the platform and within the Engineering department. 
+But before we get too much more into the job itself, lets talk about you! 
+You are driven by consistency, predictability and accountability. Despite the intense collaboration that our engineers conduct, a certain level of autonomy would still be expected of you in your day to day workings. Patience is the name of the game even though youre in a fast-paced start-up environment. 
+Why? Because things change. All the time. So, having a great amount of patience just means that you can roll with the punches and still be productive! 
+So far, so good? 
+Awesome! Then lets talk about the job itself. 
+Our team writes clean, maintainable code within the Laravel Framework while adhering to industry standard best practices and team guidelines. Email marketing and automation involves complex and challenging problems that require the ability to think outside the box when creating new solutions. We try to orient our efforts and decisions based on a data-driven approach and our expectation is that you will eventually develop an intuition about core areas that need to be improved as well as use that intuition and data to propose new ideas that will differentiate us from our competition!
+We know that reading paragraphs upon paragraphs is hard to get all the crucial information youre probably looking for, so heres the bulleted skinny on what you can expect of the job and what the required skills are: 
+ 
+Responsibilities and Duties (including but not limited to):
+
+Problem solve and proactively identify opportunities for improvement
+Collaborate with front-end developers and other team members, including code reviews
+Understand and contribute to scalable database architecture
+Collaborate on refining ideas for new products, features, and improvements
+Be a mentor and support internal teams.
+Understand and implement security and data protection.
+Stay educated about new technologies
+MentorGuide Engineering Team re: best practices
+Effectively communicate - Coordinate tasks with team 
+Lead functional and architectural decisions for Codebase 
+Create best practices and standards for Codebase 
+Set reasonable patterns for team members to follow
+
+Required Skills:
+
+Previous working experience as a Laravel developer for a minimum of 3 years
+Experience working with CI platforms like CircleCi or GitHub Actions
+Experience with large datasets and high-volume application architecture
+Build RESTful endpoints for use by Vue.js SPA and public facing API
+Fluency in PHP, SQL, Redis, Laravel
+Queues with Laravel Horizon
+Experience with other Data storage  Query platforms a plus (Elasticsearch, MongoDB, etc)
+OSXLinux command line
+Experience with Git or other VCS
+Familiarity with modern IDEs (PHPStorm, VSCode)
+Experience writing unit and integration tests in PHPUnit
+Knowledge of Service Oriented Architecture patterns
+Experience within AWS ecosystem (EC2, Redshift, RDS, Elasticache, Athena, etc)
+
+No matter what, we always strive to encourage our engineers to never settle for the status quo and constantly push the strengths of the platform forward. 
+ 
+Have we scared you away? If not, lets take a break and talk about whats in it for you! We strive to ensure that our employees have the best experience possible (while still remembering that you are here to do a job). 
+
+MedicalDentalVision
+401k Match after 1 Year
+Unlimited PTO
+We pay you to GO AWAY - 1000 bonus for taking 5 or more consecutive business days off!
+Up to 6 Weeks of Paid Parental Leave
+Equity - If youre helping us build, we want you to have a piece!
+Equipment for your home office (including a MacBook, a giant monitor, and an annual stipend to get your office set up!)
+Team building and consistent team engagement (we wont force you to do Yoga with us but we will challenge you to do your best impression of the Spice Girls for 100)
+
+Along with our benefits, you can expect an awesome work environment. You can count on having an incredible team of people who are all insanely hard-working (and absolutely HILARIOUS). It simply means that our collaboration, communication and ability to work together is second to none because we have a solid understanding of the people we work with everyday and we actually enjoy it, too. 
+So if you want to be a Sr. Software Engineer at Sendlane, apply today!
+ 
+PLEASE NOTE: This role is LIMITED to candidates within the USA ONLY

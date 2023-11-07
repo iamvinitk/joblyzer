@@ -1,0 +1,45 @@
+Our Associate Technical Fleet Operations Engineer plays a key role in making the vehicle of the future a reality by working on technologies that deliver a turnkey, fully autonomous driving system for our customers and enable Mobility on Demand (MoD). As we expand our global footprint, we are looking for exceptional engineers to help us set the foundation and direction for the future of our technology. Do you enjoy working on prototypes? If the answers are yes, were looking for you.
+This role will require hands-on experience, problem solving capabilities, and a team player attitude to deploy our AV technologies safely and timely in Singapore.
+What youll be doing:
+
+Execute initial sensor bring-up and integration testing to ensure all autonomous vehicle systems are functional and suitable for on-road operations
+Quickly triage, troubleshoot, and address mechanicalelectricalself driving system level related issues
+Perform sensor calibrations, software flashing, and hardware changes on the autonomous vehicle fleet
+Host discussions with cross-functional teams (Testing, Calibration, Integration and Fleet) to identify issues and generate resolutions 
+Verify and track the status of retrofits and upgrades for our different AV platforms
+Author, update, and maintain technical documentation related to softwarehardware configurations and changes performed on each vehicle
+Track, update, and maintain documentation related to fleet readiness and vehicle status.
+Assist with the organization of our workshopgarage to maintain a clean and zero-accident working environment
+Support our internal procurement process to get timely materials,tools, components and equipment to keep the autonomous vehicle fleet up and running
+Perform other duties and responsibilities as assigned
+
+What were looking for:
+
+Bachelors degree in ElectricalMechanicalcomputerMechatronicsRobotics Engineering, Science or related field
+Minimum of 1 years of working experience 
+Experienced with electro mechanical software systems
+Must have experience working in a UnixLinux terminal troubleshooting environment
+Familiarity with electrical schematic, harness review, connector selection and layout tools
+Ability to troubleshoot computers, software and network infrastructure
+Proficiency or some level of exposure to SolidWorks
+Experienced in isolating, documenting, and tracking issues systematically
+
+Bonus points (not required):
+
+Experience in automotiveEVAVaerospacespace or similar industries
+Working knowledge of programming and scripting languages (JAVA, C, Python, etc)
+Experienced with computer system architecture and sensors such as lidars, radars, cameras, GPS, IMUs, CAN bus, and data networks
+Knowledge of modern automotive diagnostic procedures and systems
+Knowledge of Docker Containers
+Working knowledge of, or hands-on experience with, vehicle systems and package is an advantage (eg. Formula SAE  solar car competitions) or participation in roboticengineering tournaments
+Working knowledge of Atlassian feature set including JIRA, Confluence, BitBucket and Jenkins.
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. Were driven by something more.
+Our journey is always people first.
+We arent just developing driverless cars; were creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+Higher purpose, greater impact.
+Were creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; its not only good for our business, its the right thing to do.  
+Scale up, not starting up.
+Our team is behind some of the industrys largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the worlds first robotaxi pilot, and operation of the worlds longest-standing public robotaxi fleet. Were driven to scale; were moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+ 
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.

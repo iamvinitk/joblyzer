@@ -1,0 +1,44 @@
+Company Description:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.Team info: 
+Robotics and Surgery Engineering Team tackles challenges across surgical robotics, such as creating next-gen hardware to drive total brain surgery time down from hours to seconds; designing laser-micromachining for micron-precision geometries for surgical end effectors; and developing ways to reach deeper brain targets while balancing the competing goals of endpoint accuracy and minimally invasive insertion.
+The Implant Team is responsible for the design, build and testing of all mechanical systems in our implant and charger. Projects include design of test infrastructure to reduce hardware development and manufacturing time, electronics packaging for our charger and implant electronics, and tooling to help interface the implant with the surgical robot.
+Job Responsibilities:
+As a mechanical engineer intern at Neuralink, you will have the opportunity to design and produce hardware solutions for our brain-machine interface devices, including surgical robotics, automation, microfabrication, and more. You will get to own projects from concept to production, utilizing your mechanical engineering background in the challenging field of brain-machine interfaces. The role involves collaboration with neuroscientists, biologists, and engineers to determine design criteria and build systems quickly and effectively.
+About you:
+
+You find large challenges exciting and enjoy discovering and defining problems as much as solving them.
+You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a manufacturable solution that works every time.
+You are a cross-disciplinary team member. You are excited to work with and learn from software, mechanical, electrical, materials, biological engineers, and neuroscientists. You are comfortable communicating across teams.
+Resourceful, flexible and adaptable; no task is too big or too small.
+
+Key qualifications:
+
+Strong understanding of engineering first principles.
+
+Preferred qualifications:
+
+1 years of mechanical engineering industry experience, including owning products from concept to production.
+Experience with conventional machining and rapid prototyping technologies.
+Experience with precision design and manufacturing.
+Experience with advanced imaging techniques.
+
+
+Pay Transparency:
+Based on California law, the following details are for California individuals only:California hourly rate:35hr USD
+For full-time employees, your compensation package will include two major components: salary and equity. Guidance on salary for this role will be determined according to the level you enter the organization (with the ability to gain more through time as you contribute). 
+ 
+Full-Time Employees are eligible for equity and benefits listed below in addition.
+
+What we offer:
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off  paid holidays.
+Equity  401(k) plan.
+Commuter Benefits.
+Meals provided.
+
+
+Multiple studies have found that a higher percentage of women and BIPOC candidates wont apply if they dont meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you dont check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.

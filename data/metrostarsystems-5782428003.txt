@@ -1,0 +1,29 @@
+As a Sr. DevSecOps Engineer, youll serve as one of the seniors on our DevSecOps agile team, with the goal to make an impact across the federal government. 
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+ Work in an agile environment as part of a DevSecOps team, participating in scrum ceremonies, and interacting with and supporting our customers.
+Deploy new CICD workflows and improve the scope of existing ones.
+Serve as a subject matter expert for containerization and DevSecOps and provide relevant advice to team members and customers.
+
+What youll need to succeed: 
+
+8 years of experience in the Information Technology field focusing on development projects using DevSecOps and AWS cloud environments.
+Proficiency in scripting languages like Python, Ruby, or Shell scripting.
+Familiarity with infrastructure-as-code (IaC) tools like Terraform or CloudFormation for automating infrastructure provisioning and configuration management tools such as Ansible, Puppet, or Chef for maintaining and configuring servers.
+Expertise in containerization technologies like Docker and Kubernetes.
+Experience with CICD pipelines to automate software builds, testing, and deployments and CICD tools like Jenkins, Travis CI, CircleCI, GitLab CICD, or GitHub Actions.
+A strong understanding of cloud computing platforms like AWS, Azure, Google Cloud, or others and knowledge of infrastructure services such as virtual machines, databases, load balancers, and networking.
+The ability to set up and configure monitoring tools like Prometheus, Grafana, Nagios, or ELK stack for log analysis and ability to handle alerts and responding to incidents.
+A solid understanding of security best practices and the ability to implement security measures in the CICD pipeline and infrastructure.
+The ability to obtain and maintain DHS Suitability.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

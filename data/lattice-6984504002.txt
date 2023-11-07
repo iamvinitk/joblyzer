@@ -1,0 +1,56 @@
+This is Business Systems at Lattice
+Lattices Business Systems Development Manager provides leadership and expertise in systems architecture, business requirements analysis, application integration and initiatives development, and business intelligence. 
+As a manager, you will lead a team of developers. You will set goals, assess employee performance, provide feedback, and nurture and hire talent. 
+You will lead design, development, and implementation in order to present high-quality and timely solutions and services that continuously meet business needs. You will ensure integrity and validity of data in various integrated systems supporting the Lead to Cash process, and oversee development, integration, and testing activities. 
+What You Will Do
+
+You will establish foundational application development practices and procedures including technical standards, software-coding standards, tools, and platforms standards.
+You will establish, continually improve and undertake any processes for development, testing, release management, code management, creating and maintaining technical specifications, and other key processes related to software development and integration.
+You will create system documentation and participate as a reviewer and contributor in requirements, design, and code reviews.
+You will provide leadership in developing and maintaining data integrity and validity for various applications. You will review and analyze existing applications programs and program change requests to ensure efficiency and effectiveness.
+You will lead consultations with users and stakeholders to identify requirements for enterprise applications in support of processes and business needs. You will supervise the development, testing, documentation, and implementation of those applications or other technical solutions as well as the maintenance of existing applications
+You will study the interaction of several systems in order to simplify work and eliminate work duplication by functional resources. 
+You will evaluate current tools and processes in order to constantly improve maintenance and systems availability and provide documentation. 
+You will utilize in-depth technical knowledge and business requirements to design and implement secure solutions to meet customer  client needs while protecting company assets.
+You will provide ongoing performance feedback, goal setting, and development plans for your team.
+You will serve as a mentor to less experienced team members as needed.
+You will maintain an ongoing list of current and upcoming project requests, working with key stakeholders to prioritize.
+You will support contributors in execution and delivery of architecture tasks.
+You will direct technological research by studying organization goals, strategies, practices, and user projects.
+You will collaborate with user departments and coordinate resources in order to complete projects.
+You will provide timely and effective communications to the technical administration staff and foster communication with users of Business Systems.
+You will promote accomplishments to the user community.
+
+What You Will Bring to the Table
+
+You have a Bachelors degree in Technology, Computer Science, Engineering, Management Information Systems or related field.
+You have 10 years of progressively responsible experience managingdirecting software development projects andor teams, including 5 years experience with Enterprise Business Systems like Salesforce CRM, Netsuite ERP etc.
+Additional experience may be considered as a substitution for the education requirement.
+You have experience working with Scrum or other Agile development processes.
+You have experience with Salesforce Sales Cloud, Salesforce CPQ, Go-to-Market tech stack like Marketo, Gainsight, LeanData, Gong etc
+You have experience with Apex, LWC etc.
+You have experience with one or more real-time communication (e.g. RESTful APIs, WebServices, WebHooks).
+You have an understanding of data security and best practices for balancing availability with security.
+You have experience coordinating, planning, and organizing upgrades of systems and technology.
+You are experienced in designing and an ability to develop a unified vision for software characteristics and functions.
+You are experienced with planning changes in a timely way so that the overall organization can make progress before completion.
+
+Nice to Have
+
+Proficiency in Source Code Control  Versioning (e.g. Git, SVN, TFS).
+Experience with one or more unit-test frameworks  UI test automation (e.g. Selenium).
+Excellent verbal, written, interpersonal, and customer service skills and ability to establish good working relationships with a wide range of people within an organization.
+Technical knowledge of various platforms to ensure applications are current and supported.
+Project and time management skills with abilities of effectively managing competing priorities.
+
+ 
+The estimated annual cash salary for this role is 99,500 - 155,750. This position is also eligible for incentive stock options, subject to the terms of Lattices applicable plans.
+Benefits: The Company offers the following benefits for this position, subject to applicable eligibility requirements: Medical insurance; Dental insurance; Vision insurance; Life, ADD, and Disability Insurance; Emergency Weather Support; Wellness Apps; Paid Parental Leave, Paid Time off inclusive of holidays and sick time; Commuter  Parking Accounts; Lunches in the Office; Workplace Amenities Stipend, Internet and Phone Stipend; One time WFH Office Set-Up Stipend; 401(k) retirement plan; Financial Planning; Learning  Development Budget; Sabbatical Program; and Invest in Your People Fund
+Note on Pay Transparency:
+Lattice provides an estimate of the compensation for roles that may be hired as required by state regulations. Compensation may vary based on (a) location, as Lattice factors in specific location when benchmarking compensation for most roles; (b) individual candidate skills and qualifications; and (c) individual candidate experience.
+Additionally, Lattice leverages current market data to determine compensation, so posted compensation figures are subject to change as new market data becomes available. The salary, other compensation, and benefits information is accurate as of the date of this posting. Lattice reserves the right to modify this information at any time, subject to applicable law.About Lattice
+Lattice is on a mission to build cultures where employees and their companies thrive . In an age where employees have more choices than ever before, businesses that put employees first are winning  and Lattice is building the tools to empower those people-centric companies. Lattice is a people success platform that offers performance reviews, employee engagement surveys, real-time feedback, weekly check-ins, goal setting, and career planning in a way that allows companies to focus on employee development, growth, and engagement  yielding stronger employee retention, performance, and impact to the bottom line . Since launching in 2016, we have grown to over 4,600 customers globally, including brands like Slack, Pinterest, Reddit, and Asana. 
+What else does Lattice have to offer? Were so glad you asked! We invest in our peoples personal and professional growth because that sort of growth begets business impact and personal fulfillment . We believe in the value of continued learning investments and reimbursements. We offer a competitive salary (including equity) and our benefits are thoughtful. We believe that taking the time for you is important and have a flexible vacationtime-off policy to prove it. We even incorporated Lattice Recharge Days to ensure youre getting a break every month. Lattice has also implemented a  remote-first hybrid model (team-dependent, you work from wherever makes you most comfortable). If that gets you excited, now is the perfect time to join; so bring your appetite for ownership and creation and help Lattice continue to grow! 
+
+Lattice is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to gender, race, religion, national origin, ethnicity, disability, gender identityexpression, sexual orientation, veteran or military status, or any other category protected under the law. Lattice is an equal opportunity employer; committed to a community of inclusion, and an environment free from discrimination, harassment, and retaliation.
+By clicking the Submit Application button below, you consent to Lattice processing your personal information for the purpose of assessing your candidacy for this position in accordance with Lattices Job Applicant Privacy Policy.

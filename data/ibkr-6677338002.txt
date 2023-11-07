@@ -1,0 +1,50 @@
+Technical Operations Specialist (TOPS)
+ 
+Join the INTERACTIVE BROKERS Team!
+Interactive Brokers Group has consistently been at the forefront of trading innovation, starting with the invention of the first floor-based handheld computer in 1983. We pride ourselves on being primarily a technology company and challenging the status quo. We push boundaries to offer our clients the best trading platform with the most sophisticated features at the lowest cost. Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform.
+ 
+Interactive Brokers seeks an individual to join our expanding Technical Operations team. To offer the finest online trading experience in the world, Interactive Brokers must monitor, maintain and support (with vigilance) our software, systems, and other crucial business technology around the clock and across the globe. Interactive Brokers maintains a small team of cross-trained and exceptionally responsible individuals unbound to one specific skill or discipline to achieve this goal. With bushido spirit, these operators develop tools, systems, and solutions to ensure the correct function of the various systems encompassing Interactive Brokers platform. The operators gain experience and provide additional value working under the expert direction of senior trade, skill, and industry experts to resolve complex issues with specific technology, hardware and software components.
+ 
+Your Responsibilities
+
+Monitor all aspects of the Interactive Brokers global brokerage system.
+Analyze, address, escalate and resolve brokerage system operational issues.
+Communicate with exchanges to configure, test, and implement new trading technologies.
+Work with developers to design new and improved existing brokerage processes.
+Analyze existing business workflows to develop new monitoring tools and automate process monitoring.
+Act as the primary escalation point for all technical issues.
+Strong English communication skills.
+
+ 
+Key Requirements
+
+A Bachelors or apprenticeship in a technical discipline.
+In-depth knowledge of computers, networks and technology.
+The ability to analyze and solve problems promptly and accurately in a fast-paced environment.
+
+ 
+Preferred
+
+Prior experience in a technology position
+Experience with Unix  Linux style command line interfaces
+Previous experience with scripting languages (e.g. Shell, Perl, Python)
+A keen desire to explore and learn new concepts, systems and technologies.
+
+ 
+Company Benefits  Perks
+
+Competitive Salary, annual performance-based bonus and stock grant
+CPF Contributions
+Excellent medical insurance, including dental, specialist and in-patient
+Competitive package of Annual Leave
+Daily lunch is ordered in house with a fully stocked kitchen
+Modern offices with multi-monitor setups
+Corporate discount on selected fitness centers
+Great work-life balance
+Unique opportunity to gain exposure to global financial products, markets and clientele
+Opportunities for career progression and job scope expansion in a global company with a growing local presence
+Hybrid work arrangement role permitting
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

@@ -1,0 +1,34 @@
+Would you like to work on a new IP and new genre at Bungie that combines amazing action feel with lighthearted and whimsical characters? Are you drawn to games with stylized art direction? Do you enjoy puzzling your way through diverse GPU requirements to create visual experiences that are consistent and performant across multiple platforms?
+As a Senior Graphics Engineer at Bungie, you will help create a joyful graphical experience for millions of players. You will work closely with artists to bring to life a buoyant, playful visual style that champions gameplay readability. Most importantly, you will work with a fun, dedicated, cross-discipline team united around our mission to create a positive impact in peoples lives as we bring a new Bungie world to life.
+RESPONSIBILITIES
+
+Design, build, extend, document, and maintain graphics features and associated tools and workflows in Unreal Engine, with minimal oversight.
+Collaborate daily with a cross-disciplinary team to realize the artistic vision for the game.
+Provide strategic input for the scalability and performance of proposed game features across multiple platforms.
+
+REQUIRED SKILLS
+
+Ability to write, debug, optimize, and maintain production-quality C and HLSL code.
+Proficiency in 3D math, data structures, and algorithms
+Familiarity with industry-standard graphics techniques
+Ability to communicate with customers of different technical and non-technical backgrounds to help them navigate technology and achieve their goals.
+
+NICE-TO-HAVE SKILLS
+
+Experience with the Unreal Engine graphics
+Experience with mobile graphics development
+Experience leading technical projects
+Listed below is this roles base pay range. In other locations that Bungie has approved for remote work, this pay range may be adjusted up to - 10 and some roles may be classified as non-exempt (hourly). This range is determined by an array of factors, including training, transferable skills, work experience, business needs, and market demands. Additionally, it is subject to change and may be modified in the future. In the journey to make incredible worlds, Bungie employees dont simply do meaningful work - they receive meaningful support. Competitive salaries and discretionary bonus opportunities are just the start. We offer comprehensive healthcare coverage, generous 401(k) matching, flexible time off policies, paid parental leave, social clubs, and so much more. Check out our benefits page: Benefits - Bungie Careers to see all the perks that come with joining Bungie.Bellevue Pay Range162,000—191,000 USD 
+
+Bungie full-time (non-contract) employees in the U.S. also receive:
+
+20 days of accrued time-off in the form of PTO and sabbatical days, depending on the level of the position
+10 paid Floating Days annually, prorated in the first year of employment based on start date
+10 paid Bungie-observed holidays annually
+One hour of Paid Sick Time (PST) for every 30 hours worked 
+
+Contract and International FTE employees receive competitive benefits through their relevant contracting agency.
+
+So you dont meet every requirement listed in this job description? Do you think your experience level is not where it needs to be? Studies show that women and people of color are less likely to apply to jobs unless they believe they meet every single qualification. Bungie is focused on building a diverse, inclusive, and equitable workplace. If youre interested in this position but your past experience doesnt line up perfectly with every qualification in the job description, we want you to apply anyway. The right role for you may be right around the corner!
+ 
+Most Bungie full-time employees will adopt a digital first approach allowing remote work in Bungie approved locations (outside of positions identified as 100 onsite in BellevueSeattle, or individuals preferring a hybridflex environment). Prospective full-time employees located outside of CA, CO, DC, FL, GA, ID, IL, MA, MD, MI, MN, NC, NJ, NY, OR, TN, TX, UT, VA, WA, or WI will need to establish residency in one of the states we are compliant in within 45 days of a start date. Contractors will follow a digital first approach adhering to the location guidelines agreed upon by our third-party employervendor and Bungie. Bungies remote policy is subject to change at the companys discretion. 

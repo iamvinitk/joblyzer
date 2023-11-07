@@ -1,0 +1,62 @@
+With millions of diners, tens of thousands of restaurants, and 23 years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue.
+Every employee at OpenTable has a tangible impact on what we do and how we do it. Youll also be part of a global network that includes OpenTable and KAYAKs portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+Hospitality is all about taking care of others, and it defines our culture. Youll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed.
+At OpenTable, we take pleasure in Software Development. We believe that velocity comes from a dedication to clean code and proven engineering principles. We deliver creative products through rapid, continuous development. We move fast, release frequently, and believe strongly in automated testing to help maintain our quality and velocity. We break things sometimes - and thats fine. We learn from it. If you are excited by constantly challenging engineering processes and can deliver exceptional quality in a fast paced, agile environment, wed like to meet you! Bonus points if you love restaurants too.
+Youll be joining the India product engineering team that works closely with designers and product managers to build beautiful, scalable and high-value products. We deal with a variety of challenging and rewarding domain areas, offering plenty of opportunities for professional growth (plus lots of opportunities to just geek out). You will be joining a team responsible for owning the strategy  direction of the partners platform used for building third party integrations and exposing external APIs at OpenTable. Were deeply involved from concept, prototyping, implementation, delivery, to customer validation. We believe in empowering individuals to do phenomenal work.
+In this role, you will: 
+
+Partner and collaborate with Product Management, Design, Business Development and other Engineering teams.
+Empower the team to execute with high performance by using your experience along with your technical and collaboration skills.
+Own the architecture  technical direction of the products that you own.
+Work with your team to deliver on the product roadmap and maintain a healthy codebase by implementing strong engineering practices.
+Provide servant leadership, give mentorship and tools to make decisions independently that lead to positive outcomes.
+Build a culture of trust and teamwork.
+Strengthen the teams capabilities through the professional development of the current engineers and hiring.
+Take ownership and thrive with autonomy.
+
+Please apply if you have: 
+
+10 years of experience in Software Engineering with at least 2 years of leading teams and delivering products by getting engineers to deliver.
+Been a software engineer and wont shy away from rolling up your sleeves to work with engineers to solve complex problems if needed.
+Practiced Servant Leadership and help others unlock their full potential.
+Continually work to improve yourself and those around you.
+Excellent planning, organization, and decision-making skills.
+The ability to break complex product requirements into easily shippable milestones and produce tech designs for the same.
+The knack of communicating smoothly with others and bringing everyone together.
+Experience in the following:
+
+Leading a full stack team
+Java and rest APIs
+Building software with strong testing practices with a mindset of measuring and monitoring key technical and business metrics
+Microservices
+Relational and NoSQL databases
+DockerKubernetes and CICD a plus
+Event Driven Architecture a plus
+JavaScript and JavaScript frameworks like React, a plus
+
+
+
+Benefits: 
+
+Paid Vacation
+One Celebration Day per calendar year
+Employee Assistance Program (EAP)
+Pension Fund
+Work from (almost) anywhere; wherever you do your best work
+Focus on mental health and well-being
+
+Company paid therapy sessions through SpringHealth
+Company paid subscription to HeadSpace
+Company-wide weeks off a year - the whole team fully recharges (and returns without a pile-up of work!)
+
+
+
+
+Generous paid parental leave
+Generous paid vacation time off for your birthday
+Paid volunteer time
+Focus on your career growth
+
+Diversity, Equity, and Inclusion
+OpenTable aspires to be a workplace that reflects the diverse communities we serve and a culture that is inclusive and welcoming. Hiring people with different backgrounds, experiences, perspectives, and ideas is critical to innovation and to how we deliver great experiences for our users and our partners. Representation matters.
+We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

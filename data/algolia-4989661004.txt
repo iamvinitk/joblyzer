@@ -1,0 +1,49 @@
+At Algolia, we are passionate about helping developers and product teams connect their users with what matters most in milliseconds!
+Algolia was built to help users deliver an intuitive search-as-you-type experience on their websites and mobile apps. We provide a search API used by thousands of customers in more than 100 countries, handling billions of search queries monthly.
+The Developer Support Engineer is a critical role at Algolia. Were on the front-lines and are often the first team customers contact when they need help with our products or services. Were looking for a Developer Support Engineer to assist our technical users with implementing Algolia in a variety of web and mobile development technical stacks.
+This could mean helping a developer trying to build the next big thing in their garage, or Fortune 500 companies focused on providing a world-class experience to their millions of users.
+As a Developer Support Engineer, you will partner with the customer success, product, and engineering teams to find the best solutions for our customers.. We have a hands-on culture, and expect you to roll up your sleeves and get to work solving difficult problems that stand in the way of our customers success.
+ 
+YOUR ROLE WILL CONSIST OF:
+
+Handling technical requests via web and email support channels.
+Conducting professional and empathetic conversations with customers to gather information, troubleshoot, and resolve their technical obstacles.
+Submitting bug reports to the Engineering team for problems needing attention.
+Partnering with Product Teams and Engineering to develop subject matter expertise and serve as a product expert to the rest of the support team.
+Contributing to internal and external knowledge bases.
+Participating in internal projects to improve processes and tools.
+
+REQUIREMENTS:
+
+Strong desire to help people solve problems with the ability to explain complex technical  concepts to a broad audience
+Experience with web development, REST APIs, and database management.
+Experience in technical customer support, supporting SaaS enterprise software ideally
+Working knowledge of development languages such as JavaScript, Java, PHP, C, Objective-C, Swift, Ruby, Python.
+Ability to handle and prioritize a portfolio of tickets at various stages of resolution.
+Excellent spoken and written English skills..
+Ability to work in an on-call rotation.
+
+NICE TO HAVE:
+
+Basic familiarity with iOS  Android platforms.
+Experience supporting open-source projects  their GitHub communities.
+Experience with Shopify, Magento.
+Experience at our current stage and beyond (50-200M ARR range, high growth, lots of change and building internal infrastructure).
+
+WERE LOOKING FOR SOMEONE WHO CAN LIVE UP TO OUR VALUES:
+
+GRIT - Problem-solving and perseverance capability in an ever-changing and growing environment
+TRUST - Willingness to trust our co-workers and to take ownership 
+CANDOR - Ability to receive and give constructive feedback.
+CARE - Genuine care about other team members, our clients and the decisions we make in the company.
+HUMILITY- Aptitude for learning from others, putting ego aside.
+REMOTE STRATEGY:
+Algolias flexible workplace model  is designed to empower all Algolians to fulfill our mission to power search and discovery with ease. We place an emphasis on an individuals impact, contribution, and output, over their physical location. Algolia is a high-trust environment and our team members have the autonomy to choose where they want to work and when. We know community comes in many forms and strive to create opportunities for intentional in-person connection in our offices and virtually for our remote colleagues around the world. 
+We have a global presence with physical offices in San Francisco, NYC, Paris, London, Sydney and Bucharest.
+ABOUT US:
+Algolia prides itself on being a pioneer and market leader offering an AI-powered, API-First Search  Discovery platform that empowers 17,000 businesses to compose customer experiences at internet scale that predict what their users want with blazing fast search and web browse experience. Algolia powers more than 30 billion search requests a week  four times more than Microsoft Bing, Yahoo, Baidu, Yandex and DuckDuckGo combined.
+Algolia is part of a cadre of innovative new companies that are driving the next generation of software development, creating APIs that make developers lives easier; solutions that are better than building from scratch and better than having to tweak monolithic SaaS solutions.
+In 2021, the company closed 150 million in series D funding and quadrupled its post-money valuation of 2.25 billion. Being well capitalized enables Algolia to continue to invest in its market leading platform, to better serve its thousands of customersincluding Under Armor, Petsmart, Stripe, Gymshark, and Walgreens, to name just a few. 
+WHO WERE LOOKING FOR:
+Were looking for talented, passionate people to build the worlds best search  discovery technology. As an ownership-driven company, we seek team members who thrive within an environment based on autonomy and diversity. Were committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background.
+READY TO APPLY?If you share our values and our enthusiasm for building the worlds best search  discovery technology, wed love to review your application!

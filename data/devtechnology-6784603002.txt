@@ -1,0 +1,47 @@
+Technical Team Lead, Java 641
+Clearance: Must be able to obtain CBP Public Trust clearance
+Dev Technology Group is hiring a Technical Team Lead with a focus on Java applications to support our team in serving a dynamic government customer delivering mission-critical functionality for web-based applications. There is lots of room for you to grow with this team, which will appreciate a person who has strong communication skills, clear technical understanding, a desire to learn new things and a customer focus. The ideal candidate will work collaboratively, serve team members, and enjoy learning new technologies and business areas. 
+What Youll Be Doing: You will be responsible for providing technical leadership to a team of 10-14 developers and testers and ultimately ensuring work gets completed accurately and effectively, by enabling team members to work together and grow their skills, and facilitating with other teams and stakeholders. You will support complex problem solving, provide input to technical design and suggest process improvement. You will provide mentorship to developers and collaborate closely with your government technical lead. You will ensure a cohesive team effort is applied to all challenges that come your way.
+Required Education, Experience, and Skills:  
+
+Bachelors degree plus at least 10 years of work experience or equivalent combination of education and experience.
+At least 5 years of experience developing Java applications and associated frameworks 
+At least 1 year of experience leading a technical team, formally or informally
+At least 1 year of development experience using JavaScript andor JavaScript frameworks like Angular
+At least 3 years of experience working in a story-based Agile team development environment using Jira or a similar tool
+At least 1 year of experience working in an automated development environment, using CICD tools such as Git, Bamboo, Jenkins, SonarQube
+Experience with Spring and Spring Boot
+Experience with Hibernate or MyBatis 
+Experience writing automated unit tests
+Experience developing against relational databases (e.g., Oracle, PostgreSQL)
+Good communication skills, both written and verbal
+Experience working to translate business requirements into working code
+Ability to collaborate with team members to ensure client needs and expectations are met or exceeded
+Experience developing in and deploying to a Cloud environment (such as Amazon Web Services)
+
+ Preferred Education, Experience, and Skills: 
+
+Experience with Docker, Kubernetes or similar tools
+Experience with JMS (e.g., IBM MQ, ActiveMQ)
+
+ Who We Are
+Dev Technology is a growing IT company with an employee-centric culture that works on mission-critical projects for the federal government. We partner with our federal customers to deliver technology services and solutions, and to drive our clients missions forward through innovation. We use Agile and DevSecOps principles to provide services including application development, biometrics and identity management, cloud and infrastructure optimization, IT and legacy modernization, and data management.   
+As a Washington Post Top Workplace award winner for the past ten years in a row, the Top Workplaces USA for the past three years, and a recipient of the Companies As Responsive Employers (CARE) Award for the past four years, Dev Technology employees enjoy:   
+
+Generous and flexible time-off policy
+Flexible work schedules and telework options, including remote work availability for eligible projects
+Career development opportunities including a mentorship program, technical and management training through Dev University, hands-on learning through DevLab, tuition reimbursement, and paid training opportunities
+Industry-leading benefits including a choice of two health plans that include dental and vision, flexible spending account, commuter benefits, life insurance, and more
+401K matching with immediate vesting and end of year profit sharing  
+Regular team and company social events including our annual party, happy hours, fitness challenges, and more  
+A focus on community engagement including company wide support activities, employer match for donations, and time off for volunteer efforts
+To learn more about working at Dev Technology visit, Learn About A Day At Dev Technology
+
+ 
+Dev Technology Group operates in the following states: AL, AR, AZ, CO, DC, FL, GA, ID, IL, IN, MD, MA, ME, MN, NC, NJ, OR, PA, SC, TN, TX, VA, WV.
+ 
+EEOAADisabilityVets Employer
+ 
+
+
+ 

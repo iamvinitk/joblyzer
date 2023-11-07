@@ -1,0 +1,37 @@
+Functional Application Manager (IAM)
+Knab was founded in 2012 because we wanted to do things differently. Simpler, smarter and more advantageous for our customers. Because we believe we can help everyone maximize their financial affairs. Feel at ease when it comes to your finances. Every day. By combining smart technical solutions with a healthy dose of human intelligence, we create financial services that really meet your needs. Add to that some of the sublime personal service from our employees and you end up with something thats truly unique to the world of finance. From banking to insurances, weve got your back!
+All our colleagues have one thing in common: we each try to help customers maximize their money matters seamlessly and proactively. Were open minded, positive and committed to our customers. So, you gain control over your financial affairs.
+ 
+In a nutshell
+As Functional Application Manager you will contribute to a stable and efficient IT Service management organization by taking ownership of the Identity and Access Management suite (IdentityNow) as well as our main ITSM tool (Jira).
+This means you will be taking care of the configuration of roles and entitlements in order to grant employees access to systems on a need-to-know basis. You will make sure employees are granted the correct roles automatically or that access to applications can be requested from the self-service portal. System owners will seek your advice on the authorisation management and design of their application. Together with the IAM team you will ensure that the access reviews are conducted in a timely manner and will identify inefficiencies and suggest process improvements.
+Besides the IAM tool the functional managers within the IT Services Team take care of Jira, which is currently used as our main ITSM tool. Responsibilities include the maintenance of the authorization design, creation and modification of project and related workflows.
+ 
+The Team  The IT Services team consists of 4 1st line support engineers, 4 2nd line system administrators, 2 IT process managers and 2 Functional Application Managers. The team is tasked to provide an excellent digital workspace and experience towards our colleagues. The team reports to the IT Services Lead within the IT Functions and Foundation stream. At Knab you will have the autonomy to pursue your own initiatives and responsibilities
+At Knab we are organized alongside Valuestreams, consisting of multiple agile teams, operations departments and a support team. There are Value Streams organized around our Customer Propositions: Daily Use, Financial Freedom and Lending. Next to the valuestreams there is also the supporting stream: IT Functions and Foundations. By organizing this way: we achieve more focus and a higher speed of delivery.
+Your Profile
+The ideal candidate will demonstrate the following behaviours andor skills:
+
+You are service-oriented and approachable;
+You are pragmatic, analytical and structured;
+Have strong communication skills;
+Able to work independently;
+Focused on continuous improvement;
+Actively seeks collaboration with colleagues outside the team.
+
+Skills and knowledge we would love to see:
+
+English and Dutch, both written and spoken;
+Experience with or the will to learn Azure Active Directory;
+Experience with or the will to learn IdentityNow;
+Experience with or the will to learn Jira;
+ITIL Certified;
+Familiar with role based access control (RBAC) and Identity and Access Management (IAM);
+Familiar with ticketing systems.
+
+ 
+Diversity Statement: Come as you are. Knab is an open workplace with positive vibes. We are inclusive of all nationalities, races and genders. We feel comfortable to bring our authentic whole selves to work and like you to do so too. 
+ 
+Work with us! If you come to work with us, Knab will become a significant part of your life. Therefore, we make sure the ambiance is just as exciting as your job. Check the benefits! 
+If you have any questions regarding this role or the process, please feel free to reach out to us! 
+ 

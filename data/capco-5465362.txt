@@ -1,0 +1,21 @@
+Data Scientist - India  Bengaluru
+Location - Bangalore Pune
+Exp - 9 years
+About Us
+Joining Capco means joining an organisation that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognise that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can. We believe that everyone brings something different to the table  so wed love to know what makes you different.
+As a Lead Data Scientist, you will be a leading contributor in the implementation of Artificial Intelligence (AI) within Data Collections software applications, APIs, and other data products. This role requires significant interaction with both upstream and downstream stakeholders across Technology, Data, Products, SalesService, and Research.Lead Data scientist will transition approved Data Collections AI products from a prototype phase to a fully-fledged, scalable, and consumer service. Often, these services must be integrated into financial products of Different Clients of CAPCO, so that our clients can use these software tools in the investment decision-making process.
+Responsibilities :- Design  develop enterprise solutions to be flexible, scalable  extensible.
+- Developing Knowledge graphs, Graphs Analytics  tools
+- Improve complex data flow, data structures and database design to move to next platform.- Build solutions that incorporate numerical techniques such as linear algebra, machine leaning, statistics, and optimization.- Be a Role Model to the team to collaborate on good object-oriented designs  domain modeling. - Develop areas of continuous and automated deployment.- Introduce and follow good development practices, innovative frameworks, whitepapers  and technology solutions that help business move faster.- Enforce good agile practices like test driven development, Continuous Integration.- Follow best practices like estimation, planning, reporting and improvement brought to processes in every day work.- Stakeholder management, understanding the requirement and building roadmaps- Experience in team management, mentoring data scientists
+Requirements and Skills :- 8 years of experience in data science field- An advanced degree in engineering, computer science, statistics or related field is preferred- Demonstrated proficiency in multiple programming languages with a strong foundation in a statistical platform such as Python, Java, or MATLAB. Experience with Python packages like pandas, scikit-learn, TensorFlow, numpy, SparkML, NLTK is Highly Desirable.
+- Developing Knowledge graphs, Graphs Analytics  tools
+WHY JOIN CAPCO?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+ We offer:
+
+A work culture focused on innovation and creating lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+
+ 

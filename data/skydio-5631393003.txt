@@ -1,0 +1,25 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines our platform, technology foundation, and team enables our engineers and researchers to develop, deploy, iterate, and improve upon the state of the art in robot autonomy better and faster than anywhere else in the world. About the role:As an Autonomy Products Software Engineer in Flight Core, youll contribute to improving the robustness of our autonomy platform, developing new autonomous capabilities end-to-end, and deploying these products to customers tackling a wide range of use cases, including situational awareness, emergency response, inspection, mapping, inventory, and cinematography. These represent some of the first deployments of truly autonomous robots to perform valuable real-world tasks in large and critical industries.
+How youll make an impact:
+
+Build complex autonomous capabilities through collaboration with our autonomy, mobile, platform, design, product, and flight test teams
+Rapidly prototype and iterate to validate industry requirements and take ownership of those prototypes as they mature into robust commercial products
+Guide the requirements, release, and testing process to ensure high quality deliverables
+Capture, understand, and react to customer feedback and potentially changing demands, and ensure day-to-day excellence of the software product
+Develop a deep understanding of core robotics principles coupled with a full understanding of how our system works
+Prototype and develop core autonomous flight and robotics algorithms as needed to expand our systems operational envelope
+Be a generalist helping out on all aspects of the software system when needed
+
+What makes you a good fit:
+
+Experience building projects interfacing with and creating applications for robots or hardware devices
+Broad familiarity and preferably hands-on experience implementing state of the art algorithms in one or more of the following areas: computer vision, deep learning, motion planning, controls, robot autonomy software and hardware
+Highly curious, creative, and able to communicate concepts to non-technical audiences
+Strong software engineering fundamentals and a commitment to writing clean, well architected code
+High proficiency in Python andor C, preferably both
+Excited to use robotics to make the world safer, more productive, and more creative
+
+Compensation Range: The annual base salary range for this position is 156,000 - 215,000. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.
+For some positions the pay may be dependent upon the individuals regional location.
+LI-PG1At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

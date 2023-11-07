@@ -1,0 +1,59 @@
+The role of a Community Engineer at Canonical
+The Ubuntu Community team at Canonical enables community leaders and participants to get things done in the project, coordinating with Canonical teams and ensuring that community processes are efficient and well run. We dont do the work of the community, but we facilitate that work to ensure that energetic and ambitious community members with their own vision of open source can benefit from the work Canonical does and bring their own flavour of Ubuntu into being, to meet the needs and express the interests of their community.
+This is an exciting opportunity for a technically proficient person who is passionate about open source software, Linux, and sustainable community building.
+In this role, you will support community initiatives with your technical skills and strong organizational skills. You can get into the trenches with developers to smooth processes and integrate community plans with Canonical plans for maximum impact. You can encourage and facilitate the creation of new technical projects that enhance the community contribution experience, and you can represent community interests to Canonical teams.
+You will support and engage with volunteer developers in the Ubuntu community, addressing their concerns and helping them to create successful tools. You will help to ensure their success and the overall autonomy and sustainability of the project. This role is likely a good fit for someone with experience in DevOps, Software Development, Testing or QA, package management, container technology. You will definitely need to be technically skilled with Linux.
+You will provide the content and technical support to ensure the community stays engaged and informed. This will include regular blog and social media posts about community initiatives, events, accomplishments, and collaborative efforts between Canonical and the Ubuntu community.
+You will communicate effectively with developers and software engineers and represent not only the Ubuntu community but Canonical as a contributor to the wider Linux ecosystem. Our team attends conferences and expos, and talks about technical community projects and their development processes.
+Location: This is a Globally remote role.
+What your day will look like
+
+Collaborate proactively with a distributed team
+Write high quality content to promote and support community initiatives
+Discuss ideas and collaborate on finding good solutions to community problems
+Work from home with global travel 2 to 4 weeks for internal and external events
+Potential opportunity to travel more if you wish
+Nurture community contributions to Ubuntu
+Engage with the Ubuntu community through AskUbuntu, IRC, social media, conferences, etc
+Represent Ubuntu via speaking engagements at events and conferences.
+
+What we are looking for in you
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have experience with developer tools and open source projects
+You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)
+You have interest and experience with two or more of the following: Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology
+You can work autonomously and assume full ownership of objectives as needed
+You can be flexible with your time and enjoy working with new technology in a fast-paced environment
+You are experienced working with open source communities and understand the workflow of volunteer contributors
+
+Additional skills that you might also bring
+
+Experience with community management
+Experience with Developer advocacy
+Experience as a software developer
+Examples of contributions to the Ubuntu Community
+Experience with contributing to open source projects
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote

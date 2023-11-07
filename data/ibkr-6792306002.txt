@@ -1,0 +1,56 @@
+Interactive Brokers (U.K.) Ltd. (IBUK) seeks an individual to join our Technical Operations team in London to continue our growth. To provide the best online trading experience in the world, Interactive Brokers software, systems, and other crucial business technology must be maintained, monitored and supported at all times with locations across the globe with vigilance, tenacity and precision. Interactive Brokers maintains a small team of cross-trained and exceptionally responsible individuals unbound to one specific skill or discipline to achieve that goal. We are keen to hear from candidates who are able to work over a weekend.
+ 
+With bushido spirit, these operators develop tools, systems and solutions to ensure the correct function of the various systems encompassing Interactive Brokers platform. The operators gain experience and provide additional value working under the expert direction of senior trade, skill and industry experts to resolve complex issues with specific technology, hardware and software components.
+ 
+Interactive Brokers is an online broker offering trading access for experienced traders to products traded on many markets and exchanges worldwide. IBUK is part of a global group of financial services companies based in the U.S. with over 5 billion in capital and publicly traded under the symbol IBKR.  
+ 
+Due to expansion, we recently relocated our office to a fantastic City of London tower on Fenchurch Street, where we currently operate a hybrid working model. You will be pleased to hear we offer lunch every day you are in the office from a selection of vendors.
+ 
+Your Responsibilities
+
+Monitor all aspects of the Interactive Brokers global brokerage system
+Analyse, address, escalate and resolve brokerage system operational issues
+Communicate with exchanges to configure, test, and implement new trading technologies
+Work with our developers to design new and improved existing brokerage processes
+Design and develop new monitoring and automation processes
+Act as primary escalation point for any and all technical issues
+Strong English communication skills
+
+Key Requirements
+
+Bachelors degree or similar in a technical discipline combined with professional experience
+In-depth knowledge of computers, networks and technology in general
+The ability to analyse and solve problems promptly and accurately
+Willingness to work shifts and weekends
+
+Recommended
+
+Prior Experience in a Technology Position
+Experience with Unix  Linux style command line interfaces
+Prior experience with scripting languages (e.g. Shell, Perl, Python)
+A keen desire to explore and learn new concepts, systems and technologies
+
+Location and hours
+20 Fenchurch Street, London, EC3M 8AF
+6am - 3pm, 5 days between Monday and Sunday (negotiable)
+Benefits
+
+Career support and development
+Salary commensurate with experience
+Performance-based discretionary cash bonus scheme
+Discretionary stock grant
+Group Life Assurance cover
+Group Income Protection
+Occupation pension scheme based on Gross earnings
+Hybrid working model
+Above statutory annual leave, increasing with service
+Daily company-paid lunch and healthy snack options throughout the day (when working from the office)
+Access to Private Medical Insurance, Dental Plan andor Health Cash Plan (including dependants)
+Corporate events
+Travel season ticket loans
+Cycle to work scheme 
+
+ Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

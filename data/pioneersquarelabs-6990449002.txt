@@ -1,0 +1,28 @@
+Senior Software Engineer - AI Assisted Hardware Design Startup (Jarvis PRD)
+About Jarvis:
+Tony Stark once said, Sometimes you gotta run before you can walk. As the field of hardware development and artificial intelligence continues to rapidly evolve, there lies a monumental opportunity to make a significant impact on the way we create the physical products that make up the world. Jarvis PRD is harnessing AI technology to revolutionize how product requirements and hardware design processes are approached. We are seeking a resilient, adaptable, and experienced Software Engineer to join Jarvis. This role offers an unparalleled opportunity to shape the future of the hardware development industry and truly leave your mark.
+About you:
+Your role will entail building and scaling Jarvis PRD, drawing from your past experiences, market research, our teams pilot programs, and in-house expertise. Youll be developing and launching a groundbreaking product, navigating the challenges and opportunities of innovation in a dynamic, evolving field.
+This role is ideal for candidates with a strong background in product development, hardware design tools and technology, AI, or project management, with a passion for taking companies from ideation to realization. If youre excited about leading a groundbreaking revolution and making a tangible impact, we invite you to join our journey.
+Description:
+We have a Typsescript backend, use Next.js and React for our front-end service, and use Postgres as the database. 
+ 
+As an engineer at Jarvis, youll
+
+Design, develop, build, test and improve Jarvis app
+Manage individual project priorities, deadlines and deliverables
+Design and implement new consumer-facing features for Jarvis app
+Write client-side code for web application, create easy-to-use, high volume production applications and prototypes.
+Build and maintain backend system based on AWS infra to support Jarvis
+
+ 
+This job might be for you if you have
+
+The ability and desire to learn new technologies and tools. Preferably, you have some experience in the tools and technologies we use or other related experience that will speed your acclimation to our code.
+Leadership qualities. As a senior engineer on our team, you will help us make important architectural decisions. You will also have a big impact on hiring decisions for our team, as well as helping grow junior engineers or interns we may hire in the future.
+The outlook of a generalist. You are willing and excited to work on all parts of the site. We have a lot of user-facing features with UI to deliver, as well as plenty of backend work. We will have a high bar for UI polish, particularly in our mobile applications.
+The ability to work independently. Your communication skills are complemented by your ability to run with a task and make progress independently, with appropriate check-ins.
+A pragmatic attitude. Not everything we build will be built to perfection. We want to build quality software, but our first goal is to build a sustainable business. We have to balance our efforts appropriately.
+
+ 
+We are an equal opportunity employer and highly value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

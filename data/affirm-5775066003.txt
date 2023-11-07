@@ -1,0 +1,85 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.Were looking for a scrappy, highly driven, and analytically-minded professional to join the Growth Analytics - Financial Products team, focusing on Affirms Consumer Banking and Card products.
+The Financial Products group under Growth Analytics is mainly responsible for understanding  driving all aspects of the Affirms D2C Financial Products (Card  Consumer Banking) to great detail, including overall economics  financials, users, merchants, and underlying financial product constructs. The team does this by building foundational data visibility, driving research, setting strategy  goals, testing, delivering analyses, and supporting the execution of plans across the portfolio.
+What Youll Do
+
+
+Develop business and product strategies to drive growth, profitability and a best in class customer experience with an emphasis on quantitative reasoning
+
+
+Write cases and provide insight into opportunities based on analysis through internal and external research, and a close monitoring of the units performance. Continuously embed these insights into our business unit strategy and identify new opportunities for step function growth.
+
+
+Work with large and complex data sets to solve a wide array of challenging problems using various advanced analytical and statistical techniques. 
+
+
+Analyze data to identify gapsopportunities within product and user experience areas and provide data driven recommendations for improvement
+
+
+Build and define critical data sets, reporting, and documentation to enable analysts and cross-functional partners to answer questions efficiently, and monitor the business
+
+
+Design and analyze AB tests to understand performance of new features and products
+
+
+Partner with cross-functional stakeholders from Product, Engineering, Marketing, Finance, Sales teams to inform product decisions and influence roadmap and business unit strategy
+
+
+Own end-to-end analytics workflow, from defining success  performance metrics, forecasting, to developing scalable analytics solutions (i.e., automated dashboards, reports and presentations) to socialize and influence cross functional teams
+
+
+Provide project and analytic leadership, guidance, and mentorship on the team
+
+
+What We Look For
+
+
+Passion and drive to disrupt the lending and financial industry for the better
+
+
+4 years of experience in a business focused analytically-driven role (analytics, consulting, finance, data science, etc.)
+
+
+Strong business acumen, and judgment with the ability to bring decision making, and drive the area forward.
+
+
+Very good working knowledge of SQL andor experience with Python or R; Project experience with AB Testing is a plus
+
+
+Familiarity with data visualization tools (e.g., Looker, Tableau and PowerBI)
+
+
+Strong written, communication, and interpersonal skills with the ability to collaborate and influence cross-functionally with both technical and non-technical audiences
+
+
+Ability to think creatively and critically and thrive in a fast-paced, dynamic, and often ambiguous work environment
+
+
+Enough laziness to find a faster way to do your least favorite tasks
+
+
+Humility, curiosity, and team player - you go out of your way to help teammates and are eager to learn about all aspects of the space and XFN areas
+
+
+Experience in consumer banking and debit products is preferred, with some understanding of lending mechanics and credit strategies 
+
+
+
+
+USA Pacific base pay range (CA, WA, NY, NJ, CT): 162,400 - 243,500
+USA Sapphire base pay range (all other U.S. states): 146,100 - 219,200
+
+
+LI-Remote
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+We have a simple and transparent remote-first grade-based compensation structure. Offer amounts within the range are based on a number of factors including but not limited to job-related skills, experience, and relevant education or training. Across the broader organization, certain roles are eligible for equity awards upon hire, promotion, tenure milestones and for performance.
+Were extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe Its On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+
+By clicking Submit Application, you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.

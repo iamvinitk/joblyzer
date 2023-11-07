@@ -1,0 +1,20 @@
+In order to join the ELEVI team you will need  
+
+You must be willing to work in the Annapolis Junction, MD, area.      
+A CURRENT OR ACTIVE SECURITY CLEARANCE WITH POLY IS REQUIRED.  
+Fourteen (14) years experience as a SWE in programs and contracts of similar scope, type, and complexity is required. Bachelors degree in a technical discipline from an accredited college or university is required.
+Bachelors degree in a technical discipline from an accredited college or university is required. Five (5) years of additional Software Engineer experience may be substituted for a bachelors degree. 
+The successful candidate will have experience with analysis in the cyber domain and discovery operations, and have experience with algorithm design and development in cloud environments.
+Required skills: Knowledge of cyber data collection, data flow and extraction techniques such as pcap, network logs, netflow Expertise with python (including relevant data science libraries) and data visualization tools (e.g., Kibana, Tableau) Experience with machine learning techniques on both structured and unstructured data (I.e. clustering, topic modeling) Familiarity with Spark or other distributed analytic platformsPotential, part-time telework depending on mission needs
+
+Some of the day-to-day activities: 
+
+Work with a team to gather information and designcreateconfigure tools for monitoring.
+Develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements
+ Works individually or as part of a team.
+Reviews and tests software components for adherence to the design requirements and documents test results
+Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment
+Provides specific input to the software components of system design to include hardwaresoftware trade- offs, software reuse, use of Commercial Off-the-shelf (COTS)Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.
+
+ 
+Were an equal opportunity employer (EOE) that empowers our people. It is the policy of ELEVI to provide equal employment opportunities to all employees and employment applicants—without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. We fearlessly drive change, because without diversity of thought and a commitment to equality for all, there is no moving forward. Reasonable accommodations are available for qualified individuals with disabilities, upon request. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination.

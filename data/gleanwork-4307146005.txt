@@ -1,0 +1,36 @@
+About Glean
+ 
+Were on a mission to bring people the knowledge they need to make a difference in the world. 
+Glean was founded by a seasoned team of former Google search and Facebook engineers, who wondered why we dont have an easier way of finding what we need at work. In our personal lives, we have tools to help us find pretty much whatever we need. Why dont we have that at work? And that was the beginning of Glean.
+Glean searches across all your companys apps to help you find exactly what you need and discover the things you should know. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+Role
+ 
+Glean is looking for an highly skilled Corporate Security (IT) Engineer who will be responsible for ensuring the security of our overall cloud-native IT environment. This person will play a critical role in ensuring the security and integrity of our organizations IT environment while also managing day-to-day IT operations. The successful candidate will possess a strong background in IT security best practices, be well-versed in IT operations, and have the ability to handle complex challenges in a dynamic environment. 
+ 
+What you will do and achieve
+
+Develop, implement, and maintain the organizations IT security policies, procedures, and standards.
+Conductdeploy security awareness training for employees to educate them on security best practices and policies.
+Successfully deploy and manage Endpoint Security solutions, including Mobile Device Management (MDM) and Endpoint Detection and Response (EDR) systems.
+Lead the development and implementation of a comprehensive third-party vendor review program. 
+Collaborate with business teams to assess and implement appropriate security settings and access controls in SaaS applications.
+Ensure compliance with relevant industry standards (e.g., ISO 27001, NIST, GDPR) and regulatory requirements related to IT security and data privacy.
+Assist in completing security questionnaires and requests for proposals (RFPs) from customers, partners, and regulatory bodies.
+
+Who you are
+
+Bachelors degree in Computer Science, Information Technology, or a related field (or equivalent work experience).
+7 experience in IT security, with a focus on cloud-native environments.
+Strong understanding of modern endpoint security solutions and securing remote employees devices.
+Familiarity with industry standards and regulatory requirements for IT security and data privacy.
+Excellent analytical and problem-solving skills with the ability to handle complex technical challenges.
+Relevant certifications such as CISSP, CISM, CompTIA Security, or equivalent, are a plus.
+
+Key knowledge and skills
+
+Thrive in a customer-focused, tight-nit and cross-functional environment - being a team player and willing to take on whatever is most impactful for the company is a must
+A proactive and positive attitude to lead, learn, troubleshoot and take ownership of both small tasks and large features
+Familiarity with cloud native security practices in GCPAWSAzure is a plus
+
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. Were committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.

@@ -1,0 +1,53 @@
+Were looking for a Intermediate Software Developer, Full Stack who can design, build, test, and ship high quality software that delivers value to our customers. Youll work on a small and agile team that continuously incorporates feedback to refine and improve the products and features you deliver. Your team will own the entire delivery lifecycle from beta releases to production ready, scalable products suitable for new and existing customers. While based in Hootsuites Vancouver or Toronto office (post COVID-19) or remotely across Canada and the U.S. (in accordance with Hootsuites local employment entities), you will report to the Manager, Software Development.
+ 
+WHAT YOULL DO: 
+
+Work within a cross-functional platform team to deliver and support compelling products and services
+Design, write, test, and deploy high quality scalable code
+Implement our technical roadmap as we scale our services and build new products
+Maintain standards of security, reliability, performance, and quality
+Work out loud by sharing your experiences and expertise, helping to improve and enhance processes
+Take ownership of your work and work autonomously when necessary
+Participate in code reviews, and apply software development best practices
+Work with technologies such as TypeScript, JavaScript, React and Redux
+Build reactive UI components in collaboration with designers and other developers
+Work with technologies such as Scala, Golang, Docker, Kubernetes and MySQL
+Develop highly available microservices to process real-time data
+
+ 
+WHAT YOULL NEED: 
+
+A degree in Computer Science or Engineering, and intermediate level of experience in developing and maintaining software or an equivalent level of education or work experience, and a track record of substantial contributions to software projects with high business impact
+You are proficient in at least one frontend and backend programming language, ideally JavascriptTypescript with React and Scala or Java, and have a desire to learn other languages.
+You have experience in software design: you know how to analyze and design features, drive discussions, and propose technical solutions.
+You have been a solid contributor in teams that have worked on medium-to-large sized projects that had an impact on business; an understanding of SaaS software development practice is considered an asset.
+You know how to apply best practices to ensure high-quality code (i.e. automated tests; code reviews).
+Open Communication: clearly conveys thoughts, both written and verbally, listening attentively and asking questions for clarification and understanding
+Collaboration and Teamwork: works with others to deliver results, meaningfully contributing to the team and prioritizing group needs over individual needs
+Self Development: is personally committed to, and actively works to continuously improve
+Problem Solving: uses an organized and logical approach to find solutions to complex problems. Looks beyond the obvious to understand the root cause of problems
+Resilience, Tolerance for ChangeAmbiguity: can effectively cope with change, finding ways to advance work and projects
+
+ 
+WHO YOU ARE:
+
+Tenacious. You are determined to succeed, and you are motivated by the success of customers, colleagues and the community.
+Curious. You are always learning and seeking ways to make things better.
+Conscientious. You keep your promises, taking your commitments to others seriously, and you have strong integrity.
+Humble. You lead with humility and empathy, respecting and learning from the perspectives of others. 
+
+ 
+
+ 
+In all we do, our six guiding principles light the way:
+Step Up: Show the world what it looks like to live and work by these guiding principles. StepUp
+One Team: Make Hootsuite a place where everyone feels safe, welcome, valued, and empowered to do their best  work without compromising who they are. OneTeam FreeToBeMe
+Customer Obsessed: Focus relentlessly on helping our customers succeed. CustomerObsessed
+Go Fast, Be Agile: Widen our competitive advantage by committing to speed and simplicity over perfection and complexity. GoFastBeAgile
+Play to Win: Commit to building an incredible, profitable company for our customers, our employees, and our stakeholders. PlayToWin NoExcuses
+Neighbours  Allies: Give back to our communities and be an ally. SocialForGood Allies
+ 
+Accommodations will be provided as requested by candidates taking part in all aspects of the selection process.
+ 
+ 
+LI-AK1

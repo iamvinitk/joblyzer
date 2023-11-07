@@ -1,0 +1,65 @@
+Neon is an open-source company on a mission to create a cloud-native Postgres database service for every developer.
+We are seeking a skilled Postgres Quality Engineer to join our team. As a Postgres Engineer, you will be responsible for the performance testing of PostgreSQL database systems at Neon. This position requires a strong understanding of PostgreSQL architecture, performance tuning, and database administration.
+You will
+
+Design and execute performance tests to assess the scalability, responsiveness, and efficiency of Neon Postgres.
+Develop test plans, scenarios, and benchmarks to stress test the database performance.
+Analyze performance test results, identify bottlenecks, and recommend optimizations to enhance system performance.
+Collaborate with other teams to implement performance improvements based on test findings.
+Investigate and troubleshoot performance degradation issues reported by customers or detected internally.
+Analyze database metrics, logs, and query execution plans to identify the root cause of performance issues.
+Conduct in-depth performance investigations, including load testing, query profiling, and index optimizations.
+Assist customers with PostgreSQL-related problems, including database performance issues, query optimization, and troubleshooting database errors.
+Collaborate with the Engineering and Product teams to understand product requirements and provide input on performance-related considerations during the design and development phases.
+Participate in on-call rotations to handle and resolve critical issues.
+
+We are looking for someone who has
+
+5 years of experience in a similar position (Database Engineer, DBA).
+Strong programming skills (preferably in Python).
+Ability to investigate and troubleshoot performance degradation issues, analyze database metrics and query execution plans, and identify bottlenecks.
+Experience in query optimization, index tuning, and system parameter tuning.
+Excellent customer service skills with the ability to communicate effectively, and provide prompt and accurate solutions to the PostgreSQL-related problems.
+Understanding of database security principles and best practices.
+Experience with performance monitoring tools, query profiling, and performance analysis to identify performance bottlenecks and optimize database performance.
+Strong teamwork and collaboration skills to work effectively with cross-functional teams.
+Eagerness to stay up-to-date with the latest PostgreSQL releases, features, tools, and best practices in performance optimization and database administration.
+
+Additional bonus
+
+You are proficient in designing and executing performance tests, creating test plans, scenarios, and benchmarks.
+You contributed to Postgres.
+You are aware of performance testing tools and methodologies.
+
+About Neon
+Neon is building open-source cloud-native PostgreSQL. Our architecture separates storage from compute, allowing for stateless and serverless Postgres. Were a well funded startup with deep knowledge of Postgres internals and decades of experience building databases. We are a systems company; we work on low-level code with strict performance and correctness requirements.
+Neon was created by a team of Postgres hackers, and led by CEO Nikita Shamgunov (co-founder of SingleStore). Neon is built on open-source principles and is focused on giving back to the Postgres and developer communities.
+Our Team
+
+We are a distributed team of 60 people working from 22 countries (concentrating around North America and Europe time zones)
+We are a team built on open sources cultural principles (transparency, contribution, accountability, proactivity)
+Team with decades of experience building databases and deep knowledge of Postgres internals. We are deeply technical
+We have experienced Postgres committers and hackers on the team (check Heikki, Anastasia, Arseny, Matthias profiles)
+We believe in the efficacy of collaborative open source
+We aim for a diversity of thoughts and backgrounds
+We are keen to be a fast-moving flat org and avoid hierarchical structures
+
+Our Investors
+
+Top-tier investors backed up Neons vision:
+
+We raised 104 million in funding from Menlo Ventures, GGV, Khosla Ventures, General Catalyst, Founders Fund. 
+Venture vehicles of Snowflake and Databricks invested in Neon.
+Our angels investors are prominent technologists, and ecosystem players. More than 20 awesome angels supported Neon, including Nat Friedman, Elad Gil, Mike Ovitz, Ajeet Singh, Guillermo Rauch, Sren Brammer Schmidt, and Wes McKinney.
+Our Board includes Quentin Clark, Glenn Solomon, Joe Morrissey, and Tim Tully. 
+
+
+
+Our Offer
+
+You have an opportunity to be an early employee in the fast-scaling ambitious team
+You can work 100 remote: well handle all formalities to arrange work from your home
+We pay top of the market in most parts of the world
+We grant equity (stock options) for all full-time hires
+We offer a competitive benefits package in line with all tech companies (top-notch equipment, unlimited vacations, paid parental leaves, and much more)
+We are distributed, yet make our bonds during regular offsites (the last one was in Cyprus)

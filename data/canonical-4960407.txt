@@ -1,0 +1,24 @@
+We are hiring a Golang software engineer to work on the low level Go codebase sitting between our REST API and the low level C libraries used to manage containers and virtual machines. We are looking for system-level developers with experience in design and data managementmodeling.
+The LXD team is responsible for the design, development and evolution of LXD, a modern system container and virtual machine manager that is widely used on Ubuntu, ChromeOS and other Linux platforms. LXD components span the entire software stack from low-level kernel features to the upper level management REST API and CLI.
+This is an opportunity for someone who wants to have a meaningful impact on modern cloud computing technologies. Canonical offers a fun, fast-paced team environment and a career full of learning and development.
+What you will do
+
+Design, implement and document system level Go code
+Model data, design database schemas and implement data storage in a dqlite (SQL) database
+Maintain code quality through static analysis, unit and system tests
+Collaborate proactively with a distributed team
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel 2 to 4 weeksyear for internal and external events
+
+Who you are
+
+You have experience programming in Go and C
+You are knowledgeable in networking and storage technologies
+You have experience with two or more of: cloud computing, virtualisation, containers, distributed systems, open source community
+You are curious, flexible, articulate and accountable
+You value soft skills and are enterprising, thoughtful and self-motivated
+You have a bachelors or equivalent in Computer Science, STEM or similar degree
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-Remote Stack

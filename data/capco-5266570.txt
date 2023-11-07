@@ -1,0 +1,54 @@
+Senior Data Scientist
+Joining Capco means joining an organisation that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table  so wed love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.
+ABOUT US
+Capco is a global technology and business consultancy, focused on the financial services sector.
+We are passionate about helping our clients succeed in an ever-changing industry.
+We are:
+
+Experts in banking and payments, capital markets and wealth and asset management
+Deep knowledge in financial services offering, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking etc.
+Committed to growing our business and hiring the best talent to help us get there
+Focus on maintaining our nimble, agile and entrepreneurial culture
+
+What were looking for:
+As part of our on-going global expansion strategy, we are currently hiring Senior Data Scientists as Capco continues to grow its UK Data Practice in our London office.
+The Senior Data Scientist should be experienced in using statistical, algorithmic, mining andor visualisation techniques to address complex business problems. You will be an SME on data science  ML solutions and use case development.
+The successful candidate will advise the Data Scientists and Engineers on technical requirements around the model design, model architecture, model calibration, solution design, and solutions output In addition to this, they will be expected to leverage their expertise to train and grow Data Scientists at a range of experience levels.
+Responsibilities 
+
+Develop prototype and proof of concept solutions making use of cutting-edge AI, machine learning and statistical approaches to solve real-world and business problems
+Technically lead multiple pods of data science  engineers to develop solutions from a business problem into POCs, MVPs, or fully-fledged solutions while collaborating closely with domain experts.
+Help transition from development environment to production
+Act as a subject matter expert in data science and machine learning and coach other data scientists
+
+Essential skills
+Analytics, modelling or software development experience including codingsoftware development skills. In particular:
+
+Hands-on experience in building and implementing data science and machine learning solutions to tackle business problems
+Comfort with rapid prototyping and disciplined software development processes
+Experience with Python, ML libraries (e.g. spaCy, NumPy, SciPy, Transformers, etc.)data tools and technologies (Spark, Hadoop, Hive, Redshift, SQL), and toolkits for ML and deep learning (SparkML, Tensorflow, Keras)
+Demonstrated ability to work on multi-disciplinary teams with diverse skillsets
+Deploying machine learning models and systems to production (DevOps, MLOps, CICD)
+Experience of working in cloud environments (Azure, GCP, AWS)
+
+You are also expected to have:
+
+Higher level degree (MsCPhD) in a numerate discipline.
+Excellent leadership skills
+Able to articulate complex data science concepts to both technical and non-technical audiences
+Banking andor Financial Services experience.
+
+Bonus points:
+
+Entries into Kaggle Competitions
+Creativity, resourcefulness and a collaborative spirit
+
+WHY JOIN CAPCO?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+We offer:
+
+A work culture focused on innovation and building lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+Enhanced and competitive family friendly benefits, including maternity  adoption  shared parental leave and paid leave for sickness, pregnancy loss, fertility treatment, menopause and bereavement

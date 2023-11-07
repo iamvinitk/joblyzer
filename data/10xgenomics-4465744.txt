@@ -1,0 +1,35 @@
+10x Genomics was founded to deliver powerful and reliable tools that fuel key scientific discoveries and drive exponential progress in our mastery of biology to advance human health. Our talented team has a distinguished record of creating innovative instruments, reagents, and software that analyze biological systems at a resolution that matches the complexity of biology.
+A background in biology or life sciences is NOT required to be successful here. We look for smart, motivated and collaborative engineers who love solving problems and making a direct impact on an inspiring mission.
+About the Role
+The instrument software team creates the firmware and control software central to our instruments, covering areas such as motion control, high precision microscopy as well as fluidics.
+What you will be doing
+
+Provide hands-on technical leadership
+Implement effective engineering processes and policies
+Drive excellence in engineering and team performance
+Work with teams across 10xGenomics to foster a collaborative culture to deliver the right product on-time
+
+Minimum requirements
+
+Bachelors degree in computer science, engineering, math, or scientific discipline and 4 years of software development experience; OR 6 years of professional experience building software
+3 years leading software teams in an operational or technical capacity
+
+Preferred skills and experience
+
+Excellent communication and teamwork skills
+Strong desire to mentor and grow employees
+Excellent understanding of computer science fundamentals
+Demonstrated disciplined and rigorous software engineering practices 
+
+You understand the importance of software processes in service of engineering
+You understand the importance of testing
+
+Deep understanding of HW-SW interfaces, control systems and software architecture
+Deep experience building highly available, Linux-based embedded systems
+Deep understanding of testing, build, continuous integration, deployment  continuous monitoring
+
+LI-RT1Below is the base pay range for this full time position.  The actual base pay will depend on several factors unique to each candidate, including ones skills, qualifications, and experience.  At 10x, base pay is also just one component of the Companys total compensation package.  This role is also eligible for 10xs equity grants, its comprehensive health and retirement benefit programs, and its annual bonus program or sales incentive program.  Your 10x recruiter can share more about the Companys total compensation package during the hiring process.Pay Range229,000—280,000 USDAbout 10x Genomics
+At 10x Genomics, accelerating our understanding of biology is more than a mission for us. It is a commitment. This is the century of biology, and the breakthroughs we make now have the potential to change the world.We enable scientists to advance their research, allowing them to address scientific questions they did not even know they could ask. Our tools have enabled fundamental discoveries across biology including cancer, immunology, and neuroscience.Our teams are empowered and encouraged to follow their passions, pursue new ideas, and perform at their best in an inclusive and dynamic environment. We know that behind every scientific breakthrough, there is a deep infrastructure of talented people driving the life sciences industry and making it possible for scientists and clinicians to make new strides. We are dedicated to finding the very best person for every aspect of our work because the innovations and discoveries that we enable together will lead to better technologies, better treatments, and a better future. Find out how you can make a 10x difference. 
+Individuals seeking employment at 10x Genomics are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation, or any other characteristic protected by applicable law.
+10x does not accept unsolicited applicants submitted by third-party recruiters or agencies. Any resume or application submitted to 10x without a vendor agreement in place will be considered unsolicited and property of 10x, and 10x will not pay a placement fee.
+    

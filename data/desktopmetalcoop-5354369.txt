@@ -1,0 +1,37 @@
+Desktop Metal (NYSE: DM) is pioneering a new generation of additive manufacturing technologies focused on the production of end-use parts. We offer a portfolio of integrated additive manufacturing solutions for engineers, designers and manufacturers comprised hardware, software, materials and services. Our solutions span use cases across the product life cycle, from product development to mass production and aftermarket operations, and they address an array of industries, including automotive, aerospace, healthcare, consumer products, heavy industry, machine design and research and development.  At Desktop Metal, we believe additive manufacturing, commonly referred to as 3D printing, is one of the most exciting and transformational technology innovations of our time.This position is for the 2024 January through June Co-Op session.
+DM is seeking talented and self-motivated Co-Ops to assist with the development and testing of our products. The Mechanical Engineering Co-Ops work across many product lines and departments at DM, and are a critical aspect of our engineering teams.
+We have multiple openings for this role and you could find yourself working with the RD group, Sustaining Engineering, or the ProcessMaterials team - your Mechanical Engineering skill set is sought after by many departments!
+The Co-op will be responsible for:
+
+Tuning and testing of 3D printing processes  
+Designing and testing mechanisms and technology that can be broadly applied to 3D printing
+Evaluating designs for assembly, manufacturability, testability, and serviceability
+Performing tolerance stack analysis, including an understanding of GDT
+Maintaining a high level of communication with cross-functional teams and other employees
+
+Basic Qualifications:
+
+Ability to resolve complex issues in creative, efficient, and effective ways
+Understanding and use of technical principles, theories, and concepts in mechanical engineering
+Broad exposure to mechanical design and development practices including common engineering tools
+Interest in robotics andor 3D printing
+Excellent written and oral communication skills
+Proven time management and organizational skills
+
+Preferred Experiences:
+
+3D printing
+Design for sheet metal fabrication
+GDT
+Machining - mill, lathe, andor general shop tools
+Rapid Prototyping
+Mechatronics
+Solidworks, ProE, andor OnShape
+Robotics
+Thermal management
+Basic Python Skills
+Test designdata collection
+Strong documentation skills
+
+Desktop Metal strongly believes in our Co-Op program, its been part of the company since the start. We have many Co-Ops each session and have converted over 40 people to full time employees over the years. This is a great place to learn with dedicated mentors and many opportunities to shine. No matter which team you are on, we give our Co-Ops real work that has the potential to leave a positive impact on our products and customers. 
+Check out all of our Co-Op roles - https:boards.greenhouse.iodesktopmetalcoopAt Desktop Metal, innovation is at the core of our DNA. And we believe ground-breaking discoveries are born from diverse teams with unique backgrounds and experiences. We are committed to employing a diverse workforce with equal employment opportunities regardless of race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, marital status, veteran status, or disability.

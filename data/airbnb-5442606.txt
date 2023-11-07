@@ -1,0 +1,59 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join:
+Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnbs various functions embody the companys innovative spirit and our fast-moving team is committed to leading as a 21st century company.
+The Difference You Will Make:
+Dev Infras mission is to enable Airbnb developers to develop, merge and release high quality code quickly and reliably. This team works on infrastructure that enable Airbnb developers to be productive across all stages of the software development lifecycle. 
+CICD: This team is responsible for building infrastructure that allow developers to testdeploy code confidently and with ease. This includes things like: infrastructure to scale our CI cluster, services that keep CI fast and healthy like flaky test detection, merge queues etc, integration testing infrastructure, and deployment tooling. 
+A Typical Day: 
+This engineer on Dev Infra, you will work on technologies that help shape an industry-leading end to end developer experience. In this role you will be:
+
+Building CICD Tooling
+Improving developer productivity for all engineers at Airbnb. If we can improve productivity by 20, the impact is equivalent to hiring 20 more developers.
+Responsible for building the technical strategy and evolving Airbnbs developer infrastructure that directly moves our core metrics (Developer Experience, Developer Velocity, Debuggability, Resilience and Reliability) while reducing cost.
+Partnering with engineering leaders across all Airbnb teams for adoption of the new capabilities. Your customers will be all engineers at Airbnb.
+a playercoach of our high-performance team to ensure code quality, commitment to craft and operational excellence
+
+Your Expertise:
+
+Experience Building CICD Tooling
+Experience with CICD Tools (Spinnaker, Jenkins, CircleCI, etc.) 
+
+Spinnaker - Internally used  preferred
+
+Extensive JVM experience
+Want to tackle projects with large open-ended scope and drive significant business impact
+Love collaborating via product reviews, code reviews and architecture discussions
+Are motivated to improve their teammates productivity
+Are excited to join an impactful infrastructure team 
+
+Minimum Requirements:
+
+9 years industry experience
+Bachelors andor Masters degree, preferably in CS, or equivalent experience
+Proficiency in one or more back-end server languages (JavaRubyGoCetc.)
+Experienced in architectural patterns of a high-scale distributed productsservices, such as well-designed APIs, data pipelines and efficient algorithms
+Experience or desire to work collaboratively in cross-functional teams with design, product and data science partners
+
+Benefits:
+
+Stock
+Competitive salaries
+Quarterly employee travel coupon
+Paid time off
+Medical, dental,  vision insurance
+Life insurance and disability benefits
+Fitness Discounts
+401K
+Flexible Spending Accounts
+Apple equipment
+Commuter Subsidies
+Community Involvement (4 hours per month to give back to the community)
+Company sponsored tech talks and happy hours
+Much more
+
+ 
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+If you need assistance, or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodationsairbnb.com.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—254,000 USD

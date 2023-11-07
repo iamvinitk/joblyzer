@@ -1,0 +1,36 @@
+Software Engineer (C .NET Core)
+ Knab was founded in 2012 because we think banking should be different. Simpler, smarter and more advantageous for our customers. Because we believe we can help everyone maximize their financial affairs. Feel at ease when it comes to your finances. Every day. By combining smart technical solutions with a healthy dose of human intelligence, we create financial services that really meet your needs. Add to that some of the sublime personal service from our employees and you end up with something thats truly unique to the world of finance!
+The role in a nutshell
+The success of Knab has made us decide to develop more and more in-house IT solutions, in order to accelerate and disrupt banking. The result will be an entirely new platform that encompasses our current and future offerings to clients. You will be valued by the whole company for being the one that enables us to deliver on our customer focus. This is the heart and soul of Knab. 
+We promise all the support you need for this challenge: You will join one of our Scrum teams to understand the code and our way of work with help from your team mates and our principal software engineers along the way. 
+With great responsibility comes great freedom, in our case. What is the most exciting to us, and maybe to you too, is that you get to leave your mark on the long term plan of our product, as well as shape the hands-on day-to-day activities of your team. 
+By all means, develop all you want! From IT-specific training programs to Dutch classes and coaching sessions from your colleagues, we got you covered. The great thing is, in this role, you have the opportunity to even step up into a principal developer or architect if you want to.
+ 
+Tech stack
+
+Frontend: ReactJs, Typescript and Emotion
+Backend: .NET Core C and SqlServerPostgresQLRedis
+Deployment: AzureDevOps, Docker, Terraform, Fargate and AWS
+
+ 
+Your Profile
+
+A good background in C and .NET Core;
+Experienced in cloud platforms, preferably AWS, specifically  in serverless architecture and virtual machines;
+Owning your freedom to give suggestions to your peers and the principals, challenge them, ask questions;
+Curiosity to initiate changes you might not know the answer to yet, for the greater good;
+Being used to owning applications and being self-sufficient;
+Using Terraform to improve the Infrastructure as code (IaC);
+Knowing your way around containers and container orchestration, and a microservices based distributed architecture:
+
+Networking principles such as load balancing, DNS, Reverse Proxy
+Storage technologies (SQL, S3, NoSQL)
+System Manager, KMS, CloudWatch.
+
+
+ 
+Diversity Statement
+Come as you are. Knab is an open workplace with positive vibes. We are inclusive of all nationalities, ethnicities and genders. We feel comfortable bringing our authentic whole selves to work and like you to do so too. 
+Work with us!
+If you come to work with us, Knab will become a significant part of your life. Therefore, we make sure the ambiance is just as exciting as your job. Check the benefits here!
+We dont collaborate with third parties to fulfill this role, nor are we open to freelance or contractors.

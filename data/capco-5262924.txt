@@ -1,0 +1,57 @@
+ 
+CAPCO POLAND
+Capco Poland is a global technology and management consultancy specializing in driving digital transformation across the financial services industry. We are passionate about helping our clients succeed in an ever-changing industry.
+We also are experts in          focused on development, automation, innovation, and long-term projects in financial services. In Capco, you can code, write, create, and live at your maximum capabilities without getting dull, tired, or foggy.
+We are looking for Data Engineers to support one of our best-in-class clients from banking by delivering data services such as Customer Data Management (CDM), document management, analytical reporting, on-premises solutions, migration from on-premise to cloud or cloud solutions separately for Wholesale businesses. Our clients Big Data Lake is the largest aggregation of data ever within financial services with over 300 sources and a rapidly growing book of work. 
+ 
+THINGS YOU WILL DO
+
+Transform the business and system requirements into solution designs and functional requirements
+Deliver an ecosystem of curated, enriched, and protected sets of data  created from global, raw, structured, and unstructured sources
+Data development process: design, build and test data products that are complex or large-scale
+Promote development standards, code reviews, mentoring, testing, scrum story writing
+Cooperate with customersstakeholders, product owners, business users and other subject matter experts
+
+ 
+TECH STACK: ETL, Hadoop-Based Analytics (Hbase, Hive, mapReduce, Kafka, Spark, BI, ETL, Database, etc), Python, Spark, GCP (cloud storage, Big Query, PubSub, Data Flow), Jenkins, GitHub, SQL
+ 
+SKILLS  EXPERIENCES YOU NEED TO GET THE JOB DONE
+
+Experience in Scala, Python, or Java
+Experience in UnixLinux environment on-premises
+Experience with developing RESTful APIs
+Experience in Elasticsearch
+Experience building data pipelines using Hadoop components (Apache Hadoop, Scala, Apache Spark, YARN, Hive, SQL)
+Knowledge of industry-standard version control tools (Git, GitHub) and automated deployment tools (Ansible  Jenkins)
+Knowledge of SDLC and SQL
+Understanding users requirements and functional specification
+Excellent communication, interpersonal, and decision-making skills
+Good English knowledge
+
+ 
+WHY JOIN CAPCO?
+
+Employment contract andor Business to Business - whichever you prefer
+Possibility to work remotely
+Speaking English on daily basis, mainly in contact with foreign stakeholders and peers
+Multiple employee benefits packages (MyBenefit Cafeteria, private medical care, life-insurance)
+Access to 3.000 Business Courses Platform (Udemy)
+Access to required IT equipment
+Paid Referral Program
+Participation in charity events e.g. Szlachetna Paczka
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+Being part of the core squad focused on the growth of the Polish business unit
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A work culture focused on innovation and creating lasting value for our clients and employees
+
+ 
+ONLINE RECRUITMENT PROCESS STEPS
+
+Screening call with the Recruiter
+Technical interview with Capco Hiring Manager
+Client Interview
+FeedbackOffer
+
+ 
+Follow us here  or contact us directly  recruiting.polandcapco.com 
+ 

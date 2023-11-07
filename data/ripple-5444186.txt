@@ -1,0 +1,65 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.We are seeking a Blockchain Developer to join our Engineering team in India.
+WHAT YOULL DO:
+
+Design and develop applications that interact with multiple blockchain networks, facilitating reading from and writing to these networks.
+Create and send transactions to different blockchain networks, ensuring smooth and secure data transfer.
+Collaborate with other teams to develop APIs that enable seamless interaction with blockchain data and functionalities.
+Perform database operations to manage and store blockchain-related data efficiently.
+Work closely with other blockchain developers and backend engineers to ensure smooth integration and communication within the technology stack.
+Maintain the 247 operation of applications, ensuring they can handle ongoing blockchain operations effectively.
+Demonstrate flexibility and adaptability in handling different types of blockchains, including UTXO-based and account-based models.
+Keep track of industry trends and innovations, identifying opportunities to enhance our blockchain integration strategies.
+
+WHAT WERE LOOKING FOR:
+
+Bachelors degree in Computer Science, Engineering, or related field (or equivalent practical experience).
+6 years of experience in design and developing applications. 
+Proficiency in C as the main programming language.
+Strong problem-solving skills and the ability to troubleshoot complex issues related to blockchain integration.
+Enthusiasm for staying up-to-date with emerging blockchain trends and technologies.
+Effective communication skills, with the ability to collaborate within cross-functional teams.
+Attention to detail and a commitment to delivering high-quality, reliable solutions.
+Self-motivated and able to work independently while also being an integral part of a collaborative team.
+Solid understanding of blockchain concepts and technologies, including UTXO-based and account-based models, is a plus.
+
+Pluses:
+
+Proven experience with a variety of blockchain networks and consensus mechanisms.
+Understanding of decentralized finance (DeFi) and its associated protocols.
+Basic cryptography knowledge.
+Experience with smart contract development.
+Ability to set up and maintain blockchain nodes; basic Linux knowledge.
+Ability to work remotely and with international teams.
+
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

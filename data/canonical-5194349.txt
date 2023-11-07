@@ -1,0 +1,34 @@
+This is an exciting opportunity for a software engineer passionate about open source software, Linux, Ubuntu Server and the public clouds. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+Ubuntu Server is a platform that enables amazing technology the whole world over, and the 1 operating system in the public clouds. Applicants to this role will have the opportunity to help with everything that goes into adapting Ubuntu Server for the clouds. They will get to work with our experienced team and have the benefits of learning and growing alongside the best engineers in the business. 
+What youll do
+
+Collaborate proactively with a distributed team
+Write high quality code to create new features
+Debug issues and produce high quality code to fix them
+Review code produced by other engineers
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel 2 to 4 weeks for internal and external events
+Become involved in the planning of new Ubuntu features, both new ideas in your areas of interest and advising on work being done elsewhere
+Assist in the maintenance of Ubuntu Server packages. Specifically but not limited to:
+
+Traditional server workloads (web servers, databases, network services, etc)
+Virtualisation
+Containers
+Package management
+Booting and early userspace
+Language runtimes
+
+Collaborate with other teams in the Ubuntu and Debian communities, with upstream projects, and commercially supported customers
+Collaborate and work with our partners to make Ubuntu the best experience in the cloud
+
+Who you are
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have interest and experience with two or more of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, QEMUKVM, LXCLXD, Python, Go, Debian packaging, AWS, GCP, Azure, Oracle Cloud, IBM Cloud
+Involvement in open source projects in the past a plus
+
+ 
+Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.

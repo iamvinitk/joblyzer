@@ -1,0 +1,34 @@
+Title: Performance Analyst, Foundational ResearchReports to: Assistant Director, Foundational ResearchAdditional reporting responsibilities to: Director, Integrative Baseball PerformanceLocation: Philadelphia, PA
+Position Overview:Analysts with the Phillies are tasked with maximizing organizational impact, in pursuit of building a consistent World Series contender. As a Performance Analyst in the Foundational Research department, you tackle baseballs most difficult problems in strength and conditioning, athletic training, and biomechanics, leveraging proprietary data sources to systematically improve player evaluation, development, performance, and health at scale. You work closely with technical staff and performance specialists in Baseball Operations, contributing to the execution of a strategic vision for the future of performance research at the Phillies. You internalize cutting-edge insights from the Phillies Research  Development department in player evaluation and development, leveraging those insights in performance research to further advance our existing player acquisition and development paradigms. Success in this role would involve enhancing our existing player evaluation and daily monitoring tools, building systems to improve the efficiency and value of player assessment data collection, and contributing toward an integrative, best-in-class baseball performance process that impacts organizational decision-making across player acquisition and development. 
+Responsibilities
+
+Conduct performance research projects and integrate outputs into our proprietary tools and applications, in direct support of player evaluation, acquisition, development, and performance maximization
+Lead predictive modeling initiatives that integrate high performance datasets into player performance forecasting
+Communicate with front office executives, scouts, coaches, and medical staff to design and interpret statistical studies
+Assist the rest of the Foundational Research and Integrative Baseball Performance teams with their projects by providing guidance and feedback on your areas of expertise
+Continually enhance you and your colleagues knowledge of baseball and data science through reading, research, and discussion with your teammates and the rest of the front office
+Provide input in architecting the storage, ingestion, display, and analysis of baseball assessment data
+Rigorously identify and vet novel data sources, collection methodologies, or technologies that could be additive to our processes, supporting the organization in implementing them in a scientifically and statistically robust manner
+
+Required Qualifications
+
+Deep understanding of statistics, including supervised and unsupervised learning, regularization, model assessment and selection, model inference and averaging, ensemble methods, etc.
+Demonstrated experience implementing technical research projects using  high-performance data in sports, with the ability to communicate findings to stakeholders
+Proficiency with scripting languages such as Python, statistical software (R, S-Plus, SAS, or similar), and databases (SQL)
+Proven willingness to both teach others and learn new techniques
+Willingness to work as part of a team on complex projects
+Proven leadership and self-direction 
+
+Preferred Qualifications
+
+BS, MS or PhD in a related quantitative (Math, Statistics, Operations Research, etc.) or scientific field (Biology, Physics, Bioengineering, etc.), or equivalent practical experience
+Familiarity with best practices in machine learning operations (Git, Docker, MLFlow or the equivalent)
+Experience designing and running experiments
+0-5 years of relevant work experience
+
+ 
+Interested applicants should submit both their resume, cover letter, and an answer to the following question:
+Our RD Department informs us that a recently drafted pitcher would have a big league arsenal if they gained 2mph in the off-season. What models would you build or metrics would you look at to determine whether the player can achieve the proposed gain in velocity? (250 word limit)
+Tip: Theres no defined right or wrong answer. Responses are used to get some insight into how you approach problem solving and baseball in general.
+ 
+The Phillies is an Equal Opportunity Employer

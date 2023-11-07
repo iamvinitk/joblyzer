@@ -1,0 +1,54 @@
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40 of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means youll help define the future of physical operations and be on a team thats shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, youll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards weve won include:
+Glassdoors Highest-Rated Tech Companies for Culture and Values 2023
+Great Place To Work Certified 2023
+Best Place to Work by Built In 2023
+Financial Times The Americas Fastest Growing Companies 2023
+Deloitte Fast 500 Companies
+We see a profound opportunity for data to improve the safety, efficiency, and sustainability of operations, and hope you consider joining us on this exciting journey. About the role:
+The Mobile Experience team is part of our Platform organization, and owns the end-to-end experience of our two main mobile applications: Samsara Driver and Samsara Fleet. These apps support our customers across their entire operations, and power their most critical tasks - whether its helping drivers to maintain compliance and understand their routes or helping administrators receive critical alerts about safety events that need immediate attention. Were continuing to expand our mobile footprint to new personas and are rapidly adding a set of new use cases that will make our mobile apps even more essential for our customers in years to come. Were looking for an experienced Staff Product Manager to help drive this new growth and tackle the new challenges that it brings.
+As a member of the Product team, youll be responsible for the end-to-end success of new products and features that delight our customers and further Samsaras vision. Samsaras approach to product management is rooted in a deep understanding of the customer. Youll learn about our customers operations, identify the most meaningful problems that we could solve for them, and develop a product vision that maximizes the impact Samsara can make on the market. With a laser focus, entrepreneurial spirit, and easy-to-work-with collaborative approach, youll help us drive the next step change in growth of our mobile applications.
+You should apply if:
+
+You want to impact the industries that run our world: Your efforts will result in real-world impact—helping to keep the lights on, get food into grocery stores, reduce emissions, and most importantly, ensure workers return home safely.
+You are the architect of your own career: If you put in the work, this role wont be your last at Samsara. We set up our employees for success and have built a culture that encourages rapid career development, countless opportunities to experiment and master your craft in a hyper growth environment.
+Youre energized by our opportunity: The vision we have to digitize large sectors of the global economy requires your full focus and best efforts to bring forth creative, ambitious ideas for our customers.
+You want to be with the best: At Samsara, we win together, celebrate together and support each other. You will be surrounded by a high-caliber team that will encourage you to do your best. 
+
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+
+Work with our talented engineering and design teams to launch new mobile features and frameworks that support a growing base of over 500K users
+Collaborate with product line PMs in a platform PM capacity to support their initiatives, align priorities, and interlock dependencies
+Leverage data to understand our customers and market positioning to ensure effective prioritization, establish a roadmap, and define long-term strategy across products and features
+Develop a technical understanding of our products systems and work with engineers and stakeholders to identify meaningful improvements
+Seek improvements to improve the practice of product management at Samsara to help drive hyper-growth at scale
+Champion, role model, and embed Samsaras cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+
+Minimum requirements for the role:
+
+Deep expertise in product management (minimum 7 years), with a proven track record of operating  delivering as a platform team
+A curious and strategic mindset, ability to synthesize customer insights and data into a cohesive strategy and product roadmap independently
+Strong technical understanding, ability to grasp technical concepts and establish credibility with engineers
+A proven track-record of delivering outstanding results for customers  the business, managing significant complexity  aggressive timelines. You also have a bias-to-action and arent afraid to get your hands dirty
+Excellent communication skills. Must be comfortable presenting to customers, executives, and internal audiences, adjusting your communication style based on your audience
+
+An ideal candidate also has:
+
+Bachelors or Masters degree in a technical field; an MBA is a plus
+Experience in mobile application design and development
+History of working on successful B2B products
+An appreciation for designing products and features for users with varying levels of technological expertise
+Experience with both external and internal customers as key stakeholders to manage in roadmap planning and development
+Samsaras Compensation Philosophy: Samsaras compensation program is designed to deliver total compensation (based on role, level, and geography) that is above market. We do this through our base salary  bonusvariable  restricted stock unit awards (RSUs).  A new hire RSU award is awarded at the time of hire, and additional RSU refresh grants may be awarded annually.
+We pay for performance, and top performers are eligible to receive above target equity refresh awards which allow employees to achieve higher market positioning.The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience.141,760—221,500 USDAt Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewingsamsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where theyre based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individuals ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.

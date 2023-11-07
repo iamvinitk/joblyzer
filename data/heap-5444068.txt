@@ -1,0 +1,53 @@
+ 
+Our strong customer support team is a major reason why companies choose Heap as the source of truth for all their customer data and why our customers love us so much! Were looking to hire experienced Solutions Engineers (SE) to help our customers understand our product and make the most of their data. Our customers use Heap to make important business decisions, and youll be on the front line helping them by answering their emails, debugging complex technical issues, and devising strategies to help them get the most out of our product. Youll work closely with our customer success managers, sales, and product to advocate for our customers.
+You will be employed by Heaps strategic partner, Scaletrix.AI, with operations in Gurgaon, India. The office address will be Sector 44, Haryana - 122003
+
+INR 8 - 10 LPA
+Working hours:
+
+12 noon - 5 pm for Office - SE will be required to visit the office twice a week. Hence the other three days individuals will work from home
+7:30 pm - 11:30 pm from home
+
+
+ 
+At Heap, this means you will:
+
+Form close relationships with our customers. Our customers will consider you part of their team.
+Become more knowledgeable about analytics infrastructure than anyone else. You will have complete context on our product and become an expert in the larger analytics space.
+Communicate technical concepts clearly. You will convey sound data principles to a wide-range of audiences: product managers, marketers, data scientists, engineers and C-level executives.
+Advocate for the best customer experience. Internally, youll serve as the voice of our customers when defining product requirements with engineers or helping marketers educate the world about analytics.
+Constantly iterate on our processes. Youll work cross-functionally and manage special projects internally to help Heap scale as fast as possible.
+
+306090 Day Plan
+Within 30 days, you will:
+
+Answer hundreds of customer questions
+Triage and prioritize bugs and feature requests
+Act as internal support for our sales, marketing and engineering teams
+
+Within 60 days, you will:
+
+Understand Heaps backend infrastructure
+Use advanced technical tools to debug complex issues
+Advise customers on the optimal way to install and implement the product for their use-case
+Understand and aggregate customer use-cases to help our Product and Engineering teams design critical product improvements
+
+Within 90 days, you will:
+
+Know Heap like the back of your hand
+Come up with clever workarounds to push Heap to the limits
+Help customers with every question, whether it is joining data in Heap SQL or analyzing data within the UI
+Use SQL to query our systems and debug any complex issue thrown your way
+Be able to point to the line of code that is causing bugs and write your own scripts to make the support team more efficient
+
+Most importantly, youre an empathetic person who is comfortable with ambiguity and is an incredibly fast learner. As a strategic advisor for our customers, youll face novel situations and provide expertise every day.
+What were looking for: 
+
+Experience with HTML, CSS, JS, SQL, and working with various APIs
+Stellar written communication skills
+A passion for helping people
+(Bonus) Knowledge of the analytics market and data infrastructure
+(Bonus) Experience with Zendesk, Postgres, Kibana, Datadog, AWS Athena
+
+People are what make Heap awesome. Regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics, we want everyone to feel welcome. We are committed to building a diverse and inclusive equal opportunity workplace everyone can call home.
+Heap has raised 95M in funding from NEA, Y Combinator, Menlo Ventures, SVAngel, Sam Altman, Garry Tan, Alexis Ohanian, Harj Taggar, Ram Shriram, and others. We offer plenty of awesome benefits, and we were named 1 on Glassdoors Best Places to Work (SMB). Wed love to hear from you!

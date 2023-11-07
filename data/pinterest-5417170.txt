@@ -1,0 +1,31 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. Pinterest is seeking a Staff Software Engineer who will play a critical role in optimizing one of the largest-scale cloud-native infrastructures in the world. With Code and Language Runtime, you will provide technical leadership to ensure that Pinterest derives maximum value from its Infrastructure investments while reducing overhead and inefficiencies. This role is highly impactful, as capacity optimization is an ongoing strategic priority for Pinterest. The role has direct visibility across Pinterest Engineering and with Engineering and company leadership.
+ What youll do:
+
+Provide technical leadership for all aspects of Code and Language Runtime at Pinterest, including tolling, visibility, optimization and ongoing capacity management
+Build develop and mature profiling and optimization capabilities at Pinterest, ensuring that Pinterest Infrastructure maximizes value and reduces inefficiencies and overhead
+Collaborate with Infrastructure Engineering and SRE teams in their mission to deliver highly available, resilient, secure and efficient foundations for Pinterests tech stack
+Collaborate across Pinterest Engineering by creating and delivering tools and best practices to right-size systems capacity, optimize performance and reduce overhead while assuring high availability
+
+What were looking for:
+
+Deep experience in large-scale cloud infrastructure
+Technical leadership - ability to set direction, build consensus and influence stakeholders to work collaboratively on complex and ambiguous technical challenges
+Experience building and managing highly available distributed applications at scale
+Proficiency in software development languages such as Python, Java, C andor Go
+Excellent skills in communicating complex technical issues
+Bonus points for the following:
+
+Experience with large, cloud-native multi-tenant platforms at Internet scale
+Experience with and understanding of Infrastructure capacity, utilization, resilience and governance
+Experience building or managing large observability platforms, systems and tools
+
+
+ 
+This position is not eligible for relocation assistance.
+ 
+LI-HYBRID 
+LI-MF1Our Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

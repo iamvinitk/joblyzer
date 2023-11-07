@@ -1,0 +1,58 @@
+This is a director-level management opportunity to lead a globally distributed software engineering team that works in Python and Golang, and builds our systems management service Landscape, to help enterprises manage their Ubuntu operations at scale. Youll be responsible for the day-to-day leadership of several teams spread across the globe, youll own the roadmap, set the pace for the team, and deliver high quality software both as SAAS and on-premise.
+As an engineering director at Canonical you are expected to be deeply technical and to enjoy working with code, but your primary responsibility is to develop and guide your teams. You facilitate and ensure that they are continually improving, doing valuable work, and enjoying their time at Canonical despite (or perhaps because of) the intense and challenging nature of the work.  You will have the opportunity to influence the culture, facilitate technical delivery, and work with your teams to hone strategy and practices. We look for cheerful but steely leads, who are ambitious to compete with the best companies in the world and deliver a better experience for open source at scale.
+Youll be delivering a large project that powers complex, highly concurrent distributed software systems across the world, while growing and developing engineers at all levels. Were looking for someone with a proven track record in management, and delivery of quality software over time.
+Technical contribution through code is a plus but not the primary focus of this role. Significant past experience with hands-on software development, particularly in Go, is desirable. You will be expected to lead and facilitate technical design and architecture work alongside your senior engineering staff.
+The role is fully remote, with global travel for 4-6 weeks per year to facilitate company events. 
+Location: This role can be held anywhere in the Americas time zones, from Canada to Argentina :)
+What your day will look like
+
+Collaborate proactively with multiple distributed teams
+Help engineering teams establish and achieve community engagement goals
+Establish consistency in community process, engagement, and interaction across engineering
+Influence others and represent technical insight to customers and other engineers
+Spend a significant amount of time mentoring others and providing cross-team input
+Work from home with global travel 4 to 6 weeks for internal and external events 
+
+What we are looking for in you
+
+You are capable of representing Canonical  Ubuntu externally
+You have experience leading successful projects and teams
+You are organised and effective working through managers, from home
+You make well-considered plans and keep on top of progress weekly
+You are an articulate communicator
+You love technology and working with brilliant people
+You follow industry trends and new technologies, thoughtfully and carefully
+You understand and value how you do what you do, as well as what you do
+You have strong collaboration and influencing skills
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+Willingness to travel up to 4 times a year for internal events
+
+Additional skills that you might also bring
+
+Experience doing systems management of Linux infrastructure would be a plus 
+A public record of community engagement, particularly with open source communities
+You are comfortable preparing and giving presentations
+Experience building highly scalable Python web applications would be a plus
+Experience building highly scalable SaaS applications would be a plus
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

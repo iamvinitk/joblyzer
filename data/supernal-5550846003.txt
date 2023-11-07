@@ -1,0 +1,45 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. BMS (Battery Management System) - Test  Validation Engineer focuses on BMS HW and SWFW test strategy and actual verification and validation of full BMS to be used in our Energy Storage System (ESS). The role is responsible for collecting requirements, developing Test architecture and infrastructure as well as BMS validation tests. They work with other HW  SW  Cell Engineers in Battery team and other multi-functional team members to develop test requirements, share the test results, and get the designs released successfully.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Development of high-level and detailed level BMS Test environment  architecture
+Develop System level test strategy, Test cases and Test plan to cover system verification and then validating the BMS for functional and certification requirements per standards and aircraft level requirements
+Help battery system architects  designers from DFT perspective and test coverage perspective
+Contribute to test equipment selection and implementation of verification  validation test processes
+Test case automation and development of test tools required for BMS testing
+Working with HW teams on HW testing, validation, and factory build support
+Support HIL test system development and integration with Simulink environment, Test Cases development, System brings up and trouble shooting
+Use HIL system and verify BMS HW, SW and Algorithms at system level
+Develop Test scripts for HW testers used in Environmental, EMIEMC, Safety and Regression tests of ESS or Modules
+Test BMS HW for complex HWFW interlaced tests to support BMS EE design Engineers
+May require up to 10 of domestic and international travels
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Electronics or Electrical Engineering with software engineering focus
+A minimum of five (5) years experience in HV battery testing and validation in automotive or consumer or aerospace industry (or an equivalent combination of education and experience)
+A minimum five (5) years experience in mixed signal and power electronics product testing in automotive or aerospace industry
+Significant experience in specifying, installing, and efficiently using test infrastructure and HIL system for functional verification of HWFWSWAlgorithms used in BMS and battery systems
+Demonstrated Battery Verification  validation experience used in HV Lithium batteries or larger format batteries
+Excellent understanding of functional safety critical testing
+Excellent programming skills in C, C, MATLAB, Simulink, and scripting tools like Python
+Good understanding of communication buses like SPI, Ethernet, and CAN bus
+Proven understanding of interfacing HIL system with Simulink based battery models and Realtime RT or NI Test stand-based environments
+Highly motivated and has strong proficiency towards detailed and highly meticulous QA  test processes with how to break mentality
+Good understanding of safety critical component testing requirements like margin testing, testing for reliability, etc.
+Ability to develop collaborative networks among peers  x- functional teams quickly
+Demonstrated success with technical communication, and reliance on data for issue resolution and decision making
+Sense of urgency, proactive delivery of communication and follow up
+Excellent organizational skills, team-oriented thinking, and attention to detail
+Proficiency with MS Office Suite specifically for data analysis, document creation and reporting
+
+You may also be able to contribute:
+
+Masters degree preferred
+Understanding of DO-178C compliance for SW development is a plus
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+T This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s). Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

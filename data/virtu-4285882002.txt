@@ -1,0 +1,37 @@
+Virtu is a leading financial firm that leverages cutting edge technology to deliver liquidity to the global markets and innovative, transparent trading solutions to our clients. As a market maker, Virtu provides deep liquidity that helps to create more efficient markets around the world. Our market structure expertise, broad diversification, and execution technology enables us to provide competitive bids and offers in over 19,000 securities, at over 235 venues, in 36 countries worldwide 
+The firms complementary core offerings—market making, client execution services, and trading venues—give Virtu a competitive advantage in developing and applying innovative tools that deliver efficiencies and performance across the organization. 
+THE ROLE
+As a Quant at Virtu, you will be working on interdisciplinary teams alongside traders, quants and seasoned software engineers.  The environment is collegiate and collaborative, encouraging exposure to many teams across the globe. 
+
+Apply your observation skills and modern statistical methods to identify and build predictive models
+Research and implement new trading strategies
+Analyze existing strategies to identify potential improvements
+Develop risk models and frameworks to manage portfolio risks
+Create tools to automate research tasks and improve visualization of complex data sets
+
+THE CANDIDATE
+
+Advanced degree (preferably PhD) in Science, Math, Engineering or other quantitative field
+History of diverse, challenging, and interesting coursework paired with a strong GPA
+Exceptional quantitative, mathematical, and problem-solving skills
+Great communication skills and the ability to collaborate with peers
+Ability to solve technical and or quantitative problems under pressure
+Ability to express ideas mathematically and algorithmically
+Programming skills (especially CC and Python
+Intellectually curious and self-motivated 
+Ability to communicate within and across teams, at a high and low level, on both technical and non-technical subjects
+Ability to seek guidance and learn new skills from peers
+Extraordinary mental flexibility and a high tolerance for ambiguity
+Strong drive for success within a collaborative team
+
+ 
+THE PROCESS
+After passing an application screening, candidates will be sent an online programming test via email from a service called Codility as a first step of the process. 
+ 
+ 
+ 
+ 
+
+Virtu Financial is an equal opportunity employer, committed to a diverse and inclusive workplace, welcoming you for who you are and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+ 

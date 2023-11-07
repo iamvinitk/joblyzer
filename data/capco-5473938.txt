@@ -1,0 +1,54 @@
+
+Job Title: Senior Data Governance
+ About Us
+Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the  British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar  Seramount. With our presence across 32 cities across globe, we support 100 clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. 
+WHY JOIN CAPCO?
+You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry.
+MAKE AN IMPACT
+Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services.
+BEYOURSELFATWORK
+Capco has a tolerant, open culture that values diversity, inclusivity, and creativity.
+CAREER ADVANCEMENT
+With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands.
+DIVERSITY  INCLUSION
+We believe that diversity of people and perspective gives us a competitive advantage.
+MAKE AN IMPACT
+Data Governance
+Experience: 7 years
+The Data Governance Senior Analyst will work within the Data  Architecture Office (DAO) to assess, support implementation and monitor the data governance aspects of Data Management policy and others to monitor and report on level of compliance. The role reports to a Data Governance Manager within the Data  Architecture Office (DAO).
+The Data Management policy contains high-level principles for best practices with regards to Data Management. It is supported by Data Management procedures and Data Management operational instructions.  Responsibility for implementation and compliance to the policy lies within the respective global business or global function with support and guidance provided by Group Data Utility within the Data  Architecture Office (DAO).
+The Data Governance Senior Analysts responsibilities include the following:
+
+Extending and maintaining the Business Information Model (HBIM) based on business, industry and regulatory requirements.
+Defining data created and held within client systems using the HBIM
+Supporting business process owners and other customers of the Group Data Utility (GDU) to implement data governance procedures and monitor compliance
+Delivering data governance demands raised to the GDU to ensure timely and satisfactory delivery of GDU services
+Managing the work of data governance analysts within the GDU in delivering against demands
+Provision of data governance training and advice including but not limited to data standards, HBIM, data management policy, etc.
+
+The jobholder is responsible for managing and mitigating operational risks in their day to day operations. In executing these responsibilities, the Group has adopted risk management and internal control structure referred to as the Three Lines of Defence. The jobholder should ensure they understand their position within the Three Lines of Defence, and act accordingly in line with operational risk policy, escalating in a timely manner where they are unsure of actions required.
+The following statement is only for roles with core responsibilities in Operational Risk Management (Risk Owner, Control Owner, Risk Steward, BRCM, and Operational Risk Function
+The jobholder has responsibility for overseeing and ensuring that Operational risks are managed in accordance with the Group Standards Manual, Risk FIM and relevant guidelines and standards.  The jobholder should comply with the detailed expectations and responsibilities for their core role in operational risk management through ensuring all actions take account of operational risks, and through using the Operational Risk Management Framework appropriately to manage those risks.
+This will be achieved by:
+o             Continuously reassessing risks associated with the role and inherent in the business, taking account of changing economic or market conditions, legal and regulatory requirements, operating procedures and practices, management restructurings, and the impact of new technology.
+o             Ensuring all actions take account of the likelihood of operational risk occurring, addressing areas of concern in conjunction with Risk and relevant line colleagues, and also by ensuring that actions resulting from points raised by internal or external audits, and external regulators, are correctly implemented in a timely fashion.
+The jobholder will adhere to, and be able to demonstrate adherence to, internal controls and will implement the Group compliance policy by adhering to all relevant processesprocedures.
+The term compliance embraces all relevant financial services laws, rules and codes with which the business has to comply. This will be achieved by adherence to all relevant procedures, keeping appropriate records and, where appropriate, by the timely implementation of internal and external audit points, including issues raised by external regulators.
+Knowledge, Skills  Experience
+
+Experience (7 years) of data governance and other data management activities.
+Good knowledge and understanding of semantic  conceptual modeling and its role in data governance i.e., Semantics of Business Vocabularies and Business Rules (SBVR), UML Class Models, etc.
+Good knowledge of industry standards and regulations on data management (i.e., DCAM, BCBS 239, etc.)
+Experience in managing the work of others to deliver against demands
+Experience in managing data governance demands and delivery of data governance services
+Skilled at driving and executing a high-volume process  completerfinisher mindset.
+Problem solver with ability to find practical solutions and prevent delays.
+Influencing skills, able to gain support and buy in from stakeholders.
+Strong communicator with excellent oral and written skills.
+Process improvement  simplification experience desirable.
+
+Location: BangalorePuneHyderabadGurgaonChennaiMumbai
+ 
+ 
+
+ 

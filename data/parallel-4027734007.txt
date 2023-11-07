@@ -1,0 +1,31 @@
+Parallel Systems is a Series A startup company developing the future of intermodal transportation. Our mission is to decarbonize freight while improving supply chain logistics and safety. We are developing vehicles and software to create new autonomous and electric transportation systems for existing rail infrastructure.
+At Parallel Systems, we value the team as much as the mission. We want to work with talented people who are humble, motivated, and persistent. Our most successful team members are self-starters and collaborate with others to reach our collective goals.
+
+As a Senior Software Engineer in Test Infrastructure at Parallel Systems, you will be responsible for developing tools and infrastructure to validate software and hardware systems. You will work closely with other engineers (including electrical, mechanical, and software) to develop vehicle and fleet infrastructure code. As an early employee at a fast-moving startup you will work on a multitude of technical projects and shape the direction of the company.
+
+ 
+Responsibilities 
+
+Architect and implement software test systems.
+Understand high level technical requirements, develop algorithms and software structures, and validate code on hardware and in simulation.
+Work closely with multi-disciplinary engineering teams. Derive requirements, meet and present technical direction, build consensus.
+Engage with company objectives and tailor solutions and plans to keep schedule on time.
+Mentor other software engineers and contribute to software team technical growth.
+
+Basic Qualifications
+
+BS in Computer Science, Electrical Engineering or similar Engineering discipline.
+3 years experience with software andor hardware validation.
+Significant experience with software development, in Python, C, C, or similar language.
+
+Preferred Qualifications 
+
+Experience building test automation systems for complex software projects.
+Understanding of various test automation architectures and benefitsdrawbacks for various use cases (local testing, software release gating, CI).
+Experience with automated testing on pure software and hybrid hardwaresoftware testbeds.
+Strong software development teamwork skills including the use of version control systems (git), project scheduling (Jira or similar), code review. 
+Excellent communicator, flexible and motivated.
+Excited to work in a small, cross-discipline engineering team on challenging problems!
+
+ Please note the national salary range listed in the job posting reflects the new hire salary range across levels that would be applicable to the position. Final salary will be commensurate with the candidates final level. Also, this range represents base salary only and does not include equity or benefits, if applicable.150,000year to 215,000year  equity  benefits150,000—215,000 USDParallel Systems is an equal opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to any discriminatory factor protected by applicable federal, state or local laws. We work to build an inclusive environment in which all people can come to do their best work.
+Parallel Systems is committed to the full inclusion of all qualified individuals. As part of this commitment, Parallel Systems will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please contact your recruiter.

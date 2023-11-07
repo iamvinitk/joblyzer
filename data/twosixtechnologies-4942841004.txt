@@ -1,0 +1,31 @@
+Two Six Technologies is looking to add a Lead Intrusion Analyst to our team. This role will be responsible for performing critical tasks in the incident response and threat intelligence work roles for our client.  A strong candidate for this role will have performed network analysis and triage of intrusion events through multiple stages of the intrusion process. 
+This is an on-site position in Fort Meade, Maryland.
+Job Responsibilities  Duties:
+
+Analyze network data to discover, document, and develop detection mitigations for suspected malicious activity
+Work with client teams to categorize and develop profiles on exploitation actors seen performing malicious activities against systems of client interest
+Develop and implement mitigation strategies for discovered malicious behavior to protect client systems
+
+Minimum Qualifications:
+
+5 years of experience in performance of computer forensics, vulnerability analysis, systems engineering, or design of information systems
+5 years of experience supporting the DOD or other government agencies
+Bachelors degree in Network Engineering, Systems Engineering, Information Technology or related field
+
+Nice to haves:
+
+Experience in performing malware analysis to triage and create detection rules for use in open source detection engines
+Experience in creating Bro, Snort, or other commercial IDSIPS rules for the detection of malicious activity in a corporate network 
+Understanding of techniques for performing forensic timelining of events based on evaluated data sources
+
+Clearance Requirements:
+
+This position requires a TSSCI with polygraph
+
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

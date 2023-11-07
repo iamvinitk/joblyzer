@@ -1,0 +1,46 @@
+Join the Interactive Brokers Team!
+Interactive Brokers Group has been consistently at the forefront of trading innovation, starting with the invention of the first floor-based handheld computer in 1983 and we pride ourselves on being primarily a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers. Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform. We offer award-winning desktop, mobile and web applications which provide our clients with the tools they need to be successful. Interactive Brokers Group, Inc. (IBKR); is rated 1 - Best Online Brokers 4 years in a row by Barrons , Best Online Brokers - Barrons Award (read more).
+About the role - 
+As a global technology leader in Financial Services, IBKR maintains tens of thousands of individual IT components and millions of dollars of infrastructure supporting the business. Inside our global IT operations centers, these systems, networks, processes and infrastructure are monitored 247365 ensuring platform stability and proper function.
+We are searching for an SRE  IT Operations Engineer to work within the technical operations group, to support our technical operation analysts through automation and tooling.
+Your Responsibilities
+
+Take ownership of software tooling and configuration management software and infrastructure.
+Maintain and improve reliability of production services by developing innovative monitoring and scaling solutions to measure system health and automate resilience.
+Continuously improve hybrid, on-premise and cloud infrastructure to support development teams throughout the full service lifecycle.
+Support teams across the organization with connectivity configuration and file delivery automation using software development, networking and cyber security knowledge.
+Second level support for incident management across the brokerage system and creating corrective action plans through collaboration with problem managers using post-mortem best practices.
+
+Key Requirements
+
+Bachelor of Engineering or equivalent relevant technical experience in Computer Science, Software Engineering, Mathematics, Physics or similar.
+Experience developing applications in any of the following languages: Python, C, Java or Kotlin
+
+Preferred
+
+Practical background with Linux based systems and networking.
+Experience working with and managing configuration for monitoring  alerting systems (Prometheus, Grafana, Kibana, ElasticSearch, Logstash, AlertManager).
+Infrastructure configuration and management with AWS and supporting cloud technologies (CloudWatch, Terraform, Kubernetes, LambdasFunctions).
+Experience with DevOps technologies such as Docker  Docker-Compose, software buildpackaging systems (Gradle, SetupTools, CMake, Make), dependency management (pip, maven, NPM etc.)
+Knowledge of file transfer protocols (SFTP, FTP), certificate management and modern encryption standards.
+Experience working in a software development team using supporting development tools (Jira, Git, Gitlab, Jenkins) and best practices (test coverage, unit  integration testing, linting).
+Experience with ITIL best practices and collaboration tools such as Jira, Confluence and ServiceNow.
+
+Company Benefits  Perks
+
+
+Competitive salary, annual performance-based bonus and stock grant
+Retirement plan 401(k) with competitive company match
+Excellent health and welfare benefits including medical, dental, and vision benefits
+Wellness screenings and assessments, health coaches and counseling services through Employee Assistance Program (EAP)
+Paid time off and a generous parental leave policy
+Daily company lunch allowance provided and a fully stocked kitchen with healthy options for breakfast and snack
+Corporate events including team outings, dinners, volunteer activities and company sports teams
+Education reimbursement and learning opportunities
+Modern offices with multi-monitor setups
+
+
+LI-SB1Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The Team
+The Data Pipeline team builds and operates a collection of microservices that ensure a reliable, performant and predictable data flow within our cloud product.
+We design, build and maintain the ETL pipeline supporting massive amounts of data intake, services that orchestrate pipeline workers, as well as intuitive UIs and APIs to configure the Celonis Data Integration. Made of a group of highly skilled engineers, we are passionate about reliability and best-in-class resiliency patterns, linear scalability, low latency, and high availability.
+The Role
+We are looking for a Senior Software Engineer to bring their experiences building large scale software and architecting Java based cloud systems to join our Data Pipeline team.
+The Work Youll Do
+
+Design new distributed and asynchronous Java-based cloud services
+Refactor existing functionality to achieve better performance and reliability
+Implement Java microservices from scratch, or add features to existing services
+Contribute to the technical vision of the Data Pipeline area
+Independently own multiple large problem spaces with significant ambiguity
+Proactively engage with internal and external peers and management to develop unprecedented solutions
+
+Requirements
+
+5 years of experience architecting and building Java-based multi-cloud SaaS software
+Microservice and event-driven architecture
+Distributed systems
+Relational and transactional databases
+Java, Spring Boot
+PostgreSQL
+RabbitMQ
+Spark
+S3
+Docker, Kubernetes
+
+Preferred But Not Required
+
+Streaming and batch data ingestion experience
+Operating services in both AWS and Azure
+Datadog and SLO-based observability
+GitHub Actions deployment pipeline
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

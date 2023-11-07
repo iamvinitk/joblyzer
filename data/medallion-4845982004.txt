@@ -1,0 +1,37 @@
+
+
+About Medallion
+
+Healthcare is going through an unprecedented transformation towards digital care. Medallion provides the critical administrative infrastructure to make that change possible. Our platform enables organizations to license their providers in new states, verify existing credentials, and get in-network with health plans. In just over two years, weve launched our platform, built an all-star team, powered hundreds of great companies, and served thousands of healthcare providers across the industry. To date, Medallion has saved over 250,000 administrative hours for our customers!
+Founded in 2020, Medallion has raised 85M from world-class investors like Sequoia Capital, Google Ventures, Spark Capital, Optum Ventures, and Salesforce Ventures.
+
+
+
+About the Role:
+We are looking for an experienced Senior Product Designer to own design for one of our product verticals. Whether its making complex processes intuitive for providers, making powerful tools easy to use for admins, or empowering the team with research to better understand the pain points we are alleviating, we believe great product design is critical to our success.
+As a product designer, you will be dedicated to a product vertical, leading every aspect of design for it  from user research and product scoping to mockups at every level of fidelity. You will work hand-in-hand with the PMs and engineers to establish the roadmap, shape projects, and execute on features. You will also collaborate with other product designers to shape core design systems shared across the platform. 
+This role reports to the Product Designer Manager and base compensation for this role is between 140,000 - 190,000 depending on location and level.In addition to base salary, Medallion offers equity, and benefits as part of the total compensation package. Many factors are considered when determining pay including: market data, geographic location, skills, qualifications, experience, and level.
+Responsibilities:
+
+Work closely with PMs and tech leads to shape and spec out large features, performing user research and producing low fidelity mockups as appropriate.
+Work closely with PMs and engineers to ship individual features  attending sprint planning meetings, forming project pods, and producing mid-to-high fidelity mockups to aid execution.
+Proactively plan and run user research to unearth patterns and insights to help drive product direction and iteration.
+Collaborate with other designers on design processes and tools to enable effective product development.
+Collaborate with other designers on building and expanding a shared design system.
+
+Were looking for someone who has:
+
+5 years of professional product design experience, working closely with PMs and engineers.
+A fullstack toolkit, proficiency in user research, outlining user flows, and producing mockups at all degrees of fidelity
+The ability to communicate effectively and collaborate openly
+The ability to juggle multiple projects at different stages of refinement, appropriately balancing elegance with expediency on each
+
+Nice to haves:
+
+Experience designing for clinicians
+Experience designing for B2B SaaS products
+A specialty: deeper expertise in one or more of visual design, user research, analytics, design systems, or another area
+
+ 
+LI-remote
+

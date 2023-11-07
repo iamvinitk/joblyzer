@@ -1,0 +1,76 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripes Event Services team focuses on delivering best in class hybrid events. We do this by maintaining a high bar of quality and service, leveraging industry standard technology and best practices. This role is responsible for operating internal company broadcasts such as our company-wide All Hands, customer facing events, and informal Fireside chats. You will be joining a highly specialized team that delivers excellent broadcasts and events, consistently raises the bar of our production workflows, provides pre and post-production services, and works to incorporate cutting edge technologies into our in-office production stack.
+What youll do
+Responsibilities 
+
+Work as an Engineer in charge of fulfilling event operators for Global hybrid events either onsite or remote. Duties include: 
+
+Be the Technical Director and have a leading understanding of the complexities of live event production and streaming technology as it relates to corporate events 
+Support team members and stakeholders to execute live broadcasts ranging from Event webinars, All Hands, Firesides, QAs
+Oversee the selection, installation, and operation of technical equipment as it relates to the in room space
+Youre the engineer in charge and will develop and direct technical rehearsals and productions from start to finish
+By implementing event industry best practices, driving innovation in event broadcasting, youll collaborate with event stakeholders and internal production teams to ensure an events objectives and outcomes are technically achievable
+Youll lead and support by conducting training sessions to support and develop team capabilities and foster a team first mentality
+Event production and Executive producing within live events
+
+
+
+Camera operator and placement 
+Basic lighting coordination, focus, and familiarity with lighting for film, tv, and broadcast
+Operating FOH sound and working as a A1A2
+Live video switching; ie. Analog Way, Tricaster, vMix, and AJA systems
+Operation of 3rd party integrated systems, including QSC, Zoom, BirdDog, Sony, and Dante flows
+
+
+
+
+Operate and Manage livestreams: 
+
+Realtime vision and audio mixing
+Familiarity of production switchers and operation of Tricasters, vMix, and OBS. 
+Monitoring production feeds both in room and streamed
+
+
+Maintain our VOD library and adhere to our retention policies
+Provide post-production services for our major company events, which include: 
+
+Recording 
+Editing 
+Uploading 
+Create Sizzle and Highlight reels of major company events 
+
+
+Participate in team projects and initiatives that focus on implementing new technologies
+Leading expertise in managing both virtual and physical live event technology, including sound, lighting and video systems
+Draft and maintain documentation including; operations, workback plans, and runsheets
+Travel to Stripe offices to provide in office event operation or Executive support 
+
+
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Expertise with NDI, Dante, SRT, HLS, RTMPS, WebRTC, and encodedecodetranscoded signal flows as they relate to live streaming
+Expert knowledge with vMix  NewTeks TriCaster family and line of NDI products
+Post-production skills and familiarity working with media asset management systems
+Experience running front of house sound with Yamaha consoles
+Ability to manage content assets  video switching for live productions 
+Worked in Broadcast, IPTV, or a combination of Live Events experience working with large teams
+Expert knowledge of corporate networked environments, using multicast, and building that within a strict security environment  
+Expert knowledge and familiarity with REMI production workflows and supporting them
+Excellent troubleshooting skills with ability to quickly resolve technical issues as they arise in the live eventbroadcast space
+Strong verbal and written communication skills
+Strong organizational skills
+
+Preferred qualifications
+
+Minimum 3 years working in Broadcast, AV, or Event Production
+Working knowledge of cloud-based applications as they relate to events
+CTS certification or industry specific certification and education
+Dante levels 13 certification
+NewTek training or certifications 
+DES or CMP certification

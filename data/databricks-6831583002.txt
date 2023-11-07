@@ -1,0 +1,55 @@
+SLSQ424R346
+About the Team
+The Enterprise Sales team at Databricks in Germany consists of experienced Enterprise Account Executives with sales expertise in data engineering, analytics, and machine learning with a proven track record of delivering outstanding results.
+Mission 
+We are looking for a dynamic an Enterprise Sales Director to join our growing Sales Hunting Team in Germany. You will lead a team of Enterprise Account Executives focused on generating new business for our industry-leading Lakehouse Platform. This is a team of Account Executives that is passionate about building a data ecosystem in Germany, technically knowledgeable and have a desire to help customers and partners succeed. You will oversee and motivate the sales team, implementing sales plans, developing new business, expanding existing business, and delivering accurate sales forecasts and reports. You will be measured by achieving your teams overall quota, new logo acquisition, and growing Databricks usage. This is an opportunity to build an important part of the EMEA sales team, so we are looking for owners, who want to be the very best at what they do.
+What Youll Do
+
+Build and manage a growing team of sales executives, ensuring you coach them to develop the skills and behaviours they will need to succeed
+Establish company territory plans, team structure, individual quotas and patches for your team, including investment capacity requirements
+Report on revenue forecast and strategic GTM plans
+Partner with cross-functional teams to manage a complete revenue and customer success process
+Youll be the voice of Databricks, communicating the value proposition through proposals and presentations
+Lead and coach a team of motivated Enterprise Account Executives to increase growth across our Tech Startup and Enterprise customer segments in Germany
+Inspire a culture of teamwork, leading with value and achieving desired customers outcomes
+Develop trust-based relationships with customers and partners to ensure Germanys long-term success
+Utilise your business network to develop a pipeline and hire qualified candidates to grow the team
+Encourage learning and ongoing understanding of technical product details and our future product roadmap
+Establish a regional growth and investment plan in the first 90 days
+Develop and deliver our strategic growth plans in Germany, in collaboration with the regional leaders across EMEA , ensure forecast accuracy and a predictable, high-growth business
+Establish Strategic Regional System Integrator partnerships to help develop our German customer base and prospects
+
+What Youll Need
+
+Experience as a high-growth enterprise software sales leader (10 years) with a background in leading successful sales teams serving Enterprise and Tech Startup customers in Germany within the Big Data, Cloud, or SaaS Sales Industry
+Engage with and hire the best sales talent in the market
+Emphasis on methodology-based sales coaching, MEDDPIC and a Challenger mentality
+Expert knowledge of value-based sales with both the business and IT stakeholders including C suite
+Experience in leadership roles focussed on managing new sales organisations to influence and develop within Big Data, Cloud, or SaaS sales
+Evangelize the value and align it with customer outcomes
+History of exceeding sales quotas in similar high-growth technology companies
+Knowledge of developing the partner ecosystem to help grow Enterprise strategic territories
+Success implementing strategies for consumption and commitment-based sales revenue models
+Deliver accurate sales forecasts and management reporting using SFDC and Clari (preferable not mandatory)
+
+Benefits (Germany)
+
+Company funded private medical insurance
+Life, accident  disability insurance
+Company pension with employer contribution
+Equity awards
+Enhanced Parental Leaves
+Gym reimbursement
+Annual personal development fund
+Home office  headphones reimbursement
+Business travel insurance
+Mental wellness resources
+Employee referral bonus
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

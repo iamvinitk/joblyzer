@@ -1,0 +1,61 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Programs team is responsible for ensuring project success across the range of projects that SOE encounters. We work to improve project outcomes, maximize learning opportunities, identify new ways to support our clients, and drive efficiency of project execution. At the frontlines of every client engagement, we collect data on the efficacy of the SOE services engine to inform the development of seamless processes and to inform how groups like Engineering, Business Development, and Operations should spend their time across project execution, personal growth, and infrastructure development.
+Job Overview:
+As a Systems Engineering Intern, you will gain exposure to a range of engineering hardware projects in a variety of industries and directly apply engineering design fundamentals to produce impactful results.
+What You Will Do:
+
+Report to a mentor who will be responsible for feedback and learning— mentors will also assign tasks and projects to work closely with the teams
+Drive action items with engineering and customer teams while maintaining and developing systems for requirements tracking and communication
+Prepare reports and other associated systems for project andor program documentation
+Track multiple engineering project schedules and project budgets (e.g., scope, timeline, material costs, and budget details)
+Gain exposure to electronic assembly, PCB soldering, and wire harness assembly
+Program microcontrollers or FPGAs and test software applications
+Facilitate the creation of project budgets, work breakdowns, rough order estimates, task prioritization, and integration plans
+
+What You Will Need:
+
+Current enrollment in college or Bachelors Degree (Electrical Engineering, Computer Science, Physics, Math, or related field)
+Familiarity with the execution and breakdown of engineering projects
+First or second year circuits classes and knowledge of engineering fundamentals
+Curiosity and passion about engineering and technology with the ability to learn and take instruction
+Proficiency in at least one programming language (e.g., Python, C, C, R, etc.)
+
+What Would Be Useful:
+
+Experience in a team-based design and build project (e.g., Formula SAE, Solar Car, CubeSat, etc.)
+Exposure to the execution of engineering projects involving end-to-end electrical system design
+Familiar with project engineering tools like Smartsheet, Confluence, Jira, and Trello; ability to implement low-overhead systems track work and effort
+Familiarity with machining tools including milling machines, lathes, and CNC equipment
+CAD software design experience for PCB andor mechanical designs
+Experience in soldering and crimping for complex systems
+Experience with Linux operating systems
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 66,400-66,900 per year on a salary basis 
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Paid holidays and sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Housing stipend available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

@@ -1,0 +1,53 @@
+The role
+Bring your people analytics, social science research and data miningscience skills to a unique team seeking to understand, and shape, the future of the digital workplace.
+Lead a team of Software Engineers which form the Workplace Engineering team as a highly performant group that specialises in web architecture and data analytics. Building new tools, dashboards and analytics that empower colleagues, managers and executives to make better decisions and shape the 21st century of a remote, globally distributed and digital workplace.
+About Canonical
+Canonical is a pioneer in the digital workplace, established in 2004 with a global, remote-first policy that has delivered world-class open source and sets the pace in cloud, developer and IoT technology.
+We are dedicated to continually improving to keep Canonical the best at remote work. Its part of our enjoyment of our mission - both to deliver the worlds best free software, and to push the boundaries of 21st-century work and collaboration.
+Our goal is to improve the state of the art even further in key business processes for a distributed team: hiring, collaboration, communication, learning, documentation, development, and open source development. We want to understand our distributed teams as well as we could understand co-located teams. We want to help them work better, be happier, and make better decisions.
+What you will do:
+
+Being an inspiration and a leader towards ensuring your team delivers on projects
+Design the architecture and deliver web-based systems and SAAS
+Provide new insights into the Canonical workplace experience
+Enable new processes and improve existing workflows
+Collaborate proactively with a distributed team
+Write high-quality code to create new features
+Consistently provide high-quality code reviews to other engineers
+Estimate work, set goals and meet them
+Write project specifications, and epics and understand the risks
+Understand completion criteria and push work to completion
+Coaching, mentoring and providing feedback to more junior members of the team, while always developing yourself
+Connect to many data sources and provide insightful visualisations
+Database design and architecture for connected systems
+
+Who you are
+
+You are knowledgeable and passionate about web and software development
+You are curious, flexible, articulate, and accountable
+You try to learn and use web best practices in your work
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You have solid experience working in an agile development environment
+You drive work to completion
+You take operational considerations (CI, updating, monitoring, observability, life-cycle management) into account
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+Love what you do.
+
+The ideal candidate will use their passion for experimentation and analytics to build tomorrows tech organisation. This team will help us gain insights into the business and our talent pool, and use those insights to improve the experience of working at Canonical.
+As an Engineering Manager at Canonical, your primary responsibility is to the people you support: ensuring that they are growing as software engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in web development is a must, so that youre able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.
+We offer
+
+Remote first: 100 remote working with the opportunity to travel to Sprints. We meet a couple of times a year in interesting places all around the world to come together to collaborate. These Sprints see circa 300 people come together. This year we have travelled to Frankfurt, Copenhagen, Montreal and Prague!
+
+
+Personal development: Annual budget allowance and time to focus on areas you want to improve.
+
+
+Compensation: eligibility for annual pay review including bonuses.
+Recognition: The ability to possibly be rewarded and recognised by others for the work you do.
+Travel: Priority Pass for lounge access when flying to sprints. International SOS membership to support you whilst travelling.
+
+ 
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-Remote

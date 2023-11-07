@@ -1,0 +1,46 @@
+Are you an enthusiastic, talented, and experienced software engineer with a passion for solving complex technical problems? Do you enjoy thinking out of the box and facing new challenges? If you love working with other engineers, interacting with customers, solving real-world software mysteries and like the opportunity to tackle tough technology problems, this is your role! 
+The Support team provides expertise to our customers: seasoned software engineers working on critical IIoT systems who face complex technical real-world problems. You will be challenged and learn a wide range of technologies: DDS, various programming languages, networking, (real-time) operating systems, databases, debugging techniques, and communication skills. 
+Responsibilities:
+As a Software Engineer in the Support team you will make our customers successful using RTIs products. You will:
+
+Own support cases from beginning to end. 
+Have an impact on the product by being the users advocate, detecting improvement areas in the product and feeding our customers valuable feedback into our technology.
+Triage, debug and write code (bug fixes, customer use case implementations, example code, etc.).
+Investigate, understand and debug customer issues, working closely with our development and platform teams to find the root cause of these issues.
+Find timely creative solutions to customer problems, such as bug fixing and writing test cases based upon the customer use case.
+Create, test and ship engineering builds and patch releases.
+Write best practices and solutions for our knowledge base and keep the team up to date.
+
+We do not measure support by how quickly cases are shuffled or closed out, and there are no predefined scripts (debugging software doesnt follow any scripts either). The main goal is to ensure customer success with the products features and APIs. 
+Skills  Experience:
+
+Degree in Computer science or related field. Studies related to distributed systems, peer-to-peer networks, operating systems, computer networking, robotics preferred.
+Excellent debugging skills in a wide variety of technologies, networking protocols, operating systems and programming languages. Experience writing and debugging code in C, C andor Java. 
+You enjoy working directly with customers to ensure their success and you have experience in technical support of SDKs, or professional engineering services.
+Exceptional team player who works well in both collaborative environments as well as independently in a deadline driven environment. Ability to work successfully in a highly distributed team, including our headquarters in the USA. 
+Ability to learn quickly and be effective in a large variety of technologies. 
+Intellectually curious with a desire and ability to master new technologies.
+Excellent English written communication skills, with the drive and desire to improve English verbal communication skills.
+Proficient Chinese verbal communication skills. Japanese communication skills (both verbal and written) are a bonus.
+
+Dont meet every single requirement? At RTI, we are dedicated to building a diverse, inclusive, and authentic workplace so if youre excited about this role but your past experience doesnt perfectly align with all qualifications in the job description, we encourage you to apply anyway! You may be just the right candidate for this or another one of our open roles. Learn more about RTIs Diversity initiatives here!
+What we do:
+Real-Time Innovations (RTI) is the largest software framework provider for smart machines and real-world systems. Our software runs the largest power plants in the US, connects perception to control in over 200 autonomous vehicles, drives the new generation of medical robotics, controls hyperloop and flying cars, and provides 24x7 medical intelligence to hospital patients and emergency victims. 
+RTI leads the world market for software that connects real-world devices. We solve some of the greatest challenges in technology. Our mission is to transform industries: automotive, medical, power, defense, and control. Few small companies can truly claim to make the world run better like RTI. Come help make a real difference!
+What we offer you:
+
+Flexible working schedule 
+Remote working  Home Office Stipend to cover the costs of working from home
+20 days of paid time off  (on top of public holidays)  Real Vacation Bonus, an additional bonus for taking more than 1-week of uninterrupted vacation
+MedicalHealth benefits 
+Annual bonus based on individual and company performance  other prizes and awards 
+We recognize employees for their achievements, offer great opportunities for career growth and development, and provide the tools they need to succeed
+
+How is life at RTI: 
+
+We have been certified as a Great Place to Work for four consecutive years both in Spain and the US.
+We live and work by our core values, which emphasize excellence, teamwork, and reaching your potential. Our motto is Enjoy the journey, above all we must enjoy what we do and have fun at work. 
+We are defined by our Working as One culture and truly care about teams interaction. That is why we plan trips for teams to get together in person, enjoy fun team-building activities and events, and feel more connected.
+If you want to know more check out lifeatRTI in our social media.
+
+Please submit your CV in English.

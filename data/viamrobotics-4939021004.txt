@@ -1,0 +1,22 @@
+Viam is a software platform that makes it easy to turn great ideas into production-ready smart machines  robots at scale. Viam works with any hardware and has modern architecture, easy developer APIs, cloud connectivity and tools, and enterprise-grade security to give even the leanest teams the power to launch and manage their smart machine businesses.
+Viam makes building, deploying, and monitoring smart machines a more flexible, affordable, and user-friendly experience, allowing developers to do more with smart machines while getting them to market faster. By making smart machines more accessible, Viam is attracting talent and investment to the industry so that more people start building automated products and services that improve our quality of life.Viams products are built by engineers, for engineers. We want to build a platform we would want to use ourselves. We are looking for students studying computer science or related fields to collaborate with our full time engineers on building out the software for our platform. Our current tech stack consists of Golang (backend), ES.NextTypeScriptVue.js (frontend), Linux, MongoDB (database), and a variety of hardware. This is a software engineering internship, not hardware.
+Youll be:
+
+Working across the stack on the new and unique problems in robotics and cloud computing
+Fully integrated with the full time engineering team
+Using state of the art technologies that best tackle our problems at hand
+Learning engineering best practices in real world production environments
+Playing with robotics hardware to test out the software we build
+
+Were looking for someone who:
+
+In the process of receiving a Bachelors or Masters degree in Computer Science, Computer Engineering, Robotics, or related field, with at least one additional term after the end of the internship
+Available to intern in person at our New York City office for 10-12 weeks during the summer of 2024
+Strong foundation in computer science fundamentals including algorithms, data structures, architecture andor robotics
+Experience with various programming languages
+
+Benefits
+
+Free lunch everyday that you are in the office
+3 vacation days to be used throughout the summer
+ 

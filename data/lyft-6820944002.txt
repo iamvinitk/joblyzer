@@ -1,0 +1,41 @@
+Memberships Product Manager
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+Lyft connects people to transportation to change the way we live and get around our communities. Lyft is North Americas leader in micromobility. We provide the software that powers BIXI, and we own andor operate bikeshare in New York (Citi Bike), Chicago (Divvy), San Francisco (Bay Wheels), Portland (Biketown), Boston (BlueBikes), and DC (Capital Bikeshare). Our software is used in over 45 markets to power bike and scooter systems, increasing our reach beyond the markets we operate directly. 
+We are looking for an entrepreneurial and passionate Product Manager to join our New York City office to work on Lyfts micromobility memberships, working closely with the team in Montreal. Our Montreal office developed the first automated bikes-share system in America, and continues to work on the platform today that provides state-of-the-art electric bikes and scooters for tens of millions of rides per year. Today, our sophisticated membership platform enables bikeshare riders to become subscribers and long-term users, sustaining loyal riders and revenue streams to grow our business. 
+As the Product Manager for Memberships, you will own development and future growth of our membership features for micromobility, growing our base of loyal members and delivering profitable growth. Your features will grow existing offerings, drive acquisitions and purchases, and bolster retention and membership renewals. You will work collaboratively with a cross functional team of software engineers, scientists, designers and researchers, and across our partner teams in marketing and local operations, to create membership and corporate products that riders want to use and keep using. 
+In this role, you will bring creative, strategic, and analytical skills to drive forward a best in class product. Product management at Lyft leads the integration of engineering, data science, and design to achieve the companys vision for reinventing transportation. The ideal candidate can navigate complex technical topics, strategic problem solving, and team development to deliver business impact. If youre driven, collaborative, resourceful, and can communicate complex ideas with ease, then wed like to talk to you.
+Responsibilities:
+
+Lead the long-term vision and strategy of our membership products, to grow our business and delight our riders
+Define, create, test and iterate on membership packages to attract, delight and retain riders
+Understand Lyfts strategic and competitive position. Set your teams goals, success metrics and roadmap to align with Lyfts mission and drive maximum impact based on data analysis, market research and usability studies
+Completely own your teams products, existing or new, from ideation, through development, to launch, growth and maintenance. 
+Dive deep with your development team, with full understanding and communication of each decision and trade-off you make
+Align cross functional partners and teams beyond your development team: other teams marketers, business partners and operations to drive a shared vision
+Communicate clearly roadmaps, priorities, experiments and decisions across a wide spectrum of audiences from partner teams to executive levels
+Serve as a champion of our riders and their needs at all levels of the company
+
+Experience:
+
+Natural ability to make things happen around you. You manage ambiguity, complexity and interdependencies in an organized and structured way. You are able to define and analyze metrics that inform the success of products
+Experience in the customer discovery and product requirement development process
+Passion for improving peoples lives through transportation 
+Excellent judgment and thoughtfulness about the dynamics of a product ecosystem
+Ability to conceptualize, manage and prioritize multiple projects for stakeholders
+Detail orientated with superior organizational skills — balancing multiple projects, deadlines, and requests should be second nature to you
+Strong communication skills and intuition for communication strategy at every level — within teams, within the company, to users, to press, and other audiences
+
+Benefits:
+
+Great medical, dental, and vision insurance options
+Mental health benefits
+Family building benefits
+In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
+401(k) plan to help save for your future
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Pre-tax commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunityaffirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.  
+Starting in September 2023, this role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.
+The base salary range for this position in the US is 162,000 - 180,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.

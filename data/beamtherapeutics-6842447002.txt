@@ -1,0 +1,27 @@
+Primary Responsibilities:
+
+Support of Lab environment
+Provide IT support and service for laboratory-based computer systems
+Interact with a variety of stakeholders including laboratory managers, researchers, informatics professionals and IT administrators
+Provide end-user support for laboratory workstations including troubleshooting, diagnosis, and resolution
+Partner with lab-based scientists and third-party vendors to establish priorities and provide technical support of laboratory software and attached workstations
+Install, configure and maintain standalone laboratory systems
+Coordinate services and escalate service issues as needed for vendor maintenance
+Participate in and may serve as technical lead in support of laboratory computing projects, this includes issue resolution and support for the setup of new systems, including interaction with instrument vendors
+Maintain lab workstation inventory, backups, patching, upgrades, and OS builds
+Support of End User environment
+Escalation contact for all Tier 1 and 2 issues and will identify solutions to resolve technical support problems via phone or email, and enter requests into our Help Desk System
+Implement, maintain and administer end user computer devices and related computing environments including systems software, applications software, hardware, and configurations
+New hire deployments, hardware refresh deployments and conference room support
+Document process and procedures for technical and end user knowledgebase
+
+ 
+Qualifications:
+
+College diploma or technical institute degree andor a minimum of five years of relevant experience required
+Experience working in a GMP lab environment at a pharmaceuticalbiotech company is a plus
+In-depth knowledge of the Office 365 suite (Power BI, Power Apps, Power Automate, SharePoint lists, Intune, etc.) and Microsoft Azure
+A solid understanding of IT infrastructure (networking, telephony, Macs, PCs, mobile devices)
+Excellent attention to detail, customer service skills, multi-tasking skills, ticket managementdocumentation skills, written and verbal communication skills required
+Ability to work with all levels of staff within and outside of IT and outside the organization
+Ability to quickly learn new or unfamiliar technology and products

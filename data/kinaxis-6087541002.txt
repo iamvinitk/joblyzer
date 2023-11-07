@@ -1,0 +1,47 @@
+
+About Kinaxis  
+Kinaxis is the global leader in modern supply chain management. We serve supply chains and the people who manage them in service of humanity. Our software is trusted by renowned global brands to provide the agility and predictability needed to navigate todays volatility and disruption. We combine our patented concurrency technique with a human-centered approach to AI to empower businesses of all sizes to orchestrate their end-to-end supply chain network, from multi-year strategic planning through down-to-the-second execution and last-mile delivery. For more news and information, please visit kinaxis.com or follow us on LinkedIn. Solution Consultant 
+Job location: Tokyo, Japan
+About the team
+As a member of our Consulting Team, you understand our customers most pressing business performance challenges and you are committed to helping our customers solve complex challenges in the distributed value chain that is prevalent in manufacturing today.
+What you will do
+
+Participate in deep-dive customer business requirements discovery sessions and develop requirements specifications documentation.
+Support Solution Architect in providing creative solutions to complex business problems while maintaining best practices.
+Guide and mentor junior consultants on the project team during project.
+Learn Rapid Response software and perform solution configuration.
+Perform training of customer end users on the configured solution.
+Understand supply chain industry trends and benchmark customer against the same.
+Ensure the customer is obtaining the business benefits as captured in the business case.
+Support the validation and testing of the solution and capture user feedback.
+Support data management and data integration related activities.
+Any other reasonable project related tasks as assigned by the Project Manager.
+
+What we are looking for
+
+A passion for working in customer facing roles and you have great interpersonal, communication, facilitation and presentation skills.
+5 to 8 years of relevant experience in manufacturing, production planning, demand management industry role andor business software consulting role.
+BSMSPhD in Industrial Engineering, Supply Chain, Operations Research, Computer Science, Statistics or a related field with an excellent academic record.
+Good background in Supply Chain engineering concepts and understanding of statistical forecasting, inventory management, MRP, scheduling, etc.
+Ability to learn a new application  Kinaxis RapidResponse.
+Self-direction with ability to excel in a fast paced work environment.
+Work well in a team environment and have the ability to work effectively with people at all levels in an organization.
+Open to travel 75 on average and 100 occasionally and also can work effectively when working remotely from the client.
+Ability to communicate complex ideas effectively in English, both verbally and in writing.
+
+Technologies we use
+
+Excellent problem solving and critical thinking skills.
+Technical skills such as SQL, R, Java Script, Python, etc.
+Experience with manufacturing planning solutions such as Kinaxis, SAP, JDA, etc
+
+ 
+ What we have to offer
+
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never done. Thats because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems theyre passionate about.
+Great People - We take our work seriously, but we dont take ourselves too seriously! Its in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+
+For more information, visit the Kinaxis web site at www.kinaxis.com or the companys blog at http:blog.kinaxis.com.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprogramskinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.

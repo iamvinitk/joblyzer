@@ -1,0 +1,40 @@
+Blend is a diverse team of problem solvers who believe that the worlds financial resources should be more accessible. Our cloud banking platform is used by Wells Fargo, U.S. Bank, and over 330 other financial services firms to acquire more customers, increase productivity, and deliver end-to-end digital experiences. Our software enables our customers to process an average of more than 5 billion in loans per day, making it possible for consumers to reach their financial goals faster and lead better lives. Come do work that matters.
+ The Integrations Developer on the Enterprise Applications team will be an integral part of the core team who will be responsible for the planning, implementation, support, and maintenance of business applications. The ideal candidate is excited to work both independently and collaboratively in a fast-paced and team-oriented environment.
+How youll contribute: 
+
+Design, develop, test, maintain and support all Workday integrations using the suite of Workday integration tools, including but not limited to studio and cloud connectors
+Manage system integrations within the architecture of the HRFinance system and middleware, and any other applications supported by the Enterprise Applications team
+Provide support for Workday inbound and outbound integration issues, changes to existing integrations, as well as new integrations
+Provide support for incident management and integration monitoring
+Perform routine breakfix support and regression testing and support the inboundoutbound interfaces to the system and middleware
+Ensure accuracy and integrity of data and applications through analysis, coding, clear documentation, and problem resolution
+Analyze and translate functional specifications and change requests into technical specifications
+Ensure integrations function as designed based on functional and technical requirements
+Consult with business and technical teams about interface design and maintenance; collaborate with other architects and technical leads on design decisions
+Design and develop interfaces and conduct unit and integration tests
+Understand and follow Data Governance and ensure attention to data quality
+Understand and follow defined integrationdevelopment standards and best practices
+Understand and ensure security and data privacy standards
+
+Who you are: 
+
+Experience with designing and implementing ETL processes and the use of ETL tools such as Informatica, Mulesoft, and Celigo
+Ability to work and coordinate with third parties on data-related inquiries
+Strong experience with interface, networking, and data warehousing technologies, as well as design, relational database technologies, and performance tuning
+Experience with Web Services and APIs (WSDL, SOAP, REST, and WS standards)
+Strong technical experience with XML, Python, and Java
+Knowledge of Workday implementation tools (Enterprise Interface Builder (EIB), Workday Studio, Workday Report Writer, and iLoad) - required
+Understand basic database architecture, tables, and functional interactions, and recognize and understand impacts on downstream systems
+Excellent verbal and written communication skills in English to effectively interact with team members and leadership
+Strong problem-solving, troubleshooting, and analytical skills
+Ability to work effectively in a fast-paced environment and handle both planned and unplanned responsibilities
+Ability to prioritize workload and execute tasks independently, providing timely follow-up and resolution
+Ability to work in a team-oriented, collaborative environment
+
+ 
+ 
+  
+Blend is an equal opportunity employer that values diversity, inclusion and belonging. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We will consider for employment all qualified applicants with arrest and conviction records in a manner consistent with applicable laws.
+Notice at Collection and Privacy Policy for California Job Applicants
+ 
+If you have a disability and you wish to discuss potential accommodations related to applying for employment, please contact Blend at (650) 550-4810 or hraccessibilityblend.com.

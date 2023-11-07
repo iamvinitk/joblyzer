@@ -1,0 +1,32 @@
+Two Six Technologies is looking to add a Lead Forensic Analyst to our team. This role will be responsible for performing critical tasks in the information response and media analysis cycles used by our clients.  You will use your in depth knowledge of drive forensics to develop and enable mitigations for network exploitation attempts within our client.
+Job Responsibilities  Duties:
+
+Perform forensic analysis on computer systems as part of network exploitation and abuse investigations
+Identify items of interest and properly document results of the forensic analysis in accordance with client established procedures
+Perform triage and analysis of digital storage media to identify and recover items of analytical interest
+
+Minimum Qualifications:
+
+Five years of experience in performance of computer forensics, vulnerability analysis, systems engineering, or design of information systems
+Five years of experience supporting the DOD or other government agencies
+Bachelors degree in Network Engineering, Systems Engineering, Information Technology or related field
+
+Nice to haves:
+
+Experience in the use of commercial forensic toolkits for both desktop and mobile applications
+Demonstrable knowledge in the performance of virtual machine forensic and data capture techniques
+Understanding of techniques for performing forensic timelining of events based on evaluated data sources
+
+Clearance Requirements:
+
+This position requires a TSSCI with polygraph
+
+LI-ZS1
+LI-Onsite
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

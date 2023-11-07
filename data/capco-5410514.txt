@@ -1,0 +1,40 @@
+ About Us 
+Joining Capco means joining an organization that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognise that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can. We believe that everyone brings something different to the table  so wed love to know what makes you different. 
+We arehave:  Experts in banking and payments, capital markets and wealth and asset management  Deep knowledge in financial services offering, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking etc.  Committed to growing our business and hiring the best talent to help us get there Focused on maintaining our nimble, agile and entrepreneurial culture
+Responsibilities:
+
+Responsibilities Translate Business Requirements to Conceptual, Logical and Pysical Data Models
+Recognize the need for a specific relational design  OLTP, OLAP, Data Warehouse  from a set of requirements andor from a Logical Data Model
+Participate in mapping of Logical to Physical Data Models and vice versa
+Perform model creation for large set of data which are being sourced to Big Data
+
+Role Requirements        
+
+Strong Data Modeller with Financial Services experience
+Knowledge of and experience using data models and data dictionaries in a Banking and Financial Markets context
+Demonstrate a continual desire to implement strategic or optimal solutions and where possible, avoid workarounds or short term tactical solutions
+Working with stakeholders to ensure that negative customer and business impacts are avoided
+Manage stakeholder expectations and ensure that robust communication and escalation mechanisms are in place across the project portfolio
+Good understanding of the control requirements surrounding data handling
+
+ExperienceSkillset        
+
+Excellent analytical skills and commercial acumen
+Experience in ETLELT as well as Entity Relationship (ER) data modelling
+Understanding of slowly moving dimensional Datawarehouse (star schema, kimball dimensional data modelling)
+Good knowledge of SDLC and formal Agile processes as well as testing experience
+Can write SQL (NoDQL) and Python queries, Scala knowledge preferable and navigate data bases especially Hive, CMD, Putty, Note
+Strong self-starter with strong change delivery skills who enjoys the challenge of delivering change within tight deadlines
+Strong verbal and written communication skills
+Ability to manage multiple priorities
+Knowledge of and experience using data models and data dictionaries in a Banking and Financial Markets context
+Preferable knowledge and experience in Data Quality  Governance
+Understanding of on-prem and Cloud Data Lakes as well as data warehouses architecture
+Enthusiastic and energetic problem solver to join an ambitious team
+Business analysis skills, defining and understanding requirements
+Attention to detail
+Ability to communicate effectively in a multi-programme environment across a range of stakeholders
+Knowledge of Hadoop of Google Big Query is a plus
+
+WHY JOIN CAPCO? 
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry. We offer:  A work culture focused on innovation and creating lasting value for our clients and employees  Ongoing learning opportunities to help you acquire new skills or deepen existing expertise  A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients  A diverse, inclusive, meritocratic culture

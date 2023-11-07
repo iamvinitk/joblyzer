@@ -1,0 +1,29 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career. 
+About the team
+Stripe will succeed at our mission of increasing the GDP of the internet only if we continue to prove ourselves worthy of our users trust. Sensitive Access is a newly formed Security team tasked with reducing Sensitive Access across Stripes infrastructure by providing tools and controls to limit sensitive access and enforce controls on required sensitive operations. The team will own their work end-to-end, collaborating closely with users and stakeholders to deliver state of the art solutions and increase Stripes security posture.  To further the teams mission, we are looking for a Software Engineer to work with Stripe.  
+What youll do
+Responsibilities
+
+Design, build, and maintain core infrastructure frameworks, services and APIs used by all of Stripes engineering teams
+Work with a wide range of systems, processes and technologies to own and solve problems end-to-end
+Uphold our high engineering standards and bring consistency to the many codebases and processes you will encounter
+Design and build solutions that will advance Stripes infrastructure security beyond state of the art
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+Empathy, strong communication skills and a deep respect for the power of collaboration
+A learning mindset, regardless of level or experience
+3 years software engineering experience in a high-stakes production environment
+Experience writing high quality code in a major programming language and a constructive attitude to help others raise the bar
+Ability to drive clear next steps when encountering ambiguous spaces without clear lines of ownership
+Ability to think creatively and holistically about reducing risk in complex environments
+
+Preferred qualifications
+
+Proficiency in Go
+Linux system administration knowledge
+Security experience is a plus but not at all a requirement

@@ -1,0 +1,54 @@
+About the Role
+Abnormal Security is looking for a digital workplace Windows Engineer - II to join the IT team. As a fast-growing cybersecurity company, it is imperative we scale our technology support processes while maintaining a secure environment that balances the challenges of superior security practices, with user experience and productivity. This role will be responsible for maintaining and assessing our environment for improvements across our infrastructure with a heavy focus on our Microsoft and Identity platforms.
+The ideal candidate will have the ability to build tooling and structure, that rapidly resolves issues and reduces our overall workload through automations.
+Having the ability to effectively communicate and work with a team will be imperative to success. This means not only talking to team members, but end users. Additionally, effective documentation abilities will be crucial to ongoing success within the team. Allowing us to skill-up team members to cover tasks as well as develop through mentorship.
+While the role is heavily Microsoft focused, it will be important that this role has broader  knowledge of our technology ecosystem to make  you even more successful within our environment.
+ 
+Who you are
+
+Strong oral and written communication skills 
+Analytical skills, with the ability to identify patterns, trends, and anomalies in large and complex data sets
+Excellent at documentation and reporting skills for creating and maintaining technical documentation and reports
+Team player, collaborative work style
+High attention to detail, process, and organization
+Outstanding analytical skills and exercises good business judgment
+Results-oriented, values collaboration, self-motivated, and willing to adapt to change in a fast-moving environment
+Ability to manage multiple priorities and meet deadlines in a fast-paced environment
+
+ 
+What you will do 
+
+Solve Microsoft ecosystem (e.g., EntraID, Windows OS, Microsoft 365, etc.) related issues in an exclusively remote environment requiring strong troubleshooting and problem-solving skills for identifying and resolving. Areas that you must be skilled in include:
+
+Intune (including Autopilot)
+Patching (both OS and 3rd party apps)
+Microsoft 365
+Security settings, configuration 
+
+Implement company policies and configurations in an automated fashion across the Microsoft ecosystem
+Leverage Powershell, Microsoft GraphAPI, PowerBI to fully automate processes and reporting
+Primary support person for India and APAC employees, secondary support for Europe. Includes troubleshooting software and hardware issues, as well as, providing excellent customer support in a timely and responsive manner
+Serve as a backup and execute documented processes to support the rest of Abnormals end user technology stack
+Provide Tier1 support for Abnormals Identity platform (Okta). Includes troubleshooting user issues, request tickets, and onboarding small apps
+
+ 
+Must Haves 
+
+4 years of experience working as a Windows CloudDesktop Engineer
+The ability to overlap and work hours that enables collaboration with other IT peers as well as scales support of European employees as as well non-India APAC regions
+Experience working in and supporting a global company
+Demonstrated experience and expertise supporting AzureAD, Windows OS, Microsoft 365, and Intune environments
+Broad SaaS experience
+
+ 
+Nice to Have 
+
+Relevant certifications, such as Microsoft Certified: Azure Administrator Associate, or equivalent certifications
+Google Workspace administration
+Okta administration experience (including Okta Verify)
+Experience troubleshooting user issues with security agents on the endpoint (e.g., EDR, vulnerability scanning)
+Microsoft Graph knowledge for reporting a plus
+Experience with full endpoint lifecycle management of Windows endpoints
+
+ 
+LI-MT1

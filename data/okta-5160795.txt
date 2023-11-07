@@ -1,0 +1,44 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.We are seeking an experienced Software Engineer who will join a new elite team in India focusing on Customer Centric Engineering. The Customer Centric Engineering (CCE) Team consists of high-performing Engineers who bring an unwavering focus on customer success within engineering. The team ensures customer success by troubleshooting, debugging, and proposing fixes to the most complex customer issues escalated by our last tier of Technical Support by earning the trust of the internal engineering, support, and our customers. Youll take ownership and drive cross-functional response to critical technical incidents, acting as quarterback and customer advocate within RD and representing the Technology organization to customers and our Support organization with timely and effective communication and collaboration. This role will also champion the development of internal troubleshooting tools for various teams.
+This role requires the abilities of both Software Engineer and Tier 3 Customer Support to act as an effective interlink and understand the overall Okta infrastructure. Ideal candidates will share our passion and great pride in customer-first culture.
+ 
+Job Duties and Responsibilities:
+
+Troubleshoot, debug, analyze logs, profile code and propose bug fixes or architectural changes (within Okta or with regard to customer side integration or customization)
+Work closely with Dev teams to propose fixes or design changes
+Build and employ tools  automation where needed.
+Understand customer use cases, work with support and escalation teams closely to be an effective liaison between engineering and support
+Take complete ownership and follow-up on escalations
+Provide summary on status of various cases that are escalated to engineering
+Collaborate cross-functionally to solve hard technical problems
+Mentor and coach junior team members as we build out the team
+Identify opportunities to propose new troubleshooting or performance analysis tools for production operations staff
+Deep dive, insist on high standards and always put customers as the highest priority.
+Participate in after-hours on-call rotation for critical customer escalations
+
+ 
+Minimum Required Knowledge, Skills, and Abilities:
+
+8  years of industry experience working in a large scale, multi-tenant production environment
+Experience in a Customer Centric Engineering or sustaining team role
+Experience of working with Internet development technologies including Java, MySQL, Tomcat, SAML, OAuth, OIDC, REST, Public Cloud. 
+Action oriented with strong analytical, and problem solving skills
+Highly adaptable, fast learner, and resourceful
+Dependable, motivated, self-starter with the ability to work independently
+Experience in the IdentityIAM space is a definite plus
+
+ 
+Education and Training:
+
+Bachelors Degree majoring in computer science or equivalent
+
+LI-TM
+ What you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 

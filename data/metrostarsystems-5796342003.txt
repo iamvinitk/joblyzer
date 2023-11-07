@@ -1,0 +1,62 @@
+
+As a AIML Lead, youll analyze complex datasets to assess performance or find new patterns and apply machine learning techniques to data sets related to immigration, with the goal to make an impact across the federal government.
+
+
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+
+
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+
+
+
+What youll do: 
+
+
+
+Lead architectural design, technical support, and advisement services to ensure identity management system technologies are integrated and meeting the appropriate security requirements
+Present results to a diverse audience in presentation or report form and support leadership who engage with senior-level executives at a public-facing Federal agency and provide subject matter expertise in security architecture and other key domain areas.
+
+
+
+
+
+What youll need to succeed: 
+
+
+
+A minimum of 10 years of IT experience, focusing on enterprise data architecture and management.
+At least 8 years of experience in ConceptualLogicalPhysical data modeling.
+Experience in modeling solutions in AWS that us AIML algorithms and in in cloud architecture, specifically AWS, as it relates to data processing (i.e., EC2, S3, Redshift, etc.).
+At least 10 years of proven expertise in Relational and Dimensional Data Modeling.
+Ability to define  maintain BIData Warehouse methodologies, standards, and industry best practices.
+Experience leading and architecting enterprise-wide initiatives, specifically system integration, data migration, transformation, data warehouse build, data mart build, data lakes implementationsupport, as well as OM etc. for a large enterprise.
+Expertise in large-scale database requirements supporting diverse data types and eperience briefing the benefits and constraints of technology solutions to technology partners, stakeholders, team members, and senior levels of management.
+A bachelors degree (Data Science, Statistics, Computer Science, Information Technology Management or Engineering, or other comparable degree or experience) and the ability to obtain and maintain a DHS Suitability.
+
+
+
+
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+
+
+
+Dont meet every single requirement?   
+
+
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+
+
+What we want you to know: 
+
+
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+
+
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+
+
+Not ready to apply now?  
+
+
+Sign up to join our newsletter here. 

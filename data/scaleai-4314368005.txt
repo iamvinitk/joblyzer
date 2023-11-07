@@ -1,0 +1,45 @@
+Scale is a vital part of bringing AI-enabled technologies to the world, from autonomous driving to drones, robots, and large language models. For example, Scale works with the worlds top self-driving car and robotics ML teams as well as the largest companies in the generative AI space. 
+As our customer base is growing, you will be on the front lines of our field engineering efforts for our federal AI projects, having the opportunity to meaningfully impact millions of dollars in revenue by working closely with our largest public sector customers and ensuring that they become passionate, lifelong Scale customers.
+Our Field Engineers ensure customers experiences with Scales technology are seamless and optimized to build a successful, long-term partnership. Field Engineers partner closely with Product, Engineering, and Operations to lead existing customers through building production-grade data pipelines. We do this by knowing our customers use-cases inside and out, and creating the tooling and documentation needed to scalably support their growth.
+Field Engineers in general are experts on Scales products and codebase, and have general technical knowledge on web development, using APIs, and working with large volumes of data. Field Engineers are strong relationship builders, great project managers, and always fun to work with. 
+The ideal person is a software engineer generalist who enjoys working with clients directly, taking ambiguous requirements and issues, and quickly designing and building sustainable solutions in close collaboration with the Product and Engineering teams. This role is at the intersection of customer delivery, product, and engineering, giving you a breadth of experience and fully leveraging both sides of your brain. If this sounds like you, we invite you to apply!
+ 
+You will:
+
+Implement end-to-end data integrations, syncing customers data to Scales platform and back
+Work closely with our customers engineering teams to optimize data pipelines, including providing input towards designing API endpoints and inputoutput schemas
+Design, develop and maintain playbooks, internal tools, Scales documentation and SDKs to quickly get customers set up for long-term success
+Partner with Software Engineers and Operations to remove any technical hurdles customers may face  Debug technical issues impacting delivery and own technical escalations coming from the customer
+Be accountable for the customers technical experience throughout their time with Scale
+Work with AEs and PMs to identify customer-specific feature requests
+Develop technical domain expertise in areas of Large Language Models, 2D Image Annotation, and working with API integrations
+Evangelize Scale and interact with customers at major events
+Have an active TSSCI clearance
+
+ 
+Ideally youd have:
+
+Track record of success as a hybrid customer-facing engineer or similar function, wearing multiple hats along the way
+Prior technical hands-on experience working with clients in a pre or post-sales capacity to realize business goals
+Prior experience developing with Python and JavaScript, or other modern software languages
+Strong engineering background preferably in Computer Science, Mathematics, or other quantitative fields
+Strong project management and interpersonal skills
+Presentation skills with a high degree of technical credibility when speaking with executives and front-line engineers
+High level of comfort communicating effectively across internal and external organizations
+Intellectual curiosity, empathy, and ability to operate with high velocity
+
+ 
+Nice to haves:
+
+Experience in AI
+Experience working in classified environments
+Previous experience as a technical go-to-market resource
+
+ 
+The base salary range for this full-time position in Washington, DC is 134,400 - 161,280.  Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Scale employees are also granted Stock Options that are awarded upon board of director approval. Youll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+ About Us:
+At Scale, we believe that the transition from traditional software to AI is one of the most important shifts of our time. Our mission is to make that happen faster across every industry, and our team is transforming how machine learning can build innovative products. Our products provide access to human-powered data for hundreds of use cases and are used by industry leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and many more. Weve recently raised 325 million in Series E funding at a valuation of 7B and are expanding our team to accelerate the development of AI applications.
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an affirmative action employer and inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance andor a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodationsscale.com. Please see the United States Department of Labors Know Your Rights poster for additional information.
+We comply with the United States Department of Labors Pay Transparency provision. 
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data.

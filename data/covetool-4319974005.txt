@@ -1,0 +1,42 @@
+Are you ready to fight climate change? We just raised a 30 million Series B from Coatue (early backer of Apple, Tesla, and Rivian) and actor Robert Downey Jr (aka Iron Man). Did you know buildings contribute to over 40 of the global carbon emissions? Our web-based SaaS toolset, helps design teams rapidly decarbonate the building design process by automating energy, daylight, glare, cost, and more with machine learning. Last year we offset enough carbon to save 171,000 lives and 5x more carbon than Tesla. Join our fast-growing team to help save the planet!Who You Are: As the Director of Software Engineering at cove.tool, you will play a pivotal role in guiding our talented team of software engineers to deliver high quality technical solutions. This position will require strategic leadership, deep technical knowledge, and a proactive mindset. You will report directly to the CTO and work closely with him to balance priority, scope, and timeline and recommend both technology and process improvements for the team.
+Who We Are: Were willing to rethink everything to get buildings to net-zero carbon. We think differently and holistically about architecture, engineering, and construction space. We use science, care about others, and speak the truth about climate action.
+Responsibilities
+
+Strategic Vision: Lead the software engineering department, formulating a strategic vision and technical roadmap that aligns with the companys overall goals.
+Technical Leadership: Oversee all software engineering projects, ensuring they meet quality standards, are delivered on time, and are within budget. This includes hands-on involvement when necessary to troubleshoot and resolve issues.
+Emotional Leadership: Consistently manage personal stress levels to maintain clear decision-making and effective leadership. Demonstrate a professional attitude, leading by example, and fostering a positive and respectful workplace environment.
+Team Building and Management: Recruit, mentor, and manage a high-performing team of software engineers. Promote a culture of continuous learning and improvement. Facilitate communication and collaboration within the team and across other departments.
+Cross-Departmental Collaboration: Work closely with other department leads to ensure software solutions meet broader business needs. This involves planning and implementing integrated strategies, sharing technical knowledge, and facilitating open communication channels.
+Process Improvement: Evaluate and improve existing engineering processes and workflows for efficiency and effectiveness. Promote agile methodologies and foster a DevOps culture.
+Site Reliability: Oversee site reliability engineering (SRE) to ensure high system performance and availability. This includes setting up robust monitoring, incident response, and disaster recovery protocols.
+Metrics and Performance Tracking: Set, track, and analyze team performance metrics, ensuring alignment with business objectives. Use metrics to drive improvements and ensure transparency and accountability within the team.
+Risk Management: Identify potential risks and develop mitigation strategies. Ensure adherence to security and data protection standards.
+Technology Evaluation and Adoption: Stay current on technology trends and evaluate new technologies for adoption within the company. Oversee technical debt management and ensure technology scalability.
+Stakeholder Communication: Communicate effectively with stakeholders, including executives, researchers, and other team members. Ensure transparency about the progress and challenges of software development projects.
+Client-Facing Communication: Engage directly with clients to explain technical implementations, gather feedback, and ensure that solutions align with client needs. Translate complex technical concepts into understandable terms for non-technical stakeholders.
+
+Requirements
+
+Bachelors degree in computer science, Engineering, or a related field.
+7 years of experience in software development and 5 years in a leadership or management role.
+Proven experience in managing and delivering software development projects at scale.
+Deep understanding of modern software development technologies and methodologies. Full stack experience with PythonDjango and React is highly desirable.
+Strong knowledge of Agile methodologies, software development lifecycles, and site reliability engineering.
+Expertise in setting, tracking, and interpreting team and project metrics.
+Excellent problem-solving and strategic thinking skills.
+Outstanding leadership and team-building skills.
+Exceptional communication skills, both verbal and written, with the ability to communicate complex technical information in a clear and concise manner.
+
+ Whats In It for You:
+
+100 Employer Paid Health insurance
+Vision and Dental benefits
+Employer-paid public transit pass and biking stipend
+Competitive Pay
+Work-Life Balance
+Onsite Gym membership
+Hybrid Work
+Paid time off and holidays
+Snacks, beer, team events
+
+Cove.tool is proud to recruit and hire talented people from a wide variety of backgrounds and experiences. We do not discriminate on the basis of race, color, national origin, gender, religion, sex (including pregnancy, sexual orientation, gender identity or transgender status), age, or disability.

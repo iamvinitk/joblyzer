@@ -1,0 +1,38 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join:
+Airbnb storage teams mission is to provide reliable, secure, performant data storage solutions to our customers to help achieve Airbnbs mission. Storage teams responsible for building, managing, and operating mission critical data storage solutions whether its transactional, NoSQL, KV, document, caching store. 
+As a member of this team you would be working with talented engineers on cutting edge technologies to help support Airbnbs business. You will be the resident expert on data storage solutions to provide guidance to our teams on the effective use of technologies, their usage in large scale architecture and performance optimization.  
+The Difference You Will Make:
+
+Operate, and support Airbnb database systems currently running on AWS-Aurora
+Partner with teams across the organizations to drive performance, security, scalability, availability, reliability, observability for data stores
+Design, improve, automate, and document processes
+Diagnose and effectively communicate the root cause of database issues
+
+Apply inspectiondebugging techniques to metricstelemetry, logs, events, and other information sources to diagnose operational issues
+Participate in incident response activities
+Document and present incident postmortems
+Serve on an on-call rotation to address high-priority issues as they arise
+
+
+Your Expertise:
+
+9 years experience administering production data stores whether relational, NoSQL, or NewSQL
+9 years experience in programming and optimizing database code, SQL or otherwise
+9 years experience designing andor tuning database schemastructures
+9 years experience with a general purpose programming language (for example: Python)
+
+Nice to Haves
+
+Experience administering AWS-Aurora
+Experience administering NoSQL or NewSQL databases, TiDB, CockroachDB,  YugaByte
+Experience writing software in Python andor Golang, Rust
+Experience with AWS andor GCP
+Experience with Infrastructure as Code, especially Ansible or Terraform
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application,, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—254,000 USD

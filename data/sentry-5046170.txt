@@ -1,0 +1,40 @@
+About Sentry
+Bad software is everywhere, and were tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+With more than 217 million in funding and 90,000 organizations that believe were on to something, were building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.About the role
+The Search and Storage team is responsible for the infrastructure that powers all of Sentrys time-series data and searching capabilities across billions of events with sub-second latency. We started this initiative by building Snuba, the primary storage and query service for Sentrys event data powered by ClickHouse, and were now looking to provide even more visibility and reporting on the terabytes of data that our users send us. The storage sub-team is specifically concerned with ingesting and storing the input data (thousands of events per second) that come from our customers into ClickHouse.
+In this role you will
+As a Senior Software Engineer in the Storage team, you will build, maintain, and operate data storage systems that power the core of Sentrys business.
+
+Build new database storage features, increase query and insert scalability, and implement fixes in Snuba, our open-source database service built on top of ClickHouse
+Guide product engineering teams as they work to design ClickHouse and other database schemas for new features
+Shape the technical direction of our internal data aggregation and metrics platform, including building out new features and improvements
+Lead discussions about scaling technologies for time-series data storage, for our team and outside the infrastructure organization.
+Design data migrations for product features that have scaled beyond the abilities of PostgreSQL, helping teams move their data to ClickHouse
+Help our SRE team manage clusters of sharded, replicated distributed databases
+Work with high-scale Kafka consumption pipelines that ingest thousands of input events per second
+
+Youll love this job if you
+
+Think in terms of failure modes, and enjoy coming up with creative solutions to work around them. We are a core data storage service for Sentry and data loss is unacceptable!
+Have experience with distributed systems, but are looking for exposure to higher scale. We process tens of thousands of eventssecond — scaling on the storage team isnt just put a cache in front of it
+Have a vigilant eye for the mixing of infrastructure and business logic concerns. We try to push business logic out of our teams code and into the product
+Want opportunities to improve process. This team grew organically out of an operational need for higher-scale data storage, and were working incrementally to give product teams more autonomy to build products without involving us as much as today
+
+Qualifications
+
+6 years relevant software engineering experience
+Excellent written and oral communication skills and ability to articulate technical concepts clearly and succinctly
+Strong knowledge of replicated andor distributed data storage systems
+You have experience with some or all of the following systems we leverage:
+
+Disk-driven Storage Systems: PostgreSQL, ClickHouse
+Memory-driven Storage Systems: Memcached, Redis
+Streaming Platforms: Kafka, RabbitMQ
+
+
+Experience with Python or a similar dynamic programming language
+
+The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is 80,000 to 220,000. A successful candidates actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidates work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentrys employee benefit plansprograms applicable to the candidates position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Companys benefit plansprograms.Equal Opportunity at Sentry
+Sentry is committed to providing equal employment opportunities to its employees and candidates for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or other legally-protected characteristic. This commitment includes the provision of reasonable accommodations to employees and candidates for employment with physical or mental disabilities who require such accommodations in order to (a) perform the essential functions of their jobs, or (b) seek employment with Sentry. We strive to build a diverse team, with an inclusive culture where every teammate can thrive. Sentry is an open-source company because we believe that everyone, everywhere, should have the ability and tools to make great software. Software should be accessible. That starts with making our industry accessible.
+If you need assistance or an accommodation due to a disability, you may contact us at recopssentry.io.
+Want to learn more about how Sentry handles applicant data? Get the details in our Applicant Privacy Policy.

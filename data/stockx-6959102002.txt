@@ -1,0 +1,40 @@
+Help empower our global customers to connect to culture through their passions. 
+Why youll love this role
+As a Software Engineer, you will be empowered to take ownership of technology decisions and solutions while playing a pivotal role in establishing a successful engineering culture at a fast-growing company.
+This is a great opportunity to leverage your existing skills, to build a world-class team and to have a huge impact on how marketplaces can be redefined. 
+Our technical stack comprises various systems and services built on Amazon Web Services. We use GraphQL, NodeJS, GoLang, CircleCI, Kubernetes, Harness, Terraform, LaunchDarkly and Datadog. 
+The technology scope includes all stacks and services (APIs and event processing systems) responsible for providing a seamless experience for our customers. 
+We are looking for a motivated, highly enthusiastic, technical backend engineer to join our Money Team. Money team is responsible for collecting money and issuing payouts to users in our ecosystem, and handling the business and technical challenges that come with that. Our engineers are empowered to take ownership of technology decisions and solutions while playing a pivotal role in establishing a successful engineering culture.
+ 
+What youll do
+
+Work with product owners, internal stakeholders, program managers and engineering managers to crystallize ambiguous requirements and propose resilient technical solutions which scale to future business needs
+Work with engineers in the team to take these proposed solutions and architect and design them 
+Efficiently break up large system designs and guide the junior team members in detailed component design. Help the team to implement, deploy and monitor systems and services 
+Propose and adopt best engineering practices and guide development standards 
+Foster a growth mindset culture. Be a team player. Contribute to and follow team processes for better sprint outcomes 
+Apply considerations around security, scalability, reliability, and performance while proposing and building solutions 
+Use sound technical judgment to consider technology alternatives, impact on affected and adjacent systems, and design choice tradeoffs
+Demonstrate complete ownership of services for your area of work. Participate in supporting your systems and services through any system upgrades, live site issues and others 
+Provide timely communication to stakeholders and users for resolving issues 
+
+About you
+
+2-4 years of relevant development experience.
+Experience with distributed architecture. Proficiency in one or more back-end languages used by the team (NodeJS, GoLang) or equivalent experience in another language and a willingness to learn and get up to speed quickly.
+Excellent analytical, organizational and communication skills. Ability to say NO. 
+Experience with data storage technologies, both relational and NoSQL.
+Experience with event-based architecture and with related technologies like Kafka, SNS, SQS, etc. 
+Experience with cloud platforms - Azure, AWS or Google Cloud Platform.
+Knowledge of GraphQL and REST Frameworks.
+
+ 
+Nice to have skills 
+
+Experience with working in an agile, fast paced and changing environment.
+Exposure to CICD frameworks and toolstechnologies like Github, K8s, Harness.
+About Us
+StockX is the premier current culture platform for buying and selling authentic, new, sought-after products. Our powerful marketplace connects buyers and sellers for sneakers, apparel, accessories, electronics, collectibles and trading cards around the world. We provide millions of global customers with unprecedented access and market visibility powered by real-time data, allowing them to transact based on true market value. Launched in 2016 in Detroit, Michigan, StockX now employs more than 1,500 people in offices and authentication centers in 11 countries.
+ 
+ 
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time.

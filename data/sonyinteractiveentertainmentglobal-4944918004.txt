@@ -1,0 +1,31 @@
+Why PlayStation?
+PlayStation isnt just the Best Place to Play — its also the Best Place to Work. Today, were recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation5, PlayStation4, PlayStationVR, PlayStationPlus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.Service Reliability EngineerBerlin
+As a part of Sony Interactive Entertainment, the Future Technology Group (FTG) is leading the cloud gaming revolution, putting console-quality video games on any device, from TVs to consoles to mobile devices and beyond.
+
+
+
+Our Service Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and able to participate in the way we make decisions at different levels.
+We expect our SREs to have opinions on the state of our service and provide critical feedback during different phases of the operational lifecycle. We are engaged throughout the SW development lifecycle, ensuring the operational readiness and stability.
+
+
+
+Responsibilities
+
+Minimum of 5 years working experience in Software Development andor Linux Systems Administration role.
+Strong interpersonal, written and verbal communication skills.
+Available to be scheduled in on-call rotation.
+
+What were looking for:
+
+Proficient as a Linux Production Systems Engineer, with experience managing large scale Web Services infrastructure.
+Development experience in one or more of the following programming languages:- Python (preferred)- Bash, Go, Java, C, or Rust
+
+In addition, experience with at least 3 of the following topics:- Distributed data storage at scale (Hadoop, Ceph)- NoSQL at scale (MongoDB, Redis, Cassandra)- Data Aggregation technologies. (ElasticSearch, Kafka)- Scaling and running traditional RDBMS (PostgreSQL, MySQL) with High Availability - Monitoring  Alerting (Prometheus, Grafana), and Incident Management toolsets- Kubernetes andor AWS (deployment and management)- Software Distribution (Package management and distribution at scale)- Configuration Management (ansible, saltstack, puppet, chef)- SW Performance analysis and load testing (QA or SDET experience: a plus)
+
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.Equal Opportunity Statement:
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.

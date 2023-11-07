@@ -1,0 +1,60 @@
+Wise is one the fastest growing companies in Europe and were on a mission: to make money without borders the new normal. Weve got 15 million customers across the globe and were growing. Fast.
+Current banking systems dont let us send, spend or receive money across borders easily. Or quickly. Or cheaply. 
+So, were building a new one and were looking for a talented Engineering Lead to join the mission.
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the worlds first platform to offer true multi-currency banking. 
+ 
+The team youll be working with: KYC Experience team 
+As a Financial Institution we are heavily regulated by the authorities. It means that we need to ask our customers to verify their identity, share with us the intentions and nature of the operations they are about to undertake on Wise and sometimes provide insightful and sensitive information. This process is known as KYC, Know Your Customer. Our goal is to make KYC, a disrupting and barely pleasant process, as smooth and delightful as possible, yet keeping our platform safe from bad actors.
+What does it take?
+
+Being responsible for the overall health and productivity of the engineers within your team
+Providing feedback on architecture and approach and helping teams make data-driven decisions 
+Having an overview of whats happening across the organisation and thinking about engineering as a whole 
+Rolling your sleeves up and coding, being involved in the entire software development process
+
+Is that you?
+
+Experience leading, coaching and mentoring driven and high performing teams
+A passion for international finance, foreign exchange and payment systems 
+Comfortable working on big challenges and taking full ownership of the customer journey
+Experience building and designing scalable and performing systems
+Experience working with Java, Spring framework, asynchronous message queues and have worked with microservices architecture 
+Comfortable with SQL databases, optimisation and transaction
+
+but dont worry we dont expect you to know everything!
+What does success look like? 
+
+Youll have found your place in our mission by understanding how to drive engineering solutions and look to future challenges
+Youll understand our customers and the impact our product makes in their lives 
+Youll make contributions to the wider engineering goals of the company
+Youll inspire a team environment where ideas are shared and openness is valued
+Youll help us scale-up and build a world class money transfer product that impacts millions of customers
+
+What you get back:
+
+The ability to choose your own path to success - youll have the freedom to define the vision 
+The freedom to have real impact
+The opportunity to inspire teams 
+A fun work environment with social activities and events
+
+We offer a salary range of 95,000-130,000GBP annual  an RSU package vesting over a period of 4 years. 
+Find out more about our benefits in our London office. 
+Interested? Find out more:
+
+ How we work - a practical guide
+ Wise Vlogs: Omar, Engineering Lead 
+ The Wise Tech Stack, 2022 edition
+ Our Engineering career map
+
+...or check out our Engineering blog.
+Were people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if youre passionate about learning new things and keen to join our mission, youll fit right in.
+Also, qualifications arent that important to us. If youve got great experience, and youre great at articulating your thinking, wed like to hear from you.
+And because we believe that diverse teams build better products, wed especially love to hear from you if youre from an under-represented demographic.
+LI-ZK1
+
+ 
+Salary (annual)95,000—130,000 GBPWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

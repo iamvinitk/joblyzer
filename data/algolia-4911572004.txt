@@ -1,0 +1,99 @@
+
+About Algolia
+Algolia is set to enable every company to create world-class Search and Discovery experiences with an API-first approach. Performance and Scalability is at the heart of our mission: we power 1.5 trillion searches a year, for 10K customers all over the world. We see Developer Experience as a key element of our offering: we maintain high-quality SDKs for dozens of languages and platforms. We value Grit, Trust, Candor, Care and Humility. If youre a problem solver, able to think outside the box and eager to nurture others and learn from them, then this is your challenge!
+The team
+Our mission is to empower companies to push the right content to increase their users chances to stumble upon what theyd be interested in and increase the discoverability of their inventory. To this end, our objectives are to:
+
+
+Build a fast and robust recommendation and browse API
+
+
+Rely on the best AI technology to deliver relevant content
+
+
+Provide a seamless experience for customers to set up their AI engines
+
+
+ 
+Team members have different skill sets, covering the full stack of our discovery offering, from the machine learning models to the Recommend API to the front-end Dashboard of our customers. Your experience, your knowledge and your perspective will add value to this diversity, and help the team deliver products that make a difference.
+ 
+The opportunity
+We are looking for a Senior Backend Engineer to grow our Recommend groups. As a Senior engineer, we expect you to bring significant experience acquired from a similar role in a former job. Not only will you lead projects in complete autonomy, you will also be accountable for planning ahead, and thinking in terms of whats best globally for the company rather than locally for your projects.
+ 
+YOUR ROLE WILL CONSIST OF:
+
+
+Drive and be a key contributor to the design, development, and ultimately operation of the discovery engine system at scale
+
+
+Be responsible of the quality, soundness of the system
+
+
+Work with other teams to identify, troubleshoot, and resolve high impact issues.
+
+
+YOU MIGHT BE A FIT IF YOU HAVE:
+
+
+Experience in a cross-functional team
+
+
+Experience working with APIs at scale
+
+
+Rigor in high code quality, automated testing, and other engineering best practices
+
+
+Good spoken and written English skills
+
+
+Preference for candidates with experience at our current stage and beyond (over 10,000 customers, 50-200M ARR range, high growth, lots of change and building internal infrastructure).
+
+
+NICE TO HAVE:
+
+
+Experience in Go
+
+
+Experience in C
+
+
+Experience in SQL
+
+
+Curiosity to Site Reliability Engineering
+
+
+Experience in Kubernetes based deployments
+
+
+WERE LOOKING FOR SOMEONE WHO CAN LIVE OUR VALUES:
+
+
+GRIT - Problem-solving and perseverance capability in an ever-changing and growing environment.
+
+
+TRUST - Willingness to trust our co-workers and to take ownership.
+
+
+CANDOR - Ability to receive and give constructive feedback.
+
+
+CARE - Genuine care about other team members, our clients and the decisions we make in the company.
+
+
+HUMILITY - Aptitude for learning from others, putting ego aside.
+
+
+LI-Remote
+REMOTE STRATEGY:
+Algolias flexible workplace model  is designed to empower all Algolians to fulfill our mission to power search and discovery with ease. We place an emphasis on an individuals impact, contribution, and output, over their physical location. Algolia is a high-trust environment and our team members have the autonomy to choose where they want to work and when. We know community comes in many forms and strive to create opportunities for intentional in-person connection in our offices and virtually for our remote colleagues around the world. 
+We have a global presence with physical offices in San Francisco, NYC, Paris, London, Sydney and Bucharest.
+ABOUT US:
+Algolia prides itself on being a pioneer and market leader offering an AI-powered, API-First Search  Discovery platform that empowers 17,000 businesses to compose customer experiences at internet scale that predict what their users want with blazing fast search and web browse experience. Algolia powers more than 30 billion search requests a week  four times more than Microsoft Bing, Yahoo, Baidu, Yandex and DuckDuckGo combined.
+Algolia is part of a cadre of innovative new companies that are driving the next generation of software development, creating APIs that make developers lives easier; solutions that are better than building from scratch and better than having to tweak monolithic SaaS solutions.
+In 2021, the company closed 150 million in series D funding and quadrupled its post-money valuation of 2.25 billion. Being well capitalized enables Algolia to continue to invest in its market leading platform, to better serve its thousands of customersincluding Under Armor, Petsmart, Stripe, Gymshark, and Walgreens, to name just a few. 
+WHO WERE LOOKING FOR:
+Were looking for talented, passionate people to build the worlds best search  discovery technology. As an ownership-driven company, we seek team members who thrive within an environment based on autonomy and diversity. Were committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background.
+READY TO APPLY?If you share our values and our enthusiasm for building the worlds best search  discovery technology, wed love to review your application!

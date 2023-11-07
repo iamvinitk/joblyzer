@@ -1,0 +1,47 @@
+Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether its consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!Were looking for our first Figmas Product Support AI Strategist to craft the future of AI solutions in our customer support journey. These tools aim to amplify and supplement the incredible work of our direct support functions, helping us efficiently resolve high-volume customer contacts at scale and allowing Product Support Specialists to spend their time on conversations that are most valuable to our customers. 
+Our ideal candidate is a teacher and collaborator, and balances strong technical understanding, strategic thinking, and effective communication. As a member of the Product Support Operations and Strategy team, you will be responsible for managing our AI tools and play a pivotal role in building our Product Support AI strategy. You are passionate about building a best-in-class customer experience globally and at scale, and leveraging innovative technology solutions to solve complex and exciting challenges.
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+What youll do at Figma:
+
+Own Figmas Product Support AI chatbot experience. This includes conversation design and optimization, chatbot performance, workflow development, testing, modelintent training, and documentation of chatbot architectures, workflow details, and process flows.
+Analyze chatbot interactions, user feedback, and other relevant data to improve chatbot behavior and language models, and personalize the customer experience.
+Evaluate and drive Generative AI applications in Support internal tooling (Ticketing system, CMS, WFM, etc.). creating business cases, user guides, playbooks, and enablement materials to educate stakeholders on AI capabilities.
+Partner with Support Operations leadership to craft our Product Supports overall AI strategy. Model efficient communication of technical and business messages to multiple audiences, driving alignment and facilitating decision-making.
+Work closely with Engineering, Data Science, Analytics and other technical teams to identify integration and improvement opportunities in our AI chatbot and internal tools.
+Serve as an industry expert and maintain deep knowledge of the evolving technology landscape, including conversational AI, LLMs, NLP frameworks, ML algorithms, and related technologies that can help us reimagine the customer and agent experience.
+Partner with content teams to optimize our self-serve content so its available when Figmas users need it most. Identify trends which youll translate into actionable insights that inform our content strategy. 
+
+
+Wed love to hear from you if you have:
+
+Hands-on experience managing conversational chatbots in a customer support environment, specifically designing, developing and implementing conversational flows, intents, and entities.
+Solid technical understanding of AI tools, conversational AI, andor similar technologies using NLP and ML techniques.
+Experience creating user guides, documentation, and training materials to educate stakeholders and end-users on AI chatbot, AI solutions and best practices.
+Experience developing robust testing methodologies and drive experiments to continue optimizing AI chatbot and other AI applications.
+Experience working within a Product Support organization andor Product Education and Content teams. Preferably in content creation and content strategy. 
+Strong communication and collaboration skills, influencing cross functional technical and non-technical teams, and facilitating decision making.
+A proactive and results-driven mindset, with a passion to leverage AI technologies to improve both the customer and agent experience
+Proficiency in programming languages (i.e. Python, Java), and analyzing data and transforming data-driven insights into actionable strategic plans.
+
+
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If youre excited about this role but your past experience doesnt align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+
+
+
+Read more about our team 
+
+Investing in Figma: The Decade of Design
+How work is changing at Figma
+Figmas next product is a multiplayer whiteboard called FigJam
+Software Design Startup Figma Is Now Worth 10 Billion
+
+
+
+Pay Transparency Disclosure
+If based in Figmas San Francisco or New York hub offices, this role has the annual base salary range stated below.  
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80 and 100 of range. Please discuss your specific work location with your recruiter for more information. 
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental  vision, retirement with company contribution, parental leave  reproductive or family planning support, mental health  wellness benefits, generous PTO, company recharge days, a learning  development stipend, a work from home stipend, and cell phone reimbursement.  Figma also offers sales incentive pay for most sales roles. Figmas compensation and benefits are subject to change and may be modified in the future.Annual Base Salary Range (SFNY Hub):119,000—231,000 USDAt Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identityexpression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+We will work to ensure individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions, and to receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-extfigma.com.
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figmas Privacy Policy. 

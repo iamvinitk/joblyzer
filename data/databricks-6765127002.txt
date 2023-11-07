@@ -1,0 +1,44 @@
+CSQ324R130
+Mission:
+The Cloud Solutions Engineering team is responsible for developing innovative software tooling that will assist engineers to be more efficient at their jobs. The team works hand-in-hand with different teams and content creators, to design, iterate, and execute on a variety of tools  pipelines. The QA Engineer will assist by developing, maintaining and executing test plans. They will be assisting in engineering release activities, testingdebugging web applications and APIs. Finally they would also develop automated test tools, frameworks and scripts as needed.
+Impact you will have:
+
+Play an active role in developing platform and components qualification plans, and guide the team on execution and automation of these tests.
+Develop and enhance internal framework and tools required for qualification and automation.
+Supporting junior team members (training, mentoring  troubleshooting)
+Providing regular feedback on automated test results to the development team.
+Responsible for accurate documentation and delivering stable robust features.
+
+Competencies:
+
+4-8 years of experience as a QA Engineer
+Deep understanding and skills on debugging and root causing issues in Software applications
+Analyze and understand user requirements to envision strong technical solutions.
+Design and development skills using Python or similar programming languages
+UI automation testing tools such as Selenium
+Experience with UnixLinux operating systems. 
+Understanding of CICD tools such as Jenkins
+Good command on tools for bug tracking, reporting  documentation.
+Cloud engineering experience with AWS (Amazon Web Services) or Microsoft Azure is a plus.
+Docker and Kubernetes orchestration is a plus. 
+Experience working with relational databases (MySQL preferred). 
+Knowledge on LoadPerformance(Non functional) testing is a plus.
+You must be comfortable working in a fast-paced startup environment and be a team player.
+
+Benefits
+
+Medical Benefits
+Employees Provident Fund
+Equity awards
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

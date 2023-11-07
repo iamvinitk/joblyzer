@@ -1,0 +1,52 @@
+CSQ124R99
+While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other US locations.
+As a Senior Backline Engineer you will help our customers to be successful with the Databricks platform by resolving important technical customer escalations and the support team. You will be the technical bridge between support and engineering and the first line of defense for engineering. You will ensure that all issues are vetted by you before it reaches the engineering team. You will report to the Sr.Manager of the Backline Escalations Team.
+ 
+The impact you will have:
+
+Troubleshoot, resolve and suggest deep code-level analysis of Spark to address complex customer issues related to Spark core internals, Spark SQL, Structured Streaming and Databricks Delta.
+Provide best practices guidance around Spark runtime performance and usage of Spark core libraries and APIs for custom-built solutions developed by Databricks customers.
+Help the support team with detailed troubleshooting guides and runbooks.
+Contribute to automation and tooling programs to make daily troubleshooting efficient.
+Work with the Spark Engineering Team and spread awareness of upcoming features and releases.
+Identify Spark bugs and suggest possible workarounds.
+Demonstrate ownership and coordinate with engineering and escalation teams to achieve resolution of customer issues and requests
+Participate in weekend and weekday on call rotation.
+
+What we look for:
+
+Minimum 6 years experience developing, testing, and sustaining Python or Java or Scala-based applications.
+Comfortable with compiling, building and navigating the Apache Spark source code.
+Comfortable with identifying and applying patchesbug fixes to the Apache Spark source code.
+Experience in Big DataHadoopSparkKafkaElasticsearch data pipelines.
+Good understanding of AI  ML using python ex:sklearn. 
+Understanding of general GenAI topics like LLMs and prompt engineering. 
+Proficiency in GQL (GraphQL) and its applications in AI platforms.
+Hands-on experience with YAML for configuration and data representation.
+Hands-on experience with SQL-based database systems.
+Experience in JVM, GC, Thread dump-based troubleshooting is required.
+Experience with AWS or Azure related services.
+Bachelors degree in Computer Science or a related field is required.
+
+Benefits
+
+Comprehensive health coverage including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Annual personal development fund
+Employee Assistance Program (EAP)
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 1 Pay Range102,400—181,100 USDZone 2 Pay Range92,100—163,000 USDZone 3 Pay Range87,100—153,900 USDZone 4 Pay Range82,000—144,900 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

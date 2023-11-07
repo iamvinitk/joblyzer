@@ -1,0 +1,39 @@
+
+
+
+As a financial institution moving billions of pounds of customer money in more than 70 countries, Wise must have bulletproof financials. We need timely, accurate and scalable financial data to be compliant with regulations and make accurate business decisions inside the company.
+We are now looking for an experienced Data Engineer. This role gives a great opportunity to combine technical data processing skills with finance and automation experience. You will get familiar with all key products of Wise, understand the business, and also improve your data analysis expertise.
+Your mision:
+
+Design, build, maintain ETL processes and data models behind Analytical Pipelines within Finance
+Create monitoring  alerting solutions over existing data pipelines  models
+Implement accurate controls over analytical pipelines output datasets
+Implement solutions to monitor the cost and performance of databases within Finance
+Collaborate with Finance software engineers while transitioning to streaming technologies
+Collaborate with external technical Teams to maintain our systems and platforms
+Focus on improving data flow efficiency within Finance, delivering automation or system improvements which can support scalability
+
+
+A bit about you:
+
+Youre a data professional with deep experience in Python and SQL
+Comfortable working daily with orchestration and modelling tools like Apache Airflow, Databricks, DBT
+Have extensive experience with cloud DBs like Snowflake, AWS Redshift, AWS S3, ClickHouse
+Well-versed using Git and CLI scripting in general
+
+
+
+
+Experience which is great not essential:
+
+Familiar with event based (Apache Kafka) or streaming (Apache Spark  Flink) technologies;
+Experience with Docker  Kubernetes  Terraform is a big plus;
+
+
+LI-CH1 LI-Hybrid
+
+Salary (annual)75,000—90,000 GBPWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

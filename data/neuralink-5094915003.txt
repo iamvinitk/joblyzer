@@ -1,0 +1,43 @@
+Company Description:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.Team Description: 
+Neuralinks Clinical Engineering team designs, builds, and scales services and systems to find and support our first participant and beyond. Their technical leadership drives the Patient Registry, which allows applicants to share details about their diagnoses and give consent to request and process their medical records. The team also delivers mission-critical internal tools leveraged by our Clinical team and medical staff for reviewing and communicating with our users. This team must meet and exceed stringent accessibility, compliance, scalability, security, and usability requirements to facilitate a seamless user experience.
+Job Responsibilities and Description: 
+Clinical Software Engineers are phenomenal product engineers, and build world class web  mobile experiences for our users. Engineers who love identifying product gaps and rough edges will excel as they continue to refine our approach to build the most efficient systems. While each team member typically has a particular skillset, they can contribute to our web frontend and backend as needed. The team has significant ownership and autonomy to determine the best product vision, then identifies and leverages the best technical frameworks and dependencies to ship quickly and securely.
+Key Qualifications: 
+
+Strong full-stack application development skills.
+Proficient with Typescript and React (or similar framework) for building responsive web applications.
+Experience creating and maintaining server applications written in Python andor Node.js.
+An ability to design comprehensive product experiences, while accounting for accessibility, compliance, legal, and scalability requirements.
+Comfortable working with a sense of urgency; collaborating with stakeholders across departments and communicating directly with users to understand their requirements and workflows.
+Insatiable curiosity and drive to build the best user experience for everyone, regardless of their accessibility needs.
+Proficient with SQL databases such as Postgres and MySQL. Able to translate product needs into efficient schemas and queries.
+Willingness to join the on call rotation supporting these systems, but the wisdom to build systems that rarely page.
+
+Preferred Qualifications:
+
+Familiarity with modern web frameworks and libraries for building responsive web applications with quick iteration cycles.
+Expertise building scalable backends with  another modern server side language, e.g. Ruby, Rust, Golang, etc.
+Experience building systems that meet and exceed HIPAA compliance requirements.
+Experience with computer, network, or cloud security.
+Comfortable building developer productivity tooling and deployment pipelines to cloud environments.
+Thrive in a very fast-paced environment, delivering features quickly and incrementally to provide the best possible user experience.
+The confidence to ask for help and feedback from colleagues across many disciplines, with the skillset to deliver on a shared vision.
+Pay Transparency:
+Based on California law, the following details are for California individuals only:California base salary range:  125,050—204,000 USDFor full-time employees, your compensation package will include two major components: salary and equity. Guidance on salary for this role will be determined according to the level you enter the organization (with the ability to gain more through time as you contribute). 
+ 
+Full-Time Employees are eligible for equity and benefits listed below in addition.
+
+What we offer:
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off  paid holidays.
+Equity  401(k) plan.
+Commuter Benefits.
+Meals provided.
+
+
+Multiple studies have found that a higher percentage of women and BIPOC candidates wont apply if they dont meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you dont check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.

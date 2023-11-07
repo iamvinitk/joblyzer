@@ -1,0 +1,40 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+The Community You Will Join:Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnbs various functions embody the companys innovative spirit and our fast-moving team is committed to leading as a 21st century company.
+The Difference You Will Make:
+The backend build infrastructure teams mission is to enable Airbnb backend developers to edit, compile and test their code quickly and reliably. This team serves as the bridge that connects Airbnbs backend monorepo to platform-agnostic developer tooling (e.g., CICD, remote testing environments). You will be responsible for maintaining and improving our key metrics such as performance (e.g., PR CI times), reliability (e.g., flake rate), and cost.
+A Typical Day: 
+As an engineer on Build Infra, you will work on technologies that help shape an industry-leading end to end developer experience for backend developers. In this role you will be:
+
+Building our next-gen build system using the latest technologies (e.g., Bazel)
+Working on integrations between the build system and CICD tooling (e.g., merge queues, code coverage, integration testing)
+Improving the editor (e.g., IntelliJ) experience for all backend developers
+Helping to shape the technical strategy that directly moves our core metrics (Developer Experience, Developer Velocity, Debuggability, Resilience and Reliability) while reducing cost.
+Partnering with engineering leaders across all Airbnb teams for adoption of the new capabilities. Your customers will be all engineers at Airbnb.
+A playercoach of our high-performance team to ensure code quality, commitment to craft and operational excellence
+
+Your Expertise:
+
+Experience working directly on build systems, and even better if you have completed a migration to Bazel
+Experience working with large monorepos
+Extensive JVM experience
+Want to tackle projects with large open-ended scope and drive significant business impact
+Love collaborating via product reviews, code reviews and architecture discussions
+Are motivated to improve their teammates productivity
+Are excited to join an impactful infrastructure team 
+
+Minimum Requirements:
+
+9 years industry experience
+Bachelors andor Masters degree, preferably in CS, or equivalent experience
+Proficiency in one or more back-end server languages (JavaRubyGoCetc.)
+Experienced in architectural patterns of a high-scale distributed productsservices, such as well-designed APIs, data pipelines and efficient algorithms
+Experience or desire to work collaboratively in cross-functional teams with design, product and data science partners
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+If you need assistance, or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodationsairbnb.com.
+How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—254,000 USD

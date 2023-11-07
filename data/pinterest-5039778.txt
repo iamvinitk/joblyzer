@@ -1,0 +1,29 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. We are looking for inquisitive, well-rounded Backend engineers to join our Core Engineering teams. Working closely with product managers, designers, and backend engineers, youll play an important role in enabling the newest technologies and experiences. You will build robust frameworks  features. You will empower both developers and Pinners alike. Youll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking thats required in order for big bets and smart risks to pay off, youll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.
+ 
+What youll do:
+
+Write high-quality, performant PythonJava code to build out workflows leveraging APIs that enable our systems that maintain Pinner trust from a Privacy and regulatory compliance perspective
+Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running AB tests, to architecting and building solutions that leverage large-scale data
+Partner with design, product, and backend teams to build end-to-end functionality
+Put on your Pinner hat to suggest new product ideas and features
+Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop
+Grow as an engineer by working with world-class peers on varied and high-impact projects
+
+ 
+What were looking for:
+
+Deep understanding of APIworkflow  development and best practices in Python or Java
+3 years of industry API and backend development experience, building API endpoints for consumer or business-facing products
+Proficiency in common backend tech stacks for RESTful API, storage, caching, and data processing
+Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers
+Ability to keep up-to-date with new technologies to understand what should be incorporated
+Strong collaboration and communication skills
+Experience with GraphQL large data processing is a plus
+
+This position is not eligible for relocation assistance and candidates that apply should be based and legally authorized to work in Mexico.
+LI-REMOTE
+LI-MMOur Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

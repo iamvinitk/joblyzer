@@ -1,0 +1,46 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role
+Robinhoods Security Solutions  Assessments team is looking for a senior blockchain security engineer to join our team. The Security Solutions  Assessments works with teams across Robinhood and its subsidiaries to ensure our products and services are secure and our customers data is protected. You will be working alongside our Crypto business to aid in influencing business decisions and new product launches by performing security assessments and providing solutions and recommendations.
+Were looking for tech professionals who are deeply passionate about security and privacy.
+ 
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do 
+
+Perform proactive assessments covering infrastructure, secure and resilient architecture, data security (including privacy), identity and access management, application and product security for our Crypto business
+Prioritize and drive the reduction of discovered security issues, vulnerabilities, and risks by partnering with the business to provide recommendations and solutions
+Work with technical leads to develop strategies, programs, systems and tools that enhance our approach in keeping our products, data, and customers safe and secure
+Collaborate with partner security teams to help safeguard Robinhoods data and infrastructure
+Provide technical expertise on Robinhoods Security and Privacy solutions, policies, procedures, and standards
+Stay up to date on the direction of emerging security, privacy, blockchain technologies, and industry trends
+
+What you bring
+
+4 years of experience conducting cyber security assessments
+3 years of experience engineering security solutions
+2 years of experience specializing in assessing and securing blockchain applications and infrastructure
+Deep understanding of blockchain technologies, protocols, exploits, and frameworks and associated security risks
+Security domain knowledge across many cyber security disciplines 
+Outside-the-box thinking (adversary mentality)
+Experience communicating effectively with technicalnon-technical and executive-level audiences
+Working knowledge of Go or Python for interacting with security tooling APIs
+Security automation experience is a plus
+Security technical report writing is a plus
+AWS experience is a plus
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.US Zone 1: 187000 - 220000US Zone 2: 165000 - 194000US Zone 3: 146000 - 172000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

@@ -1,0 +1,55 @@
+This position offers flexible remote work options. If your location is not specified in this job description, feel free to inquire about its eligibility.
+Were on a mission to make Algolia a data-driven organisation, and were looking for a Senior Data Engineer to join our Data team and help us get there.
+Our Data team aims at helping other teams make better decisions by providing relevant data while ensuring its integrity and its consistency. This team has a significant impact as we work closely with business analysts on our Operations, Marketing, Product and Infrastructure teams to help them discover meaningful trends.
+Our data team is composed of a Data Engineering team (building pipelines and scaling the Lake  Warehouse), an Analytics Engineering team (building standardised data models) and Data Analysts.
+As a member of the Data Engineering team, your daily responsibilities will include:
+
+Developing data pipelines and ETL workflows mainly with Python, Airflow (AWS MWAA), Spark (AWS Glue, EMR), other AWS services managed with Terraform.
+Improving and maintaining our data warehouse (AWS Redshift).
+Support the Analytics Engineering team to build data models with dbt to be used by Analysts on business reports.
+Interacting with Engineering and Business teams to understand requirements.
+
+We maintain an open-minded approach and eagerly embrace experimentation with new technologies to achieve our goals and we try to continuously challenge our choices on that topic. You will have the opportunity to make some decisions going in that direction.
+As a senior joining the team, your goal will also be to mentor junior engineers and help them grow to be successful at Algolia.
+With Algolias rapid growth, there will be many data-related challenges that will need to be tackled! 
+Are you ready for the challenge?
+Key responsibilities...
+
+Design, build, enrich, scale up our data pipelines.
+Work with engineers, data analysts, business analysts to capture and model data.
+Monitor data integrity and growth.
+Help improve our data lake and data warehouse architecture, to increase performance, simplicity and autonomy of the users.
+Help analysts industrialise reports and dashboards to improve company productivity.
+Ensure every product is released with a data-driven approach.
+
+You might be a good fit if you have...
+
+Strong experience designing and building data pipelines.
+Experience orchestrating pipelines with Airflow.
+Professional knowledge of Python.
+Strong experience working with cloud platforms and architecting them. 
+Strong experience with data warehouses.
+Experience about infrastructure topics specific to data engineering.
+Interest in Big Data challenges (600Tb of data, 14Tb per week, 700M files, 1,2M per week, 300 dbt models, 70 Airflow DAGs)
+Interest in understanding the data and business requirements.
+An authorisation to work in the EU.
+Excellent spoken and written English skills.
+You are humble, curious, proactive, and strike a balance between creativity, resourcefulness, and pragmatism.
+
+Nice to have...
+
+Experience using and managing AWS Redshift.
+Experience with a parallel data processing framework such as Apache Spark.
+Experience analysing data quality using dbt.
+Experience at our current stage and beyond (50-200M ARR range, high growth, lots of change and building internal infrastructure).
+
+LI-Hybrid LI-RemoteREMOTE STRATEGY:
+Algolias flexible workplace model  is designed to empower all Algolians to fulfill our mission to power search and discovery with ease. We place an emphasis on an individuals impact, contribution, and output, over their physical location. Algolia is a high-trust environment and our team members have the autonomy to choose where they want to work and when. We know community comes in many forms and strive to create opportunities for intentional in-person connection in our offices and virtually for our remote colleagues around the world. 
+We have a global presence with physical offices in San Francisco, NYC, Paris, London, Sydney and Bucharest.
+ABOUT US:
+Algolia prides itself on being a pioneer and market leader offering an AI-powered, API-First Search  Discovery platform that empowers 17,000 businesses to compose customer experiences at internet scale that predict what their users want with blazing fast search and web browse experience. Algolia powers more than 30 billion search requests a week  four times more than Microsoft Bing, Yahoo, Baidu, Yandex and DuckDuckGo combined.
+Algolia is part of a cadre of innovative new companies that are driving the next generation of software development, creating APIs that make developers lives easier; solutions that are better than building from scratch and better than having to tweak monolithic SaaS solutions.
+In 2021, the company closed 150 million in series D funding and quadrupled its post-money valuation of 2.25 billion. Being well capitalized enables Algolia to continue to invest in its market leading platform, to better serve its thousands of customersincluding Under Armor, Petsmart, Stripe, Gymshark, and Walgreens, to name just a few. 
+WHO WERE LOOKING FOR:
+Were looking for talented, passionate people to build the worlds best search  discovery technology. As an ownership-driven company, we seek team members who thrive within an environment based on autonomy and diversity. Were committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background.
+READY TO APPLY?If you share our values and our enthusiasm for building the worlds best search  discovery technology, wed love to review your application!

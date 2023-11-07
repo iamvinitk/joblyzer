@@ -1,0 +1,37 @@
+About Glean :
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same.
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+ 
+ 
+Job Duties and Responsibilities
+
+Design and develop robust Salesforce solutions, leveraging Salesforce declarative (Creating Fields, Objects, Actions, Sharing Rules, Profiles, Permission sets, Processes, Flows, Workflows, Validation Rules etc.) or programmatic tools (Apex, SOQL, Visualforce, Lightning, Aura components)
+Responsible for managing quote-to-cash processes which includes development of workflows and processes within Nue.io CPQBilling
+Stay on top of Salesforce ecosystem latest trends, progress the Salesforce Certification path, keep your Trailhead profile impressive
+Assist and lead efforts to integrate Salesforce across business systems landscape
+Participate in Agile development processes, including sprint planning, backlog grooming, and retrospectives
+
+Minimum REQUIRED Knowledge, Skills, and Abilities
+
+Minimum 57 years of professional experience with Salesforce
+Minimum Salesforce Admin Certified, Salesforce Advanced Certified and Platform Developer 1 (Developer  Architect  Javascript Certifications a plus)
+Deep knowledge and expertise within Salesforce config. and automation including CPQ (Workflows,Validation Rules, Assignments, Approval Processes, Process Builders, Flows, Price Books etc.)
+
+
+Expertise in both developing and maintaining in Apex (Triggers, Scheduled and Batch classes)
+Proficiency in Salesforce development (including APEX, LWC, Visual Force, Salesforce APIs, Lightning, Java and JavaScript)
+Proficiency in SFDC Customizations such as Custom Objects, Custom Tabs, Custom Fields, Validation rules, Workflow rules, Page Layouts, Record Types, Flow  Process Builders etc
+Support processes promoting data integrity, data governance and compliance
+Good understanding of interconnectivity between systems allowing to perform upstream and downstream impact analysis from multiple stakeholders point of view
+Excellent Communication Skills: Ability to concisely explain complex cross-functional processes. Ability to create clearsimple documentation - process guides  diagrams.
+
+
+Solid knowledge of Agile development methodologies and practices
+Excellent problem-solving skills with the ability to troubleshoot complex technical issues
+Strong communication skills to effectively collaborate with cross-functional teams and stakeholders
+
+
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. Were committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.
+ 

@@ -1,0 +1,43 @@
+Join the Interactive Brokers Team!
+Interactive Brokers has been at the forefront of the Fintech space for over 40 years and we pride ourselves on being a technology company.  We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers.
+The Applications Programming department works on the back-end and internal systems that enable our brokerage operations including the handling of customer cash, securities borrowing and lending, regulatory reporting, trade settlement and reconciliation, corporate action processing, customer statements, reference data systems, and IPO processing to name just a few.  In addition, we also continuously work on our fully integrated internal development and operational tools used to handle functions such as software releases, job scheduling, service location and security frameworks, and build management tools.
+ We are looking to continuously improve our intelligent, automated systems to provide the world class solutions and systems our brokerage customers expect.  Typical projects can include improving an existing algorithm, adding a new feature, working on system scalability, prototyping the application of a new technology, or investigating and fixing an existing system issue.
+What you possess:
+
+Bachelors or Masters degree in Computer Science or related degree.
+0-3 years of Java experience or similar object-oriented language experience.
+Strong knowledge of object-oriented concepts, n-tier applications, and follow SOLID principles.
+Knowledge of relational databases with bonus points for experience with Oracle.
+Desire to challenge the status quo, create simple elegant solutions to complex problems, and follow solutions from development through production release, acceptance testing, and support.
+Hands on experience with server-side programming ideally with JavaJEE or C, message-oriented systems, RESTful web services, and microservices.
+Experience with configuration and deployment on application servers ideally JBoss.
+Knowledge of financial instruments is a plus otherwise you have a desire to learn about and understand financial instruments and concepts.
+
+Personality traits:
+
+You are a continuous learner and will use andor learn the right language and technology to solve a problem.
+Detail-oriented self-starter that is comfortable working both independently and collaborating with your team.
+Passionate about writing clean, well-tested, and maintainable code.
+High level of comfort in an environment of continuous integration and deployment.
+
+You will be someone who can:
+
+Work with business stakeholders to develop back-end services and algorithms for a new feature along with a web-based management UI.
+Optimize, improve, and support existing algorithms and systems to reach the goal of highly automated robust systems with full test coverage requiring minimal operational oversight.
+Create independent automated risk controls and checks to ensure that systems are performing as expected and catch potential errors as soon as possible.
+Develop message-oriented systems, batch processing applications, and web application-based management consoles.
+
+Company Perks:
+
+Competitive salary, annual performance-based bonuses, and annual stock grants.
+Daily company lunch allowance provided.
+401k with company match.
+Excellent medical, dental, and vision benefits.
+Newly renovated offices with multi-monitor setups.
+Team outings and dinners.
+Education reimbursement and learning opportunities.
+
+ Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

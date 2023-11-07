@@ -1,0 +1,42 @@
+
+
+Vestmark is actively looking for a motivated Senior Software Engineer with Java development and relational database experience with a passion for technology and solving complex problems to join our rapidly growing Scrum organization! You will be a key member of our team responsible for the development of both web-based applications and back-office systems. Your energy, enthusiasm, and technical curiosity, combined with your appreciation and support of our core values, will be leveraged to help us build the next generation of our wealth management applications.
+Vestmark is a leading provider of wealth management solutions and services that enable financial advisors and institutions to efficiently manage and trade their clients portfolios using an innovative SaaS ecosystem. With over 1.5 trillion in assets and 3.5 million accounts, we are a trusted partner to some of the largest and most respected players across the wealth management industry.  Our team of over 400 employees is made up of highly skilled software engineers, implementation specialists, business strategists, and visionaries who maintain an eye toward the future of financial technology.
+Responsibilities:
+
+Design, develop, test and maintain highly scalable and reliable applications using Java, Go, SQL, and JavaScriptTypescript
+Develop interactive, modern web applications using React, MUI, and related technologies.
+Embrace a cloud-first approach, harnessing best practices in cloud architecture and design.
+Design and build modular and maintainable systems using microservices architecture.
+Hands-on software development for applications within our VestmarkONE suite of financial services, including Portfolio Trading, Proposal Generation, and Investor Portal
+Build and maintain features to match our expanding scale and performance requirements
+Collaborate with cross-functional teams to design and deliver new features and enhancements.
+Mentor junior engineers, fostering a culture of continuous learning and improvement.
+Contribute to the growth and development of our core values: We Before Me, Positive Energy, Knowledge Explorer, and Own It
+
+Job Qualifications:
+
+B.S. or M.S. in Computer Science, or equivalent work experience.
+5 years of hands-on experience developing and testing scalable enterprise applications using Java, Go, JavaScript and Typescript.
+Strong algorithmic and object-oriented design skills.
+Extensive experience with SQL and Relational Databases such as SQL Server.
+Expertise in testing scalable systems using toolsframeworks such as JUnitNUnit, Jasmine, Jest, and JMeter.
+Experience in object-relational mapping technologies such as Hibernate.
+Experience with microservices architecture and cloud-first design principles.
+Proven problem-solving and analytical skills in fast-paced agile environments.
+Excellent communication skills capable of effectively conveying technical ideas.
+
+Preferred Qualifications:
+
+Experience with Spring Framework and Spring Boot.
+Experience with Liquibase, Apache Camel, and ServiceMix.
+Experience building webservicesAPI using REST.
+Experience with AWS or similar cloud computing environments.
+Experience with DevOps, CICD practices.
+Experience with clustered application deployment.
+Knowledge of React or other JavaScript frameworkslibraries.
+
+
+
+Vestmark is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Vestmark prohibits employment discrimination on the basis of race, color, religion, gender identity, sex, sexual orientation, pregnancy, national origin, age, disability status, protected military or veteran status, and genetic information.
+LI-Hybrid LI-BR1

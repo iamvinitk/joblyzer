@@ -1,0 +1,30 @@
+At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+Lyft needs experienced Engineering Managers from a breadth of disciplines. Our team has a history of enabling rich and creative features that set the standard for the ride-sharing industry. We constantly innovate and incorporate cutting-edge technologies to make the lives of our community more enriched. Lyft connects people to transportation to change the way we live and get around our communities. Lyft Business connects Lyft to thousands of companies and organizations to offer safe, affordable and reliable solutions for ground transportation needs. Our goal is to make transportation-as-a-service a reality for organizations of all sizes and all industries. We operate as a startup within a startup and build solutions to extend Lyfts reach to our society.
+Come join the team at Lyft that is focused on enabling and empowering engineering teams to deliver at scale. The role on this team offers a unique opportunity to directly impact the revenue bottom line for Lyft, while partnering with almost all of Lyfts feature, business and operational teams.
+Responsibilities:
+
+Lead a team of talented engineers who like to ship code and tackle hard engineering problems
+Mentor and guide the professional and technical development of your team members. Help develop their careers and assign them to projects tailored to their skill levels, personalities, work styles, and professional goals
+Build teams that are collaborative, inclusive, and respectful of each other
+Provide continuous feedback, address underperformance, and recognize the individual strengths and contributions of your team members
+Create plans for prioritizing technical and resourcing challenges in your organization
+Maintain a balance between building sustainable, high-impact projects and shipping things quickly
+Instill a spirit of continuous improvement in the teams code, architecture, and processes
+Work closely with the Lyft recruiting team to hire high potential candidates from diverse backgrounds
+Work with your engineers andor product managers to maintain a prioritized backlog and create short term and long-term goals
+Own your teams deliverables and ensure we continue to ship scalable, highly-available products that delight our passengers and drivers
+Help your team build relationships across functions with Support, Marketing, Ops, BizDev, or other teams to ensure Lyfts continuing success
+
+ Experience:
+
+People management experience
+Experience with test automation, defining teams for automated and manual testing, increasing the coverage and methods, helping people grow and learn about testing, and evangelizing engineers to transition from SWE to QEQA
+Experience leading a team of engineers and guiding them through their career development
+Trade Off experience 
+Technical background and experience contribute to planning and design discussions
+Experience guiding teams through planning, prioritization, and execution of work
+Experience building both teams and products that scale
+
+This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year.
+
+ 

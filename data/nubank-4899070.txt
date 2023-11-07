@@ -1,0 +1,50 @@
+About Us
+Nu was born in 2013 with the mission to fight complexity to empower people in their daily lives by reinventing financial services. We are one of the worlds largest digital banking platforms, serving millions of customers across Brazil, Mexico, and Colombia. For more information, visit our institutional page https:international.nubank.com.brcareers
+Position Summary
+The TPM is an agile delivery leader accountable for balancing the business intent (WHAT  WHY) with the technical and tactical delivery complexities (HOW) while optimizing delivery timelines and milestones (WHEN), with complete authority.
+The mandate of the Technical Program Manager is to build and operate high-impact, functional programs that can vary in breadth and depth. That is, a TPM can work in depth with a single teamproduct or work across different teams, BUs, or the entire organization with a broad strategic influence. TPMs have complete ownership of their programs and the associated business outcomes and are empowered to work across teams and break down silos in order to achieve those outcomes.
+ 
+Key Responsibilities:
+
+Communicate clearly and concisely at the appropriate level of detail and frequency for all relevant stakeholders. Manage meetings effectively; Put the right people in the room.
+Drive alignment and present decisions to leadership.
+Own the project status (the authoritative source).
+Contribute to the technical strategy, design choices, and decisions for a product or service.
+Are accountable for the planning, execution, and delivery of projects from inception to completion, related to an existing technology product or program (from ideation to delivery).
+Proactively manage the end-to-end delivery of engineering work through the organization and all dependent organizations, reporting out progress, ensuring dependencies are covered.
+Operate between teams and architectures overseeing the gaps between teams, processes, and systems, while removing all blocking issues leading to successful delivery.
+Actively recruit and develop others in your organization andor location.
+
+ 
+Basic Qualification
+
+Solid foundation in software engineering fundamentals, principles, practices, and architecture.
+Experience buildingdeveloping and delivering digital products with the capability to challenge and bridge between product and engineering. builder.
+Able and willing to lead and contribute to architecture and design discussions.
+
+ 
+Preferred Qualification
+
+Experience building and operating complex systems.
+Knowledge of modern engineering principles and practices.Able and willing to dig deep into any and all code- and system-related issues.
+
+ 
+Our Benefits
+
+Chance of earning equity at Nubank
+Extended maternity and paternity leaves 
+Health and life insurance 
+NuCare - Our mental health and wellness assistance program
+Nucleo - Our learning platform of courses
+NuLanguage - Our language learning program
+Holiday Bonus (Aguinaldo) of 30 days of pay per year
+17 days of paid vacation with 25 vacation bonus
+Gym partnership
+
+ 
+Our Nu Way of Working 
+Our work model is hybrid and has cycles that can be from two to three months according to the business of expertise. For every eight or twelve weeks of remote work, one will be at the office. Check more information here.
+ 
+Diversity  Inclusion
+At Nu, we want to be sure that were building a more diverse and inclusive workplace that reflects the customers we serve and seek to empower. Thats why we hire based on equality. We consider gender, ethnicity, race, religion, sexual orientation, and other identity markers as enriching elements to our company while ensuring neither of them represent a barrier when recruiting fantastic talent.
+ 

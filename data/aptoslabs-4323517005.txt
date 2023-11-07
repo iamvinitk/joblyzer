@@ -1,0 +1,34 @@
+Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.
+Founded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.  
+Aptos (Ohlone for The People) encompasses our mission and ethos for why we build.About The Role
+We are searching for an experienced Machine Learning Engineer to join our team. Aptos recently entered a partnership with Microsoft to explore the opportunities between Web3 and AI. You will be responsible for exploring opportunities within this space. This includes our current efforts in building AI-driven chatbots that teach people about development on Aptos and empower them to query on-chain state. You will explore the collaboration between AI and blockchain. Beyond that, were excited to explore co-development or co-piloting experiences and building products with our product teams. We are looking for a bold thinker who has the ability to execute well; in return, you will receive a lot of autonomy and ownership over the projects you tackle.
+This role sits in our Palo Alto, CA office.
+What youll be doing:
+
+Build best-in-class AI chatbots that guide users through their Aptos journey by translating our research papers, blogs, and technical documentation into more accessible content
+Improve and optimize LLMs for use in production systems
+Define, build, and deliver data pipelining architecture for AI-driven applications.
+Work with the product teams to explore opportunities for AI-driven experiences.
+Work with platform and language development teams to build a first-in-class Move language and Aptos Dapp co-pilot experience.
+
+What were looking for:
+
+8 years of relevant experience
+A degree in a technical field such as Statistics, Computer Science, or similar field
+Strong data wrangling and SQL skills. You have a track record of optimizing large pipelines to run very efficiently
+Experience in at least one programming language (e.g. Python, Scala, Java)
+Experience manipulating large amounts of structured and unstructured data through pipeline development tools like Airflow
+Be able to proactively manage prioritization of work and deliver work with great quality and influence the broader team in creating leverage
+
+The base salary range for this full-time position is 160k - 260k. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in the Bay Area at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.Our Benefits
+
+100 insurance premium coverage for medical, dental, and vision for you and your dependents (US Employees)
+Equipment of your choice
+Flexible vacation time, 11 holidays, and floating company days off 
+Competitive Salary
+Equity (RSUs)
+Protocol Token Grants
+401k matching (US Employees)
+Fun and inclusive in-person and digital events
+
+Aptos is committed to diversity in the workplace, and were proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.

@@ -1,0 +1,52 @@
+Ingeniero de la Nube - EMEA
+en Canonical
+Remoto - EMEA
+Ayuda a las empresas globales a adoptar lo ltimo en infraestructura de nube privada, Linux y operaciones nativas de la nube y aplicaciones de cdigo abierto. Nuestro equipo utiliza su experticia y conocimientos para proponer soluciones a complejos problemas de clientes, permitiendo la adopcin empresarial de Linux Ubuntu, OpenStack, Kubernetes y una amplia gama de tecnologas asociadas.
+El rol est compuesto de diversas responsabilidades. En primer lugar, los miembros del equipo son arquitectos de soluciones de nube y Linux, diseando soluciones de nube privada y pblica que se adapten a las necesidades especficas de nuestros clientes. Tambin se desempean de forma prctica desplegando las soluciones, delegando al final de un proyecto una solucin funcional y probada a nuestro equipo de soporte o de servicios gestionados. Finalmente, son tambin ingenieros de software que utilizan Python para desarrollar operadores cdigo abierto de Kubernetes y Linux gestionados a travs de infraestructura como cdigo.
+Las personas que encajan en este rol son desarrolladores a los que les gusta resolver problemas de clientes a travs del diseo de soluciones, presentaciones y capacitacin.
+Qu hars:
+
+Trabajar en toda la pila de Linux, desde el kernel, las redes y el almacenamiento hasta la capa de aplicaciones.
+Trabajar en Python para disear y desarrollar cdigo fuente abierto.
+Disear soluciones de infraestructura en la nube como OpenStack, Kubernetes, Ceph, Hadoop y Spark, ya sea en mquinas fsicas o en nubes pblicas (AWS, Azure, Google Cloud).
+Ayudar a sus colegas con sus conocimientos, ideas y opiniones tcnicas.
+Hacer crecer una cultura de ingeniera saludable y colaborativa en lnea con los valores de la empresa.
+Trabaja desde la comodidad de su hogar.
+Viajar globalmente hasta un 25 de su tiempo para eventos internos y externos.
+
+Quin eres:
+
+Licenciado en algn rea relacionada a informtica, computacin, ingeniera de software, entre otros.
+Tienes conocimientos slidos de conceptos y tecnologas de computacin en la nube, como Kubernetes, Openstack, AWS, GCP, Azure, Ceph, etc.
+Tienes experiencia prctica con Linux y redes.
+Tienes conocimientos de programacin de nivel intermedio a avanzado con Python.
+Eres una persona dinmica que le encanta saltar en nuevos proyectos e interactuar con la gente.
+Has demostrado motivacin para el aprendizaje continuo
+Excelentes habilidades de comunicacin y presentacin (ingls y espaol)
+Eres una persona organizada, de fiar y comprometida.
+
+Lo que aprenders:
+
+Infraestructura OpenStack y Kubernetes
+Conocimientos de Linux Ubuntu y redes
+Amplia gama de aplicaciones y habilidades de cdigo abierto
+Trabajar directamente con clientes de variadas reas de negocios 
+Exposicin real y prctica a una amplia gama de tecnologas y herramientas emergentes
+
+Ofrecemos: 
+
+Reembolso de matrcula por aprendizaje y desarrollo personal
+Grupos de diversidad
+Trabajo desde casa
+Salario competitivo
+Premios de reconocimiento
+Vacaciones anuales
+Priority Pass para viajes
+
+Nota: El principal idioma de trabajo en Canonical es el ingls. Se espera un alto nivel de competencia en ingls, y el proceso de contratacin es nicamente en ingls. El Ingeniero de Campo en Espaa tambin trabajara con clientes locales en espaol. 
+Acerca de Canonical
+Canonical es una empresa internacional de software en crecimiento que trabaja con la comunidad de cdigo abierto para ofrecer Ubuntu, el sistema operativo en la nube nmero 1 del mundo. Nuestra misin es hacer realidad el potencial del software libre en la vida de las personas y las organizaciones. Nuestros servicios ayudan a empresas de todo el mundo a reducir costes, mejorar la eficiencia y aumentar la seguridad con Ubuntu.
+Estamos orgullosos de fomentar un lugar de trabajo libre de discriminacin. La diversidad de experiencias, perspectivas y antecedentes conduce a un mejor entorno para nuestros empleados y a una mejor plataforma para nuestros usuarios y clientes. Esto es algo que valoramos profundamente y animamos a todo el mundo a formar parte del mundo de Ubuntu. Todos los solicitantes cualificados sern considerados para el empleo sin distincin de raza, color, religin, gnero, identidad o expresin de gnero, orientacin sexual, origen nacional, gentica, discapacidad, edad o condicin de veterano.
+ 
+LI-Remote
+stack

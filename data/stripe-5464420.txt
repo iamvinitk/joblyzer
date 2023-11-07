@@ -1,0 +1,25 @@
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+ 
+About the team:
+At Stripe, product development is an extremely collaborative effort between engineering, design, analytics, partnerships, legal, risk and go-to-market teams. Youd be joining a group of experienced Product Managers who have a track record of successfully building large-scale business and products that are collectively impacting millions of users around the world.
+ 
+In EMEA, the team is responsible for ensuring all of Stripes products across payments, revenue management, banking as a service, etc. best fit the unique needs of each country, expanding and innovating on the platform in markets throughout the region. We are looking for a Product Manager whos passionate about building a winning strategy to solve the complex payments landscape, building new payment methods  flows, and improving our overall local user experience, across marketing, local data requirements, taxes, payout timings, and more in Germany, while  scaling solutions across EMEA. We need a Product Manager who understands and empathizes with German users and is driven to improve their business needs beyond payments. Youll get to work with central engineering teams both in the region in Europe as well as across our other global offices to build delightful features that span various parts of the system, as well as working with our business, sales and operations teams to understand and solve our users pain points.
+ 
+In this role, you will:
+
+Be a well-rounded product leader -- someone who has both excellent product designUX sense and strengths in market dynamics and business strategy. 
+Set the long-term product strategy for our products and platforms in your key markets.
+Be accountable for users, partners, regulators, and Stripes business performance in the region by collaborating with many stakeholder and partner teams across the company.
+Be an evangelist for German users and their needs inside and outside of Stripe to build global solutions. 
+
+ 
+We are looking for someone who has:
+
+Experience building and driving international product strategy and execution with 10 years of experience in a product role.
+Experience in the payments industry especially or other fintech domains.
+You are passionate about leading cross functional teams, and creating a strong identity and culture.
+Built products by collaborating across engineering, analytics, marketing, design and other key stakeholders.
+Approached product management from a users vantage point and is motivated by the chance to improve the lives of customers.
+Strategic vision of where Germany and the EMEA region is heading, and where technology and financial services fit into that puzzle.
+Experience managing technical software products from kick-off to ship.
+Strong written and verbal communication skills in German and English with a precise talent for articulating customer challenges.

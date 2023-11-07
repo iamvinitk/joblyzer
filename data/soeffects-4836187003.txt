@@ -1,0 +1,77 @@
+
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Advanced Projects team is a cross-functional, multidisciplinary group that handles requirements-driven hardware development projects. We are focused on engineering design, developing custom electronics to fulfill our clients needs, and identifying the best components and techniques to implement the desired functionality, while emphasizing quality and reliability. Our projects tend to be larger, longer-term engagements, though team members often split time across multiple projects.
+We are looking for people who know how to get things done, who are always looking to grow their capabilities and deepen their knowledge, and who challenge assumptions, constantly pushing for better solutions and finding novel approaches to problems old and new. If that sounds like you, youve come to the right place.
+Job Overview:
+As an Electrical Engineer, Senior (Mixed-Signal  Analog), you will find the best solutions and implementations for the problems at hand by considering both hardware- and software-based approaches. You are an enthusiastic problem solver who can learn, invent, and execute creative solutions to drive forward difficult projects to ensure success.
+Ideally, as a senior engineer, you will have a proven track record of delivering successful work and should be able to operate with a high degree of autonomy, acting as project technical lead for projects of any size, and able to drive smaller projects through to completion on your own. Beyond executing your own work, we expect our senior engineers to provide mentorship and guidance to the team, both in their areas of technical specialization and in engineering best practices in general.
+What You Will Do:
+
+Drive design efforts for electronic systems, including architecture and implementation details
+Take ownership of technical projects from schematic capture and PCB layout through hardware bring-up and troubleshooting with clients
+Perform component selection and trade studies of different implementation options to best generate and satisfy design requirements
+Provide mentorship and guidance to the team on technical topics and engineering practice
+Develop sensor interfaces and analog front-ends for data acquisition systems
+General creative analog problem solving: design of analog controllers, current limiters, circuit health monitoring, etc.
+Circuit simulation and thermal analysis of designs, including sizing of thermal management systems
+Create documentation for electronic hardware and systems
+Interface with internal teams and external clients to conduct design reviews for hardwareelectronic systems
+Support business development efforts, estimating project effort and assessing the scope of new work
+Write and execute test plans for device validation and performance characterization
+
+What You Will Need:
+
+Bachelors Degree (Electrical Engineering, Computer Science, Physics, Math, related field)
+5 years of experience working with analog or mixed-signal circuit designs, with a demonstrated passion for engineering and technology development
+End-to-end electronics design experience: taking designs from requirements generation through schematic, layout, fabrication, and hardware bringup
+Excellent written and verbal technical communication skills; ability to explain technical concepts and their implications to non-technical audiences
+Experience mentoring other engineers in technical topics
+Knowledge of PCB fabrication and assembly process, design for manufacture and design for assembly (DFM  DFA), familiarity with IPC andor JEDEC standards
+Experience interfacing with PCB and assembly vendors to have designs fabricated
+Expertise with any common ECAD tool, such as Altium Designer, KiCad, Cadence, PADS, EAGLE, etc.
+Experience in modeling, simulation, and testing of electronics
+Experience with analog small-signal circuit design (filters, op-amp circuits, signal conditioning) 
+Experience with data acquisition, designing around ADCs and DACs
+At least some exposure to power electronics design: regulators, load drivers, supply filters, protection circuitry
+
+What Would Be Useful:
+
+Masters degree (Electrical Engineering, Computer Science, Physics, Math, related field) or graduate research experience
+Experience in team-based design and build projects (e.g., Formula SAE, Solar Car, CubeSat, Rover Challenge, etc.)
+Experience managing projects, mentoring other engineers, and interfacing with technical customers
+Large-format or high-density or high-layer-count PCB design experience, preferably for aerospace, automotive, medical, or other high-reliability applications
+Expertise with Altium Designer or KiCad
+Working knowledge of embedded systems: microcontrollers, ADCDAC systems, and common communication interfaces (e.g., UART, SPI, I2C, etc.)
+Familiarity with Python andor MATLAB for data parsing and signal analysis
+Familiarity with LTSpice for circuit simulation
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 140,000-180,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

@@ -1,0 +1,81 @@
+Were looking for a Supabase Platform Engineer to join our team and elevate our PostgreSQL offerings.
+Youll work hand-in-hand with the PostgreSQL team and play an instrumental role in technical decision-making and refining internal methodologies.
+The focus of this role is around owning stability and deployment of our products. A first step is to streamline artifact buildsdeployments via our public supabasepostgres GitHub repository. This repository bundles an array of featuresproducts into docker images and AWS AMIs, giving users the ability to run Supabase on our cloud and locally. Subsequently, the role will function as a bridge between product and infrastructure teams to improve the reliability of product deployments and upgrades.
+In this role, your primary responsibilities will include:
+
+Refactoring our supabasepostgres repo to improve components and utilize nix for building, packaging, and conducting high-level infrastructure tests.
+Building tooling that allows for local builds, taps into a public cloud cache, and performs thorough full-stack infrastructure tests on every PR
+Timely PostgreSQL major, minor, and extension upgrades.
+Engaging in proactive identification and resolution of production issues in customer deployments.
+Spearheading the creation of best practices, tools, and tests to ensure enhanced stability and decreased deployment risks over time.
+
+What we need
+This role demands the following pivotal qualities:
+
+PostgreSQL Expert: A profound understanding of PostgreSQL and its associated tools. Familiarity with extensions, performance optimization, and best practices is essential.
+Infrastructure: Proven expertise in infrastructure management, tooling, and optimization.
+Self-directed  Initiative: At Supabase, we value independence and proactive problem-solving. We anticipate you to be a dynamic self-starter, thriving in asynchronous collaboration across diverse teams. Your knack for spotting areas of improvement and commitment to realizing those enhancements will be key.
+
+What youll do
+
+Improve the utility and efficiency of our PostgreSQL offerings.
+Contribute to the enhancement of our public GitHub repositories, especially supabasepostgres.
+Develop tooling and solutions within the Supabase ecosystem.
+Engage with customers routinely, ensuring our solutions resonate with their needs.
+Address and resolve GitHub and Support issues.
+
+Must haves
+
+3 years experience with PostgreSQL and its ecosystem.
+Familiarity with Nix, Docker, Git, GitHub and associated tooling.
+Eagerness to mold and adapt our development toolsstack.
+Comfortable with regular interactions with customers
+
+Nice to haves
+
+Experience with PostgREST, gotrue, and other Supabase stack components.
+Exposure to public cloud platforms and deployment methodologies.
+Contributions to significant, open-source projects in the PostgreSQL domain.
+
+We offer:
+
+100 remote work from anywhere in the world. No location-based adjustment to your salary.
+ESOP (equity ownership in the company)
+Autonomous work. We work collaboratively on projects, but you set your own pace.
+Health, Vision and Dental benefits. Supabase covers 100 of the cost for employees and 80 for dependents
+Generous Tech Allowance for any office setup you need
+Annual Education Allowance
+Annually run off-sites.
+
+BUILD IN A WEEKEND. SCALE TO BILLIONS
+Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.
+Each project within Supabase is an isolated Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.
+We are a fully remote company.
+Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.
+About the team
+
+Were a startup. Its unstructured.
+Collectively founded more than a dozen venture-backed companies.
+More than 10 different nationalities.
+We deeply believe in the efficacy of collaborative open source. We support existing communities and tools, rather than building yet another xx.
+We dogfood everything. If you use it in your project, we use it in Supabase.
+
+Process
+
+The entire process is fully remote and all communication will happen over email or via video chat.
+Once youve submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.
+If you pass the screen you will be invited to up to four follow up interviews. The calls:
+
+usually take between 20-45 minutes each depending on the interviewer.
+are all 1:1.
+will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.
+
+
+Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+
+ask one or two follow-up questions over email or a quick call.
+go directly to making an offer.
+
+
+
+ 

@@ -1,0 +1,42 @@
+
+About Kinaxis  
+Kinaxis is the global leader in modern supply chain management. We serve supply chains and the people who manage them in service of humanity. Our software is trusted by renowned global brands to provide the agility and predictability needed to navigate todays volatility and disruption. We combine our patented concurrency technique with a human-centered approach to AI to empower businesses of all sizes to orchestrate their end-to-end supply chain network, from multi-year strategic planning through down-to-the-second execution and last-mile delivery. For more news and information, please visit kinaxis.com or follow us on LinkedIn. Senior Application Consultant, Enterprise Scheduling
+Job location: This is a remote position. You can work from home and be located anywhere in Canada or United States
+About the team
+The Senior Application Consultant is a consulting position within Kinaxiss Professional Services, Innovation and Data Science Services organization.  You will work closely with other team members within our multidisciplinary team and with other teams cross-functionally, in order to deliver end to end customer projects related to innovative applications, such as Production Planning and Scheduling.
+What you will do
+
+Participate in customer business requirements discovery sessions and help develop requirements and technical specifications documentation.
+Understand customers supply-planning needs related to production scheduling and group planning (open sales orders, delivery coordination of parts to expedite flow of material, production schedule, supplier purchase orders, manufacturing work orders, warehouse management, exceptions related to schedule impact) and manage customer-facing discussions.
+Implement innovative software solutions incorporating new capabilities to complex business problems while maintaining best practices.
+Provide workflow and process optimization
+Support data management and data integration related activities as required.
+Support the validation and testing of the solution and capture user feedback.
+Guide and mentor other team members in our extended team and help scale innovations for all new services.
+
+What we are looking for
+
+MS Degree in one of the following fields: Operations Management, Operations Research, Industrial Engineering, or a related field.
+3-5 years of experience in Production Planning andor Job Shop Scheduling or a related field.
+5 years of experience in Supply Chain Planning or Management
+Knowledge of raw materials, production processes, quality control, costs, and other techniques for maximizing the effective manufacture and distribution of goods
+Exceptional interpersonal, communication (both in written and in oral formats), facilitation and presentation skills.
+Interest for new technologies and fast learner.
+Self-starter with strong problem-solving skills.
+Ability to manage multiple priorities and perform well in a fast-paced environment.
+
+Things that would definitely help
+
+1-2 years of relevant experience in manufacturing is a strong asset.
+Prior experience of RapidResponse a strong asset.
+Proficiency and experience in JavaScript or similar is a strong asset.
+Indepth knowledge of ERP or MRP software an asset
+What we have to offer
+
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never done. Thats because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems theyre passionate about.
+Great People - We take our work seriously, but we dont take ourselves too seriously! Its in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+
+For more information, visit the Kinaxis web site at www.kinaxis.com or the companys blog at http:blog.kinaxis.com.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprogramskinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.

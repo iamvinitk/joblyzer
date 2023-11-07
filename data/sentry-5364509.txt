@@ -1,0 +1,36 @@
+About Sentry
+Bad software is everywhere, and were tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+With more than 217 million in funding and 90,000 organizations that believe were on to something, were building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.About the role
+As an Engineer on our Web Frontend SDK team, youll join a cross-functional division of Software Engineers that are responsible for the client-infrastructure operations of Sentry. This includes building and maintaining our SDKs that are used to send events to the Sentry backend. You will also be involved in the design and evolution of the APIs used to ingest events into the backend.
+In this role you will
+
+Work in the client infrastructure team to improve and evolve our JavaScript SDKs
+Collaborate with Infrastructure and SRE teams to build solutions that scale (we ingest over a billion events every day)
+Write unit and integration tests that ensure the correctness of your work, as well as strong documentation to help educate both peers and customers
+Assist Customer Operations to resolve live customer issues when bugs sneak into production caused by the SDKs
+
+Youll love this job if you
+
+Take pride in building features that dont just work but are also delightful to use
+Want to build a product by developers for developers
+Want to join a modern software development team that iterates and ships code rapidly
+Get excited about contributing to open source full-time — our product is entirely Open Source
+Enjoy working with collaborative, thoughtful engineers who push themselves and others to do better
+Love to interact with your user base - whether it be on GitHub or in-person at conferences
+
+Qualifications
+
+5 years as a Software Engineer andor related role (e.g. web developer, SDK engineer)
+Experience in developing web applications  libraries  SDKs
+Experience in programming languages used in web applications (Javascript, Typescript, Node, etc.)
+Bonus points for experience with other programming languages, or experience maintaining open-source libraries
+Good written and spoken English communication skills
+Live in the Vienna, Austria area or are willing to relocate
+Please note visa sponsorship is not available for this position
+
+We are obliged by law to quote the minimum wage of EUR 52,220,-- gross per year for this position, in accordance with the respective collective agreement (IT-KV). The salary that Sentry offers you is adjusted to the current market situation and our starting point is EUR 85,000-- gross per year.
+A successful candidate will be eligible to participate in Sentrys employee benefit plansprograms applicable to the candidates position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Companys benefit plansprograms.
+ Equal Opportunity at Sentry
+Sentry is committed to providing equal employment opportunities to its employees and candidates for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or other legally-protected characteristic. This commitment includes the provision of reasonable accommodations to employees and candidates for employment with physical or mental disabilities who require such accommodations in order to (a) perform the essential functions of their jobs, or (b) seek employment with Sentry. We strive to build a diverse team, with an inclusive culture where every teammate can thrive. Sentry is an open-source company because we believe that everyone, everywhere, should have the ability and tools to make great software. Software should be accessible. That starts with making our industry accessible.
+If you need assistance or an accommodation due to a disability, you may contact us at recopssentry.io.
+Want to learn more about how Sentry handles applicant data? Get the details in our Applicant Privacy Policy.

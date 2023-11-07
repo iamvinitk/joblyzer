@@ -1,0 +1,30 @@
+About Capco
+Capco, a Wipro company, is a global technology and management consultancy specializing in driving digital transformation in the financial services industry. With a growing client portfolio comprising of over 100 global organizations, Capco operates at the intersection of business and technology by combining innovative thinking with unrivalled industry knowledge to deliver end-to-end data-driven solutions and fast-track digital initiatives for banking and payments, capital markets, wealth and asset management, insurance, and the energy sector. Capcos cutting-edge ingenuity is brought to life through its Innovation Labs and award-winning Be Yourself At Work culture and diverse talent.
+Job Description 
+
+Experience as a BackendFull Stack Developer or similar role
+Familiarity with common stacks Knowledge of multiple front-end languages and libraries (e.g. HTML5 CSS, JavaScript, Progressive Web App, XML, jQuery)
+Knowledge of multiple back-end languages (e.g. Java, Scala, Python, C, J2EE, Web Services) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB, SFDC), web servers (e.g. Apache), Application Servers (e.g. JBoss) and UIUX design
+Superb communication and collaboration skills
+Ability to translate business use cases into good taxonomy design
+Demonstrable skills in understanding importance of data design
+Strong knowledge of support  services space
+Strong knowledge of web support analytics
+Strong knowledge of knowledge base management within Digital support space.
+Passionate about website usability with great instincts for improving customer support experience Strong program or project management skills.
+Strong organizational proficiency and attention to detail Excellent verbal and written communication skills including preparation and delivery of presentations,
+workshop design and facilitation Experience working with geographically distributed teams
+Demonstrate the ability to independently handle projects and communicate clearly with partner team
+Ability to express ideas clearly, expertly, and diplomatically
+
+ 
+Education  Experience 
+
+Engineering Degree in Computer Science or related field 
+At least 2-5 years experience in software development with specific experience building software applications end to end.
+Experienced in business processes and forms solutions
+Experience in Banking  Financial Services industry
+Experienced in requirement management tools
+
+ 

@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+About Celonis Labs:
+Celonis Labs is an independent RD unit within Celonis. We look ahead, for Celonis. We go out and identify new business models and validate their potential. We conceptualize whats new and whats next. Our inspiration stems from untapped potential in process mining and execution management as well as adjacent markets.
+We are seeking a talented Senior Fullstack Engineer to join our team at Celonis.
+The Role:
+As a Senior Fullstack Engineer, you will bring your expertise in Frontend and Backend engineering to our innovative projects and continuously evolving concepts. You will have the opportunity to work with cutting-edge cloud technology, stay on top of trends, and drive projects with an ever-increasing degree of independence. This is a unique opportunity for talented engineers to push their boundaries and think big.
+Responsibilities:
+
+Innovate beyond our existing products and bring new ideas to life for Celonis
+Demonstrate a strong command of both frontend and backend technologies
+Develop on the frontend and backend of our projects and ensure a seamless integration
+Implement and improve our test strategy to ensure high quality
+Ensure our solutions are scalable and maintainable and perform well
+Work closely with your fellow engineers, project managers, and designers to create cohesive and efficient solutions. Collaborate with adjacent teams to drive a holistic project success
+Learn and grow, not only in technical expertise but also in any other necessary aspects of making our projects reality
+Brainstorm with the entire Celonis Labs team, research potential solutions, and ultimately bring them to life.
+
+Your qualifications:
+
+Bachelors or masters degree in a technical field (e.g., Computer Science, Software Engineering) or equivalent experience
+5 years of experience in full stack engineering roles, demonstrating expertise in both frontend and backend technologies
+5 years of experience building production-grade software with Typescript in both frontend and backend
+Experience in enterprise software development
+Strong frontend skills, preferably using Angular
+Strong backend skills with expertise in the Node.js ecosystem
+Proficiency in API design (REST, GraphQL, gRPC)
+Knowledge of state management, caching and storage in the browser
+Proficiency in TypeScript, HTML5 and CSSSCSS
+Understanding of web security best practices, including authentication and authorization mechanisms and protocols (TLS, CORS, Oauth2, OpenID connect, )
+Knowledge of cloud platforms such as AWS (GCP, Azure) and how to deploy web applications on them
+Experience working in modern software development teams (Git strategy, CICD, Testing, )
+Ability to quickly learn new things without tight supervision
+Ability to understand business problems and the needs of our users
+Problem-solving attitude
+Collaborative team spirit
+Fluent in English
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

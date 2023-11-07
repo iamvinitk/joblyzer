@@ -1,0 +1,104 @@
+Blend is a diverse team of problem solvers who believe that the worlds financial resources should be more accessible. Our cloud banking platform is used by Wells Fargo, U.S. Bank, and over 330 other financial services firms to acquire more customers, increase productivity, and deliver end-to-end digital experiences. Our software enables our customers to process an average of more than 5 billion in loans per day, making it possible for consumers to reach their financial goals faster and lead better lives. Come do work that matters.
+ 
+Blend is a diverse team of problem solvers who believe that the worlds financial resources should be more accessible. Our cloud banking platform is used by Wells Fargo, U.S. Bank, and over 330 other financial services firms to acquire more customers, increase productivity, and deliver end-to-end digital experiences. Our software enables our customers to process an average of more than 5 billion in loans per day, making it possible for consumers to reach their financial goals faster and lead better lives. Come do work that matters.
+
+As an Auditor for IT Audit  SOX on our Internal Audit  Enterprise Risk Management team, you will be focused on IT audits of cloud-based and custom developed systems, SOX 404 testing, as well as Enterprise Risk Management (ERM) and Fraud Risk Assessment (FRA) activities.  This role helps the company to accomplish its objectives and improve IT operations through an independent and objective assurance and advisory approach designed to add value. You will report to the ManagerSenior Manager - IT Audit SOX, and will work with various business  IT partners.  Specifically, this role is responsible for assisting the ManagerSr. Mgr. in planning IT audits in all areas of IT, conducting fieldwork (executing, documenting and interpreting testing), and preparing draft audit findings for reporting to senior management.  This role will also be the systems administrator of the SOX tool, AuditBoards SOXHub (online vendor training to be provided). 
+The ideal candidate is an ex-Big 4, highly motivated self-starter with prior experience in IT Internal Audits, Enterprise Risk Management, and SOX in the Fintech or Software industry who has superior written and oral communication skills, takes pride in the accuracy and timeliness of their work and is used to working as part of a remote team and collaborating with business partners in offshore locations such as India and Mexico.   
+How youll contribute: 
+
+Assist in planning and conducting IT internal audit projects in accordance with the Institute of Internal Auditors (IIA) professional practice standards
+Assist the ManagerSr. Mgr. with administrative coordinationproject management of SOX 404 ITGC  IT Application Controls testing including IPEKey Reports  Spreadsheets, SOC report testing, executing the annual IA IT audit plan and Enterprise Risk Assessment, based on defined timelines and budgets
+Contribute to the identification and assessment of IT risks
+Contribute to ongoing development of the ERM, Fraud Risk Management programs
+Perform interviews with stakeholders, take accurate detailed notes
+Schedule meetings, request documents from business partners
+Obtain, analyze and evaluate existing documentation, previous reports, data, flowcharts
+Document processes in concise narratives, as applicable
+Develop process flowcharts and data flow diagrams
+Evaluate internal controls design and operating effectiveness
+Evaluate compliance with policies and procedures
+Perform work within the budget and manage tasks accurately based on timeline
+Develop audit test procedures when needed 
+Perform Test of Design (TOD) and Test of Effectiveness (TOE) based on pre-existing audit program, re-test remediated controls to determine if the control gap was successfully remediated 
+Create new Tests as needed
+Prepare clear, concise, accurate, logical, and detailed work papers for work performed and conclusions reached; document these according to IIA  PCAOB professional practice standards
+Identify and research issues with supported analysis and propose solutions
+Explain complex, technical andor sensitive information in a straightforward manner
+Provide meaningful recommendations to improve policies procedures systems processes and address root causes of ineffective or inefficient controls 
+Work with business partners to address control gaps and monitor action plans
+Exercise judgment and discretion related to conducting audit work
+Participate in special projects as assigned by Internal Audit management
+Promote an ethical and risk-aware culture at the company
+Maintain knowledge of the business of Blend Platform and Title365, including the underlying technologies
+Maintain knowledge of generally accepted auditing and accounting standards and maintain professional certifications (e.g., CIA, CISA, CISSP)
+Perform system administration activities for the SOXHub application (user provisioning, de-provisioning, work stream tasks, issues management, controls audits to ensure completeness of fields, optimize functionality and participate in vendor webcasts and meetings such as health checks to facilitate Blend adopting all available functionality
+
+Who you are: 
+
+Bachelors Degree in a business or technology discipline
+Big 4 (Deloitte, EY, KPMG, PwC) Advisory or Assurance background
+Strong understanding of business  IT operations processes for a software company
+Strong understanding of Software as a Service (SAAS)Platform as a Service (PAAS)
+Strong business judgment that enables issue identification and appropriate escalation
+Strong critical thinking, analytical and investigative skills
+Strong project and time management skills
+Ability to effectively juggle multiple projects and keep ManagerSr. Mgr. informed
+Ability to think independently, take ownership, and drive initiatives to resolution
+Ability to provide meaningful recommendations to improve policies, procedures, systems, processes; as well as to address root causes of ineffectiveinefficient controls 
+Ability to explain complex andor sensitive information in a straightforward manner
+Ability to manage stakeholders in a service oriented, problem-solving, practical mindset
+Strong rapport and relationship building skills to collaborate and positively influence partnerships across the company
+Proactive and self-initiating work style
+Integrity, openness, and transparency
+Intellectual curiosity
+Critical thinker, ability to identify root cause of issues
+
+QualificationsRequirements: 
+
+Minimum of 3 years experience in IT audit and SOX 404 testing
+Experience working as part of a remote team
+Work collaboratively with partners to address control gaps, monitor action plans
+Prior experience obtaining, analyzing and evaluating existing documentation, previous reports, data, flowcharts
+Prior experience developing process flowcharts and data flow diagrams from scratch
+Prior experience documenting processes in concise narratives
+Prior experience performing interviews and taking accurate notes for audit workpapers
+Prior experience developing audit test procedures from scratch based on objectives
+Prior experience executing SOX 404 ITGC and IT audit testing according to defined budgets and timelines, including administrative tasks such as meeting coordinationscheduling and requesting documents
+Prior experience preparing clear, concise, accurate, logical, and detailed workpapers for work performed and conclusions reached
+Prior experience determining root causes for control deficiencies
+Prior experience identifying and researching issues with supported analysis, and proposing actionablepractical solutions, drafting audit reports
+Prior experience working with IPE (Information Provided by Entity) and testing the completeness and accuracy of key reports and spreadsheets
+Prior experience assisting control owners in completing SOC (Service Organization Control) Report reviews for SOC1, including controls mapping and mapping of Complementary End User Computing Controls
+Experience with Visio, SOXHub, NetSuite, Workday HCM,  Salesforce, Slack, GSuite
+Experience with auditing cloud-based, open-source systems  tools
+Experience with auditing Agile IT
+Experience with SOC, ISO, PCI frameworks
+Excellent written English communication skills: clear, concise, professional
+
+Certifications: 
+
+Required:
+
+Certified Information Systems Auditor (CISA) or to obtain the CISA within year 1 of employment
+
+
+Optional: Certified Fraud Examiner (CFE), Certificate in Risk Management Assurance (CRMA), Project Management Professional (PMP), Certified Information Systems Security Professional (CISSP)
+
+To comply with local legislation, as well as to provide greater transparency to candidates, we share base pay ranges on all job postings regardless of desired hiring location.
+For full time hires, the hiring base pay range for this position is between 76,500 and 93,500. Beyond base pay, Blend benefits and perks are described below.  
+Final base pay offer amounts will vary depending on multiple factors, including but not limited to function, level, geographic location, job related knowledge, skills, and experience. Base pay will be adjusted for part-time roles to reflect scheduled hours.
+Benefits and Perks: 
+
+Meaningful equity 
+401 (k) plan with employer matching contribution
+Comprehensive health benefits
+16 weeks of paid parental leave
+Generous vacation policy
+Work from home office set up stipend and internet stipend during COVID-19
+Wellness benefits covering a variety of wellness activities, gym memberships, fitness classes and more
+
+  
+Blend is an equal opportunity employer that values diversity, inclusion and belonging. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We will consider for employment all qualified applicants with arrest and conviction records in a manner consistent with applicable laws.
+Notice at Collection and Privacy Policy for California Job Applicants
+ 
+If you have a disability and you wish to discuss potential accommodations related to applying for employment, please contact Blend at (650) 550-4810 or hraccessibilityblend.com.

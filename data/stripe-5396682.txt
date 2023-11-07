@@ -1,0 +1,59 @@
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Finance Operations (FinOps) team provides and enhances core business services that are the backbone for Stripe. FinOps uses data and operational excellence to deliver technology solutions, procurement, billing and payroll services, strategic sourcing, and supplier relationship management to Stripe.
+What youll do
+Were looking for a Global Payroll Analyst to join our team. This individual will help us improve user experience through accurate and timely multi Country (25) payroll processing, workflows and deliver improvements in our integrated financial systems with business partners, financial colleagues, and engineers.
+The ideal candidate will have prior payroll experience across multiple geographies (focus in APAC, US and EMEA), payroll systems knowledge, outstanding partnering and attention to details.
+This role will move Global payroll operations to the next level, being the first payroll role established in our SDC (Stripe Delivery Centre in India), and supporting global payroll recurring operations, as well as acting as a key contributor of process improvement initiatives, driving substantial impact to our organization. If this sounds like you - wed love to hear from you!
+Responsibilities
+
+Manage current in-country payroll vendors, ensuring payrolls are accurate, on-time, and in compliance with tax and regulatory requirements.
+Support global payroll processes, such as global inputs preparation and review preliminary payroll calculations from in-country payroll vendors, advising on changes and providing approval for each payroll.
+
+
+Support and partner with the Global Payroll team (e.g. taking ownership of less complex US payroll tasks), as well as with internal stakeholders (HR, Internal Systems, Global Mobility, Accounting, Tax, Benefits) across various locations.
+Drive improvements in how Workday (and other tools) are used at Stripe, streamlining processes across countries.
+Support payroll operations in new countries as Stripe expands.
+Support in the implementation of controls and compliance mechanisms to make sure payrolls are compliant with local regulations.
+
+
+Coordinate off-cycle payrolls for taxable equity (e.g RSUs) transactions and terminations. 
+
+
+Respond payroll inquiries and support building self-service knowledge materials to employees, providing outstanding customer service.
+
+
+Support internal and external audits.
+Monitor and track KPIs.
+Organize information and content of the payroll function (e.g. Desktop procedures).
+Participate in ad-hoc projects to deliver process improvements and add-value to the Payroll Org.
+
+ 
+Our ideal candidate will have:
+
+3 years of proven experience in multi-country payroll administration, and within that, India payroll is a must.
+Excellent written and verbal communication skills, including the ability to interact effectively with all levels throughout the organization.
+Fluent English
+An incredible eye for detail - you frequently spot and prevent errors others missed.
+
+
+Advanced Excel experience working with large data sets.
+
+
+Demonstrated sound judgment and ability to handle highly sensitive data. 
+Strong analytical, critical thinking, and creative problem-solving capabilities.
+Passion for providing outstanding customer service.
+Experience in working with in-country payroll vendors.
+Experienced in working with dynamic and fast-paced company environments and various stakeholders
+
+Nice to have: 
+
+Basic Accounting knowledge - understanding of journal entries, monthly close, reconciliations, and general accounting principles.
+Strong knowledge of payroll and HRIS systems, especially Workday and Payslip.
+Experience creating and maintaining internal controls.
+EMEA orand APAC andor US Payroll experience
+Experience supporting a globally mobile workforce (familiarity with secondments, shadow payrolls, hypo tax, and tax equalization).
+Experience with data analytics tools, especially Alteryx. 
+Experience with Project management software, especially Asana.
+In-house payroll experience (e.g. India).

@@ -1,0 +1,49 @@
+ 
+ About the Role
+We are growing the engineering team and looking for engineers who have the chops to build and deliver world-class technology. You will be part of a talented team of engineers with a shared mission to make data easily accessible.
+What You Will Be Doing
+
+Solve challenging problems that arise in providing an interactive experience on data warehouses for data exploration and analysis.
+Build with modern tools and languages like Rust, Go, GraphQL, and Kubernetes
+Build infrastructure to support a modern cloud application
+Develop new algorithms and techniques for improving the performance and interactivity of our multi-tenant cloud application
+Design and implement new technologies and features to support our fast growing user base
+Collaborate with cross-functional groups - backend, frontend, design, product, customer support, sales and marketing to build an innovative product
+
+Qualifications We Need
+
+Strong Computer Science fundamentals
+5 years industry experience building and maintaining high-quality software
+Experience building and deploying robust and secure web APIs
+Desire to be a great teammate and have fun at work
+Strong sense of craftsmanship, and a healthy academic curiosity
+
+Qualifications We Want (also, skills youll learn!)
+
+Experience building systems for data analytics
+Distributed systems monitoring and profiling skills
+Knowledge of cloud application security models
+SQL query optimization and database internals
+Administered cloud service infrastructure (GCP, AWS)
+Startup experience
+
+Additional Job details
+The base salary range for this position is 150k - 220k annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidates qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Sigma Computing. This role is eligible for stock options, as well as a comprehensive benefits package.Note: The world around us is changing, but we at Sigma Computing are growing and scaling. We raised our Series C in Dec 2021. With that, and us being able to 3X our revenue year on year, hiring and building out the best version of our product is priority. That is why we want to talk to you.
+About us:
+At Sigma Computing, our mission is to empower everyone to make the best possible decisions at every turn by removing the barriers that prevent people from analyzing data across sources and delivering the full spectrum of self-service cloud analytics and business intelligence.
+We raised a 300M Series C from Co-Leads D1 Capital Partners and XN, Existing Investors Sutter Hill Ventures and Altimeter Capital, and Snowflake Ventures.
+Come join us to help us be smarter and grow together!
+Benefits For Our Full-Time Employees:
+
+Equity
+Generous health benefits
+Flexible time off policy. Take the time off you need!
+Flexible schedule, do the work you need to get done in the time you have to get it done
+At least 12 weeks of paid bonding time for all new parents
+Traditional and Roth 401k
+Commuter and FSA benefits
+
+Sigma Computing is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow.
+Note: We have an in-office work environment in both of our SF  newly opened NYC office.
+ 

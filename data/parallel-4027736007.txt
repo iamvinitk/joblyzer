@@ -1,0 +1,31 @@
+Parallel Systems is a Series A startup company developing the future of intermodal transportation. Our mission is to decarbonize freight while improving supply chain logistics and safety. We are developing vehicles and software to create new autonomous and electric transportation systems for existing rail infrastructure.
+At Parallel Systems, we value the team as much as the mission. We want to work with talented people who are humble, motivated, and persistent. Our most successful team members are self-starters and collaborate with others to reach our collective goals.
+
+As a Senior Software Engineer in Perception at Parallel Systems, you will be working to solve challenging problems in the design and implementation of the perception system for our autonomous rail vehicle. You will work closely with other engineers (including electrical, mechanical, and software) to overcome challenges and contribute towards a reliable, safe vehicle. As an early employee at a fast-moving startup, you will work on a multitude of technical projects and shape the direction of the company.
+
+ 
+Responsibilities 
+
+Train neural networks for computer vision tasks, such as object detection, tracking, depth estimation, and SLAM
+Validate and optimize your models for deployment into production on our autonomous rail vehicles
+Incorporate recent advances in machine learning and computer vision into our stack
+Deliver company objectives and execute plans to hit schedule targets
+Mentor other software engineers and contribute to the perception teams technical growth
+
+Basic Qualifications
+
+BS in Computer Science, Electrical Engineering or similar engineering discipline
+4 years experience in software development
+2 years experience with Python
+Experience with PyTorch or similar machine learning framework
+Experience with scientific computing libraries such as numpy, pandas, or scikit-learn
+
+Preferred Qualifications 
+
+MS or PhD in machine learning, computer vision, or a related field
+Experience with common neural network architectures for computer vision
+Experience in driving projects from start to end, including conception, experimentation, iteration, and integration into a working product
+Experience with software development teamwork skills including the use of version control and conducting code reviews
+
+ Please note the national salary range listed in the job posting reflects the new hire salary range across levels that would be applicable to the position. Final salary will be commensurate with the candidates final level. Also, this range represents base salary only and does not include equity or benefits, if applicable.150,000year to 215,000year  equity  benefits150,000—215,000 USDParallel Systems is an equal opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to any discriminatory factor protected by applicable federal, state or local laws. We work to build an inclusive environment in which all people can come to do their best work.
+Parallel Systems is committed to the full inclusion of all qualified individuals. As part of this commitment, Parallel Systems will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, andor to receive other benefits and privileges of employment, please contact your recruiter.

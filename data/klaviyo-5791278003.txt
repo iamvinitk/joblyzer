@@ -1,0 +1,40 @@
+At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If youre a close but not exact match with the description, we hope youll still consider applying. Want to learn more about life at Klaviyo? Visit careers.klaviyo.com to see how we empower creators to own their own destiny.Klaviyo is looking for a Senior Director of Product Analytics and Operations who will lead key functions that support the entire Klaviyo Product organizations ability to understand how well we are improving customer value.  This role reports to the VP, Product and requires using a mix of skills including deep analytical skills, hypothesis driven thinking and cross-functional collaboration. Please note that this role is located in Boston and does require an onsite component. Fully remote candidates will not be considered at this time.
+This role will build and lead multiple teams within the product organization: 
+
+Product Analytics ensures that we can measure our progress against our customer impact goals so that we can make data-driven decisions that drive customer value. This includes ensuring that we have the correct tooling, conducting the analysis, and building out dashboards. 
+Product Operations ensures that Product can collaborate effectively with engineering and design and understand our progress against our deliverable timelines. This includes managing any tooling required, including relevant processes. 
+Research Coordination ensures that PMs can connect with customers for customer research so that we are building products that meet our customers needs. This includes ensuring that we can recruit customers at scale. 
+
+How You will Make a Difference:
+Partner with stakeholders throughout the RD organization to guide our product analytics strategy and scope, shape and prioritize projects, and foster cross-team collaboration.
+
+Use strong people leadership skills and product mindset to ensure your teams are successful in delivering a wide variety of insights and recommendations. 
+Be a strong advocate for the power of data and research to identify limitless opportunities for growth for our products and customers.
+Drive long term growth of products through a combination of data analysis, product ideation, and experimentation to optimize product experiences.
+Understand trends in user behavior and product usage to influence growth strategy.
+Help the organization identify opportunities to drive growth and prioritize them to maximize long-term growth.
+Partner closely with engineering. design, and other members of the product team to land impact on product goals. 
+Build credibility through structure and clarity, and acting as a trusted strategic partner.
+
+Required Skills:
+
+Expertise using SQL to extract, clean, and transform data in large, complex, nested databases.
+Expert in performing detailed statistical analysis, modeling techniques and results interpretation.
+Knowledgeable in hypothesis testing and different approaches to experimentation.
+Proficient in common dashboard tools (Tableau, Thoughtspot, Heap) to drive self-serve insights.
+
+Experience:
+
+12 years experience leading product analytics; with at least 5 years leading a product analytics team.
+Autonomously managed a 20 person organization, including talent development, goal-setting and headcount planning. 
+Experience working cross-functionally with diverse business stakeholders.
+Experience leading  similar functions. In other words, you know what good looks like in research and analytics because youve seen the pattern or the anti-pattern. 
+Worked on a SaaS product or company.
+Worked in an analytical and technical role. 
+Defined success metrics for product features and teams. 
+Excellent written and verbal communication skills and strong intellectual curiosity.
+Compelling and persuasive oral and written storytelling ability.
+The starting pay range for this role is listed below. Sales roles are also eligible for variable compensation and hourly non-exempt roles are eligible for overtime in accordance with applicable law. This role is eligible for benefits, including: medical, dental and vision coverage, health savings accounts, flexible spending accounts, 401(k), flexible paid time off and company-paid holidays and a culture of learning that includes a learning allowance and access to a professional coaching service for all employees.Starting Pay Range For All US Locations:240,000—360,000 USDGet to Know Klaviyo
+Were Klaviyo (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party data accessible and actionable like never before. We see limitless potential for the technology were developing to nurture personalized experiences in ecommerce and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious and collaborative teammates who stay focused on our north star: delighting our customers. If youre ready to do the best work of your career, where youll be welcomed as your whole self from day one and supported with generous benefits, we hope youll join us.
+Klaviyo is committed to a policy of equal opportunity and non-discrimination. We do not discriminate on the basis of race, ethnicity, citizenship, national origin, color, religion or religious creed, age, sex (including pregnancy), gender identity, sexual orientation, physical or mental disability, veteran or active military status, marital status, criminal record, genetics, retaliation, sexual harassment or any other characteristic protected by applicable law.
+You can find our Job Applicant Privacy Notice here.

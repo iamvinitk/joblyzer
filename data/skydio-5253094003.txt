@@ -1,0 +1,25 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:
+Skydio is built around deep technological investments in autonomy that lead to breakthrough products. We are looking for a world-class engineering leader to manage and grow a team of experienced and dedicated autonomy engineers who built and continue to analyze and improve our core state estimation and obstacle avoidance systems (core vision).  You will lead the core vision team and own these systems, where we have already invested a decade of research and development.  Skydios vision-based state estimation and obstacle avoidance are recognized as industry leading technologies, allowing our drones to fly autonomously at scale in unknown environments.  You will improve the robustness and capabilities of core vision, investing in new state-of-the-art approaches to support new hardware solutions and provide trustworthy autonomy in even more challenging conditions.
+Core vision is a part of the larger overall autonomy team.  Our autonomy team has incredible technical strength in solving complex algorithmic challenges. From inspection to cinematography to situational awareness, our drones are general purpose tools that are creating value for countless industries as the emerging technology crosses into mainstream use.
+Read about our team here: http:autonomy.skyd.io 
+How youll make an impact:
+
+Leverage robotics and computer vision experience and high quality software engineering to bring state-of-the-art autonomy technology to market
+You will execute on complex cross-team goals, collaborating across our autonomy, product management, embedded, mobile, cloud, hardware, and flight test teams with emphasis on excellent communication and collaboration
+You will hire and mentor world-class engineers working on our core vision system
+You will leverage your experience and best practices to uphold and improve Skydios engineering standards and drive infrastructure investments that make us successful
+You will apply research and develop state-of-the-art approaches to core vision problems, and balance this work with practical engineering to get these approaches integrated into our shipping product.  You will get to see your work used by actual customers!
+You will blend geometric and deep learning approaches to solve real world problems, leveraging our existing expertise in both.
+
+What makes you a good fit:
+
+Hands-on technical leader with strong software engineering experience in robotics andor computer vision
+Deep understanding of topics in robotics, computer vision, and software systems
+Proven leadership, management, recruiting, team building, and communication skills
+Solid fundamentals in 3D geometry, mathematics, and linear algebra
+You love building flying robots and making them do amazing things in the world
+
+Compensation Range:  The annual base salary range for this position is 187,000 - 276,000. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends. 
+For some positions the pay may be dependent upon the individuals regional location. LI-PG1At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

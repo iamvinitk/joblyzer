@@ -1,0 +1,38 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Sr. Energy Storage Systems Engineer establishes and implements requirements of the Energy Storage System (ESS) and its related components. The position partners with ESS leaders to determine requirements of system and component function, performance, safety, reliability, and certification for eVTOL application, and creates verification and validation plans to ensure development per Aerospace Recommended Practice guidelines, ARP4754A. The role works closely with different engineering fields and collaborates with other HWSWCell Engineers on the Battery team and other multi-functional team members (SystemSafety engineers) to craft matching processes and tools for required compliance activities.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Establishes and implements requirements for Energy Storage Systems and related components in partnership with ESS technical leadership
+Review engineering hardware system development cycle data for BMSESS for certification process conformance
+Populate system and component level requirements using management tool (IBM DOORS)
+Analyze the technical aspects of development in design, verification, or validation phases for technical difficulty, DAL assessment, and justification
+Integrate processes of ARP4754A in the hardware development lifecycle, and support system team to secure and ensure certification
+Audit engineering activities for compliance, report, and watch for non-conformances against the standards for BMSESS system and subsystems towards airworthiness regulations including DO254A, DO178C, DO160G, and others as needed
+Identify process improvements to meet the certification requirements and improve metric gathering methods
+Participate in change control board to review audit process and artifacts and coordinate with system designers and certification engineers
+Support regulatory agencies during audits, reviews, and assessments
+May require up to 25 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in systems engineering, electrical engineering or related field required; Masters or PhD degree preferred (an equivalent combination of education and experience may be considered)
+Minimum five (5) years of experience in an aerospace certification projects (automotive or other industries with high voltage systems will be considered)
+Experience in developing plans and implementation for electrical and electronic systems complaint to DO254A and DO160G requirements
+Ability to review installation considerations to resolve applicable environmental conditions for qualification and DO160G testing
+Basic knowledge for electronic and electrical systems and subsystems for aerospace or other industries with high voltage systems
+Good understanding of safety-critical component development and design
+Highly motivated and has strong proficiency towards detailed and highly thorough development processes and decision making
+Ability to build shared networks among peers and multi-functional teams quickly
+Proactive delivery of communication and follow-up
+Excellent skills required in technical communication, and reliance on data for issue resolution and decision making
+Sense of urgency, proactive delivery of communication and follow-up
+Excellent organizational skills and attention to detail
+Experience with engineering support tools for requirements and configuration management such as IBM Rational Doors, 3D EXP, or other
+Proficiency with MS Office Suite specifically for data analysis, document creation and reporting
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

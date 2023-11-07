@@ -1,0 +1,39 @@
+Software is eating the world, but AI is eating software. We live in unprecedented times  AI has the potential to exponentially augment human intelligence. Every person will have a personal tutor, coach, assistant, personal shopper, travel guide, and therapist throughout life. As the world adjusts to this new reality, leading platform companies are scrambling to build LLMs at billion scale, while large enterprises figure out how to add it to their products. To make them safe, aligned and actually useful, these models need human eval and reinforcement learning through human feedback (RLHF) during pre-training, fine-tuning, and production evaluations. This is the main innovation thats enabled ChatGPT to get such a large headstart among competition.
+At Scale, our Generative AI Data Engine powers the most advanced LLMs and generative models in the world through world-class RLHF, human data generation, model evaluation, safety, and alignment. The data we are producing is some of the most important work for how humanity will interact with AI.
+Were looking for entrepreneurial Software Engineers to join our team. In this role, youll be given the opportunity to build any of these products to meaningfully drive millions of dollars in revenue. Youll also get widespread exposure to the forefront of the AI race as Scale sees it in enterprises, startups, governments, and large tech companies.
+The ideal person is a natural entrepreneurial engineer who can take an ambiguous scope and lead the execution of outcomes, doing what it takes to hit them incl coding, talking to customers, defining requirements, etc. We strongly believe the best engineers own outcomes and deeply understand customer problems. This tweet by Greg Brockman summarizes it well:
+https:twitter.comgdbstatus1514291063233474560
+Youre excited about solving customer problems, and you pick the technologies and tactics that balance speed, function, and long-term robustness. 
+You will:
+
+Own large new areas within our product
+Work across backend, frontend, and interacting with LLMs andor other ML models
+Deliver experiments at a high velocity and level of quality to engage our customers
+Work across the entire product lifecycle from conceptualization through production
+Be able, and willing, to multi-task and learn new technologies quickly
+Collaborating with cross-functional teams to define, design, and ship new product features and experiences.
+
+Ideally youd have:
+
+5 years of full-time engineering experience, post-graduation
+Proficiencies in one or more of Python, Node, React, Next.js and MongoDB
+Solid background in algorithms, data structures, and object-oriented programming.
+Experience scaling products at hyper-growth startups
+Excitement to work with AI technologies
+Strong written and verbal communication skills
+Strong problem-solving skills, and be able to work independently or as part of a team.
+
+Nice to haves:
+
+Strong knowledge of software engineering best practices.
+Have experience with AI platforms and technologies, including generative models and LLMs.
+Experience building ML infrastructure and AI-powered solutions.
+
+ 
+The base salary range for this full-time position in our hub locations of San Francisco or NYC is 153,000 - 215,000. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Scale employees are also granted Stock Options that are awarded upon board of director approval. Youll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+ About Us:
+At Scale, we believe that the transition from traditional software to AI is one of the most important shifts of our time. Our mission is to make that happen faster across every industry, and our team is transforming how machine learning can build innovative products. Our products provide access to human-powered data for hundreds of use cases and are used by industry leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and many more. Weve recently raised 325 million in Series E funding at a valuation of 7B and are expanding our team to accelerate the development of AI applications.
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an affirmative action employer and inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance andor a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodationsscale.com. Please see the United States Department of Labors Know Your Rights poster for additional information.
+We comply with the United States Department of Labors Pay Transparency provision. 
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data.

@@ -1,0 +1,36 @@
+FEQ124R105
+As a Technical GM, you will lead a leadership team managing technical field practitioners covering the end-to-end Databricks customer journey from Pre-Sales to Go-Live. Your teams will be accountable for driving the technicalbusiness wins for the Databricks platform as well as accelerating the consumption of the Databricks platform, and driving workloads to production for all customers in your segment. Hiring, coaching, and motivating the team to success will be critical. You will report to the VP, Field Engineering APJ and included in the scope of management and accountability for the Technical GM will be Solution Architects (SAs), Specialist Solution Architects (SSAs), and a new post-Technical Win role called the Delivery Solutions Architects (DSAs). Tight alignment with Sales segmentation and strategy, coupled with resource prioritization and distribution across these three technical roles is paramount to the success of the Technical GM.
+The impact you will have:
+
+Build a collaborative culture within a rapid-growth team. Manage and mentor leaders and recruit talent focusing on DEI and resiliency.
+Rapidly scale the Field Engineering segment team while maintaining a high bar for talent (Hiring vs Target)
+Drive a consistent, thorough management operating rhythm to review KPIs (pipeline, Use Case progress, POCPOV status, velocity of Win to Production, etc.)
+Increase SA, SSA, and DSA efficiency in Sales and Consumption cycles
+Serve as a thought leader, consulting with strategic customer and partner contacts to position the strength of Databricks, the comprehensive solutions strategy, and build trust and credibility in the account.
+
+What we look for:
+
+10 years experience building and scaling pre-sales and Customer Delivery teams
+Experience in scaling and mentoring field and technical teams managing both in-person and remote working models
+Experience working with accounts - from GrowthNet New to Large and Complex accounts generating 1M ARR.
+Knowledgeable in AI, and Cloud software models with technical competence in Data Warehousing, Data Engineering, and AnalyticsMachine Learning.
+Experience instituting processes for technical field members to improve operational efficiency
+Open to travel up to 25 per month
+
+Benefits
+
+Benefits allowance
+Equity awards
+Paid parental leave
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

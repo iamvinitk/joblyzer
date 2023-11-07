@@ -1,0 +1,29 @@
+Vimeo is looking for a highly skilled Frontend Developer to join the Editor team. The Editor team is the heart of Vimeos creation area where users can edit their videos - add imagesvideos, trim, position, color, manage sound, text animations, effects and much more. 
+What youll do:
+
+Collaborate with designers and product managers to translate requirements and designs into responsive, pixel-perfect user interfaces.
+Develop and maintain high-quality, reusable components using our tech stack (TypeScript, React, Redux, and Styled Components no name a few).
+Build features that can scale to the demands of Vimeos massive traffic.
+Optimize front-end performance for an exceptional user experience.
+Participate in a full development life cycle including planning and code reviews.Stay updated with the latest technologies and best practices, contributing to our teams continuous improvement.
+
+Qualifications:
+
+3 years of proven experience with a modern web framework in a production environment (React strongly preferred)
+Experience with state management libraries (Redux preferred)
+Experience with writing unit and integration tests.
+Strong CSS skills and understanding of responsive web design principles and cross-browser quirks.
+Experience with RESTful API integration and asynchronous programming.
+Familiarity with git and CICD pipelines.
+Excellent communication  interpersonal skills, ability to communicate clearly and effectively in written and spoken English
+Independent, fast learner, and passionate about creating exceptional user interfaces and experiences.
+
+Bonus points:
+
+Experience with video or multimedia applications.
+Knowledge of web accessibility standards.
+Contributions to open-source projects.
+
+LI-MB1About Us:
+Vimeo (NASDAQ:VMEO) is the worlds most innovative video experience platform. We enable anyone to create high-quality video experiences to connect better and bring ideas to life. We proudly serve our growing community of nearly 300 million users — from creative storytellers to globally distributed teams at the worlds largest companies. Learn more at www.vimeo.com.
+Vimeo is headquartered in New York City with offices around the world. At Vimeo, we believe our impact is greatest when our workforce of passionate, dedicated people, represents our diverse and global community. Were proud to be an equal opportunity employer where diversity, equity, and inclusion is championed in how we build our products, develop our leaders, and strengthen our culture.

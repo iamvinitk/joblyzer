@@ -1,0 +1,43 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+ 
+About the team
+Go-to-Market (GTM) Finance  Strategy (FS) brings understanding and predictability to Stripes top line financials. We work closely with our GTM business partners (Sales, Marketing, Sales Ops, etc) to discover trends in the business and improve Stripe for the long haul.
+ 
+What youll do
+This role is on the APAC Regional FS team. We partner with the APAC GTM leads by providing data analytics, business insights and strategic recommendations to help the business optimize ROI and achieve long-term growth.
+ 
+Responsibilities
+
+Work closely with APAC GTM leadership to drive the success of Stripes GTM motions
+Create frameworks to assess, influence current and future business performance by country and segment
+Partner with central GTM FS and other regional FS teams on defining metrics and developing planning and ROI models, and drive recommendations on resource allocations and ROI optimization in APAC
+Drive month-end reporting and support annual planning for the APAC business
+Own reporting and deep dive of leading indicators of business performance
+Partner with Data Science teams to develop reporting dashboards
+
+ 
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+ 
+Minimum requirements
+
+3 years of work experience within corporate planning, FPA, business finance, investment banking, consulting, PEVC, tech firms or other business insights  analytics roles
+3 years experience with SQL (intermediateadvanced skills are a must)
+3 years experience working with large and complex datasets
+Deep analytical rigor, focused on bringing clarity through business insights. Ability to find never-before-seen trends hidden in millions of data points
+A self-starter capable of driving business results without significant supervision. You must be able to partner with cross-functional teams to unblock things
+Solid business acumen, strong written and verbal communication skills (interacting with Stripe C-Suite) as well as business proficiency in written and spoken English
+
+ 
+Preferred qualifications
+
+2 years working with Sales teams, preferably in the technology industry
+Experience working closely with technical teams (Data Science, Data Engineering, Business Intelligence, etc) to define requirements for datasetsdashboards
+2 year Tableau (or other) data visualization experience
+Experience working in a global capacity (this team interacts with all regions)
+
+ 
+Hybrid work at Stripe
+Our Chicago, Dublin, and Singapore teams spend at least 50 of their time in their local offices. We believe that more in-person interactions will contribute to better results for our employees and Stripe. Increased office time allows for improved collaboration, efficiency, and informal learning opportunities, fostering a stronger community and building our culture. We will apply the insights gained from these initial three locations to continue refining our hybrid approach.

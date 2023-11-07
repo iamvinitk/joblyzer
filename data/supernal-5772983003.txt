@@ -1,0 +1,51 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Automation Engineer, MES (Manufacturing Execution System) provides design and technical support for MES solutions. This role plays a pivotal part in short-term and long-term MES planning and development. The engineer collaborates with other stakeholders and subject matter experts spanning across the entire product life cycle at the component, system, and aircraft-level. The position aims to optimize our manufacturing processes and ensure seamless data flow throughout our systems for our new eVTOL aircraft.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+System Support  Maintenance: Maintain and troubleshoot the current MES solution, ensuring consistent performance and rectifying any issues promptly
+Strategic Development: Participate in the long-term planning and enhancement of the MES system, aligning it with our companys manufacturing and data goals
+Integration: Ensure that MES integrates with other systems
+Training: Provide training to super users and area SMEs on the MES system, ensuring they can effectively use the platform and train their respective teams
+Continuous Improvement: Monitor MES usage and performance metrics to identify areas of improvement and implement necessary changes
+Documentation: Maintain up-to-date system documentation for troubleshooting, training, and reference
+Collaboration: Work closely with the MES and operations management team members to ensure consistent data architecture and system performance
+May require up to 25 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Associates degree in computer science, data science, information systems, or a related field required; Bachelors degree preferred
+Minimum of three (3) years of experience in a similar role, preferably in the aerospace or automotive manufacturing environments (an equivalent combination of education and experience may be considered)
+Proficient in SQL, Python, and data visualization tools like Tableau or Power BI
+Must have experience with database design, data modeling, and data architecture principles
+Ability to manage multiple software solutions
+Strong understanding of data management
+Excellent listening and comprehension skills
+Excellent planning, organizing, and coordinating skills
+Excellent customer service skills
+Ability to manage competing priorities
+Ability to pick up and apply new concepts
+Ability to collaborate with cross-functional teams
+Strong analytic and problem-solving skills
+Ability to act with integrity, professionalism, and confidentiality
+Excellent verbal and written communication skills
+Sense of urgency, proactive delivery of communication and follow up
+Excellent organizational skills and attention to detail
+
+You may also be able to contribute:
+
+Experience designing and developing flight-worthy products preferred
+Experience in aviation certification environment preferred
+Experience with development programs preferred
+Experience in prototyping environments preferred
+Experience with project management preferred
+Experience with aerospace or automotive production software preferred
+Experience in project management preferred
+Experience or aptitude to learn GraphQL and RestAPI preferred
+Experience working with Webhooks preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:133,120—186,160 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

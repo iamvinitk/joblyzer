@@ -1,0 +1,57 @@
+P-343
+While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations.
+As a Spark Technical Solutions Engineer, youll leverage your technical expertise to resolve SparkMLAIDeltaStreamingLakehouse issues for Databricks customers. Youll troubleshoot Spark-related challenges, assisting customers in their Databricks journey, and contributing to ongoing product support. You will be reporting to the Sr. Manager of Technical Solutions.
+ 
+The impact you will have:
+
+Perform initial level analysis and troubleshooting issues in Spark using Spark UI metrics, DAG, Event Logs for various customer reported job slowness issues.
+Address customer issues through deep code-level analysis of Spark core internals, Spark SQL, Structured Streaming, Delta, and other runtime features.
+Assist the customers in setting up reproducible spark problems with solutions in Spark SQL, Delta, Memory Management, Performance tuning, Streaming, Data Science, Data Integration areas in Spark.
+Coordinate with internal teams to address customer issues and provide best practices guidelines.
+Contribute to building an internal knowledge base and documentation.
+Advocate for customer needs and contribute to toolsautomation initiatives.
+Provide support on the third party integrations with Databricks environment.
+Strengthen your AWSAzure and Databricks platform expertise through continuous learning and internal training programs.
+Coordinate with internal teams to address customer issues and provide best practices guidelines.
+Participate in on-call rotations, handle escalations, and provide support for critical customer operational issues.
+Provide best practices guidance on Spark runtime performance and usage of Spark core libraries.
+
+ 
+What we look for:
+
+Min 4 years of experience in designing, building, testing, and maintaining PythonJavaScala based applications in typical project delivery and consulting environments.
+3 years of hands-on experience developing any two or more of the Big Data, Hadoop, Spark,Machine Learning, Artificial Intelligence, Streaming, Kafka, Data Science, ElasticSearch related industry use cases at the production scale. Spark experience is mandatory.
+Hands on experience in the performance tuningtroubleshooting of Hive and Spark based applications at production scale.
+Real time experience in JVM and Memory Management techniques such as Garbage collections, HeapThread Dump Analysis.
+Hands-on experience with any SQL-based databases, Data WarehousingETL technologies like Informatica, DataStage, Oracle, Teradata, SQL Server, MySQL and SCD type use cases is preferred.
+Hands-on experience with AWS or Azure or GCP is preferred
+LinuxUnix administration skills is a plus
+Working knowledge in Data Lakes and preferably on the SCD types use cases at production scale.
+Experience working in a Distributed Big Data Computing environment.
+
+Benefits
+
+Medical, Dental, and Vision
+401(k) Plan
+FSA, HSA and Commuter Benefit Plans
+Equity Awards
+Flexible Time Off
+Paid Parental Leave
+Family Planning
+Fitness Reimbursement
+Annual Career Development Fund
+Home OfficeWork Headphones Reimbursement
+Employee Assistance Program (EAP)
+Business Travel Accident Insurance
+Mental Wellness Resources
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Local Pay Range102,400—181,100 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

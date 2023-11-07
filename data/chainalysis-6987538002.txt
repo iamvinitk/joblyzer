@@ -1,0 +1,48 @@
+Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. Thats where Chainalysis comes in. We provide complete knowledge of whats happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.Blockchain technology is powering a growing wave of innovation. Businesses and governments around the world are using blockchains to make banking more efficient, connect with their customers, and investigate criminal cases. As adoption of blockchain technology grows, more and more organizations seek access to all this ecosystem has to offer. Thats where Chainalysis comes in. We provide complete knowledge of whats happening on blockchains through our data, services, and solutions. With Chainalysis, organizations can navigate blockchains safely and with confidence.
+The Data Engineering and Architecture (DEA) team is responsible for unlocking the value in Chainalysis corporate data. We work with internal stakeholders in HR, Finance, Sales and Marketing as well as partners in Business Technology and Core Engineering to ship data solutions that are trusted, reliable, mature and transformative. Our goal is to accelerate Chainalysis growth and empower our employees to do their best work. 
+Priorities in your first year include:
+
+Youve increased test coverage of our existing dbt models
+Youve discovered and root-caused data quality issues in existing models
+Youve worked with system-of-record owners and stakeholders to remedy upstream data quality issues
+Youve contributed to bringing legacy dbt models into alignment with current best practices and structure
+Youre working through a backlog of fixes and enhancements
+
+Responsibilities:
+
+Improving the data quality, monitoring, and remediation of models in our existing data marts.
+Adding featuresenhancements to these existing models that are currently in the backlog. 
+Partnering with colleagues in DEA as we spin up and maintain data pipelines that support critical data-driven decisions across the company.
+
+Qualifications:
+
+You have experience writing robust SQL queries; ideally using Snowflake SQL syntax.
+Youve worked as data analyst or data engineer
+You have an in-depth understanding of the capabilities and constraints of cloud-based data warehouses
+You have performing root cause analysis on data integration and automation errors while identifying opportunities to improve instrumentation and observability
+You possess a keen eye for catching edge-cases; not only where occurrences currently exist, but also theoretical ones that could exist given the known guarantees of the data structures
+You have worked with data from systems of record such as Salesforce, Workday, Jira, etc.
+You have the basic CLI skills necessary to execute our DBT project (explicit DBT experience is a plus but not required)
+You have hands-on experience with Github and source control
+You have experience in an Agile-like environment that includes user stories, sprints, grooming and retrospectives
+
+Technologies we use (experience not required):
+
+Fivetran
+Github
+DBT
+Airflow
+Python
+Snowflake
+Redshift
+AWS (S3)
+Workato
+Jira
+GSuite
+At Chainalysis, we help government agencies, cryptocurrency businesses, and financial institutions track and investigate illicit activity on the blockchain, allowing them to engage confidently with cryptocurrency. We take care of our people with great benefits, professional development opportunities, and fun.
+You belong here. 
+At Chainalysis, we believe that diversity of experience and thought makes us stronger. With both customers and employees around the world, we are committed to ensuring our team reflects the unique communities around us. Some of the ways were ensuring we keep learning are an internal Diversity Committee, Days of Reflection throughout the year including International Womens Day, Harvey Milk Day, World Humanitarian Day, and UN International Migrants Day, and a commitment to continue revisiting and reevaluating our diversity culture. 
+We encourage applicants across any race, ethnicity, gendergender expression, age, spirituality, ability, experience and more. Additionally, if you need any accommodations to make our interview process more accessible to you due to a disability, dont hesitate to let us know. You can learn more here. We cant wait to meet you.  
+Applying from the EU? Please review our Chainalysis Applicant Privacy Policy.
+  
+By submitting this application, I consent to and authorize Chainalysis to contact my former employers, and any and all other persons and organizations for information bearing upon my qualifications for employment.  I further authorize the listed employers, schools and personal references to give Chainalysis (without further notice to me) any and all information about my previous employment and education, along with other pertinent information they may have, and hereby waive any actions which I may have against either party(ies) for providing a reference.  I understand any future employment will be contingent on the Company receiving satisfactory employment references.

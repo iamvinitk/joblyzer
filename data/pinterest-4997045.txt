@@ -1,0 +1,27 @@
+About Pinterest:  
+Millions of people across the world come to Pinterest to find new ideas every day. Its where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, youll be challenged to take on work that upholds this mission and pushes Pinterest forward. Youll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences.
+Our new progressive work model is called PinFlex, a term thats uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more. As the QA Engineering Manager, you will lead and grow a team that is shaping quality requirements for how we build and deliver features and products at Pinterest.Youll provide a vision to the team, drive technical excellence and partner with key stakeholders to prioritize and deliver on the teams roadmap. 
+An ideal candidate will be a passionate people manager, with strong experience driving quality programs across large Engineering organizations. You are methodical, a self-starter, and passionate about quality also also keen to help grow and coach individuals. The successful candidate is an experienced hands-on manager who can build a high performing healthy team and ensure it performs well.
+ 
+What youll do:
+
+Lead and grow a team of QA engineers and manual testers 
+Partner with the engineering teams to build a quality driven culture that helps ship products rapidly and with confidence.
+Implement and evolve QA processes to get effective test signal and scale testing efforts across multiple products and platforms
+Partner with engineering and test infrastructure teams to leverage automation for scalable solutions to prevent regressions and ensure reliability of product.
+
+ 
+What were looking for:
+
+Bachelors degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent.
+10 years of testquality engineering experience.
+2-3 years direct people management experience.
+Experience building a Quality Engineering organization that is responsible for end-to-end validation for a critical system or application.
+Understanding of testing strategies including technologies for automated testing.
+Experience building relationships and influencing stakeholders across multiple disciplines.
+
+ 
+LI-REMOTE
+LI-DG2Our Commitment to Diversity:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic under federal, state, or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require an accommodation during the job application process, please notify accessibilitypinterest.com for support.

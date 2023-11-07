@@ -1,0 +1,32 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+We are looking for a Staff Data Scientist to join the Marketplace data science team. The Marketplace data science team aims to create a welfare-maximizing marketplace that balances guest and host needs. We do this by designing cancellation and fee policies, building models to power personalized pricing and insights tools for hosts, and building fundamental marketplace intelligence to better match hosts and guests.
+The Difference You Will Make:
+We are looking for an experienced data scientist to help design our marketplace with a particular focus on cancellations.
+A Typical Day: 
+
+Design the future of the cancellation policy ecosystem for our hosts and guests. 
+Build causal and ML models.
+Build framework and design experiments to help trade off bookings, cancellations, CS tickets among many metrics to consider.
+
+Your Expertise:
+
+8 years industry experience in a quantitative analysis role.
+Background in economics, statistics and experimentation or acquired deep knowledge in this area.
+Understanding of ML lifecycle best practices (eg. trainingserving, feature engineering, featuremodel selection, labeling, AB test).
+Ability to communicate clearly and effectively to cross functional partners of varying technical levels.
+Ability to translate complex findings and results into a compelling narrative.
+Demonstrated ability to create and drive technical and impactful roadmaps for the business, and lead seamless execution of it.
+Strong fluency in Python and SQL, experience with Tensorflow, PyTorch, Airflow and data warehouse.
+
+Preferred Expertise:
+
+Ph.D. in Economics or related field.
+Experience in cancellation policy design is a plus.
+
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range185,000—245,000 USD

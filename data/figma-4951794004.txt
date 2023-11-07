@@ -1,0 +1,44 @@
+Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether its consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will help us to use data to refine our Product Support experience. You will build dashboards and optimize reporting to ensure our leadership team has a clear pulse on the business, helping the team realize opportunities, build upon our strengths, and optimize our operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. You will present data to the team in a manner that is effective, tangible, and tells a clear story.
+What youll do at Figma:
+
+Delivering impactful analysis to help improve overall team performance, customer experience, and identify trends and opportunities for process improvements
+Building team performance dashboards and comprehensive scorecards to provide transparent reporting and insight into the health of our business to enable our team to quickly capture customer, product, and team performance insights
+Building and maintaining workforce planning models to forecast staffing needs, monitor performance metrics, and identifyingenforcing these opportunities for improvement
+Present and communicate data-backed recommendations to leadership and our internal partners to drive Product Support initiatives and help facilitate the decision-making process
+Monitoring and Evaluating the impact of process changes and initiatives, providing ongoing feedback and suggesting refinements
+Collaborating with our data science and engineering teams to build, document, and manage our Product Support data structure
+
+ 
+
+Wed love to hear from you if you have:
+
+Experience supporting a technical SaaS company in a senior analyst capacity
+Familiarity with SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode and Explore)
+Solid understanding of statistical analysis and data modeling techniques
+A passion for using data and analytics to answer questions and support decisions
+Excellent verbal and written communication skills, including the ability to present technical findings to non-technical stakeholders in a clear and concise manner
+Deep technical capability and understanding of product support strategies
+Excellent decision quality and creative problem solving skills
+
+
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If youre excited about this role but your past experience doesnt align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+
+
+
+Read more about our team 
+
+Investing in Figma: The Decade of Design
+How work is changing at Figma
+Figmas next product is a multiplayer whiteboard called FigJam
+Software Design Startup Figma Is Now Worth 10 Billion
+
+
+
+Pay Transparency Disclosure
+If based in Figmas San Francisco or New York hub offices, this role has the annual base salary range stated below.  
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80 and 100 of range. Please discuss your specific work location with your recruiter for more information. 
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental  vision, retirement with company contribution, parental leave  reproductive or family planning support, mental health  wellness benefits, generous PTO, company recharge days, a learning  development stipend, a work from home stipend, and cell phone reimbursement.  Figma also offers sales incentive pay for most sales roles. Figmas compensation and benefits are subject to change and may be modified in the future.Annual Base Salary Range (SFNY Hub):99,000—210,000 USDAt Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identityexpression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+We will work to ensure individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions, and to receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-extfigma.com.
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figmas Privacy Policy. 

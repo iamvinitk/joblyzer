@@ -1,0 +1,73 @@
+Intercom is an AI powered, automation-first customer service platform that lets businesses deliver fast support, keeping customers satisfied, costs low, and service teams happy.
+It is the only complete customer service solution that provides a seamless customer experience across automation and human support. Customer service teams from more than 25,000 global organizations, including Atlassian, Amazon and Microsoft, use Intercom to send over 600 million messages per month and enable interactions with over 800 million monthly active end users. The company was founded in 2011 and is backed by leading venture capitalist including Bessemer Venture Partners, Kleiner Perkins and Social Capital.  
+Whats the opportunity? 
+As a Staff Engineer, you will be a leader within the team and a strong contributor to the engineering organization. You will build both back-end and front-end systems, and work closely with designers, product managers, researchers, and data analysts. You will coach and mentor other engineers and partner closely with the Engineering Manager to develop the team and to devise technical strategy.
+Learn more about our engineering culture at intercom.engineering
+What will I be doing? 
+As an experienced engineer you will:
+
+
+Contribute to our technical architecture as we grow. We scale to service requests from all our customers customers. Were growing and so are they.
+
+
+Care about agility as much you care for scalability and availability. Continuous deployment keeps us focused on incremental releases. Even our biggest technical achievements roll out piece by piece, feature flagged out of sight.
+
+
+Contribute to all phases of software development including ideation, prototyping, design and implementation. This role has a mix of both hands-on development as well as leadarchitecture work.
+
+
+Play an active role in hiring, mentoring and career development of other engineers
+
+
+Raise the bar for technical standards, performance, reliability, and operational excellence
+
+
+What skills do I need? 
+
+
+Ideally, youve built an exciting SaaS product in your previous roles and loved the satisfaction that comes with knowing that people around the world are using something youve created
+
+
+Significant, demonstrated impact that your work has had on the product andor the teams
+
+
+Deep knowledge of a high-level programming language (for example, Ruby, Python, Perl etc.) but it doesnt need to be a language that we use here! Great people are effective and learn what we use quickly (or introduce us to better ways of working)
+
+
+You will have experience with Distributed systems
+
+
+2 years of experience as the primary technical leader for a team
+
+
+Experience collaborating directly with product teams and designers, and a proven track record of delivering value to customers or users. Engineers at Intercom are pragmatists who work closely with others on cross-disciplinary teams and have a strong sense of product strategy.
+
+
+Benefits 
+We are a well treated bunch, with awesome benefits! If theres something important to you thats not on this list, talk to us! :)
+
+
+Competitive salary and equity in a fast-growing start-up
+
+
+We serve lunch every weekday, plus a variety of snack foods and a fully stocked kitchen
+
+
+Regular compensation reviews - we reward great work!
+
+
+Peace of mind with life assurance, as well as comprehensive health and dental insurance for you and your dependents
+
+
+Open vacation policy and flexible holidays so you can take time off when you need it
+
+
+Paid maternity leave, as well as 6 weeks paternity leave for fathers, to let you spend valuable time with your loved ones
+
+
+MacBooks are our standard, but were happy to get you whatever equipment helps you get your job done
+
+
+ 
+ Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law. Intercom is currently able to hire if an employee has a permanent residence in the following locations; Australia, Ireland, England and applicable US states. (California, Colorado, Florida, Illinois, Massachusetts, New York, North Carolina, Texas, and Washington).
+Is this role not quite what youre looking for? Join our Talent Community to stay connected with us. 

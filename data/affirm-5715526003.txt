@@ -1,0 +1,41 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.Affirms Business Applications Management team is responsible for the customer and frontline team experiences in our service offerings through our one to many help properties (help centers, self service tools) and 1:1 service offerings (phone, chat, email). Our mission is to enable a World-Class Servicing Experience between Affirm Operations and its network of Customers by Designing, Developing, Implementing, and Maintaining Innovative and Intuitive Solutions that are Reliable, Scalable, and Enjoyable.
+We deliver service platform strategies in close relationship with our Operational, Product Management, UX, and Engineering partners. We are champions of the customer experience, advocating for big-picture vision that is backed by data-driven insights. Our work enables Affirm to deliver a delightful service experience to our millions of customers.
+This team works with partner and customer facing service teams across Affirm Ops to enable them with the tools and insights needed to most effectively and efficiently deliver service to our end user. To deliver these solutions, we go deep to understand business priorities, translate to a tooling strategy and roadmap, and work with our Product and Engineering partners to develop and deploy solutions to enable Ops teams. As Head of this function, you will lead a team of business analysts, platform administrators and developers working with operations, product management and engineering leadership across Affirm to design and deliver tools for our high-touch service teams. You will help scope, build, and bring to market innovative tools that meet the needs of our frontline teams.
+What Youll Do
+
+Technology Strategy: Develop a business applications strategy for customer and fraud operations teams in the Affirm Ops organization. Develop an integrated roadmap for servicing infrastructure   tools, and align the direction with the Operations and Product leadership teams.
+Team management: Lead a team of System Architects, Developers, Administrators and Program Managers that builds and maintains three distinct tool stacks of operational systemstools for Affirm Operations (Customer and Fraud Ops teams). Guide the Business Applications Management team to shape the production and administration operational strategy for all Ops.
+Leadership: Develop the vision, goals  OKRs, priorities and work alongside the team to accomplish them. Ensure high-quality customer service and ongoing technical skill development. Establish and execute robust prioritization operations across the Servicing Infrastructure  Tools footprint. 
+Stakeholder Management: Partner with Operations, Product Management and Engineering to translate customer needs into a better overall product.  Build strong relationships with product and engineering teams to ensure a collaborative approach to delivering innovative tools. Ensure accountability of product teams for delivering on requirements and business team engagement for delivering on deployment goals. 
+Technology Programs Implementation: Work closely with the Business Applications leads to guide the enablement of the servicing environments, which is anchored around Salesforce Service Cloud for case management, optimized through custom development and system integrations. Continue to drive an efficient and effective engagement model to guide our partnership with Product and Engineering, and implement continuous improvement practices in the development model within Business Applications.
+Issue Resolution  Prevention: Partner with Servicing Engineering teams to manage production incidents in real time with emphasis on timely and through issue identification and customer communication. Guide the team through resolving high-profile escalations and issues, improve the customer experience, and drive initiatives that increase their likelihood of success on our platform.
+
+What We Look For
+
+10 years of enterprise systems integration, strategy consulting, or product management experience.
+Experience with Salesforce Service Cloud and Service Cloud Voice, as well as other customer operations tools for Quality Assurance, Workforce Management, Fraud Investigations, and more.
+Experience influencing senior executives.
+Experience delivering business change initiatives and working with product development teams.
+Experience operating within and leading cross-functional teams (e.g. engineering, product management, analytics, operations)
+Strong executive presence and ability to influence senior stakeholders across organizational borders
+Operational experience in roles such as System development, customer operations tooling, and technical implementation
+Distinctive delivery mindset with drive to solve complex problems through structured root cause problem solving and ruthless prioritization, especially in areas with high levels of ambiguity
+Capable of speaking to both technical and business stakeholders and users
+Superior problem solving and analytical skills
+Excellent relationship building, collaboration and negotiation skills
+Strong communication, project management and analytical skills
+
+USA Pacific base pay range (CA, WA, NY, NJ, CT): 222,300 - 255,000USA Sapphire base pay range (all other U.S. states): 200,000 - 230,000Please note that visa sponsorship is not available for this position.LI-Remote
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+We have a simple and transparent remote-first grade-based compensation structure. Offer amounts within the range are based on a number of factors including but not limited to job-related skills, experience, and relevant education or training. Across the broader organization, certain roles are eligible for equity awards upon hire, promotion, tenure milestones and for performance.
+Were extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe Its On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+
+By clicking Submit Application, you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.

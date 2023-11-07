@@ -1,0 +1,88 @@
+About the Role
+ 
+At Abnormal Security, we are on a thrilling mission to safeguard the worlds largest enterprises against a vast range of relentless email and collaboration application cyber security attacks. Our relentless pursuit involves crafting an exceptional suite of products that empowers customers to seamlessly visualize, expertly control, and fearlessly combat cyber-security threats. 
+ 
+In the role of Email Security Analyst Team Manager at our organization, you will lead a team of analysts responsible for detecting and resolving customer-reported email security threats and issues with exceptional quality and speed, exceeding SLA expectations, and ensuring a top-tier customer experience.
+ 
+With your extensive experience in building and growing organizations in dynamic, enterprise-level cyber security environments, you will be instrumental in scaling our detection response capabilities. This role necessitates an entrepreneurial mindset, adaptability for a startups pace, and the ability to balance structured processes with adaptability to meet evolving business and customer needs.
+ 
+Your primary objective will be to expand and refine our customer detection response processes to enhance service levels, customer satisfaction, resolution times, and cost-effectiveness. Success in this role hinges on your proven track record of developing and optimizing response playbooks, implementing efficient escalation procedures, measuring SLAs, and continuously enhancing team efficiency and effectiveness. Your commitment to improving the operational performance of our detection analysts will enable us to not only meet but surpass customer expectations and satisfaction levels.
+ 
+About You
+ 
+
+Youre motivated to stop email attackers and understand cybersecurity attack modes
+You like to dive into the nitty gritty of complex systems, understand them, and analyze their behavior
+You are a clear communicator. You can write reports understandable by those within and outside the company to effectively explain highly technical issues.
+Able to organize cross team efforts to solve customer issues.
+
+ 
+In this job, you will bring these skills
+ 
+
+Experience
+
+2 years leading supportserviceengineering teams of 5
+Strong experience with Email Security, Security, Cloud Security technologies and products
+Experience in building and scaling a team. 
+
+Communication Skills
+
+Excellent written  verbal communication skills, can quickly, accurately and clearly communicate with team members  stakeholders.
+Strong written, spoken, and presentation skills, including creating customer-facing materials such as RCAs or COEs
+
+Technical Proficiency
+
+Solid understanding of common email attacks, phishing techniques, email signals
+Strong technical troubleshooting skills that enable independent issue investigation and effective, efficient collaboration with Engineering and Product organizations when necessary (e.g., bug fixes and enhancements)
+Can effectively earn trust and credibility from a diverse set of Engineering, Product, and Design team members
+
+Teamwork  Leadership
+
+Able to accurately assess interview candidate qualifications, and hire top talent.
+Can pull in detection engineers for help, clearly communicate with them, and convey the root issues we are seeing with a particular set of FNs or FPs
+Actively mentoring  influencing others
+Responsible for setting and tracking KPIs for the team, both individually and team-level 
+
+Customer Obsession
+
+Customer-service oriented with a problem-solving attitude
+
+
+ 
+Role Responsibilities
+ 
+
+People Management  Growth
+
+Actively manages team performance - understands team members strengths and weaknesses, areas of growth, whether they are meeting their specific role expectations, and has a plan to address under  over performance
+Coaches, provides timely, actionable feedback, and invests time in career development of team members
+Creates a healthy team environment  culture with low attrition  high team member satisfaction
+
+Organize Analyst Team to ensure the successful completion of the following tasks
+
+Customer Issue containment via high quality Analyst containment rules and identification of threat landscape trends
+Creating high quality and timely Root Cause Analysis reports
+
+Customer Relations
+
+Owns end-to-end resolution of Customer escalation issues for Detection, which includes being the first level of representation for Detection engineering in customer meetings and management of incident follow-ups
+Drive continuous improvement and champion positive change to improve Analyst service level agreements, customer satisfaction times, resolution times for escalations, and overall operating costs
+
+Leadership  Collaboration
+
+Partner with the Abnormal Security Engineering and Product leads along with CS Technical Leads to drive down escalations, escalate trends, surface key priorities, and overall improve Detection efficacy health for customers. Drive the appropriate SLAs and processes to solve issues in these areas.
+
+Team Execution
+
+Ensures execution and attainment of teams goals via quarterly goals and long-term roadmaps
+Enforces technical design and project plans, along with PMs and Tech Leads.
+Ensures best practices  organizational processes are being followed within the team
+
+Recruiting  Hiring
+
+Runs an effective hiring process, which includes creating  relevant plans for open job reqs, and hiring qualified candidates efficiently, and training qualified interviewers
+
+
+ 
+LI-ML1

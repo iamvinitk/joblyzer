@@ -1,0 +1,22 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role: 
+We are seeking a driven and versatile engineer to help the development and execution of test plans and testing infrastructure to enable rapid design iteration and robust product validation for state-of-the-art autonomous flying machines servicing a broad range of consumer and commercial use cases.How youll make an impact:
+
+Work with product development, embedded software, quality, manufacturing, and outside partners to define and execute comprehensive test strategies beginning in early prototyping stages through volume production, enabling earliest possible discovery of failure modes for complex electro-mechanical autonomous systems
+Develop the test hardware and software systems required to efficiently execute performance and reliability validation within fast development schedules
+Analyze data, calculate statistics, and carefully document test results to support enterprise customers and regulatory certification efforts 
+Perform failure analysis to identify root cause and help develop processdesign mitigations collaborating with mechanical, electrical and software engineering teams to rapidly implement corrective actions and resolve system issues
+Participate in design reviews and provide key design for reliability inputs to mitigate risks before the first prototypes are built
+
+What makes you a good fit:
+
+An experienced and finely-tuned sense of how to test, how not to test, and how to find vulnerabilities in processes and design
+A systems-engineering approach to problem solving, and a knack for rapidly identifying issues within  mechanical, electrical, and software domains as well as the gray areas between them on tightly integrated systems; strong desire to drive failure analyses to true root cause
+Enthusiastic tendencies toward diving in and applying first principles to engineer creative solutions to complex problems 
+Experience with Python or other programming languages for test automation, data analysis, and visualization
+Strong desire to learn and contribute across multiple domains within a dynamic and growing organization
+Excellent project management, written  verbal communication, and cross-functional teamwork skills
+
+Compensation Range: The annual base salary range for this position is 110,000-150,000. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.For some positions the pay may be dependent upon the individuals regional location.
+LI-SS1At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

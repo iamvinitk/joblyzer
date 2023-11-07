@@ -1,0 +1,40 @@
+P-60
+At Databricks, we are obsessed with enabling data teams to solve the worlds toughest problems, from security threat detection to cancer drug development. We do this by building and running the worlds best data and AI infrastructure platform, so our customers can focus on the high value challenges that are central to their own missions.
+Founded in 2013 by the original creators of Apache Spark, Databricks has grown from a tiny corner office in Berkeley, California to a global organization with over 1000 employees. Thousands of organizations, from small to Fortune 100, trust Databricks with their mission-critical workloads, making us one of the fastest growing SaaS companies in the world.
+Our engineering teams build highly technical products that fulfill real, important needs in the world. We constantly push the boundaries of data and AI technology, while simultaneously operating with the resilience, security and scale that is critical to making customers successful on our platform.
+We develop and operate one of the largest scale software platforms. The fleet consists of millions of virtual machines, generating terabytes of logs and processing exabytes of data per day. At our scale, we regularly observe cloud hardware, network, and operating system faults, and our software must gracefully shield our customers from any of the above.
+Modern data analysis employs sophisticated methods such as machine learning that go well beyond the roll-up and drill-down capabilities of traditional SQL query engines. As a software engineer on the Runtime team at Databricks, you will be building the next generation distributed data storage and processing systems that can outperform specialized SQL query engines in relational query performance, yet provide the expressiveness and programming abstractions to support diverse workloads ranging from ETL to data science.
+Below are some example projects:
+Data Plane Storage: Deliver reliable and high performance services and client libraries for storing and accessing humongous amount of data on cloud storage backends, e.g., AWS S3, Azure Blob Store.
+Delta Pipelines: Its difficult to manage even a single data engineering pipeline. The goal of the Delta Pipelines project is to make it simple and possible to orchestrate and operate tens of thousands of data pipelines. It provides a higher level abstraction for expressing data pipelines and enables customers to deploy, test  upgrade pipelines and eliminate operational burdens for managing and building high quality data pipelines.
+Performance Engineering: Build the next generation query optimizer and execution engine thats fast, tuning free, scalable, and robust.
+What we look for:
+
+BS in Computer Science, related technical field or equivalent practical experience
+Optional: MS or PhD in databases, distributed systems
+Comfortable working towards a multi-year vision with incremental deliverables
+Motivated by delivering customer value and impact
+5 years of production level experience in either Java, Scala or C
+Strong foundation in algorithms and data structures and their real-world use cases
+Experience with distributed systems, databases, and big data systems (Spark, Hadoop)
+
+Benefits
+
+Health insurance reimbursement and collective healthcare scheme
+Life, accident and disability coverage
+Company pension
+Paid parental leave
+Annual vacation bonus
+Equity awards
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel accident insurance
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

@@ -1,0 +1,36 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The infrastructure teams provide efficient and optimized infrastructure for Stripe to build secure, reliable and differentiated products, while enabling Stripe developers to achieve their highest potential. The TPM team that supports the infrastructure org has deep technical expertise in software infrastructure.
+What youll do
+As a Technical Program Manager in the Infrastructure space, you will play a key role within engineering and drive programs that span across the organization in the core infrastructure of Stripes payment systems and internal engineering tooling. You will be responsible for the successful definition, cross-functional strategy, planning and execution of large-scale technical programs that help to solve complex problems and enable products and infrastructure at scale. 
+Responsibilities
+
+Operationalize and execute on key cross functional programs spanning all engineering organizations including managing operation reviews, driving efficiencies in capacity governance and launch reviews
+Execute on technical programs that require systems and engineering level knowledge
+Partner with Engineering Managers, Product Managers and other Technical Program Managers to define, scope and improve the operational efficiency needs within the teams
+Develop, implement, and iterate on program management procedures, frameworks, and metrics to achieve goals with defined success criteria
+Develop, define and report on program health, success metrics and active progress
+Define and standardize documentation and good project communication processes 
+Leverage data to drive strategic decisions and reporting at the leadership level
+Create canonical documentation of plans and processes, driving consistency and buid alignment across teams
+
+ 
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+12 years of software engineering, systems engineering or technical productprogram management experience.
+Experience in core infrastructure technology and cloud native infrastructure services.
+You have a track record of providing program management during all phases of software development from kick-off to ship, demonstrating critical thinking, challenging the norms and thought leadership.
+You have strong written and verbal communication skills, building strong relationships with stakeholders, teams and senior leaders around the organization. 
+You can drive internal and external process improvements across multiple teams and functions.
+Experience operating autonomously and leading large-scale efforts across multiple teams and functions, with stakeholders in different disciplines across time zones.
+
+Preferred Qualifications
+
+Proficient knowledge in deep software architecture, systems design and best practices for API building, decomposition and modularization.
+Excellent analytical and data querying experience within large-scale platforms, infrastructure and organizations.
+Good SQL, pythonruby scripting and programming skills would be a huge advantage.
+

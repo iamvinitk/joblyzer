@@ -1,0 +1,44 @@
+ 
+
+About Gusto
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. Thats why were committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. Gusto is looking for a Senior Product Manager who can build and execute a merchandising (pricing  packaging) strategy across Gustos entire product catalog to create right-sized, timely purchase moments and experiences to help our customers get more value from our current  future product offerings. This role reports into the Growth Team.
+In this role, you will build an experimentation strategy that gets key insights about our customers purchasing behaviors and provides data-driven recommendations for our pricing strategy. In addition, you will work closely with both the Revenue and Infrastructure teams to build a platform that allows us to try out new, innovative and transparent pricing and merchandising strategies. You will build experiences that are delightful but non-intrusive, and connect with them on the right channel based on customers consent and preferences. You will also focus on improving the long-term value that a customer gets from Gusto by aligning pricing with value.
+Youll be working with an established team of seasoned Growth leaders in Engineering, Product, Design, Data Science, Marketing, and Sales. In this role youll use ML and Personalization to work cross functionally on both Experimentation and Platform strategies that span the entire breadth of the Growth Stack, building world class solutions for our customers.
+Heres what youll do day-to-day:
+
+Develop a deep understanding of Gustos product catalog and the customers lifecycle to develop a strategy to optimize pricing, packaging, recommendations, upsell and feature adoption 
+Partner with Engineering, Design, Data Science as well as Revenue counterparts in Sales and Customer Success to solve complex cross functional problems
+Set goals and strategy for your domain then translate it into a roadmap, milestones, and requirements collaboratively to drive alignment and excitement with your cross-functional partners and stakeholders 
+Set, track and improve key product and business metrics 
+Distill insights and data from key stakeholders, industry trends, competitive analysis, business and product metrics, and other sources to guide strategy 
+Drive the product development process from concept to launch, ensuring timely delivery of high-quality products that delight customers and result in significant and measurable business impact 
+Iterate on mature features using data and customer feedback to identify areas for improvement and optimization, and ensure experiences delight our customers and surpass our business goals
+
+Heres what were looking for:
+
+6-8 years of product management experience driving product adoption and business growth 
+
+Bonus if you have experience building Recommendation Systems andor Ad Serving Platforms in a SaaS environment
+
+Experience building delightful, relevant and non intrusive User Experiences
+Data and hypothesis driven, business-minded
+
+You know how to expertly leverage qualitative and quantitative data to develop and execute experiments and AB tests that are optimized for learning
+You can measure the business impact of your work and tie it back to company goals
+
+Customer obsessed. Youre passionate about not only hitting business goals, but intimately knowing our customers and creating the best experiences to meet their needs. You know that the key to business growth is through happy customers
+Collaborative execution. Youre a great listener, and naturally bring the team and stakeholders along, yet you dont hesitate to make hard decisions when needed. You push the pace, and people feel like they do their best work with you
+Objective learning. You get more excited when youre wrong than when youre right. You optimize for learning, and love peeling back the layers. Your favorite questions are why and why not
+Systems thinking. You enjoy complex challenges and navigate them deftly. You have a wealth of frameworks and mental models that you rely on to unpack problems and arrive at elegant solutions
+You can take rough themes and big ideas and turn them into a roadmap of features, experiments, and research with minimal guidance
+Passion. You love the problems Gustos solving for business owners and their employees, and youre excited to continuously solve them better and better
+
+At Gusto, we strive to provide rewards that empower employees to achieve their financial and personal goals. We offer competitive compensation packages with a strong emphasis on equity based compensation (ownership in Gusto). To learn more about Gustos compensation philosophy and benefits offerings please view our Total Rewards Approach page.
+Our cash compensation range for this role is 158,000yr to 188,000yr in Denver  most remote locations, and 192,000yr to 228,000yr in San Francisco  New York. Final offer amounts are determined by multiple factors, including candidate location, experience and expertise, and may vary from the level and amounts listed above.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gustos subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas. 
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. 
+Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodationsgusto.com.

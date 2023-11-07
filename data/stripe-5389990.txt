@@ -1,0 +1,39 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Growth Marketing is a team of performance-driven marketers and channel specialists. We partner closely with growth product, regional and demand marketing, and sales to drive revenue through self-serve and sales motions. We work globally, on the full customer lifecycle, and with all company segments - from startups to the largest enterprises. We are a global team, the majority of which is located in the United States.
+What youll do
+
+Effective program managers at Stripe always bias towards driving the right solutions for internal and external users, and delivering impact for them above all else. Youll do this even when its not the easiest path for us or our teams, and requires trade-off decisions. You will look ahead and around corners to enable our teams to operate at their best, and for opportunities to eliminate the unnecessary in delivering results
+You will assemble a clear understanding of our internal and external users needs, leveraging your product sense to drive solution delivery. You will represent user voices to all stakeholders including engineering and other stakeholders involved in delivering solutions
+You will collaborate with the appropriate stakeholders to define programs with clear and measurable outcomes that meet our users needs. You will hold yourself and other stakeholders accountable to deliver the defined outcomes, while being nimble enough to adjust when there is more information. You will communicate to ensure that all stakeholders are focused on the defined objectives. You will bias towards high-velocity yet durable decision making. You will frequently examine the program from the perspectives of your stakeholders to identify opportunities and gaps
+You will understand the technical problems that need to be solved, and work closely with necessary stakeholders of the technical systemsprocesses involved to define and manage the most effective way to enable teams to deliver solutions. You will utilize your understanding of technical systems, particularly interdependencies in complex systems (cross-org), to identify risks and drive mitigations
+You will bring rapid clarity to ambiguous situations, resolve them effectively, communicate decisions efficiently, and enable teams to move towards implementing solutions. You will bring your experience and contextual knowledge to bear on the problems that teams need to solve
+
+Responsibilities
+
+Independently define programs for specific problems. This includes scoping, setting objectives, defining success criteria, and influencing resource allocation to solve for it
+Understand marketing, sales development, and related systems and architecture. Understand the technical and business use cases, relevant systems, and constraints sufficiently so you are able to represent marketing and sales development independently to cross-functional teams andor external partners
+Consistently use frameworks for prioritization and decision making within your programs
+Use your broad perspective to identify obstaclesissues, communicate to stakeholders, proactively plan to address the obstaclesissues, and look for ways to prevent the recurrence of issues
+Have a good understanding of marketing and sales developments strategy  objectives. Contribute to the overall success of the organization
+Actively work with stakeholders in developing your product sense, and utilize that in your decision making
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+7 years of product management or technical program management experience
+Experience providing program management during all phases of software development
+Proven track record of defining and executing complex programs with global teams across multiple functions
+Excellent written and verbal communication skills, with the ability to establish strong relationships with stakeholders and senior leaders
+Thrive in solving ambiguous problems and see opportunities where others see chaos
+Relentless focus on users and solving for their needs and wants
+
+Preferred qualifications
+
+Experience collaborating with sales and marketing teams
+Experience with sales and marketing technology
+3 years of experience in a tech company
+Proficiency with SQL

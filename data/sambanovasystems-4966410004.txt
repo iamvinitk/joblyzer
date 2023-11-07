@@ -1,0 +1,20 @@
+The era of pervasive AI has arrived.  In this era, organizations will use generative AI to unlock hidden value in their data, accelerate processes, reduce costs, drive efficiency and innovation to fundamentally transform their businesses and operations at scale.
+SambaNova Suite is the first full-stack, generative AI platform, from chip to model, optimized for enterprise and government organizations. Powered by the intelligent SN40L chip, the SambaNova Suite is a fully integrated platform, delivered on-premises or in the cloud, combined with state-of-the-art open-source models that can be easily and securely fine-tuned using customer data for greater accuracy. Once adapted with customer data, customers retain model ownership in perpetuity, so they can turn generative AI into one of their most valuable assets.If you recently graduated or will graduate within the upcoming academic year with your PhD and are interested in full-time hardware engineering opportunities within VLSI, please apply below and tell us a little about yourself! If theres a match someone will be in contact.
+We have roles across: 
+
+IO
+Power
+DFTTest
+Physical Design
+
+With opportunities to work on RTL, Verification, Circuits and Physical Composition within these areas. 
+ 
+Annual Salary Range and Level
+The base salary for this position ranges from 120,000year up to 145,000year. This range is based on role, level, and location and reflects the salary target for new hires in the US. Individual pay within the range will depend on a number of factors, including a candidates job-related qualifications, skills, competencies and experience, and location.
+ 
+Benefits Summary
+SambaNova offers a competitive total rewards package, including the base salary, plus equity and benefits. We cover 95 premium coverage for employee medical insurance, and 80 premium coverage for dependents and offer a Health Savings Account(HSA) with employer contribution. We also offer Dental, Vision, ShortLong term Disability, Basic Life, Voluntary Life, and ADD insurance plans in addition to Flexible Spending Account(FSA) options like Health Care, Limited Purpose, and Dependent Care. Our library of well-being benefits includes a full subscription to Headspace, access to One Medical, counseling services with an Employee Assistance Program, and much more.
+ Submission Guidelines
+Please note that in order to be considered an applicant for any position at SambaNova Systems, you must submit an application form for each position for which you believe you are qualified. 
+If you are a new, recent (within the last two years), or upcoming college graduate and are interested in opportunities with SambaNova Systems, please apply through our university job listings.EEO Policy
+SambaNova Systems is an Equal OpportunityAffirmative Action Employer. All qualified applicants will receive consideration for employment without regard basis of age (40 and over), color, disability, gender identity, genetic information, marital status, military or veteran status, national originancestry, race, religion, creed, sex (including pregnancy, childbirth, breastfeeding), sexual orientation, and any other applicable status protected by federal, state, or local laws.Customers turn to SambaNova to quickly deploy state-of-the-art generative AI capabilities within the enterprise. Our purpose-built enterprise-scale AI platform is the technology backbone for the next generation of AI computing.Headquartered in Palo Alto, California, SambaNova Systems was founded in 2017 by industry luminaries, and hardware and software design experts from SunOracle and Stanford University. Investors include SoftBank Vision Fund 2, funds and accounts managed by BlackRock, Intel Capital, GV, Walden International, Temasek, GIC, Redline Capital, Atlantic Bridge Ventures, Celesta, and several others. Visit us at sambanova.ai. Follow SambaNova Systems on Linkedin.

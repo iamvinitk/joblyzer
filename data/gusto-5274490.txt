@@ -1,0 +1,54 @@
+ 
+
+About Gusto
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. Thats why were committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. Product Design at Gusto is made up of over 60 creative, collaborative people who care deeply about our mission to empower small businesses and their employees. Were a cross-functional bunch focused on Design, Research, Writing, Ops and Front-end Development who are always looking for opportunities to build understanding and empathy for the people who use Gusto. We dont care a whole lot about swim lanes and we work closely with our partners in Product, Engineering, Data, and Marketing to design, build and ship experiences that make a difference. We are passionate advocates for thoughtful, crafted, and inclusive experiences and we believe great design can make hard things possible, even delightful. Read more about Design at Gusto.
+About the opportunities
+We have a number of Senior Designer roles open across our teams including Payroll, Benefits, Growth Platform, and more. Here are the key opportunities available:
+
+Fintech: The Fintech team empowers our customers to move money safely, securely, and quickly within Gusto. Youll work on experiences that help reduce risk, and keep our customers and platform safe from fraud and loss. Youll support developing payment technology that allows the rest of Gusto to innovate and develop products and features that serve all of our customers.
+Members: Members are the employees and contractors of our small business customers. They use Gusto to get paid and build towards their financial future  our mission is to empower their personal prosperity. Youll own end-to-end design for our consumer-facing mobile app and financial products.
+Gusto Pro: Accountants use Gusto to support their clients with payroll, taxes, hiring, and more. Gusto Pro helps accountants manage dozens to hundreds of clients on Gusto and grow their firms along the way. Youll design experiences that make experts and power users even more efficient at scale.
+Payroll: Gustos first product is Payroll, and its indispensable for our customers. Youll work on high visibility, high impact experiences that balance complex technical and regulatory considerations. Youll help make the complicated process of running payroll approachable, easy to use, and stress-free for businesses of all kinds.
+
+Heres what youll do day-to-day:
+
+Work with cross-functional partners in Product Management, Engineering, and Data Science to understand customer problems, key opportunities in your domain, and define both the long term UX vision and also short term releases that unlock customer value
+Collaborate with our Research, Data Science, and Customer Support teams to build a holistic understand of customer needs, and make sure theyre shared with your teams to inform their thinking, build empathy, and inform prioritization decisions
+Advocate for great UX, inspiring your teams with a strong point of view about whats possible and aspirational for your product area
+Hold high standards for the customer experience, including partnering with engineering partners to refine the end customer experience and ensure that what we release is bug free, performant, accessible, and responsive
+Design for how your experience fits into our system and advocate for cohesive experiences through the use of Workbench, our Design System, and other platform capabilities
+Speak clearly to tradeoffs and the Why behind design decisions in terms non-designers can understand and participate in
+Provide and seek feedback from other designers to always push the bar for quality
+Collaborate with designers on other teams to develop cohesive solutions for shared problems
+
+Heres what were looking for:
+
+5 years Product Design experience
+
+Bonus for Gusto if youve worked in domains connected to HR like payroll, Benefits, Finance, andor Workforce Management.
+
+A builder who loves being hands on crafting high quality, high impact solutions and getting them in front of customers
+
+Experience designing and shipping products in complex domains informed by research, data, and insights from support teams demonstrated through a portfolio of work youve directly contributed to
+Systems thinking, including using and contributing to a Design System and designing with a Platform-first approach
+Ability to explain the impact of your work, tradeoffs youve made, lessons learned, and design rationale 
+The ability to think long term towards a broader vision or step change, while being able to speak to scoping and sequencing to deliver iterative value
+Experience balancing long-term design goals with an Agile-based iterative approach 
+Strong communication skills and enthusiasm for collaborating across the entire company
+
+Experience designing end-to-end customer journeys from software to service
+Strong understanding of common web patterns, foundations, and the ability to discern when to innovate versus adopt existing standards
+Strong opinions loosely held and a willingness to engage in constructive debates about scope and tradeoffs to build alignment and unblock work
+Strong UX craft — you can break down complex experiences and design with consideration for all touchpoints 
+Ability to embrace ambiguous situations as opportunities to create
+Passion for Gustos mission and the impact we can have on the world
+
+At Gusto, we strive to provide rewards that empower employees to achieve their financial and personal goals. We offer competitive compensation packages with a strong emphasis on equity based compensation (ownership in Gusto). To learn more about Gustos compensation philosophy and benefits offerings please view our Total Rewards Approach page.
+Our cash compensation range for this role is 133,000yr to 182,000yr in Denver  most remote locations, and 161,000yr to 219,000yr in San Francisco  New York. Final offer amounts are determined by multiple factors, including candidate experience and expertise, and may vary from the amounts listed above.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gustos subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas. 
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. 
+Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodationsgusto.com.

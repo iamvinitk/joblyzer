@@ -1,0 +1,39 @@
+
+BI-Remote
+
+Were currently hiring for remote team members in the following states:  DC, DE, GA, MA, MD, NH, NJ, NY, OH, PA, SC, UT, and VA.
+ 
+
+
+ 
+Were AWeber - a fully remote company that helps over 500,000 small businesses around the world form meaningful permission based connections with their customers and grow their businesses using our marketing communication software. We are fanatical about small businesses and we hope you are too!
+
+As the Messaging Operations Engineer, you play an integral role in enhancing and evolving the secret sauce behind our email platform. Since we invented the first email auto responder, excellent email deliverability continues to be a priority and sets us apart in a crowded marketplace. We use billions of email delivery data points to make smart detections of new subscriber typos, detect bots, prevent spammers, prevent phishing, route mail, detect mailbox provider issues, and many other unique uses.
+On a daily basis, your main responsibility is to manage and optimize our high-volume outbound MTA, Momentum, while ensuring were staying abreast of the latest industry changes. Youll likely be found spelunking logs or Grafana dashboards to troubleshoot delivery anomalies or reaching out to mailbox providers to resolve issues. Spammers are smart, but youre smarter - consistently conceiving and testing new ways to detect and prevent abuse of our platform.
+To thrive as our Messaging Operations Engineer, you love inspiring others to implement email best practices (STARTTLS  DANE, DMARC, DKIM) to ensure theyre sending secure mail. You enjoy finding new ways to automate your workload, whether its MTA administration or delivery monitoring. You have a passion for troubleshooting - driven to find answers to the latest deliverability conundrum. You love learning and staying up to date on the latest email trends through active participation in email slack channels, email conferences like M3AAWG, and more.
+ 
+About AWeber:
+At AWeber we create marketing communication software that empowers small businesses around the world to form strong connections with their customers and grow their businesses. Who are our customers you might ask? They are creators, bloggers, entrepreneurs - people just like you that are passionate about an idea or product they want to share with the world. At AWeber, YOU make an impact on these small businesses each and every day!
+As a team, we work remotely across the US, and although were in separate locations, nothing can keep us apart! We collaborate everyday using a variety of tools such as slack, google meet, and confluence JIRA to ensure were making decisions with our customers best interests in mind - something thats not possible when you work in a siloe. At AWeber, YOUR voice and YOUR opinion matters, regardless of your role. We expect all AWeber team members will ask tough questions, provide receive feedback regularly, and explore their passions on a daily basis. Sound exciting? Take the next step and apply.
+ 
+AWeber Benefits:
+
+100 Remote - were not going back to the office and heres why.
+Strong culture that supports flexibility, entrepreneurialism, and collaboration. Think we should be doing something different? Share your feedback! Were looking for you to add your AWesomeness to our culture.
+We have some other pretty cool benefits to make your life easier:
+
+100 Company Paid PPO medical, dental, vision insurance (spousal and domestic partner benefits available).
+4-7 weeks of paid time off and holidays (based on tenure).
+4 week paid sabbatical (based on tenure).
+401K retirement plan with 4 company match.
+Company Profit Share.
+Home office equipment and internet stipend.
+Tuition reimbursement, conferences, and learning opportunities.
+Gym Memberships Reimbursement. 
+Company Paid Short Term Disability Insurance.
+Company Paid Life Insurance.
+Additional Supplemental Benefits (Long Term Disability, Critical Illness, and Additional Life Insurance).
+
+
+
+ 

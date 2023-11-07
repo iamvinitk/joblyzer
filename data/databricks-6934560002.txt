@@ -1,0 +1,66 @@
+RDQ423R45
+Jira Administrator
+ 
+Summary: 
+The JIRA Admin  Release Manager will oversee the administration, maintenance, and evolution of our JIRA system, and manage software releases across multiple projects. Additionally, will ensure best practices in the Software Development Life Cycle (SDLC) are enforced and will contribute to the enablement of engineering teams, Databricks teams using JIRA, and that software releases are implemented smoothly and with minimal risk.
+Important Responsibilities:
+
+JIRA Administration:
+
+You will Manage, administer, and improve the JIRA platform for project tracking and management.
+You will Customize JIRA workflows, fields, dashboards, reports, and other JIRA configurations to meet ProductEngineering needs.
+You will Ensure data security and create schemas to manage user permissions following roles and responsibilities.
+You will Monitor system performance, implement necessary changes, and ensure platform stability.
+You will Collaborate with multiple Product and Engineering teams to understand their requirements and implement solutions in JIRA.
+You will Maintain documentation for JIRA processes, workflows, and usage guidelines.
+You will report to the Head of NPI and Customer Acquisition Operations
+
+JIRA Release Management:
+
+Lead development development, QA, and JIRA release processes across multiple environments.
+Define and refine release processes to improve efficiency and reduce risks.
+Monitor software builds, ensuring that they meet quality and functionality criteria.
+Coordinate release communications, ensuring that all partners are informed.
+Evaluate software releases to ensure that they align with agreed project goals.
+Resolve release-related issues in collaboration with relevant teams.
+Guide JIRA integrations with other sales and HR systems (Salesforce, Workday)
+
+SDLC Best Practices and ProductEngineering Enablement:
+
+Provide user training and support, responding to questions and resolving issues promptly.
+Advocate for best practices throughout the SDLC to improve software quality and delivery.
+Promote engineering teams by providing them with the necessary tools, training, and resources to uphold SDLC best practices.
+Facilitate communication between diverse teams to ensure smooth development processes.
+Help integrate SDLC tools and practices within the JIRA platform.
+Organize workshops and training sessions to uplift the skills of the engineering teams.
+
+Required Qualifications:
+
+Bachelors degree in Computer Science, IT, or a related agile development field.
+5 years experience with JIRA administration.
+2 years experience with the software development life cycle and agile methodologies.
+Knowledge of other Atlassian tools like Confluence, Bitbucket.
+A Diverse perspective that is inclusive of all involved.
+With an ability to collaborate with stakeholders at all levels.
+
+
+Benefits
+
+Private Medical Insurance
+Private Life Insurance
+Equity Awards
+Paid Parental Leave
+Fitness Reimbursement
+Annual Career Development Fund
+Home OfficeWork Headphone Reimbursement
+Business Travel Accident Insurance
+
+LI-Onsite LI-puravida
+ About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

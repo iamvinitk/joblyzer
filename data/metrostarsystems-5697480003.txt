@@ -1,0 +1,28 @@
+As a Sr. Software Engineer, youll be responsible for the engineering, design, software development, configuration management, integration and testing, troubleshooting, logistics, and other technical services, with the goal to make an impact across the federal government.
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Leverage cutting-edge technologies such as artificial intelligence, quantum effects, autonomy, robotics, advanced energetics, and synthetic biology to give Soldiers the ability to see, sense, decide and act faster than their adversaries. 
+Support a Division responsible for a wide range of communications programs in support of new and fielded Army telecommunications systems. 
+Research new capabilities in communication technologies for the battlefield, as well as the application of Government-Off-The-Shelf and Commercial-Off-The-Shelf (GOTSCOTS) capabilities.
+
+What youll need to succeed: 
+
+BS in Computer Science, Information Systems, Engineering or related scientifictechnical discipline.
+5 years with Agile and DevSecOps development process experience with Linux, CC, SQL, Python, and OOAOOD software development methodology JavaScript  Java, Jira, Confluence, and GIT.
+Minimum DoD 8570.01-m IAT Level II.
+Working knowledge of IP networking and system engineering processes, procedures, and best practices; digital engineering models
+Ability to develop and execute plans, such as Integrated Support Plan (ISP) and Support Engineering Plan (SEP).
+Experience supporting Army customers at Aberdeen Proving Ground, Product Manager Tactical Cyber and Network Operations (PdM TCNO) preferred.
+Ability to support and provide recommendations in support of the Armys Unified Network Operations (NetOps) Convergence strategy.
+An active DoD Secret Security Clearance.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

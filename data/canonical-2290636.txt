@@ -1,0 +1,31 @@
+Drive the future of collaborative open source development tooling as part of the Launchpad team. This is an opportunity for a motivated engineering manager with a passion for open source software, Linux, and web services to join our distributed team.
+Launchpad is a robust platform for managing open source development projects. It includes code hosting and review, bug tracking, package building, translations, and other facilities used by free and open source software developers.  It provides essential development infrastructure for major projects such as Ubuntu.
+As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. Were looking for technical leadership and a solid background in software development, so that youre able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.
+Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+What youll do
+
+Grow and lead a team of engineers in your region
+Develop talent through coaching, mentoring, feedback, and hands-on career development
+Apply sound engineering principles and directly contribute toward your teams goals
+Create and maintain productive relationships with stakeholders
+Set and manage expectations with other engineering teams, management, and external stakeholders
+Collaborate proactively with a distributed team and community
+Lead the ongoing development of Launchpad, the infrastructure on which great software like Ubuntu is built
+Advocate and advance modern, agile software development practices and help develop and evangelise great engineering and organisational practices
+Grow a healthy, collaborative engineering culture in line with the company values
+Actively engage with the broader leadership team
+Work from home with international travel up to 6 weeks per year for internal and external events
+
+Who you are
+
+You have experience leading a distributed team to deliver features and manage production services at scale
+You love to mentor, develop, and grow people, and have an outstanding track record of doing so
+You are knowledgeable and passionate about technology
+You have experience delivering high quality software
+You have experience designing and evolving complex distributed systems
+You have effective written and verbal communication skills
+You have solid experience working in an agile development environment
+
+We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.
+LI-remote
+stack

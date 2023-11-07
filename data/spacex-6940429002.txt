@@ -1,0 +1,48 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+AVIONICS SYSTEMS ENGINEER (DRAGON)
+As an Avionics Engineer supporting Dragon, you will have the unique opportunity to work with a cross functional team of engineers that consolidates execution between vehicle analysis, design, and production extending through vehicle system verification and space operations. You will be equally anchored in all disciplines giving you the ability to spearhead change at the inception of product development, through production, to vehicle system validation.
+Your creativity and relentless commitment to quality will be exercised to create, analyze, and maintain systems designs, define and improve processes, and develop vehicle validation techniques in order to ultimately build a state-of-the-art and fully reusable space launch vehicle system capable of safely and reliably carrying crew and payloads. You will also put your engineering knowledge to the test by performing real-time troubleshooting on the vehicle as it goes from the integration phase through mission operations. Our fundamental goal is to allow humanity to explore the stars; with it comes the extreme responsibility of ensuring the safety of the crew and payload. 
+RESPONSIBILITIES: 
+
+Responsible for computing, power, instrumentation, and radio frequency (RF) communications consisting of system level performance and component hardware ownership
+Develop, execute, and analyze the avionics system testing on flight hardware at the integrated level to validate the as-built vehicle is go for launch and root cause issues that require in-depth investigations across vehicle hardware systems
+Support build and capsule maintenance through troubleshooting build problems and work to simplify and streamline recurring work to enable a higher launch cadence with higher reliability and lower labor hours per mission
+Support mission operations by providing real-time input during flight, completing data reviews and monitoring system performance, and working with partners to simplify operation of systems
+Work collaboratively with other teams and customers to define the scope of development projects and initial product requirements as new designs move from concept, through prototype, and into production
+Define acceptance testing and qualification requirements of new and existing hardware, perform development and qualification testing to prove out design, and formally document test results
+Travel to launch sites and customer sites for testing andor operations
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in an engineering field, science, or math
+1 years of experience using software such as Python, C, andor Matlab
+1 years of experience with electrical component design, system level integration of electronic components, or system level testing (internship and project team experience is applicable)
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Hands-on experience with sizing, installing and troubleshooting various electronic components
+Experience with wire harness design and build, including associated sub-components
+Experience with NX or similar CAD software
+Experience with PCBA design and Altium or similar software
+Experience with RF system design or testing
+Competence with electrical test equipment (multimeters, oscilloscopes, network analyzers, power supplies, etc.)
+Software fluency, enabling automation of test or analysis tasks and manipulation of large data sets
+Creative problem solver that can bring multiple disciplines together with the ability to assess risk and make design and development decisions with limited data
+Self-motivated with strong learning, multi-tasking, organizational, and documentation skills
+Strong sense of accountability and integrity with excellent written and verbal communication skills
+Ability to work in a fast paced, autonomously driven, and demanding atmosphere
+
+ADDITIONAL REQUIREMENTS:
+
+Must be available to work extended hours and weekends if needed to meet critical deadlines 
+Ability to pass Air Force background checks for Cape Canaveral
+
+COMPENSATION AND BENEFITS:    
+Pay range:    Avionics Systems EngineerLevel I: 100,000.00 - 120,000.00per year    Avionics Systems EngineerLevel II: 115,000.00 - 135,000.00per year        Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short  long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation  will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

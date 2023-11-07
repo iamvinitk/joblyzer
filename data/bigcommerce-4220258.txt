@@ -1,0 +1,41 @@
+BigCommerces mission is to help merchants sell more at every stage of growth, from small startups, to mid-market businesses to large enterprises. We focus on being the best ecommerce platform so our customers can focus on what matters most: growing their businesses.
+We are equally passionate about growing our employees careers and providing them an incredible experience as we rapidly expand across the globe. We are proud to have been recognized numerous times for our product and workplace culture. We empower our people and customers to build, innovate and grow, so together we can redefine the ecommerce industry.At BigCommerce, we are always looking for top talent to join our team.  Our Engineering team is a fast-growing section of our business and vital to our success, and while we do not have any immediate openings in Ukraine as a result of the ongoing war, we welcome potential candidates for future hiring needs. Please note you will receive confirmation that we received your application, and you will be considered for future positions when hiring opens up. We also encourage you to review our Poland job postings on our careers site in the near future.  Thank you for your interest in BigCommerce.
+BigCommerce, named a 2022 Best Place to Work in Austin, is always looking for Engineers at all experience levels. Youll be working with team members to extend our products and integrate with a broad array of external services. BigCommerce offers a heavily collaborative environment helping you expand your skill set and take ideas from inception to delivery.
+What Youll Do
+
+Use Scala, PHP, React, Ruby, Rails, gRPC, JavaScript, RabbitMQ, Docker, Resque, MySQL, Redis, andor a slew of other technologies to help power our platform
+Build integrations with 3rd party SOAPREST APIs that can span multiple codesetsservices, fail gracefully, and be highly extensible
+Write code that is performant, maintainable, clear, and concise
+Collaborate with our product and design teams to define feature specifications and timelines
+Engage in technical discussion of new solutions and architectures
+Participate in code reviews to maintain and improve quality
+Support an open, positive, and energized culture
+Encourage innovation and foster an environment of continuous improvement
+
+Who You Are
+
+Experience as a Software Engineer using at least one of Ruby, Scala, Elixir, Python, Go, Javascript, or PHP. 
+Adept with full-stack development
+Minimum Bachelors degree in Computer Science, Computer Engineering, Software Engineering, Electrical Engineering, MIS or related equivalent experience
+Experienced in developing high performance, scalable and available web services and applications
+Highly proactive and results-oriented with excellent critical thinking skills
+Excited to learn new technologies
+Strong understanding of relational databases, distributed queuing systems, and external services integrations over APIs (RESTSOAP)
+Experience with SaaS platforms highly preferred
+Nice to Have: Experience with OAuth andor SAML workflows and permissions
+Nice to Haves : DevOps experience, GCP experience, andor Docker or other containerization technologies
+
+Our Hiring Processes Might Include
+We want to see your problem-solving and analytical skills. Be prepared to write good, clean, scalable code. You dont need to know our entire stack, but were looking for practical experience, someone who can solve production problems in the cloud.
+
+Recruiter Phone Screen
+Hiring Manager Screening
+Online Code Assessment
+Final Team Interview
+
+ Diversity, Equity  Inclusion at BigCommerce
+ 
+Our employees make the difference. At BigCommerce, we believe that celebrating the unique histories, perspectives and abilities of every employee makes a difference for our company, our customers and our community. We are an equal opportunity employer and the inclusive atmosphere we build together will make room for every person to contribute, grow and thrive.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions and to receive other benefits and privileges of employment. If you need an accommodation in order to interview at BigCommerce, please let us know during any of your interactions with our recruiting team.
+Learn more about the BigCommerce team, culture and benefits at https:careers.bigcommerce.com.

@@ -1,0 +1,42 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+The Flight Technology Department is looking for a Lead Dynamics Engineer to coordinate structural dynamics and rotor dynamics with the testing organization. Key responsibilities include modal analysis investigation of structural components, supporting the safe expansion of rotor and flight testing envelopes, and vibration predictions and mitigations. The engineer will interface regularly with other groups within the Flight Technology Department but also other groups in Airframe, Systems, Test, Certification.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Provide in-depth analysis of vibroacousticstructural dynamics phenomena (transmission, radiation, propagation, )
+Predict vibration response at different locations of the aircraft structure and verifyvalidate with test results
+Achieve vibration qualification of cabin interiors, instruments, and equipment
+Lead and participate in the definition of ground and flight test objectives for eVTOL rotor and airframe systems
+Lead and participate in the development of the set of test conditions to be investigated
+Lead the diagnosis of structural dynamics and vibration problems identified during the test
+Participate in the resolution of dynamics and vibration problems
+Lead the efforts to develop vibration reduction and isolation using passive and active methods, preferably at the source
+Plan, lead, and coordinate activities with other teams
+Travel, as needed, up to 50, primarily to our local California Proving Grounds in the Mojave desert (California City)
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors Degree in an applicable Engineering field
+A minimum of ten (10) years of applicable experience (an equivalent combination of education and experience may be considered)
+In-depth knowledge of rotor and airframe structural dynamics
+Experience with Siemens Simcenter testlab or virtual lab
+Strong background in vibration hammer and shaker table testing. Experience testing fixed wing and rotorcraft vehicles, and developing passive and active solutions to vibrations
+Experience diagnosing and solving problems that arise in the development of new aircraft
+Knowledge of aircraft andor rotorcraft certification requirements and compliance
+Specialized understanding of structural dynamics and associated engineering fundamentals.
+Excellent verbal and written communication skills
+Hands on vibration analysis and prediction using commercial and in-house tools
+Familiarity with qualification environmental vibration testing as defined in DO-160
+Ability to write professional technical reports and certification documents
+Able to proactively communicate
+Excellent organizational skills and attention to detail
+Must have the ability to independently prioritize and accomplish work efficiently within time constraints
+
+You may also be able to contribute:
+
+Masters or Ph.D. degree in a relevant engineering field preferred
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:192,400—289,120 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

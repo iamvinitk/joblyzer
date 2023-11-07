@@ -1,0 +1,26 @@
+At Scale AI, we help companies to build better ML models faster. We are building tools across the AI development lifecycle, to help companies get the data they need and iterate on their models, whether its for self-driving vehicles, generative AI, or robotics. AI is rapidly changing the world, and Scale is growing to meet that rapid demand. Our customers include OpenAI, Microsoft, Stability AI, Toyota, Meta, and many more major players in this space!
+The Berlin team is part of the Autonomous Vehicles  Computer Vision sector of Scale, which builds the tools for curating, managing and labeling Lidar point clouds, image data and video feeds, and linking them together to build better perception models
+In this role, you will be an integral member of our engineering team as part of our expansion within Germany. Youll be given the opportunity to own critical parts of the products to meaningfully drive millions of dollars in revenue. The ideal person is a natural entrepreneurial engineer who can take an ambiguous scope and lead the execution to an outcome. Youre excited about solving customer problems, and you pick the technologies and tactics that balance speed, function, and long-term robustness
+You will:
+
+Own large new areas within our product
+Work across the backend androntend stacks
+You like to interact with product users 
+Deliver experiments at a high velocity and level of quality to engage our customers
+Work across the entire product lifecycle from conceptualization through production
+Be able, and willing, to multi-task and learn new technologies quickly
+
+Ideally youd have:
+
+3 years of full-time engineering experience, post-graduation
+Proficiencies in one or more of Python, Node, React
+Proficiencies with one or more DB technologies like PostgreSQL, Elasticsearch or MongoDB
+Experience scaling products at hyper growth startups
+Experience at other API technology companies
+
+LI-OnsiteAbout Us:
+At Scale, we believe that the transition from traditional software to AI is one of the most important shifts of our time. Our mission is to make that happen faster across every industry, and our team is transforming how machine learning can build innovative products. Our products provide access to human-powered data for hundreds of use cases and are used by industry leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and many more. Weve recently raised 325 million in Series E funding at a valuation of 7B and are expanding our team to accelerate the development of AI applications.
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an affirmative action employer and inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance andor a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodationsscale.com. Please see the United States Department of Labors Know Your Rights poster for additional information.
+We comply with the United States Department of Labors Pay Transparency provision. 
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data.

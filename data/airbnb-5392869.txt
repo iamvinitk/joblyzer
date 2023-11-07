@@ -1,0 +1,49 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.The Community You Will Join: 
+Over two million people stay on Airbnb every night and the Trust Engineering team keeps our hosts and guests safe and supported throughout the entire Airbnb experience.
+As a global platform, Airbnb is faced with constant and evolving fraud attacks. Data plays a critical role in understanding novel fraud patterns, identifying the most optimal defenses that minimize impact to our good users, and ensuring that our models are accurate and can iterate quickly with the ever changing fraud landscape.
+As part of the Trust Data Foundations team, you will be in charge of leading Trusts data engineering team and defining the vision to scale data driven decisions to support detection and mitigation across all fraud verticals across our product. You will collaborate closely with product, data science, analytics, and operations teams to understand the Trust product, and establish the data strategy that supports the data needs across our platform to make Airbnb the most safe and trusted community. There are still many unsolved problems to tackle in both online and offline risk, and we are looking for talented engineering managers to solve these challenges with us.
+The Difference You Will Make:
+
+Defining and executing on the technical direction and vision for the team to serve the data needs across Trust defenses and products
+Raising the quality bar for the data assets owned by the team
+Identifying strategic areas to uplevel data accessibility for various Trust x-functional stakeholders
+Collaborating with and influencing the data community across Airbnb to uplevel data engineering practices and processes
+Providing guidance on technical direction and foundational investments that are expected to uplevel accuracy and efficiency of data-driven decisions across Trust
+Proactively collaborating with engineering, product, and operations to identify customer pain points
+Optimizing team operations to empower the team to achieve a high level of productivity, reliability, and simplicity (planning, prioritization, knowledge sharing, design review, incident response, etc.)
+Hiring and developing talents on your team
+Championing Airbnbs culture of belonging
+
+A Typical Day: 
+
+Support the team to deliver data assets (batch, near real-time, streaming) across Airbnbs data warehouses (Hive, Presto, StarRocks, Flink, etc.) with high quality
+Influence the technical direction of the projects to meet the data stakeholders needs while upholding quality. Quickly validate project ideas through iterative development, and pivot as necessary.
+Streamline the teams practices and processes to optimize the ways of working, both internally and with external teams
+Showcase the teams work in front of senior leaders, clearly communicate trade-offs, risks, and opportunities to a broad set of stakeholders
+Proactively share context with the team, and help the team connect the dots of their work with broader company and organizational initiatives
+Be able to answer questions about ongoing initiatives, architecture and systems, staffing situations, and priorities in details
+Have regular 1:1s and meaningful career conversations with your reports
+Have the technical acumen to partner with tech leads and are comfortable helping drive data incident resolution and deliver continuous improvement to teams foundational goals
+Lead or contribute the efforts that help increase belonging on the team and beyond
+
+Your Expertise:
+
+5 years of engineering management experience, with 9 years of of relevant software development industry experience in a fast paced tech environment
+Flexible in leadership style, can adapt to a variety of ways of working depends on the situation 
+Experience working on user facing product surfaces, especially in search related product areas
+Strong product and design sense, can spot potential usability issues, provide alternative solutions and collaborate effectively with product, design and user research partners 
+Strong communication skill and ability to influence decisions from a wide variety of stakeholders 
+Technical leadership: expertise in fullstack development and experience leading cross platform team(s), bonus if experienced in performance optimization  latency
+Experience fostering an inclusive and engaging team environment
+Able to identify, retain, grow and acquire critical talent
+10 years of combined engineering management experience and relevant software development industry experience in a fast paced tech environment.
+
+How Well Take Care of You:
+Our job titles may span more than one career level. The starting base pay for this role is between 200,000.00 and 245,000.00 The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodationsairbnb.com. Please include your full name, the role youre applying for and the accommodation necessary to assist you with the recruiting process. 
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—245,000 USD

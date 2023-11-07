@@ -1,0 +1,35 @@
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Unitys Security Operations (SecOps) team takes a different approach to security monitoring and response. Instead of hiring traditional Analysts who mainly prioritize automated findings and follow runbooks, we recruit individuals who have the skills and the desire to assume greater responsibility. Existing employees who fill this same role universally describe this as the most fulfilling job theyve ever had!
+This role will regularly have the opportunity to meet with, and present to, Unitys Chief Security Officer and Chief Privacy Officer. The analyst will work closely with their peers around the world, including Tel Aviv multiple locations in the United States. We have crafted the team structure and procedures specifically so that no one in this role is ever left on their own, without support or backup.
+We will jointly build and maintain a career development plan, and work together to ensure that the Analyst is making regular progress towards their goals. This includes training, conferences, and, whenever possible, building the requisite skills and knowledge through the projects and tasks that they are assigned to.
+What youll be doing
+
+Analyzing metrics, incident data, and new log sources to find opportunities for new alerts, and then writing those alerts
+Identifying ad hoc response procedures that can be routinized and then automated, and then authoring that automation
+Leading and participating in investigations of possible security incidents, diving as deeply into the technical details as your knowledge and interest allows
+
+What were looking for
+
+Experience as a Security Analyst or similar role in a Security Operations Center, including writing detectionsalerts, andor automated or manual runbooks
+Experience with one or more Cloud platforms
+An abiding curiosity about Security, as shown in resume, course selection, or non-work related projects
+
+You might also have
+
+Experience with the Sumo Logics SIEM and SOAR solutions
+Experience with forensics and at least one forensics tool, such as Magnet or FTK
+Experience with Threat Intelligence and Threat Intelligence feeds
+
+Additional Information
+International relocation support is not available for this position.
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+International relocation support is not available for this position.
+LI-JP1 SEN
+Note: Certain locations require a good faith disclosure of the base pay for the role. The actual base pay for the successful candidate may differ based on location and level.
+Gross pay salary131,900—178,400 USD

@@ -1,0 +1,65 @@
+With millions of diners, tens of thousands of restaurants, and 23 years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximize revenue.
+Every employee at OpenTable has a tangible impact on what we do and how we do it. Youll also be part of a global network that includes OpenTable and KAYAKs portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+Hospitality is all about taking care of others, and it defines our culture. Youll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed.
+Reporting to the Senior Product Manager - Business Optimization, this position is responsible for maintaining and improving OpenTables Salesforce architecture and supporting the Global Sales  Services team in its usage of SFDC. You will work with multiple Cloudsplatforms and partner multi-functionally with several departments including Sales, Account Management, Onboarding, Marketing, Support, Finance, and Product to manage a sophisticated Salesforce organization. Youll be focused on customizing OpenTables Salesforce instance with a full understanding of options and standard processes.
+Internal systems play a key role in the success of our business and our ability to provide excellent support for our restaurants and diners. This role will work closely with our Revenue Operations and Business Optimization teams to design and implement enhancements for existing systems and build new solutions that support the goals of the organization. In this role, youll consistently be asked to analyze, design, and optimize processes in order to increase user adoption and ultimately grow revenue. Youll create documents and materials as they pertain to various user typesgroups, and will be instrumental in supporting and offering recommendations around the usage and structure of internal Sales  Services tools such as Talkdesk, Geopointe, Calendly, and Groove.
+In this role, you will: 
+
+Partner closely with the Revenue Operations team to gather requirements, prioritize enhancements into sprints, and connect with team members about releases
+Build strong working relationships and in-depth knowledge of our internal groups and their processes in order to identify areas of opportunity
+Design new business processes that will improve operational efficiency across the organization
+Support a team of remote Sales and Services team members who rely on SFDC daily to lead their customer interactions, territories, pipelines, and deals
+Answer technical inquiries quickly and clearly every day
+Support SFDC onboardingoffboarding processes
+Act as a Salesforce guide and trusted advisor for all internal users, raising issues as needed
+
+Please apply if: 
+
+2-5 years of Salesforce Admin experience (preferably in Lightning), with a focus on internal systemsbusiness applications
+Experience handling feature requests for Salesforce and advanced skills building Salesforce reportsdashboards
+The ability to apply advanced automations to solve complex business problems
+Experience with Salesforce integrations and their implications
+Excellent verbal, written, and visual communication skills
+Strong problem solving, judgment, and organizational skills
+The capacity to grasp and learn sophisticated concepts quickly and independently
+Able to prioritize multiple projects simultaneously without sacrificing attention to detail and while consistently meeting ambitious deadlines
+
+Required and preferred skills:
+
+Advanced skills in creating complex Salesforce reports and dashboards (Lightning preferred)
+Experience with Service Cloud, CPQ, or Service Cloud is a plus
+Proficient in Excel, and handling large data sets (Data Loader preferred)
+Ability to write clear, concise users stories and process changesinstructions
+Experience in Agile development methodology (AgileScrum ninja is a plus)
+Experience with Lucidchart or other design applications
+Experience with system internationalizationlocalization
+Experience with DocuSign is a plus
+Experience with Sarbanes Oxley Compliance is a plus
+Preferred Certifications: Salesforce Administrator or Advanced Administrator
+Preferred Superbadges: Business Administration Specialist, Lightning Experience Reports  Dashboards Specialist, andor Process Automation Specialist, Duplicate Management, Picklist Administration, Build a Discount Approval Process, Formulas  Validations
+
+A few of the benefits you get at OpenTable—
+
+Work from (almost) anywhere; wherever you do your best work
+Focus on mental health and well-being!
+Company paid therapy sessions through SpringHealth
+Company paid subscription to HeadSpace
+Company-wide weeks off each year - the whole team fully recharges (and returns without a pile-up of work!)
+Generous paid parental leave
+Generous paid vacation  time off for your birthday
+Paid volunteer time
+Health, dental  vision plans
+401k with company match
+Focus on your career growth
+Enriched learning and development opportunities
+Leadership development
+Access to thousands of on-demand e-learnings
+
+There are a variety of factors that go into determining a salary range, including but not limited to external market benchmark data, geographic location, and years of experience soughtrequired. The range for this remote United States based role is 77,000-100,000.
+In addition to a competitive base salary, roles are eligible for additional compensation and benefits including: annual cash bonus, equity grant; health benefits; flexible spending account; retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, bereavement leave, floating holidays and paid holidays); and parental leave and benefits.
+Diversity, Equity, and Inclusion
+OpenTable aspires to be a workplace that reflects the diverse communities we serve and a culture that is inclusive and welcoming. Hiring people with different backgrounds, experiences, perspectives, and ideas is critical to innovation and to how we deliver great experiences for our users and our partners. Representation matters.
+We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+LI-Remote
+LI-BR1
+Remote work allowed

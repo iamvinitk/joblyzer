@@ -1,0 +1,51 @@
+ 
+
+About Gusto
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. Thats why were committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. About Symmetry
+Symmetry Software is now part of Gusto. Symmetry is the payroll infrastructure for software  payroll platforms powering the paychecks of over 64 million workers each year. Our fully integrated suite of payroll tax APIs and software tools allows companies to solve tax compliance issues and build applications across the entirety of the payroll process. 
+We run all our solutions in the cloud using the latest technologies that AWS has to offer!  Our infrastructure processes are mature, automated, and monitored!  This is an amazing opportunity to work in a great environment that most engineers strive to be a part of!
+What we are looking for:
+Our engineering team is looking for a senior software engineer and architect to help expand our products and services to the entire payroll industry.  You will work with an agile development team and be responsible for designing and architecting applications, tools, and end-to-end solutions using languages such as Java, C, C, Lua and front-end frameworks such as ReactAngular.  This is a high-impact role that will help shape the success of Symmetrys tools and platforms in the cloud.
+What youll be doing
+
+Own what you build as you architect, test, and refine Symmetrys product suite.
+Use data and rapid experimentation to gain insights and improve our products and tools.
+Tackle a wide variety of technical problems throughout the stack and contribute daily to all parts of our product code base.
+Collaborate with our product management and design teams to understand customer pain points, come up with solutions, and then prototype, iterate, and launch daily.
+Build a product that our customers genuinely love. Dont just take our word for it - check out what some customers have to say.
+You are not limited to working on old codebases. Most of our work uses the latest front-endbackend technologies within the cloud.  Our tech stack is based on using the best tool for the job.
+
+Experience  requirements 
+Prior experience:
+
+Bachelors degree in Computer Science, Information Systems, or equivalent experience.
+15 years of progressive technical experience as a software engineerarchitect building distributed applications or solutions.
+Experience consuming andor designing RESTful services.
+Experience in architectural and implementation-level design.
+Demonstrated experience in solving complex product development problems.
+Passionate about creating memorable experiences for customers.
+Appreciation for a collaborative, test-driven environment.
+Strong foundation and previous architect experience in data structures, software designs, micro services, containers, and serverless architecture.
+Practical experience writing reasonably complex software in an object oriented, strictly typed, compiled programming language (e.g., Java, C, .Net, etc.).
+SQL and fundamentals of relational database design (MariaDB, PostgreSQL, etc.).
+Experience with Agile development, continuous integration, and DevOps culture.
+
+Required skills  mindsets:
+
+Strong analytical and problem-solving skills
+Ability to work independently and within a fast-paced team environment
+Strong work ethic supported by solid time-management skills
+Professional and team oriented with strong communication skills
+Ability to communicate at all levels within the company
+Ability to respect and handle diversity amongst staff and office environments
+Fast and enthusiastic learner with a desire to increase knowledge and understanding of the payroll industry and Symmetry Software products and services
+Ability to get into the nitty gritty of how a product works and clearly communicate its value
+
+Our cash compensation amount for this role is targeted at 193,000yr to 221,000yr in Scottsdale  most remote locations, and 250,000yr - 280,000yr for San Francisco  New York. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.
+Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gustos subsidiary, whose physical office is in Scottsdale.
+Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas. 
+When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.
+
+Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because its the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. 
+Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodationsgusto.com.

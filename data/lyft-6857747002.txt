@@ -1,0 +1,39 @@
+Chez Lyft, notre mission vise  amliorer la vie des gens en offrant les meilleurs services de transport au monde. Pour y parvenir, nous commenons par notre propre communaut en crant une organisation ouverte, inclusive et diversifie.
+Pour nous chez Lyft, sappuyer sur les donnes est le seul moyen de prendre des dcisions. Il sagit du cur de notre activit, qui nous aide  crer une exprience de transport pour nos clients et nous donne des indications sur lefficacit du lancement et des fonctionnalits de nos produits.
+Cette quipe se concentre sur le soutien de notre entreprise en mettant en place le transfert, la collecte et le stockage des donnes qui alimentent nos activits de solutions urbaines. Nous cherchons un(e) ingnieur(e) de donnes pour dvelopper des solutions volutives, en tirant parti de son expertise en matire de donnes et de notre pile technologique pour fournir des donnes prcises et opportunes  nos clients internes et externes. Vous aurez loccasion de faire partie dune nouvelle entit en pleine croissance de notre plateforme de micromobilit. Ce poste implique de collaborer avec les chefs de produit, les parties prenantes externes, les directeurs gnraux et directrices gnrales, les ingnieur(e)s et les scientifiques de donnes pour recueillir et traduire les exigences en solutions, en veillant  ce que les dcisions fondes sur les donnes demeurent au cur de nos activits.
+Ce poste relve du ou de la Gestionnaire, Services techniques de lingnierie.
+Responsabilits:
+
+Assumer la proprit des principaux pipelines de donnes de lentreprise, ainsi que la responsabilit de la mise  lchelle du flux de traitement des donnes pour rpondre  la croissance rapide des donnes chez Lyft
+Faire voluer le modle de donnes et le schma de donnes en fonction des besoins commerciaux et techniques
+Mettre en uvre des systmes de suivi de la qualit et de la cohrence des donnes
+laborer des outils qui permettent la gestion des pipelines de donnes en libre-service (ETL)
+Optimiser les tches SQL et MapReduce pour amliorer le traitement des donnes
+Savoir utiliser un langage de programmation bien conu, bien test, lisible et pouvant tre maintenu
+Participer aux examens de programmation pour assurer la qualit de la programmation et dissminer des connaissances
+Dbloquer les communications avec les partenaires internes et externes et les favoriser pour atteindre les rsultats viss
+
+Exprience:
+
+Au moins 5 ans dexprience professionnelle pertinente
+Exprience avec lcosystme Hadoop (ou similaire) (MapReduce, Yarn, HDFS, Hive, Spark, Presto, Pig, HBase, Parquet)
+Matrise dau moins un des langages SQL (MySQL, PostgreSQL, SqlServer, Oracle)
+Bonne comprhension de SQL Engine et capacit  effectuer des rglages de performance avancs
+Solides aptitudes en langage de script (Python, Ruby, Bash)
+Au moins 2 an dexprience avec les outils de gestion de flux de travail (Airflow, Oozie, Azkaban, UC4)
+Aisance  travailler directement avec les analystes de donnes afin dtablir le lien entre les objectifs commerciaux de Lyft et lingnierie des donnes
+
+Avantages sociaux:
+
+Options tendues de couverture sant et dentaire, ainsi que des prestations dassurance vie et dinvalidit
+Programme pour la sant mentale
+En plus des congs fris reconnus par lentreprise, les membres de lquipe ont 15 journes de vacances payes, plus une journe par anne de service
+4 jours de congs flottants par anne
+10 journes de cong de maladie payes par anne
+Services de support en fcondit et planification familiale
+Compte de dpenses pour soins de sant
+Cong parental pay de 18 semaines  plein salaire. Les parents biologiques et adoptifs, ainsi que les familles daccueil sont galement admissibles
+Avantages pour les dplacements avant impts
+
+Lyft embauche une main-duvre diversifie. Lyft estime que chaque personne a droit  des chances demploi gales sans discrimination quant  sa race, son ascendance, son lieu dorigine, la couleur de sa peau, son origine ethnique, sa citoyennet, ses croyances, son sexe, son orientation sexuelle, son identit sexuelle, son expression sexuelle, son ge, son tat civil, sa situation familiale, son incapacit, son pardon dune offense ou pour tout autre motif relevant de la loi applicable ou dune politique de lentreprise. Lyft sefforce galement de fournir un environnement de travail sain et scuritaire et interdit formellement tout type de harclement. Des amnagements seront prvus sur demande pour les personnes handicapes, conformment aux lois applicables, pendant le processus de candidature et dembauche. Veuillez contacter votre recruteur ds maintenant si vous souhaitez faire une telle demande.
+ partir de septembre 2023, ce poste sera en prsentiel selon un emploi du temps hybride. Les membres de lquipe devront travailler au bureau 3 jours par semaine, les lundis, mercredis et jeudis. De plus, les postes hybrides ont la flexibilit de travailler de nimporte o pendant un maximum de 4 semaines par an.

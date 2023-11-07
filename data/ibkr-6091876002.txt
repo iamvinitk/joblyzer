@@ -1,0 +1,56 @@
+Job Description
+Interactive Brokers is looking for an experienced Data Analyst with data analysis experience, preferably in the commodities or securities industry. This position is responsible for handling compliance supervision over reporting to various non-financial systems. Prior experience in working with order audit trail reporting systems, order handling or trading systems, or client data is highly desired but is not required.  
+Responsibilities:
+This position is focused on the Consolidated Audit Trail (CAT)reporting systems and compliance supervision to ensure that the firm has complied with the rules.  This is an operational and oversight function that requires the ability to read regulations, research and analyze data, understand technical implementations of systems and devise control procedures to test compliance. 
+Experience in researching transactional reporting issues to form evidence- based conclusions is a necessary skill.  Experience in data analysis andor system development or improvement is strongly preferred. While preference will be given to individuals that have financial services industry experience, other similar compliance type of experience in another industry will be considered. 
+Specific Job Responsibilities:
+
+1-2 years of experience as Data AnalystData Scientist
+Reviewing regulatory data to identify root cause and necessary remediation for errors
+Using UNIX command tools to make corrections to records as needed
+Develop surveillance for regulatory reporting and operational data
+Automate CAT Feedback system
+Following up with software developers andor with management on any errorsexceptions that arise
+Gathering facts to assist the firm in responding to examinations and formal inquiries
+Proposing improvements to, or additional controls over, regulatory reporting
+
+ Qualifications:
+
+Bachelors degree required, preferably in a quantitative or analytical field
+Experience in an analytical role, preferably in the financial industry
+Strong data analysis, investigatory, and problem-solving skills
+The ideal candidate would have some degree of self-sufficiency in performing data analysis using common programming languages (e.g., Python, Perl, etc.) and database queries (e.g., SQL)
+Regulatory research and interpretation skills
+Strong written and verbal communication skills, including the ability to discuss and write about complex topics in a manner that is both precise and persuasive
+Familiarity with, or the ability to learn advanced Excel skills is required (e.g., pivot tables, macros, etc)
+Familiarity with the following is a plus:
+
+FINRA Consolidated Audit Trail (CAT) Order Audit Trail (OATS) systems
+FIX protocol
+
+
+Technological orientation is required with the following specific skills highly valued:
+
+UNIX knowledge is part of this job and must be learned on the job, but it is preferable that the candidate has this ability already.    Programming skills in Python, PERL, or GO are also highly desirable
+Skills: Experience using Atlassian systems, i.e. Confluence and JIRA is a plus
+
+
+
+Company Benefits  Perks
+
+
+Competitive salary, annual performance-based bonus and stock grant
+Retirement plan 401(k) with competitive company match
+Excellent health and welfare benefits including medical, dental, and vision benefits
+Wellness screenings and assessments, health coaches and counseling services through Employee Assistance Program (EAP)
+Paid time off and a generous parental leave policy
+Daily company lunch allowance provided and a fully stocked kitchen with healthy options for breakfast and snack
+Corporate events including team outings, dinners, volunteer activities and company sports teams
+Education reimbursement and learning opportunities
+Modern offices with multi-monitor setups
+
+
+LI-VJ1Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

@@ -1,0 +1,42 @@
+Two Six Technologies is seeking an experienced Senior Operational Systems Engineer to lead the design and implementation of complex networks supporting cutting edge cybersecurity research and development. The Operational Systems Engineer will be empowered to fully manage custom systems, networks, and systems-under-test as an integrated member of the cyber and electronic systems team charged with developing novel solutions across the national security community.
+This technical role will require system administration expertise as well as cybersecurity experience. The position is not standard corporate network administration or helpdesk ticketing. The Operational Systems Engineer will be a key player in high priority, high growth programs and should have a strong problem-solving mindset and the ability to operate with ambiguity in order to accomplish project goals with speed and agility. A successful candidate will have an all hands-on deck mentality and a desire to expand their expertise across hardware, software, reverse engineering, CNO, and system development.
+Responsibilities Include:
+
+Lead efforts to ensure to ensure that complex systems are ready-for-use and quick reaction requests are met as needed
+Support tight-looped development and integration production cycles
+Process and testing automation
+Continual learning, particularly with respect to cybersecurity principles
+Collaboration and communication across teams and projects
+
+Minimum Qualifications
+
+Active US Security clearance of Top Secret level and ability to obtain SCI with Polygraph
+Security, CASP, GICSP, or equivalent IAT Level II or higher certification
+5 years of experience configuring, designing, administrating, and maintaining Linux and Windows servers or workstations
+Intimate knowledge of the linux command line
+Command of scripting languages such as Python and Bash
+Experience with containerization tools such as Docker and Kubernetes
+Experience with large scale virtualization environments in VMware, Proxmox or KVM
+Ability to work daily onsite at Arlington, VA HQ
+
+Nice to Haves:
+
+Active TSSCI clearance with ability and willingness to obtain Polygraph clearance
+Experience with classified lab networks and requirements (SCIF or SAPF)
+Expertise in mid-level network devices such as managed switches and routers
+Experience with LDAPKerberos authentication protocols
+Experience with vSphere, vMotion, vCenter, Content Libraries and VM Networking
+Experience with infrastructure automation tools such as Ansible, Chef or Puppet
+Experience setting up and maintaining High Availability systems
+
+
+LI-ZS1
+LI-Onsite
+
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

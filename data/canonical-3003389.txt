@@ -1,0 +1,30 @@
+This is an exciting opportunity for a software engineer passionate about open source software, Linux, and Data Centre automation. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+The Ubuntu MAAS team is responsible for delivering our Metal As A Service hyperscale provisioning technology. Ubuntu strives to be the most scalable, cloud ready server distribution and MAAS is our platform to get it there. MAAS is a rapidly evolving software stack written in Python and Go, and we are looking for experienced software engineers who understand performance at scale, networking, storage and usability.
+Applicants should be passionate about the future of Ubuntu and be able to show technical leadership with a globally distributed team of engineers who share that passion. This position requires international travel several times a year.
+What youll do
+
+Develop MAAS core components and features to make MAAS the 1 bare metal cloud system.
+Shape the architecture of MAAS to make it simpler, faster and easier to use.
+Collaborate with other teams to ensure MAAS works well with other tools and is released on time.
+Contribute your improvements to our continuous integration environment, tests and practices, to maintain fast feedback and good test coverage.
+Contribute to documentation of current and existing features, making it world-class resource for Data Centre operators and users.
+Provide technical communication and collaboration with other teams where appropriate.
+Take personal ownership of problems and drive them to solutions.
+Travel internationally a few times a year to meet and collaborate with your and other teams. 
+
+Who you are
+
+Solid track record of professional software development experience in Python, Go or similar.
+Capacity to learn quickly about new systems and techniques
+Excellent logic, problem solving, and troubleshooting skills
+Strong English language communication skills - both written and verbal
+Experience with Linux server technologies, including but not limited to Virtualization (KVM), Containers (LXC), etc.
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+Knowledge of network technologies, including PXE, DHCP, TFTP, DNS, NTP
+Some experience with Baseboard Management Controllers and Protocols (Redfish, IPMI, AMT and others)
+Strong experience with networking, storage technologies and Cloud hosting and infrastructure.
+Ideally, experience of large-scale physical server provisioning and automation, including rapid deployment, configuration, management and service orchestration.
+Familiarity with some of the open source development tools and methodologies used in creation of several Ubuntu projects (MAAS, Juju, Ubuntu Server, LXD, Ubuntu Core), such as Launchpad, Debian packaging tools (APT, dpkg) and snapcraft.
+
+Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.
+LI-Remote stack

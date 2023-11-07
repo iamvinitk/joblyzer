@@ -1,0 +1,35 @@
+Global context
+Capco is a global business and technology consultancy dedicated to the financial services industry with more than 7000 consultants across 34 offices in Europe, North America and Asia.
+Capco is a long-time partner of Credit Agricole and maintains since 2014 the Credit Derivative and fix income platform, covering full value chain (Front, Risk, post trade), for both Change The Bank and Run The Bank activities.
+As a Murex specialist, you will join an onshore  offshore team comprising, Murex Business Analyst and developers working on platform evolution, as well as technical and functional support consultants, working on the day-to-day maintenance of the platform.
+Murex IT team member
+Our Bank clients platform is using Murex V3 solution for its Front Office fix income and credit derivative activity and Murex V2 for Credit Derivative Back Office. The trading is ensured 2424 from Asia to US, with teams deployed in Tokyo, Hong-Kong, Singapore, London, Paris, New-York and Bangalore.
+Murex is the key element to ensure real-time control of PnL and sensitivities, produce EOD Risk indicators, feed the Back office systems, and generate confirmations, accounting and regulatory reporting on credit derivatives perimeter. Depending on your profile and competencies, you will join project team, with a focus on workflow, mxml development.
+As part of the team maintaining this central piece of IT architecture, you will deal with a scope particularly wide and rich in terms of functional coverage, Murex modules implemented and interlocutors you will have to interact with.
+Key responsibilities
+As support specialist, below are your own responsibilities :
+
+Monitor actively the application,
+Provide assistance to end users for daily activities (Front-Office, Middel-Office and Risk Managers) and ensure continuous communication with them,
+Resolve incidents (technical issues) in cooperation with other support teams on Murex platform,
+Manage technical problems (analysis, post-mortem, continuous improvement plans),
+Manage releases (preparation, including Control-M or CFT configuration, test releases in pre-production environments, go-live assistance),
+Manage environments (technical maintenance),
+Obsolescence management (from identification to solutioning),
+Technical architecture (work with developers to check technical solutions proposed for production),
+Ensure efficient communication and cooperation with local support teams in London, NY, HK
+
+Expected experience and knowledge:
+
+Experience on Murex MX.III software and knowledge in at least one of the following modules: MxML, datamart, VAR, Simulation Views, live book, technical deployment,
+At least 4 years of relevant experience,
+Solid understanding of Capital Market activities and similar experience in CIB,
+Solid understanding of financial products, specifically Credit Derivatives, Fixed income, Repos and Interest Rate Derivatives,
+Hand-on attitude,
+Excellent communication and interpersonal skills,
+Client orientation is a must,
+Strong sense of cross group collaborative work and team spirit,
+Fluent in English,
+Fluent in French is a plus.
+
+ 

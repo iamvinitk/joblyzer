@@ -1,0 +1,100 @@
+Location: North America Pacific time zone
+Hi there!
+Were seeking a talented Site Reliability Engineer to join our growing team. As we continue to scale our product and grow our team, were looking for an experienced Site Reliability Engineer to help drive automation, performance, and reliability in our cloud-based infrastructure.
+Location: This role is remote; however, were specifically looking for candidates in the US  Canada PACIFIC Time Zone. 
+About You
+
+
+Youre an experienced technologist. You spent 4 years working on multiple projects in SaaS companies in the world of systems administration, systems engineering or software development with at least 2 years of experience in Site Reliability Engineering or DevOps.
+
+
+You know the cloud. Youve participated in the design or maintenance of highly available, cloud-based infrastructure in AWS or another cloud offering. You understand how to leverage infrastructure as code tools and have learned best practices for reliability and observability.  We use tools like Terraform, Kubernetes, Redis, GitLab, and Datadog, among others.
+
+
+You can code. You have experience with languages like Python or Go to create automated tools. You believe in hands-off deployments and infrastructure as code. Well-honed expertise with the fundamentals of software development goes a long way here.
+
+
+You can solve complex systems challenges. You enjoy complex challenges, understand how to improve performance, and help uncover opportunities for improvement. Youve worked on problems where just throw more hardware at it isnt enough for the system to scale.
+
+
+Youre a great communicator. Not only do you know how to share your knowledge with the team and document things well so they can be consumed asynchronously (we do this a lot as a remote company), but you know how to communicate effectively with software and support teams.
+
+
+You value our values. At Zapier, our values are at the heart of how we collaborate and how we think about our customers. In our remote setting, they help develop trust and ensure we work and collaborate together to democratize automation. You see how these values can empower meaningful work, you thrive in a collaborative setting, you are eager to continue growing and excited to be part of the team.
+
+
+ 
+Things Youll Do
+As part of this team, youll work on
+
+
+Designing and deploying our AWS infrastructure using infrastructure as code (Terraform, Helm, etc) across multiple accounts.
+
+
+Contributing to our kubernetes clusters (EKS) and serverless functions (Lambda). Production Engineering provides compute resources as a service, and youll help shape what features we offer.
+
+
+Evaluating new tools and recommending technologies to the entire organization. If theres a tool that will help us serve our customers, well go get it.
+
+
+Partnering with teams to solve novel infrastructure and design problems. Service teams are responsible for keeping services running. Its your job to help them make decisions that scale.
+
+
+Building services to integrate systems, process high-traffic workloads, and perform critical migrations. We dont believe in drawing a hard line between developers and SREsif you see a part of the code you can improve, default to action and make the change.
+
+
+Using site reliability principles, youll help fix problems at their root cause rather than just the symptoms. Youll improve application reliability using a software engineering approach to operations. Youll develop internal tools and systems to help engineering teams ship better software, faster. Youll get to impact every engineering team in the organization and use a broad set of technologies. Maintaining excellent relationships and communicating effectively with teams will be crucial to your success.
+Building new features and services is a big part of this role. We continually develop and implement new ways to support our teams, understand our customers needs, and become experts in site reliability.
+When bad things happen, youll have the support of your team to solve contributing causes, learn from failures, and build robust and resilient systems for our customers. We look for the solution that automates the problem away, not one that requires manual effort.
+ 
+Things Weve Done Recently
+
+
+Built dozens of new microservices in Kubernetes across multiple AWS accounts
+
+
+Contributed to open-source Kubernetes projects to support autoscaling our stack
+
+
+Continually grown to handle millions of daily requests
+
+
+Handled major migrations between hosting providers, database systems, and stateful technologies
+
+
+Created rapid deployment pipelines in GitLab and ArgoCD to support continuous delivery
+
+
+Built tools to bootstrap new Kubernetes services at the click of a button
+
+
+ 
+Zapier Compensation Guiding Principles
+We believe all Zapiens should be rewarded competitively and equitably, using practices that are simple and transparent. This philosophy ensures were able to find, grow, and retain exceptional people from a broad range of backgrounds. Heres how we define our compensation principles:
+
+
+Competitive: Zapier pays well among the technology sector.
+
+
+Equitable: Consistent pay practices; competency-based pay.
+
+
+Simple: Pay is well understood, and pay practices are built for scale.
+
+
+Transparent: Zapiens know how pay works, including how their pay is determined.
+
+
+The pay ranges for this role are:
+United States: 138,300-172,900-207,500 USD
+Canada:           138,300-172,900-207,500 CAD
+A Candidates compensation package is finalized once the interview process is concluded and accounts for experience, competencies (job knowledge, skills and abilities) and internal equity.
+For more information on Zapiers Total Rewards please click here.
+ 
+How to Apply
+At Zapier, we believe that diverse perspectives and experiences make us better, which is why we have a non-standard application process designed to promote inclusion and equity. Were looking for the best fit for each of our roles, regardless of the type of education or companies in your background, so we encourage you to apply even if your skills and experiences dont exactly match the job description. All we ask is that you answer a few in-depth questions in our application that would typically be asked at the start of an interview process. This helps speed things up by letting us get to know you and your skillset a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.
+After you apply, you are going to hear back from us—even if we dont see an immediate fit with our team. In fact, throughout the process, we strive to never go more than seven days without letting you know the status of your application. We know well make mistakes from time to time, so if you ever have questions about where you stand or about the process, just ask your recruiter!
+Zapier is an equal-opportunity employer and were excited to work with talented and empathetic people of all identities. Zapier does not discriminate based on someones identity in any aspect of hiring or employment as required by law and in line with our commitment to Diversity, Inclusion, Belonging and Equity. Our code of conduct provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base. Zapier will consider all qualified applicants, including those with criminal histories, consistent with applicable laws.
+Zapier is committed to inclusion. As part of this commitment, Zapier welcomes applications from individuals with disabilities and will work to provide reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobszapier.com.
+Even though were an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out this resource for a list of countries where we currently cannot have Zapiens permanently working.
+LI-Remote

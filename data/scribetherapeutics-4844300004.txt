@@ -1,0 +1,35 @@
+Scribe Therapeutics is a molecular engineering company focused on creating best-in-class in vivo therapies that permanently treat the underlying cause of disease. Founded by CRISPR inventors and leading molecular engineers Benjamin Oakes, Brett Staahl, David Savage, and Jennifer Doudna, Scribe is overcoming the limitations of current genome editing technologies by developing custom engineered enzymes and delivery modalities as part of a proprietary, evergreen CRISPR by Design platform for CRISPR-based genetic medicine.
+Scribe Therapeutics is seeking a highly creative, passionate, and motivated individual to join us as a Scientist on the Genotoxicity team to help us develop the safest and most effective CRISPR-based therapeutics. This role will apply expertise in next-generation sequencing, epigenomics, and molecular biology to develop assays to detect on- and off-target epigenome editing and shape the next generation of CRISPR-based therapeutics.
+The candidate should have a passion for working collaboratively with molecular engineers and computational biologists to build the needed tools for meeting the new frontier of CRISPR-based therapeutics. The ideal candidate will have hands-on experience with epigenomic assay development and a desire to build novel strategies for screening the specificity of Scribes epigenome editing platform. 
+You will have the opportunity for professional growth in a fast-paced biotech start-up, which includes leadership roles of increasing responsibilities and the ability to publish highly impactful work in peer-reviewed journals. You will work with both our platform engineering teams and our therapeutic development teams to develop our therapeutic strategy from beginning to end and help set new standards for safety in a new field of therapeutic gene editing.
+Key responsibilities:
+
+Work closely with Scribes teams to develop assays to assess the potential off-target effects of CRISPR-based epigenomic editors across a range of enzymes, targets, and delivery systems
+Formulate scientific strategies for specificity assessments of Scribes epigenomic editing platform and work with external teams to execute these activities
+Collaborate across pre-clinical therapeutic groups both within the company and externally to drive rapid advancement of new targets and molecules
+Ensure high quality data generation through proper assay validation and qualification
+Assume project responsibilities and effectively present updates, and communicate research plans and timelines to the senior leadership team internally and partners externally
+Mentor junior team members
+
+Scientific and Leadership expectations:
+
+Seamlessly interface and coordinate with other teams at Scribe to accomplish common goals
+Foster a driven, fast-paced, dynamic, and fun environment in which to do rigorous science
+
+Required skills and background:
+
+PhD in molecular biology, cell biology, genetics, bioengineering or related field. A postdoc andor 1 years industry experience is a plus
+Experience with a range of assay development in next-generation sequencing techniques, including both library preparation and data analysis
+Experience with histone and DNA modifications and assays related to their quantification (e.g. ChIP-SEQ, bisulfite sequencing)
+Experience in Python or R programming, Unix command line, version control systems (e.g. git), bioinformatic and computational biology toolkits applied to NGS analysis
+Ability to work collaboratively in a fast-paced, interdisciplinary research team.
+Excellent prioritization and organization skills
+
+Preferred skills and background
+
+Experience with CRISPR-Cas gene editing systems and delivery technology
+Familiarity with current methods of on-target, off-target assessment for CRISPR-based therapies
+Working knowledge of regulatory requirements for investigational new drug (IND) packages and establishment of processes conforming to good laboratory practice (GLP) standards
+
+Salary will be commensurate with experience. We will provide an intellectually stimulating, collegial and fast-paced environment. If you are ready to engineer the future of therapeutics, then we are excited to hear from you! Visit us at www.scribetx.com. 
+We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

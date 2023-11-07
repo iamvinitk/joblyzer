@@ -1,0 +1,29 @@
+Knab was founded in 2012 because we wanted to do things differently. Simpler, smarter and more advantageous for our customers. Because we believe we can help everyone maximize their financial affairs. Feel at ease when it comes to your finances. Every day. By combining smart technical solutions with a healthy dose of human intelligence, we create financial services that really meet your needs. Add to that some of the sublime personal service from our employees and you end up with something thats truly unique to the world of finance. From banking to insurances, weve got your back! 
+All our colleagues have one thing in common: we help customers to maximize their money matters seamlessly and proactively. Were open-minded, positive and committed to our customers. So, you gain control over your financial affairs.
+In a nutshell 
+You will be developing and maintaining the core network infrastructure of the bank. To ensure Knab is in control, you, together with the network specialists and engineers in your team, focus on reliability, performance, and efficiency through simplification of the network infrastructure including Infrastructure as Code (IaC), network policies and routing setup.
+You analyze problems and help determine a solution (or path). You find and implement the best solutions (sometimes in consultation with suppliers). Of course, you will be working on optimizing our Continuous Delivery and get room to improve the team as a whole.
+The Team
+The core network team is part of IT Functions  Foundations (ITFF) stream and focusses on developing and maintaining the core network infrastructure of the bank, including cloud native-, cloud hosted-, and on-prem elements. The team works closely with our Cloud Platform team to maintain our general infrastructure (private and public Cloud, VPNs and monitoring).
+The ITFF department contains multiple Agile teams focusing centralized IT and supports Value Streams which focus on the specific customer propositions. As part of the ITFF stream, you report to the IT Chapter Lead. At Knab you will have the autonomy to pursue your own initiatives and responsibilities.
+At Knab we are organized alongside Value Streams, consisting of multiple Scrum teams, operations departments and a support team. There are two Value Streams organized around our Customer Propositions: Daily Use and Financial Freedom. Next to the valuestreams there is also the supporting stream: IT Functions and Foundations. By organizing this way: we achieve more focus and a higher speed of delivery.
+Your Profile
+
+High quality is an important factor in your daily job;
+You are able to stay focused;
+You are an excellent team player;
+You understand what needs to be done to automate operations.
+
+Skills and knowledge we would love to seeThere is not a set route to become a great Network Specialist at Knab, but to be successful in this role, this is the profile we have in mind:  
+
+At least 4 years of experience as a network specialist and demonstrable experience with routing and switching protocols like BGP, OSPF, HSRP and MPLS; preferably experience in a multi-provider BGP routing environment.
+Experience with VRF, routing policies, filtering including troubleshooting, resource sharing, load sharing and multi-path.
+Experience with next generation firewalls up to layer 7 (for example Palo Alto, Fortigate, Checkpoint) including topics like security policies, filtering, malware and DDOS protection.Experience with datacenter components like firewalls, loadbalancers, routing infrastructure, network management tooling.
+Ability to design complex networks and guide staff engineers on deployment.
+Experience Ansible, Terraform, Python and AzureDevOps.
+Enthusiastic about cloud (native) network and firewall components, and ambition to learn.
+
+Diversity Statement: Come as you are. Knab is an open workplace with positive vibes. We are inclusive of all nationalities, races and genders. We feel comfortable to bring our authentic whole selves to work and like you to do so, too.
+Work with us!
+If you come to work with us, Knab will become a significant part of your life. Therefore, we make sure the ambiance is just as exciting as your job. Check the benefits here!
+We dont collaborate with third parties to fulfill this role, nor are we open to freelance or contractors.

@@ -1,0 +1,29 @@
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!About the role:
+Skydio is looking for a driven customer facing Program Manager with a deep sense of ownership to lead and drive all aspects of implementation and delivery for our Law Enforcement customer. You will  join our Customer Success team, and will be Skydios Law Enforcement customer liaison and broadly responsible for the success of our contracts to include: cost, performance, scheduling, project planning, technical execution, risk management and problem solving. In this role, You will have to learn technical concepts and employ them quickly. Digging into the details to understand program dependencies so that technical and program risks can be managed effectively is a must. You will be expected to utilize your technical capability in conjunction with your program management skills to deliver the best outcome for the customer. A successful candidate for this job should have deep experience working within the U.S. Law Enforcement and experience engaging with high-level officials.  
+In addition to your core role, you will also be suited to providing input into a wide range of technical activities within the company. You will work in a high-activityfast-paced environment, with the ability to handle ambiguity, and multiple tasks or projects at once. Your teammates are passionate Customer Success and Technical Support teams, but also with broader teams such as Product, Marketing, Development and Engineering teams.
+How youll make an impact:
+
+Be a highly collaborative, requirements driven planner with a deep sense of ownership and accountability with a willingness to roll up sleeves and dive into the details. 
+Plan and design end-to-end project deployment and integration activities to ensure the successful launch of our platform and ensure operational success. Manage production and implementation programs against cost, schedule and technical requirements.
+Understand customer requirements and translate them to Skydios agile product and technical teams to drive development and delivery execution. 
+Establish relationships with the Law Enforcement customer and be technical enough to build  drive plans with Skydios engineering teams to meet milestones.
+Inform Skydio and customer business and program leaders regarding contract management risks and opportunities, ensuring a coordinated and comprehensive approach to product delivery across the program.
+General support of go-to-market  business activities as required.
+
+What makes you a good fit:
+
+Experience as a customer-facing professional services  program manager  customer success, or in a similar high-tier complex and multifaceted role preferably for law enforcement agencies. 
+Excellent communication skills, both written and verbal, including interaction with senior leaders and a strong focus on project management tools and concepts.
+Proven track record of implementing new technology, agile development and interfacing with technical teams to deliver on customer schedules. 
+Experience in implementing effective internal business systems, processes and controls (hardware, software, operations) for management of large scale customer projects in the Law Enforcement field
+Experience with Law Enforcement and commercial Unmanned Aircraft Systems and related software development. 
+Law EnforcementFederal Program Management experience, to include: Technology Assessments, Systems Design, Systems Analysis, Programmatic Support, Acquisition Planning, and Budget Planning.
+Outstanding analytical thinker and problem solver, comfortable working in data analytics and able to resolve complex problems independently. Thinking out of the box and to develop creative solutions
+
+Compensation Range: The annual base salary range for this position is 144,500 - 180,000. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.For some positions the pay may be dependent upon the individuals regional location.
+LI-TP1
+ 
+ 
+ At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employees race, color, ethnicity, national origin, citizenship, sexgender (including pregnancy, childbirth, breastfeeding and related medical conditions),  gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https:www.e-verify.gov

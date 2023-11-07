@@ -1,0 +1,44 @@
+RDQ424R181
+Mission
+At Databricks, our mission as user researchers is to make working with data simpler and more accessible so that more people can contribute to solving the worlds toughest problems. User researchers at Databricks care deeply about how to contribute important insights to product teams which enables them to more intelligently design the right solutions for our customers. At Databricks we believe deeply in putting the customer at the center of everything we do and we empower Bricksters to leverage user research tools and methodologies to bring a more informed perspective to their work.
+The impact you will have
+
+Contribute to the infrastructure and operations needed to facilitate a successful user research program at Databricks
+Use user research investments to make our products simpler and more unified for our customers
+Advocate for user research practices and build internal partnerships that allow UXR to be integrated successfully within the organization
+Contribute to a COE (Center of Excellence) model that allows for scalable adoption of user research practices - driven by your program and materials. You will create and publish a set of resources for Bricksters that provides tools, guidelines and best practices which will help to democratize user research methodologies across Databricks so that any Brickster working on our products will have guidance for how to engage in research with our customers
+Lead user research projects for high stakes projects
+Champion user research holistically across Databricks
+You will contribute to the back office infrastructure for a user research program at Databricks to thrive including partnering with legal, finance and other teams that help enable excellent participant recruiting and compensation
+
+What we look for
+
+Mixed methods researcher who can successfully design and implement user research programs and processes
+Advanced understanding of data team personas including machine learning engineers, data scientists and administrators
+Advanced understanding of software development practices; ability to communicate with engineers and stakeholders on technical matters and nuances of the developer experience (DX)
+Expert working knowledge of the product design process and how and when user research can add maximum value
+Data analysis and operationalization skills (SQL, HEAP)
+Degree in human computer interaction, psychology, cognitive science or related field
+
+Benefits
+
+Comprehensive health coverage including medical, dental, and vision
+401(k) Plan
+Equity awards
+Flexible time off
+Paid parental leave
+Family Planning
+Gym reimbursement
+Annual personal development fund
+Employee Assistance Program (EAP))
+
+Pay Range Transparency
+Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents base salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks utilizes the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here.
+ Zone 2 Pay Range119,700—211,900 USDAbout Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

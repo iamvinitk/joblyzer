@@ -1,0 +1,33 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+As the Operations Readiness Program Manager on the Operations Platform team, you will be building the infrastructure to help our Operations (i.e. Customer Experience) organization scale. Were responsible for the Stripe experience of our customers and our 3k customer support specialists. 
+In this role you will specifically be responsible for evolving and running the program through which Operations collaborates with other Stripe teams (e.g., product teams) to ensure that Operations is prepared to effectively handle support volume associated with net-new ships (e.g., product feature launches). This program is critical to Operations ability to provide an exceptional user experience at scale. 
+What youll do
+Responsibilities
+
+Critically evaluate upcoming ships (e.g., product launches), determine the actions required to optimize the operational impact of the ships, and tactically coordinate those actions
+Partner with multiple stakeholders across Operations and other Stripe teams (e.g., product teams, marketing, sales, legal) to achieve the goals of the Operations Readiness program; you will oftentimes need to objectively evaluate teams competing priorities and align stakeholders on the most-optimal solution for Stripe and our users
+Build and refine scalable processes (e.g., process to review and enable incoming ships) and comprehensive resources (e.g., guides that enable product teams to self-serve the required enablement actions) required to effectively run and scale the program
+Measure and share the impact of your teams work, using metrics to refine and remediate issues that dont meet Stripes standards
+Maximize the impact of your learnings by proactively identifying other opportunities to further help Operations scale and sharing input on other projects when relevant
+Contribute to the evolution of the Ops Readiness strategy; example elements of a strategy include the programs vision, target metrics, and tactical approach
+Empower and mentor new team members to complete high-quality work, grow their careers and make Stripe a better environment for the team
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+4 years of experience in operations program management, product support, product operations, andor product management
+Experience working cross-functionally (ideally with product and engineering teams)
+Interest in data analytics with some experience navigating large data sets andor SQL
+
+Preferred qualifications
+
+Experience in operations or customer-facing roles (e.g. customer support, sales, partnerships, consulting, professional services, etc.)
+Ability to influence and partner with technical and cross-functional teams, specifically with product and engineering teams
+Experience driving creative solutions with and effectively informing the roadmap of cross-functional teams (e.g. experience negotiating the development of product features) 
+Strong program management skills with experience managing end-to-end execution of projectsprograms that have transformed their companys operations and delivered quantifiable business impact
+Ability to understand the implications of Stripe ships such as product features, policy changes, and marketing outreach on the user experience and resulting support experience 
+Strong written and verbal communication skills with a precise talent for clearly articulating operational context and considerations to stakeholders that are less familiar with the domain

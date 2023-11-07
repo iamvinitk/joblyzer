@@ -1,0 +1,40 @@
+Bungie is in search of a unique individual who can blend the leadership and cooperative attributes of a Product Owner with the specialized skills of a Technical Artist to lead a team dedicated to enhancing artists capabilities. In this role, you will guide the delivery of incremental, systemic, and innovative rendering and workflow updates, empowering artists across all development groups. The ideal candidate will have a strong background in game art and technology, demonstrate exceptional problem-solving skills and possess the vision and leadership qualities of a small team lead. If you are passionate about game development and have a knack for balancing multiple stakeholders needs, wed love to hear from you. 
+RESPONSIBILITIES 
+
+Hold the vision for a small team dedicated to improving content development tools and render features, ensuring alignment with the overall project vision 
+Gain a deep understanding of the tools and systems supported by the team 
+Transform artist requests into technical design specifications for tools and graphics features 
+
+
+In collaboration with the team, write and prioritize user stories, defining acceptance criteria for each story 
+Participate actively in iteration planning and review, story time, daily stand-ups, reviews, and retrospectives 
+Provide Technical Art support in the development of new artist facing tools and graphics features 
+Deploy new features to the art team by showcasing examples, giving presentations, and producing relevant documentation 
+Maintain open lines of communication with all relevant stakeholders, ensuring alignment and addressing potential conflicts proactively 
+
+REQUIRED SKILLS 
+
+Ability to independently translate art team goals into creative software solutions with a thorough understanding of cost, efficiency, and quality tradeoffs 
+Strong understanding of the game development process, with the ability to make effective trade-offs to deliver the highest value to the customer 
+Experience in producing clear, concise, and accurate technical documentation, with the ability to simplify complex topics 
+Strong communication skills to effectively guide customers of varying technical and non-technical backgrounds in navigating our technology 
+
+
+Ability to balance technology solutions with an aesthetic eye to deliver on the visual pillars of the product 
+Proficiency in game art processes, efficient techniques, and standard tools including Maya, 3ds Max, Substance Painter, and Photoshop 
+Professional experience in develop using Python, HLSL, or C 
+Experience in managing and resolving stability, performance, and memory issues across different platforms 
+Listed below is this roles base pay range. In other locations that Bungie has approved for remote work, this pay range may be adjusted up to - 10 and some roles may be classified as non-exempt (hourly). This range is determined by an array of factors, including training, transferable skills, work experience, business needs, and market demands. Additionally, it is subject to change and may be modified in the future. In the journey to make incredible worlds, Bungie employees dont simply do meaningful work - they receive meaningful support. Competitive salaries and discretionary bonus opportunities are just the start. We offer comprehensive healthcare coverage, generous 401(k) matching, flexible time off policies, paid parental leave, social clubs, and so much more. Check out our benefits page: Benefits - Bungie Careers to see all the perks that come with joining Bungie.Bellevue Pay Range154,000—187,000 USD 
+
+Bungie full-time (non-contract) employees in the U.S. also receive:
+
+20 days of accrued time-off in the form of PTO and sabbatical days, depending on the level of the position
+10 paid Floating Days annually, prorated in the first year of employment based on start date
+10 paid Bungie-observed holidays annually
+One hour of Paid Sick Time (PST) for every 30 hours worked 
+
+Contract and International FTE employees receive competitive benefits through their relevant contracting agency.
+
+So you dont meet every requirement listed in this job description? Do you think your experience level is not where it needs to be? Studies show that women and people of color are less likely to apply to jobs unless they believe they meet every single qualification. Bungie is focused on building a diverse, inclusive, and equitable workplace. If youre interested in this position but your past experience doesnt line up perfectly with every qualification in the job description, we want you to apply anyway. The right role for you may be right around the corner!
+ 
+Most Bungie full-time employees will adopt a digital first approach allowing remote work in Bungie approved locations (outside of positions identified as 100 onsite in BellevueSeattle, or individuals preferring a hybridflex environment). Prospective full-time employees located outside of CA, CO, DC, FL, GA, ID, IL, MA, MD, MI, MN, NC, NJ, NY, OR, TN, TX, UT, VA, WA, or WI will need to establish residency in one of the states we are compliant in within 45 days of a start date. Contractors will follow a digital first approach adhering to the location guidelines agreed upon by our third-party employervendor and Bungie. Bungies remote policy is subject to change at the companys discretion. 

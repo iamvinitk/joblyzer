@@ -1,0 +1,38 @@
+About Us:
+Were on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us cant build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+Weve been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, were growing fast and excited for new teammates to join us who are the best at what they do. Were passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+About The Role:
+Millions of people use Notion — and this number is increasing every day. Our users depend on us to deliver a secure, consistent and trustworthy experience, and we value this more than anything. We want to keep building on that trust, while also continuing to amaze our users with the tools they can build in Notion. This is where you come in — partnering with teams across the organization to envision, plan and build Notions Information Security posture for governance, risk and compliance.
+What Youll Achieve:
+
+You will help update, maintain and enhance our privacy compliance program requirements.
+Support on-going and new privacy initiatives with an eye toward creating process efficiencies wherever possible
+You will be responsible for monitoring privacy systems, documenting risks and up-lifting processes in place to ensure compliance
+You will provide subject matter expertise on a variety of privacy related initiatives, programs, workflows, and product features
+You will be responsible for improving privacy governance including focusing on employee privacy, conducting privacy impact assessments (PIAs, DPIAs, TIAs) and developing mitigation plans
+You will monitor and evaluate evolving laws, rules, regulations, and guidance to help maintain compliance and strategic alignment
+Manage and respond to privacy-related inquiries and incidents
+Develop and deliver privacy training to all employees
+
+Skills Youll Need to Bring:
+
+Minimum of 3-5 years of privacy experience with building privacy programs at fast-growing organizations
+In-depth understanding of technology and security issues impacting privacy programs, including an understanding of security for privacy concepts and technologies (such as AI, data access governance, data classification, data discovery, encryption, masking, tokenization, information rights management, and data loss prevention)
+Ability to partner across multiple teams and work-streams to implement and up-level processes
+Program and Project Management skills with a proven track record of working with fast-growing teams to help drive issues to resolution, strong independent judgment
+Adaptable and resilient: strong problem-solving abilities, flexible, able to navigate transformational growth and ambiguity, show initiative and anticipate needs, and independently able to focus on multiple workstreams at once
+Experience conducting Privacy Impact Assessments and maintaining appropriate documentation.
+Awareness of ongoing and recent developments across the privacy landscape
+
+Nice to Haves:
+
+Certification in Privacy (e.g., CIPP, CIPT, CIPM certification)
+Experience with privacy-related technology solutions (i.e., OneTrust)
+HIPAA experience
+Computer Science degree andor Law Degree
+Notion experience 
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If youre excited about a role but your past experience doesnt align perfectly with every bullet point listed in the job description, we still encourage you to apply. If youre a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the roles scope and complexity, and the candidates experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is 145,000 - 200,000 per year.
+LI-Onsite

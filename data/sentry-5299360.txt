@@ -1,0 +1,38 @@
+About Sentry
+Bad software is everywhere, and were tired of it. Sentry is on a mission to help developers write better software faster, so we can get back to enjoying technology.
+With more than 217 million in funding and 90,000 organizations that believe were on to something, were building performance and error monitoring tools that help companies like Disney, Microsoft, and Atlassian spend less time fixing bugs and more time building products. If you like to selfishly build things that make your digital life better, come help us build the next generation of software monitoring tools.About the Role
+The Profiling team creates tools that help developers improve the performance of their code. We measure how long code takes to execute in production, revealing hot spots that could be optimized to reduce infrastructure costs and deliver a higher quality experience for end users. Our goal is to make profiling easy to use for all developers, not just the experts.
+As the Engineering Manager of the Profiling team, youll lead a distributed team of engineers delivering on every aspect of building a profiling product: data collection via our SDKs, ingestion and processing pipelines, and visualizations. Youll also collaborate with other teams at Sentry to make sure our solutions scale, and resolve actual customer problems, and integrate with existing Sentry products.
+This is a critical role for Sentry and requires a high degree of technical context on profiling and the overall performance monitoring domain.
+In this role you will
+
+Grow and develop a distributed team of talented and motivated engineers with high expectations around individual ownership and impact
+Set technical direction for the team, anticipating strategic and scaling-related challenges
+Drive execution by determining the shortest path to our goals, removing blockers for your team, and delivering value to our customers at a rapid pace
+Collaborate with the product management function to develop a long term roadmap based on both strong personal intuition and internalexternal feedback
+Actively contribute to software architecture and design discussions
+Talk to Sentrys customers to understand how they use our product and how we can alleviate their pain points
+Foster a healthy and collaborative culture that embodies our values
+
+Youll love this job if you
+
+Are passionate about the performance monitoring product space and have strong opinions on how these tools can help developers build better software
+Enjoy guiding a highly experienced team of engineers to realize their fullest potential
+Thrive in cross-functional environments, collaborating with individuals across many disciplines to deliver the best solutions possible
+Have an eye for good product design and usability
+
+Qualifications
+
+5 years experience as a software engineer and 3 years experience managing a fully or partially distributed engineering team
+Experience using profiling and performance monitoring tools to optimize software (must-have), and preferably have experience building such tools
+Familiarity with C, C, Rust, Go, or other systems programming languages
+Familiarity with architectural patterns for building scalable, fault-tolerant distributed systems
+Experience with scoping work, performing resource allocation, and establishing engineering milestones and delivery dates
+Experience growing technical teams through direct hiring and a strong sense of how to optimize a growing technical team for success
+A strong understanding of lean product development; you validate ideas quickly and adjust as you learn
+Excellent written and oral communication skills and an ability to articulate technical concepts clearly and succinctly
+
+The base salary range (or hourly wage range, if applicable) that Sentry reasonably expects to pay for this position is 130,000 to 270,000. A successful candidates actual base salary (or hourly wage) amount will be determined by a variety of relevant factors including, without limitation, the candidates work location, education, work and other relevant experience, skills, and job-related knowledge. A successful candidate will be eligible to participate in Sentrys employee benefit plansprograms applicable to the candidates position (including incentive compensation, equity grants, paid time off, and group health insurance coverage). See Sentry Benefits for more details about the Companys benefit plansprograms.Equal Opportunity at Sentry
+Sentry is committed to providing equal employment opportunities to its employees and candidates for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, or other legally-protected characteristic. This commitment includes the provision of reasonable accommodations to employees and candidates for employment with physical or mental disabilities who require such accommodations in order to (a) perform the essential functions of their jobs, or (b) seek employment with Sentry. We strive to build a diverse team, with an inclusive culture where every teammate can thrive. Sentry is an open-source company because we believe that everyone, everywhere, should have the ability and tools to make great software. Software should be accessible. That starts with making our industry accessible.
+If you need assistance or an accommodation due to a disability, you may contact us at recopssentry.io.
+Want to learn more about how Sentry handles applicant data? Get the details in our Applicant Privacy Policy.

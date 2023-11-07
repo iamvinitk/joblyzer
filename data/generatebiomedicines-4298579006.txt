@@ -1,0 +1,59 @@
+About Generate Biomedicines
+Generate Biomedicines is a new kind of therapeutics company  existing at the intersection of machine learning, biological engineering, and medicine  pioneering Generative Biology to create breakthrough medicines where novel therapeutics are computationally generated, instead of being discovered. Generate has built a machine learning-powered biomedicines platform with the potential to generate new drugs across a wide range of biologic modalities. This platform represents a potentially fundamental shift in what is possible in the field of biotherapeutic development.
+We pursue this audacious vision because we believe in the unique and revolutionary power of generative biology to radically transform the lives of billions, with an outsized opportunity for patients in need. We are seeking collaborative, relentless problem solvers that share our passion for impact to join us!
+Generate was founded in 2018 by Flagship Pioneering and has received nearly 700 million in funding, providing the resources to rapidly scale the organization. The Company has offices in Somerville and Andover, Massachusetts with over 275 employees.
+The Role:
+Generate is seeking a highly experienced senior scientific leader to lead our protein analytics and biophysics team. This leader will be responsible for a team that brings together advanced biophysical instrumentation measuring protein-protein interactions with state-of-the-art analytical characterization technology, all at the intersection of machine learning. The Senior Director will manage a growing team of scientists and research associates, as well as other senior leaders within the team. The ideal candidate will have a proven track record of leading early and late-stage physiochemical analyses of biologics including monoclonal antibodies, bimulti-specifics, peptides, and enzymes in a Pharma or Biotech setting.
+Candidates must have demonstrated prior hands-on experience with method development and execution with techniques such as HPLCUPLC (SEC, RP, HIC, IEX), light scattering (SEC-MALS, DLS), thermal stability (DSF, DSC), capillary electrophoresis-based methods (CE-SDS, cIEF), liquid-chromatography mass spectrometry (LCMS), surface plasmon resonance (SPR), bio-layer interferometry (BLI), kinetic exclusion assay (KinExa), as well as other protein-protein interaction techniques. Shehe will provide leadership within project teams to facilitate project advancement and data feedback to our machine learning platform. The Senior Director will work closely with our Computational Sciences, Protein Sciences, and CMCTech-Ops departments in the planning and execution of our various protein characterization initiatives, spanning early Generation through late-stage Candidate Selection. They will be responsible for helping to drive the broader strategy of our protein analytics biophysics workflows, including goal setting, resource tracking, and data feedback to our machine learning platform.
+Heres how you will contribute:
+
+Lead a growing team of scientists performing various types of analytical and biophysical techniques
+Manage all activities within the group including but not limited to: goal settingprogress tracking, budget and resource planning, new technology platform development, therapeutic program activities, and all data analysis presentations.
+Accountable for resource planning and request queue management, budgeting, and data handling
+Working with Computational Sciences and Digital team to drive data strategy for all analytics and biophysics workflows
+Efficiently accomplish department goals, on time and budget, tracking capacity constraints and resource use within team
+Stay scientifically current, and implement new technologies to enhance protein analytics capabilities with an emphasis on the ML-wetlab design-build-test cycles
+Advise the leadership team on staff and resource needs, organizational planning, technology development, and other aspects as Generate continues to grow
+Manage external CRO activities
+
+Leadership: 
+
+Demonstrated ability to work across functions, regions, and cultures
+Strong prior experience with leading end-to-end biologics drug discovery through to INDPhase 1
+Functional level leadership with the ability to inspire, motivate and drive results
+Embraces and demonstrates a diversity and inclusion mindset and role models these behaviors for the organization
+Invests time in helping others to enhance their skills and perform at a higher level, including the skill and career development of direct reports
+
+The ideal Candidate will have:
+
+PhD in a relevant scientific discipline or equivalent post-bachelors experience
+Minimum of 15 years of experience in biotechpharma setting with strong publication track-record
+Evidence of creativity and scientific rigor in addressing challenging analytical characterization of novel therapeutic proteins; ideally with deep experience in both early and late-stage protein production environments
+Prior experience with laboratory automation
+6 years of group management experience
+Track record of successful leadership, management, and development of multi-disciplinary teams
+Excellent communication, attention to detail, documentation and technical writing skills
+
+In this role, you would:
+
+Work in dynamic, diverse, project-based teams
+Collaborate across the company with machine learning engineers, drug discovery researchers, and bioinformatics data scientists
+Actively contribute to the creation and development of new projects
+Serve as a leader and mentor in your field of expertise
+
+Working at Generate, you have access to world-leading technology platforms in the areas of:
+
+Automated liquid handling and digital microfluidics
+Droplet microfluidics for molecular and cell biology
+High-throughput cell- and protein-based library generation and screening
+Closed-loop machine learningwetlab integration
+Protein structure prediction and determination
+
+ 
+Generate Biomedicines is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+COVID Safety:
+Generate Biomedicines enforces a mandatory vaccination policy for COVID-19. All employees must be fully vaccinated and have received a booster.  The purpose of this policy is to safeguard the health of our employees, their families, and the community at large from infectious disease that may be reduced by vaccinations.  The company will make exceptions to this policy if required by applicable law and will consider requests for an exemption from this policy due to a medical reason, or because of a sincerely held religious belief, or any other exemptions that may be recognized by applicable.
+Recruitment  Staffing Agencies: Generate Biomedicines does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Generate Biomedicines or its employees is strictly prohibited unless contacted directly by Generate Biomediciness internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Generate Biomedicines, and Generate will not owe any referral or other fees with respect thereto.
+ 
+ 
+LI-RT1

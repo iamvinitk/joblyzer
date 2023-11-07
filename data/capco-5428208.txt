@@ -1,0 +1,45 @@
+Job Title: Murex Datamart Developer
+About Us
+Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the  British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar  Seramount. With our presence across 32 cities across globe, we support 100 clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. 
+WHY JOIN CAPCO?
+You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry.
+MAKE AN IMPACT
+Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services.
+BEYOURSELFATWORK
+Capco has a tolerant, open culture that values diversity, inclusivity, and creativity.
+CAREER ADVANCEMENT
+With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands.
+DIVERSITY  INCLUSION
+We believe that diversity of people and perspective gives us a competitive advantage.
+MAKE AN IMPACT
+ 
+JOB SUMMARY:
+
+Position: Sr Consultant
+Location: Bangalore 
+Band: M3M4 (7 to 12 years)
+
+ 
+Role Description:
+
+Demonstrable experience as Datamart Developer with a minimum of 4 years in Murex
+Datamart exposure: Independently Design, build and Test Datamart reports
+Strong analytical and debugging ability, modifying and enhancing existing complex Datamart objects
+UnixShell Scripting: 1-2 years of good experience in shell script
+Should know how to debug and navigate through existing code and understand dependencies independently.
+High competence with SQL  PLSQL and RDBMS concepts
+WindowsUnix OS: Should be good at OS commands and should have good understanding of Murex setupconfigurations in these environments
+Must possess good understanding of both exchange traded and OTC Derivatives with specific focus on Credit and Rates products with clarity on their life cycle
+Good to have worked on Murex implementationupgradeNew Product InitiationRegulatory projects before and should have a clear understanding about the various stages of a project life cycle
+Good to have had exposure to report implementation using the DevOps tools and methodology
+
+WHY JOIN CAPCO? 
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry. We offer:  A work culture focused on innovation and creating lasting value for our clients and employees  Ongoing learning opportunities to help you acquire new skills or deepen existing expertise  A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients  A diverse, inclusive, meritocratic culture
+We offer:
+
+A work culture focused on innovation and creating lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+
+ 

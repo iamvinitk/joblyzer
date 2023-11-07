@@ -1,0 +1,64 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.We are looking for a passionate and analytically minded professional to join the Strategic Finance team. Strategic Finance is responsible for driving company strategy, empowering executive decision making, and guiding the company towards achieving its goals. The Finance Business Partner team is responsible for informing company strategy, owning planning and budgeting, and performing financial analyses throughout the company. You will have a unique opportunity to work cross-functionally and use quantitative insights to drive better decision-making across the whole organization.
+What Youll Do
+
+Forecast vendor spend for most of the vendors in the Tech organization (100 existing vendors)
+
+Building out understanding of vendor cost pipeline
+Accruals based on usage (some of which the data pipelines need to be built). 
+Assist in the classification of our vendor spend; clean up GLs (nomenclature), departments (who is responsible for the spend), and the POs (correct coding) to match
+Day-to-day ownership of Coupa and vendor relationshipspayments teams (Strategic Sourcing, AP, Accounting Ops, and Procurement)
+Management of forecast within Anaplan and reconciliation of actuals vs. forecast and budget (cost and service metrics)
+Assist with annual budget target setting for GLs within scope
+Establish vendor library of all Tech vendors by type, functionality, cost and ownership
+
+Forecast usage metrics; although this varies by vendor, the expectation is to essentially derive values based on SOP teams forecast and the actuals which youll be responsible for and combine it with the assumptions your business partners will supply.
+Supply the data for the monthly review of vendor spend for: Eng, InfoSecIT, and Risk functions
+Backup HC management for team redundancy
+
+Reconciliation of headcount by function vs. forecast and budget 
+
+Generate reporting of cost per user on Corporate Software
+
+What We Look For
+
+Organized with high attention to detail
+Ability to build and maintain relationships with key stakeholders
+Ability to re-balance workload based on changing priorities
+High follow through and ability to manage up when necessary
+SQL skills, math background, andor prior BNPL experience are a plus
+
+Compensation  Benefits
+We offer a competitive package, with some highlights listed below. However, the given figures are not guaranteed compensation ranges; rather, they are unbinding, approximate indications of what the salary may be for your awareness. The actual salary may be less than the lower range or greater than the upper range, depending on skills and experience. No employee is guaranteed salary at the amount of the lower range.
+
+Targeted Gross Monthly Salary: 16,433 - 20,125 PLN
+Type of employment: Contract of Employment
+Flexible Spending Wallets for tech, food and lifestyle
+Generous time off policies 
+Away Days - wellness days to take off work and recharge
+Learning  Development programs
+Parental leave
+Robust health benefits
+Employee Resource  Community Groups
+
+
+
+Location - Remote Poland
+The majority of our roles can be located anywhere in Poland.
+This job description is not a contractual document, and is not intended to have binding force.
+
+ LI-Remote
+ 
+
+Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+We have a simple and transparent remote-first grade-based compensation structure. Offer amounts within the range are based on a number of factors including but not limited to job-related skills, experience, and relevant education or training. Across the broader organization, certain roles are eligible for equity awards upon hire, promotion, tenure milestones and for performance.
+Were extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+
+Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
+Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
+Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
+ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
+
+We believe Its On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+
+
+By clicking Submit Application, you acknowledge that you have read the Affirm Employment Privacy Policy for applicants within the United States, the EU Employee Notice Regarding Use of Personal Data (Poland) for applicants applying from Poland, the EU Employee Notice Regarding Use of Personal Data (Spain) for applicants applying from Spain, or the Affirm U.K. Limited Employee Notice Regarding Use of Personal Data for applicants applying from the United Kingdom, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.

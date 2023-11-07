@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The Team
+Celonis AI Group (CeloAI) is a newly formed organization within Celonis that is dedicated to developing state-of-the-art AIML (and broadly intelligent) technologies for Celonis products (e.g., the Execution Management System  EMS) and empower enterprises and institutions to make intelligent business decisions and achieve operational excellence. Our dual mission focuses on both the immediate term goals of designing and implementing advanced AIML product features and solutions for our customers and the long term goals of establishing competitive advantages of Celonis for execution management.
+We are a global organization with presence in both Germany and the US. CeloAI Germany has its presence in Munich, Darmstadt, and Aachen.
+The Role
+As a Software Engineer (Full Stack), your main mission is to design and develop product features, along with the underlying infrastructure, and own the operationalization of solutions deployed in production. You interact closely with software engineers, product managers, and with the Go-to-Market organization, to build scalable and high quality features and solutions for our customers.
+The work youll do
+
+Design, build, and maintain the microservices our AIML products are based upon
+Design, build, and maintain the frontend components to surface our products
+Design, build, and maintain robust and low latency infrastructure to train and serve the AIML models
+Improve best practices in software development and DevOps
+
+The qualifications you need
+
+Bachelors degree, Masters degree, or equivalent practical experience (in Computer Science or related fields), with 1-2 years of experience in a similar role.
+Proven experience in developing software in a team using Python (JavaSpring Boot are a plus)
+Proven experience with TypeScriptJavaScript (Angular preferred)
+Experience in Containerization (Docker, Kubernetes is a plus)
+Experience with CICD pipelines (Github Actions is a plus)
+Strong communication and collaboration skills
+Identify with the Celonis value of customer first, passionate about solving real world customer problems with a focus on finding the right solution regardless of the nature of the solution
+Passionate about building end-to-end products based on AI
+Passionate about developing scalable and efficient AIML solutions
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

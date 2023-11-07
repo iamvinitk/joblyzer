@@ -1,0 +1,61 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Advanced Projects team is a cross-functional, multidisciplinary group that handles requirements-driven hardware development projects. We are focused on engineering design, developing custom electronics to fulfill our clients needs, and identifying the best components and techniques to implement the desired functionality, while emphasizing quality and reliability. Our projects tend to be larger, longer-term engagements, though team members often split time across multiple projects.
+We are looking for people who know how to get things done, who are always looking to grow their capabilities and deepen their knowledge, and who challenge assumptions, constantly pushing for better solutions and finding novel approaches to problems old and new. If that sounds like you, youve come to the right place.
+Job Overview:
+As an Electrical Engineering Intern, you will find the best solutions and implementations for the problems at hand by considering both hardware- and software-based approaches. Ideally, you have a background in electronic hardware design and embedded firmware or HDL development and are an enthusiastic problem solver who can learn, invent, and execute creative solutions to drive forward difficult projects to ensure success. You will have the opportunity to gain significant on the job learning and will directly apply engineering design fundamentals to produce impactful results.
+What You Will Do:
+
+Report to a mentor who will be responsible for candidate feedback and learning— mentors will also assign tasks and projects to work closely with the teams
+Perform electrical prototyping, schematic capture, PCB layout, and general electrical engineering work
+Use electrical test equipment to make measurements and troubleshoot boards
+Gain exposure to electronic assembly, PCB soldering, and wire harness assembly
+Program microcontrollers or FPGAs and test software applications
+
+What You Will Need:
+
+Current enrollment in college (Electrical Engineering, Computer Science, Physics, Math, or related field)
+Proficiency in at least one programming language (e.g., Python, C, C, R, etc.) or hardware description language (e.g., Verilog, VHDL)
+First or second year circuits classes and knowledge of electrical engineering fundamentals
+Curiosity and passion for electrical engineering and technology with the ability to learn and take instruction
+Experience with one or more of the following: analog circuits, mixed-signal designs, embedded programming, RF, power electronics, or optical systems development
+
+What Would Be Useful:
+
+Experience in team-based design and build projects (e.g., Formula SAE, Solar Car, CubeSat, Rover Challenge, etc.)
+Experience with analog small-signal circuit design (filters, op-amp circuits, signal conditioning) andor power electronics designs: regulators, load drivers, supply filters, protection circuitry
+Familiarity with RF analysis tools, such as AWR and HFSS
+Familiarity with machining tools including milling machines, lathes, and CNC equipment
+CAD software design experience for PCB andor mechanical designs, such as Altium Designer, KiCad, Cadence, PADS, EAGLE, etc.
+Experience with circuit simulation using LTspice, Pspice, or similar programs
+Experience in soldering and crimping for complex systems
+Experience with Linux operating systems
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 66,400-66,900 per year on a salary basis 
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Paid holidays and sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

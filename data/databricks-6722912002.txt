@@ -1,0 +1,47 @@
+FEQ424R210
+In the role of Senior Solutions Architect, specialising in data engineering, analytics, AIMLDS, big data, and public cloud, youll participate in the technical assessment stage, offering hands-on expertise throughout the sales cycle. As an integral member of the sales team, youll serve as a technical consultant and partner with the product team to represent the needs and concerns of our customers. Using our Databricks Lakehouse platform, youll assist clients in achieving concrete, data-based results by providing a solid architectural roadmap and pinpointing high-impact use cases. This role offers the opportunity for professional growth in your area of expertise as you handle some of the most complex challenges our customers face in big data, analytics, data engineering, and data science. You will be reporting directly to the Senior Manager of Field Engineering.
+ 
+Note : we are open to accept applications from across the country (i.e. outside of Munich).
+The impact you will have:
+
+As an expert in the sphere of big data analytics, you will be seen as an expert on issues of architecture and design
+Lead your clients through evaluating and adopting Databricks Lakehouse platform
+Support your customers by authoring reference architectures, how-tos, and demo applications
+Successfully integrate Databricks with 3rd-party applications to support customer architectures
+Engage with the technical community (both internal and customer) by leading workshops, seminars and meet-ups
+Together with your Account Executive, you will form successful relationships with clients throughout your assigned territory to deliver exceptional technical and business value
+
+What we look for:
+
+An ability to share technical concepts, including presenting and white-boarding
+Pre- or post-sales experience working with external clients providing expertise
+Design and implement architectures within a public cloud (AWS, Azure or GCP)
+You have experience with big data technologies such as Apache Spark, Hadoop or Cassandra
+Proficiency writing code in either Python, Scala or Java
+Understanding of customer-facing pre-sales or consulting role with a core strength in either data engineering or data science advantageous
+Cloud platform and basic cloud securitynetworking knowledge advantageous
+A minimum of a bachelors degree in Computer science, Information system, Engineering, Data Science or equivalent experience through work experience
+Databricks Certification
+
+Benefits
+
+Private medical insurance
+Life, accident  disability insurance
+Pension Plan
+Vision Reimbursement
+Equity awards
+Enhanced Parental Leaves
+Fitness reimbursement
+Annual career development fund
+Home office and work headphones reimbursement
+Business travel accident insurance
+Mental wellness resources
+Employee referral bonus
+About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

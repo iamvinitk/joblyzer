@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+Were Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.
+
+
+
+
+
+
+
+
+ 
+The Role:We are looking for a Senior Software Engineer working primarily on the backend (Java, Spring Boot, kubernetes), to build new features for our Database  Streaming Extractors team. Software Engineers at Celonis are responsible for their services end to end, starting from design and development to deployment and maintenance. Youll be an integral part of our teams mission to streamline data integration experiences, provide solutions to handle large-scale data extractions.
+The Team:The Database  Streaming Extractors Team at Celonis, brings the customer data into the EMS (Execution Management System) from a wide variety of Databases in a performant, robust and scalable way. We are the front door for our customers, and we strive to reduce latency, increase throughput, and improve reliability and scalability of our data extraction solutions. With a constant focus on improving the data integration experience, we specialize in handling large-scale data processing, orchestrating seamless data extraction pipelines to ensure the smooth and on-time transfer of extensive datasets.
+The work youll do:
+
+Take responsibility for pieces of work throughout the stages of development - from design to deployment.
+Implement maintainable and reliable software that meets expectations, including complex features and applications.
+Take open ended technical problems and develop practical solutions that meet stakeholder needs.
+Handle requests from customer support finding the right technical solution.
+
+The qualifications you need:
+
+5 years of professional experience building Java applications
+Good knowledge of Spring Boot
+Experience in REST APIs and distributed microservices architecture
+Experience with relational databases and SQL
+Familiar with containerization technologies (e.g. Docker, kubernetes)
+Strong communication skills (English is a must)
+Passion and motivation to learn and grow as a Software Engineer
+Nice to have: Angular knowledge and DataDog monitoring
+What Celonis can offer you:
+
+The unique opportunity to work within a new category of technology, Execution Management
+Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, LD platform, mentorships, and more)
+Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here
+Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)
+A global and growing team of Celonauts from diverse backgrounds to learn from and work with
+An open-minded culture with innovative, autonomous teams
+Business Resource Groups to help you feel connected, valued and seen (BlackCelonis, WomenCelonis, ParentsCelonis, PrideCelonis, ResilienceCelonis, and more)
+A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
+
+About Us
+Celonis enables customers to optimize their business processes. Powered by its leading process mining technology, Celonis provides a unique set of capabilities for business executives and users to continuously find improvement opportunities within and across processes, and execute targeted actions to rapidly enhance process performance. This optimization yields immediate cash impact, radically improves customer experience, and reduces carbon emissions. Celonis has thousands of implementations with global customers and is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.
+Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to raceethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws.  As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations.  Different makes us better.
+Accessibility and Candidate Notices

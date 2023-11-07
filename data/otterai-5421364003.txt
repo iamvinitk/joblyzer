@@ -1,0 +1,34 @@
+The Opportunity
+As a Senior Level Data Scientist at Otter.ai, you will play a pivotal role in our ProductGo-to-Market teams. You will collaborate closely with cross-functional teams, combining your advanced data analytics skills with a deep understanding of our products and market to drive strategic decision-making, optimize our engagement and monetization strategies, and accelerate product adoption. Your work will directly impact our ability to enhance customer experiences and drive business success.
+If youre passionate about harnessing data to drive business growth and want to be part of a team thats shaping the future of conversations, we invite you to apply and help us achieve our mission of Making Conversations More Valuable.
+This position is a hybrid role based at our headquarters in Mountain View (3 daysweek)
+Responsibilities
+
+Collaborate with the ProductGo-to-Market teams to understand business objectives, challenges, and opportunities, translating them into data-driven insights and recommendations.
+Develop and implement predictive models, data-driven tools, and analytical methodologies to better understand product usage, sales trends, customer behaviors, and market dynamics.
+Analyze large datasets to derive actionable insights that guide the development and optimization of engagement and monetization strategies.
+Design and execute experiments to test hypotheses and measure the effectiveness of different product experiences, sales tactics, marketing campaigns, and business strategies.
+Partner with cross-functional teams, including Product Management and Engineering, to integrate data-driven insights into our products and services, driving continuous improvement and innovation.
+Present findings and recommendations to key stakeholders, including executives, to inform strategic decision-making and shape the companys ProductGo-to-Market strategies.
+Collaborate with Data Engineers to ensure data quality, accessibility, and reliability for analysis purposes.
+Stay current with industry trends, emerging technologies, and best practices in data science, machine learning, and AI to drive innovation and competitiveness.
+
+Were looking for someone who
+
+Proven experience (7 years) working as a Data Scientist or similar role, preferably within a technology or AI-driven company.
+Deep knowledge of leveraging SQL queries against large datasets to generate synthesized business insights
+Strong expertise in data analysis, statistical modeling, and machine learning techniques.
+Proficiency in programming languages such as Python and R for data manipulation, analysis, and visualization.
+Familiarity with B2B products, collaborative software and go-to-market growth models.
+Excellent communication skills with the ability to translate complex findings into actionable insights for non-technical stakeholders.
+Proven ability to work collaboratively in cross-functional teams and manage multiple projects simultaneously.
+Strong problem-solving skills and the ability to thrive in a fast-paced, dynamic start-up environment.
+Experience with natural language processing (NLP) and speech recognition technologies is a plus.
+
+About Otter.ai 
+We are in the business of shaping the future of work. Our mission is to make the future of communication more collaborative, accessible, and productive for all.
+We are growing fast, last year we recorded a total of over 150 million meeting minutes, announced a 50 million Series B and we were included in Business Insiders 10 AI startups that raised the biggest Series A and B list. In addition, Adam Cheyer the cofounder of Siri, Larry Heck the cofounder of Cortana and Greg Holmes, the first head of sales at Zoom, joined us as advisors.
+Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are dedicated to inclusivity.
+Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+Salary range
+Salary Range: 150,000 to 190,000 USD per year.

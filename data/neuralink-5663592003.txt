@@ -1,0 +1,38 @@
+Company Description:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.Team Description: 
+The Brain Interfaces system-on-chip Department delivers chip architecture and silicon implementation of neural recording and stimulation system-on-chip (SoC) for high-bandwidth brain-machine interface applications. We have crafted a team of exceptional engineers whose mission is to push the frontiers of what is possible today and define the future. 
+Job Responsibilities and Description: 
+Digital IC Design Engineer will be responsible for delivering micro-architecture and register-transfer level (RTL) implementation of digital IPs and systems with a focus in high-throughput low-power digital signal processing (DSP) and general-purpose hardware accelerators towards realizing state-of-the-art brain-computer interfaces. Relevant product development experience in micro-architecture design for low-power processors, on-chip bus and network interfaces, audiovideo compression processors, AIML accelerators, and communication PHYMAC will be preferred.
+Key Qualifications: 
+
+Evidence of exceptional ability in electrical engineering, computer science, or computer engineering.
+Minimum 3 years of experience in digital design.
+Expertise in SystemVerilog, CC, Python.
+
+Preferred Qualifications: 
+
+Experience working on complex digital systems from architecture, microarchitecture, and RTL, using industry standard tools.
+Experience in the verification of complex digital systems, using industry standard tools.
+Experience in the physical design of complex digital systems, using industry standard tools. 
+Experience testing and debugging digital system-on-a-chips.
+Functional modeling experience and logic verification with SystemVerilog, SystemCC.
+Experience in designing digital signal processing pipelines, from algorithm to RTL
+Experience automating tool flows
+Experience with embedded design
+Pay Transparency: The following details are for Texas individuals only:Texas Pay Transparency135,000—164,790 USDFor full-time employees, your compensation package will include two major components: salary and equity. Guidance on salary for this role will be determined according to the level you enter the organization (with the ability to gain more through time as you contribute). 
+ 
+Full-Time Employees are eligible for equity and benefits listed below in addition.
+
+What we offer:
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off  paid holidays.
+Equity  401(k) plan.
+Commuter Benefits.
+Meals provided.
+
+
+Multiple studies have found that a higher percentage of women and BIPOC candidates wont apply if they dont meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you dont check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.

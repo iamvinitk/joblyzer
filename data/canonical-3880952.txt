@@ -1,0 +1,49 @@
+Summary
+This is an exciting opportunity for an experienced software engineer passionate about open source software, Linux, and Web Services at scale. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+Bring your Python and Golang skills to bear on identity, authorization and access management across Canonicals suite of enterprise products and web services.
+As a software engineer for Identity Management products of Canonical, you will modernize and expand the capabilities of the identity management solutions we use for authentication and authorization in our products, as well as our canonical.com and ubuntu.com websites. Your work on Identity Management will directly impact the users of all Canonical products.
+Technical excellence and a background in software engineering are necessary prerequisites for this role. You will be expected to own the design and delivery of the system, facilitate integrations and work with your team on strategy and execution.
+What youll do
+
+Collaborate proactively with a distributed team
+Write clean web service APIs to support both CLI and web frontend clients, using Python (and optionally Golang).
+Design and implement new features and enhancements from spec to production and ongoing operations at scale.
+Review code produced by other engineers
+Discuss ideas and collaborate on finding good solutions.
+Create and enhance management, authentication and authorization API endpoints
+Craft end-user authentication flows from design to implementation
+Modernize the identity stack of our websites and products by driving adoption of best-of-breed IAM technologies 
+Deliver great products that users love by maintaining a culture of quality and engineering excellence
+Work from home with global travel 2 to 4 weeks per year for internal and external events
+
+Who you are
+
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You are a software engineer, with specific experience building identity and access management products 
+You are familiar with the open source software, standards, protocols and concepts in the identity space (e.g. OpenID, OAuth, LDAP)
+You have experience implementing authorization frameworks in distributed systems
+You value secure coding and standards, and enjoy working on teams that do the same
+You have solid experience working in an agile development environment
+You love technology and working with a diverse set of talented people.
+You are comfortable with Ubuntu as a development and deployment platform.
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You love embracing new technologies and pushing the boundaries of what is possible, with a view to building products that improve how people operate software and infrastructure everywhere 
+
+About Canonical
+Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the worlds 1 cloud operating system. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.  Canonical is a unique tech company - global, remote-first, open source, with 700 professionals across 50 countries - we want to be the worlds best, not biggest, global software company. With almost every team remote by default, Canonical sets the pace on the 21st-century digital workplace.
+What Canonical offers:
+
+Work from home
+Learning and development allowances
+Competitive Salary
+Annual compensation review
+Recognition rewards
+Generous annual leave
+Paid maternity, paternity and sick leave
+Priority Pass for travel
+Exposure to international business and technology
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-Remote
+stack

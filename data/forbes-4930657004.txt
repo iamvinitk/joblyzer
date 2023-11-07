@@ -1,0 +1,51 @@
+Forbes believes in the power of entrepreneurial capitalism and uses it on various platforms to ignite the conversations that drive systemic change in business, culture and society. We celebrate success and are committed to using our megaphone to drive diversity, equity and inclusion.As a Technical Lead for Kotlin Multiplatform Mobile (KMM) Development at Forbes, you will play a pivotal role in building our innovative mobile app. Youll be responsible for the development and expansion of the Android version while ensuring seamless integration and functionality with its iOS counterpart.
+What Youll Do: 
+
+Development Leadership: Drive the architectural decisions, design, and development of the Android app using KMM while ensuring performance, quality, and responsiveness of the application.
+KMM Library Management: Oversee and expand the shared KMM library to ensure a smooth integration between our iOS and Android apps.
+UI Design and Implementation: Utilize JetBrains Jetpack Compose to craft intuitive, dynamic, and user-friendly interfaces for the Android version of the application.
+Team Collaboration: Work closely with our iOS developer, offering guidance and support when needed. Facilitate effective collaboration between the iOS and product, engineering and design teams to ensure unified app experience.
+Product Management Collaboration: Partner with the Product Manager to define and refine product roadmaps. Convert product strategies into technical initiatives, epics, and features to drive our mobile app forward.
+Mentoring  Management: Manage and mentor, the iOS developer, fostering an environment of continuous learning and improvement.
+Reporting: Provide regular updates, insights, and recommendations to the Director of Software Engineering.
+Assist implementing Agile Practices: Work with the team and Forbes engineering to follow and establish best practices including TDD, continuous integration, pairing, and infrastructure automation, etc.
+
+Qualifications:
+
+Proven experience in Android app development with a deep understanding of Kotlin and JetBrains Jetpack Compose for UI.
+Strong experience in KMM development and its integration in mobile applications.
+Familiarity with iOS app development, preferably with SwiftUI.
+Demonstrated experience in leading technical teams and projects.
+Strong collaboration skills, with a track record of working effectively with cross-functional teams.
+Excellent problem-solving skills, with the ability to think strategically and act tactically.
+Bachelors degree in Computer Science, Software Engineering, or a related field.
+Able to break down stakeholders request into manageable pieces of work.
+
+The Ideal Candidate Will Have: 
+
+8 years of software development experience.
+Experience thriving in a fast, agile and multi-functional team environment.
+Experience in developing public facing mobile software applications.
+You demonstrate excellent problem-solving and critical thinking skills and are passionate about mobile app development.
+You hold a bachelors degree in computer science or computer engineering or equivalent work experience.
+You have demonstrated experience building new mobile application experiences for Android platform using best practices.
+You have enough experience with iOS development to provide occasional guidance and recommendations.
+Youre well-versed in two or more languages (Kotlin, Python, Go, Java, JavaScript) and are comfortable with the latest Object-Oriented technology.
+Experience leading software development teams using Agile, Lean andor Continuous Delivery approaches such as TDD, continuous integration, pairing, and infrastructure automation.
+Strong writing and verbal communication skills for both technical and non-technical audiences.
+Ability to create and adapt to workflows to efficiently produce measurable results.
+Strong organizational skills.
+Experience with CICD using tools like AWS, Argo, and Jenkins.
+Familiarity with Firebase, GitHub, and GitHub Actions.
+Experience setting up, monitoring and reporting with Firebase Crashlytics.
+Experience with 3rd party vendors for notifications.
+Knowledge of Google Cloud Platform.
+
+The annual base salary range for this role is 160,000 - 165,000
+Forbes has estimated the compensation range set forth above in good faith.  The compensation range is what we believe we will offer, and ultimately pay, a successful candidate.  In determining this range, we consider the experience, level of education (if applicable to the role), knowledge, skills, and abilities required to be had by a successful candidate as well as the budget and the companys pay rates, generally. This said, we may have to make changes to our compensation estimates and job descriptions from time to time and we expressly reserve the right to do so.  Should we make any such changes, this advertisement will be revised to reflect such revisions.  We encourage you to occasionally re-visit this advertisement to ensure that you are abreast of any changes.  Thank you for your interest in joining Forbes!
+ 
+LI-KB1
+LI-Remote
+ Forbes aims to offer employees the flexibility they need in order to be successful. We offer a hybrid work schedule for our employees. Some roles may be fully remote (within the U.S.) if it aligns with the needs of the position
+Forbes is an equal opportunity employer.
+Staff and Applicant Privacy NoticeNotice of E-Verify Participation

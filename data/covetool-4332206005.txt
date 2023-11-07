@@ -1,0 +1,56 @@
+Are you ready to fight climate change? We just raised a 30 million Series B from Coatue (early backer of Apple, Tesla, and Rivian) and actor Robert Downey Jr (aka Iron Man). Did you know buildings contribute to over 40 of the global carbon emissions? Our web-based SaaS toolset, helps design teams rapidly decarbonate the building design process by automating energy, daylight, glare, cost, and more with machine learning. Last year we offset enough carbon to save 171,000 lives and 5x more carbon than Tesla. Join our fast-growing team to help save the planet!Who You Are 
+As a Senior Software Engineer at cove.tool, you will play a pivotal role in delivering high quality technical solutions. This position will require deep technical knowledge, an ability to communicate complex ideas effectively, and a proactive mindset. You will collaborate with the team to deliver features and recommend process improvements. 
+Who We Are: Were willing to rethink everything to get buildings to net-zero carbon. We think differently and holistically about the Architecture, Engineering, and Construction space. We use science, care about others, and speak the truth about climate action. 
+ 
+Responsibilities    
+
+Build backend features in a scalable fashion 
+Own features from start to finish   
+Work both independently and collaboratively   
+Write clean, scalable, maintainable code   
+Collaborate and contribute actively to the entire agile software development lifecycle   
+Propose solutions to various technical problems (both internally and during collaboration with Product teams)   
+Collaborate on the design of new features via in-person whiteboarding sessions and written design docs   
+Provide mentorship to other software engineers   
+Communicate clearly and effectively 
+Prioritize and timebox tasks for effective multitasking 
+
+Requirements 
+
+Undergraduate degree in Computer Science, Software Engineering or another STEM discipline  
+5 years of professional software engineering experience with DjangoPython 
+Strong knowledge of software design and architecture principles 
+Strong knowledge of Postgres and the Django ORM 
+Excellent problem-solving, debugging, and root cause analysis skills 
+Experience building and consuming REST APIs at scale   
+Experience with optimization to improve web application performance   
+Experience with Git and strong code review skills 
+Experience with unit testing  
+Familiarity with AIML at scale 
+Familiarity with hosting infrastructure (AWS) 
+Familiarity with Node, Ruby a plus 
+
+What Makes the cove.tool Software Team Unique 
+
+Shared responsibility for creating and maintaining a high-quality codebase   
+Emphasis on process and constant improvement   
+Many opportunities to mentor and be mentored   
+Huge emphasis on professional development with clearly defined career paths and feedback cycles   
+Learning and professional development budget for each team member   
+Every team member encouraged to propose ideas   
+Direct access to leadership for feedback and brainstorming   
+Weekly Tech Talks to share knowledge amongst the team   
+Monthly Hackathons which provide an open format for creativity and exploration  
+Whats In It for You:
+
+100 Employer Paid Health insurance
+Vision and Dental benefits
+Employer-paid public transit pass and biking stipend
+Competitive Pay
+Work-Life Balance
+Onsite Gym membership
+Hybrid Work
+Paid time off and holidays
+Snacks, beer, team events
+
+Cove.tool is proud to recruit and hire talented people from a wide variety of backgrounds and experiences. We do not discriminate on the basis of race, color, national origin, gender, religion, sex (including pregnancy, sexual orientation, gender identity or transgender status), age, or disability.

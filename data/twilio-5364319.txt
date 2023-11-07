@@ -1,0 +1,72 @@
+See yourself at Twilio
+Join the team as our next IT Internal Audit Manager
+Who we are  why were hiring
+Twilio powers real-time business communications and data solutions that help companies and developers worldwide build better applications and customer experiences.
+Although were headquartered in San Francisco, we have presence throughout South America, Europe, Asia and Australia. Were on a journey to becoming a global company that actively opposes racism and all forms of oppression and bias. At Twilio, we support diversity, equity  inclusion wherever we do business.
+About the job
+The Internal Audit is central to Twilios continued growth. We work closely with senior management to identify and evaluate key business risks and recommend actions to mitigate risks while improving and maturing processes
+Twilio is growing rapidly and seeking an IT Internal Audit Manager to join Twilios Internal Audit organization. The team is focused on process improvements through operational internal audits, including data analytics to help the business mature processes, allowing efficiency and scalability while maintaining internal controls to mitigate risks. Reporting to the Director of Internal Audit, this position will work closely with internal audit teams and other Twilio functional teams to facilitate and manage the SOX assessment program and identify process and system gaps.
+Responsibilities
+In this role, youll:
+
+Plan, Manage and Perform IT SOX assessment (For ITGCs and IT Application controls), including managing internal and co-source resources, document requests and review of workpapers
+Drive all aspects of internal audit projects, including planning, testing, execution and reporting.
+Participate in identifying and documenting control deficiencies, performing impact assessments and partnering with IT compliance team to develop remediation solutions
+Build relationships and collaborate across functional teams within Twilio to identify process improvement opportunities for efficient, effective and scalable processes, utilizing industry best practices tailored to Twilio.
+Assist with developing and delivering meaningful data driven executive presentations, including senior leadership
+Guide and review the work performed by other internal audit personnel, including co-sourced firms
+Provide advisory support related to SOX considerations for new system development and system changes implementation
+
+Qualifications 
+Not all applicants will have skills that match a job description exactly. Twilio values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having desired qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or hasnt followed a traditional path, dont let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!
+ 
+Required:
+
+5 years experience in operational internal audits or management consulting (Big-4 or consulting firm).
+Strong project management and problem solving in a creative and fast paced environment to drive results timely and on budget.
+Strong focus on technology risks, not limited to major project developments, Change management, vulnerability management andor evaluation of DevOps and Cloud Computing risks, IT general controls, and IT application controls, COSO, and COBIT.
+Demonstrated ability to analyze and use data to generate insights to inform decisions.
+Strong understanding of key business processes and respective risks and controls aligned with best practices.
+Excellent communication skills, ability to distill key takeaways quickly and presentation skills that allow effective interactions with business partners.
+Hold one or more Professional Certifications (CISA, CIA, CISM, CISSP, etc.)
+Innovative thinker and problem solver with excellent communication skills, ability to distill key takeaways quickly and presentation skills that allow effective interactions with business partners.
+The ability to work independently and as a team leader and provide appropriate direction to the team members and management.
+
+Desired:
+
+Experience with ERP systems, Okta, Workday, Oracle, ServiceNow, and home-grown applications is preferred
+Experience auditing cloud-based environments highly preferred 
+Experience serving in an advisory role for new system developmentsystem changes implementation is preferred 
+
+ 
+Location This role is remote and is not eligible for hire in San Francisco, Oakland or San Jose, CA, Connecticut, New Jersey, New York, Washington, Pennsylvania or the surrounding areas.
+Approximately 5 travel is anticipated. 
+What We Offer
+There are many benefits to working at Twilio, including, in addition to competitive pay, things like generous time-off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.
+Twilio thinks big. Do you?
+We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. Thats why we seek out colleagues who embody our values — something we call Twilio Magic. Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts.
+ 
+So, if youre ready to unleash your full potential, do your best work, and be the best version of yourself, apply now!
+ 
+If this role isnt what youre looking for, please consider other open positions.
+The estimated pay ranges for this role are as follows:
+
+
+Based in Colorado 99,360.00-124,200.00
+
+
+Based in New York, Washington State or California (outside the San Francisco Bay Area): 105,200.00-131,500.00
+
+
+The successful candidates starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location within the state. 
+ 
+
+
+
+
+Twilio is proud to be an equal opportunity employer. Twilio is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.
+Twilio is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at accommodationtwilio.com.
+
+
+
+

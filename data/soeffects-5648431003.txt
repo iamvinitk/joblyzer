@@ -1,0 +1,68 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world. 
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Systems Integration and Test team is focused on early stage product development, systems integration, and test programs. Every team member is exposed to a wide variety of problems and can quickly architect, develop, and prototype novel product ideas to test market feasibility. On this team, you will work closely with customers to achieve their end goals while helping develop company infrastructure to improve project outputs as we continue to grow.
+Job Overview:
+As a Lead Hardware-In-The-Loop (HITL) Automation Engineer at SOE, you will own the development, maintenance, and deployment of custom test equipment for use on both client projects and internal processes. Additionally, you will support various client project deliverables and internal infrastructure as our team grows.
+What You Will Do:
+
+Develop automation frameworks and invent new tools that enable more frequent and reliable software deployment, test execution, and data analysis as part of our continuous integration and release system
+Create and test code for aerospace, automotive, and consumer electronics projects (including rockets, satellites, robotic systems and more!) using simulated hardware, HITL systems, and a variety of testing environments
+Develop software for hardware systems to evaluate the performance of custom hardware
+Perform hands-on integration and troubleshooting of hardwaresoftware systems
+Analyze test results and root cause bugs that require in-depth investigations by monitoring real-time output and present results to stakeholders
+Provide meaningful contributions to clients for environmental test systems and help drive decisions for projects in a variety of different industries
+Design and maintain standard software to be deployed on automated test systems
+Interfacing with databases to store test data and generate reports
+Data visualization for complex devices
+Networking between devices and systems
+
+What You Will Need:
+
+3 years experience in software design, or complex system design and architecture role (including internship, curricular, and project team experience)
+Experience with designing and implementing electronics test systems
+Bachelors degree in computer science, engineering, technology, math, or science discipline
+Experience mentoring other engineers in technical topics
+Excellent communication skills for interfacing with internal engineering teams and external suppliers and customers
+Experience in software development lifecycle
+Experience in supporting, maintaining, and documenting software functionality
+Experience with data acquisition hardware and software in hands-on testing environments
+
+What Would Be Useful:
+
+Experience with Python, C, or C
+High level of autonomy when solving problems with a willingness to seek out knowledge and assistance when needed
+Experience with reading and understanding datasheets, technical manuals, engineering reports, and electrical schematics
+Experience with control system logic and hardware for interfacing with test equipment and hardware (PID Controllers, PLC, etc)
+Solid understanding of physics fundamentals
+Experience integrating software onto hardware
+Knowledge or experience in aerospace, medical, or automotive electrical systems, assembly, and test
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 105,000-135,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

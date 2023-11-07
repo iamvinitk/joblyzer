@@ -1,0 +1,51 @@
+Who We Are:
+SmithRx is a rapidly growing, venture-backed Health-Tech company.  Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service.  With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country.
+We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values:
+
+Integrity: Do the right thing. Especially when its hard.
+Courage: Embrace the challenge.
+Together: Build bridges and lift up your colleagues.
+
+ 
+Job Summary:
+SmithRx is developing the next-generation pharmacy benefits management (PBM) platform, revolutionizing how businesses administer and oversee pharmacy benefits. Our cutting-edge technology platform provides real-time actionable insights that drive cost efficiencies, enhance clinical services, and elevate the customer experience. Operating within SmithRxs production and engineering division, the data engineering team is dedicated to establishing a scalable and dependable single source of truth data ecosystem. This ecosystem plays a critical role in enabling our organization to provide unparalleled service excellence and operational superiority to our valued customers. 
+We are currently seeking a highly motivated Lead Senior Data Scientist to join our team. The primary focus of this role will be on applying data-driven techniques and analyses to build high-quality intelligent analytical machine learning systems. This role will collaborate with data engineers, and data analysts, crafting algorithms and scripts, applying machine learning techniques, and utilizing a precise blend of tools and frameworks to transform diverse data points into actionable insights for SmithRxs pharmacy benefits offerings. This role will be critical in developing SmithRxs comprehensive ML platform and AI product. Within our rapidly expanding startup structure, opportunities abound for this role to influence data product strategy and the RD roadmap. The ideal candidate will have a strong background in data modeling, data science, statistical modeling, and machine learning with extensive experience in data platform development.
+ 
+What you will do:
+
+Provide technical leadership around data science, and development initiatives and implement data-driven solutions that drive business value and support the companys strategic goals.
+Analyze and interpret complex datasets to discover patterns, detect anomalies, and test hypotheses, including the creation, training, and support of a customized Large Language Model (LLM) for our next-gen AI platform. 
+Collaborate with cross-functional teams, including data analytics, engineering, DevOps, and infrastructure teams, to ensure that data and AI initiatives are integrated into the overall technology strategy.
+Lead hands-on technical data science work, including designing and developing data models, algorithms, machine learning systems, and comprehensive data analysis and visualization.
+Ensure the quality and privacy of data and AI models and algorithms, and protect PIIPHI information through testing and validation to ensure that models are accurate, reliable, and scalable.
+Mentor team members by providing technical guidance. Establish technical standards, best practices, and methodologies for data science, machine learning, and artificial intelligence projects.
+Identify and contribute to opportunities for technological enhancements, innovative tooling, and vendor evaluations.
+
+ 
+What will you bring to SmithRx:
+
+Preferred Masters degree or higher in Data Science, Computer Science, Applied MathematicsStatistics, or Systems Engineering.
+A minimum of 8 years of related experience in data engineering, machine learning, AI, data science, and technical leadership.
+Start-up experience highly desirable
+A strong comfort level with cloud services (AWS, GCP), and columnar databases (Redshift, Snowflake, Bigquery). 
+Experience with emerging AI tools, e.g. OpenAI, etc and lead on product proposals  proofs of concept (POCs).
+Proficiency in SQL, Python, Spark (BatchStreaming), SparkSQL, PySpark, CICD, and automated testing capabilities 
+Substantial Experience in software development life cycle (SDLC) and data pipelines and job monitoring managementtools (AWS Glue, Airflow, Terraform, Kubernetes, CICD, PIIPHI protection and data masking, etc.)
+Familiarity with data exploration and visualization tools (Looker etc.)
+The ability to collaborate effectively with cross-functional teams and stakeholders on project implementation and delivery. 
+
+ 
+What SmithRx Offers You: 
+
+Highly competitive wellness benefits including Medical, Pharmacy, Dental, Vision, and Life Insurance 
+Flexible Spending Benefits 
+401(k) Retirement Savings Program 
+Short-term and long-term disability
+Discretionary Time Off 
+13 Paid Holidays
+Wellness benefits- Spring Health, Gympass, and Headspace
+Commuter Benefits 
+Paid Parental Leave benefits
+Employee Assistance Program (EAP)
+Well-stocked kitchen in office locations
+Professional development and training opportunities

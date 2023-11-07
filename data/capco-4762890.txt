@@ -1,0 +1,45 @@
+Data Architect
+Joining Capco means joining an organisation that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table  so wed love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.
+ABOUT US
+Capco is global technology and business consultancy with a focus on the financial services sector. We are passionate about helping our clients succeed in an ever-changing industry, combining innovative thinking with unique expert know-how.  The solutions we offer our customers every day are as diverse as our employees.
+Would you like to make a difference and put your ideas into practice with us?
+What we are looking for:
+Position: Consultant Data Architect
+Location: London, UK
+Your Capco Day
+
+You will accompany and lead complex agile consulting projects supporting our clients with data architecture design and delivery.
+You will work with technology leaders across Financial Services to provide best practice guidance for data management and data architecture development and optimization.
+You will build a set of services and capabilities that support Capcos vision of Modern Data Architecture and our clients data journeys to Cloud to enable efficient, transparent and high-quality data management.
+You will have opportunities to assume greater responsibility for your topics, as well as managing small project teams and supporting Capco Data Architecture business development.
+
+Preferred Experience
+
+Experience architecting  implementing data strategy, solutions  governance models.
+Experience of aligning data architecture  strategy across multiple programmes, work streams and business units.
+Demonstrable experience using Cloud data technologies to develop enterprise Data platforms.
+Cloud architectdata architect certifications (AWS, GPC, Azure).
+Knowledge of the relevant procedures, architectures and technologies in one or more of the following topics:
+
+Contextual Data Modelling, Entity Relationship Modelling, Logical  Physical Data Modelling and Data Lake design.
+Experience designing and implementing cloud data migration and storage patterns on one or more of AWS, GCP and Microsoft Azure 
+Experience implementing and integrating data management platforms for data cataloguing, classification and metadata management.
+Experience with cloud centric ETL technologies and tools (Lake Formation, Spark, Dataflow and others).
+Experience designing and developing data privacy, security and entitlements frameworks for cloud provider ecosystems (AWS, Azure, GCP).
+Good understanding of cloud networking architecture, operations, automation and cost management.
+
+
+Ideally, relevant practical project experience in Financial Services with proven leadership skills and ability to operate in complex environmentsprojects, managing multiple stakeholders at all levels of the organisation.
+An understanding or interest in Graph computing and semantic data modelling.
+A credible individual who can communicate effectively to both technical and non-technical audiences.
+Effective teamworking with very good analytical and conceptual skills and assertiveness.
+
+WHY JOIN CAPCO?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+We offer:
+
+A work culture focused on innovation and building lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+Enhanced and competitive family friendly benefits, including maternity  adoption  shared parental leave and paid leave for sickness, pregnancy loss, fertility treatment, menopause and bereavement

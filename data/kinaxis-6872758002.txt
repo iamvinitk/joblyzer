@@ -1,0 +1,41 @@
+
+About Kinaxis  
+Kinaxis is the global leader in modern supply chain management. We serve supply chains and the people who manage them in service of humanity. Our software is trusted by renowned global brands to provide the agility and predictability needed to navigate todays volatility and disruption. We combine our patented concurrency technique with a human-centered approach to AI to empower businesses of all sizes to orchestrate their end-to-end supply chain network, from multi-year strategic planning through down-to-the-second execution and last-mile delivery. For more news and information, please visit kinaxis.com or follow us on LinkedIn. Technology Consultant
+Job location: This is a virtual role. You may work anywhere from home and be based anywhere in the Netherlands.
+About the team
+As a member of our Consulting team, you understand our customers most pressing business performance challenges and you are committed to helping our customers solve complex challenges in the distributed value chain that is prevalent in supply chain management today. Working with new and existing customers, you will provide expert guidance in integrating our product offerings to deliver value.
+What you will do
+
+Participate in deep-dive customer business requirements discovery sessions and develop integration requirements specifications.
+Perform integration configuration  mapping, loading, transforming and validating data required to support our customers unique system landscape.
+Assist data management and integration related activities including validation and testing of the solutions
+Learn the Rapid Response integration platform.
+Support deployment workshops to help customers achieve immediate value from their investment
+
+Thing You Should Have
+
+5 years of relevant experience in business software consulting, ideally in supply chain.
+Substantial experience and expertise with ETL tools such as Talend, OWB, SSISl SAP Data Services etc.
+Database level experience extracting data from enterprise class ERP systems including SAPAPO, Oracle, and JDE.
+Experience with connection functionality to SAP (through BAPI  RFC), databases, files, web, SOAP.
+Experience working with relational databases and java script
+Understanding of the software deployment life cycle; including business requirements definition, review of functional specifications, development of test plans, testing, user training, and deployment.
+Excellent communication, presentation, facilitation, time management, and customer relationship skills.
+A collegeuniversity degree in a related field.
+Ability to work virtual and plan for up to 70 travel
+
+Thing that would help
+
+Technical skills such as SQL, R, Java Script, Python, etc.
+Excellent problem solving and critical thinking skills.
+Experience with manufacturing planning solutions such as Kinaxis, SAP, JDA, etc.  strong preference for Kinaxis experience.
+
+ What we have to offer
+
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never done. Thats because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems theyre passionate about.
+Great People - We take our work seriously, but we dont take ourselves too seriously! Its in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+
+For more information, visit the Kinaxis web site at www.kinaxis.com or the companys blog at http:blog.kinaxis.com.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprogramskinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.

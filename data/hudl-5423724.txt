@@ -1,0 +1,27 @@
+Building a team starts with valuing the team. We hire the best of the best to ensure youre working with people you can constantly learn from. Youre trusted to get your work done your way while testing the limits of whats possible and whats next. We work hard to provide a culture where everyone feels supported, and our employees feel it—their votes helped us become one of Newsweeks Top 100 Global Most Loved Workplaces in 2023.
+We also value sports. Not just because of the big wins and highlight-worthy plays, but because of the lasting impact sports can have: the lifelong lessons in teamwork and dedication; the influence of inspiring mentors; the priceless opportunities to play at the next level. Sports can change lives—thats what we value.
+Our team helps the world see sports differently through products that make it easier to capture video, analyze data, share highlights and do a lot more.  
+Ready to join us?
+Your Role
+Were looking for an Engineering Manager to lead our talented team of engineers focused on developing Hudls human performance product family (centered on WIMU). These products consist of wearable trackers, smart docking stations and local positioning system antennas, which work together seamlessly to capture holistic athlete performance and positioning data. Youll be responsible for coaching a high performance team who develops the hardware, firmware and algorithms for human performance, providing both technical and non-technical mentorship while ensuring best practices are followed and team processes, tools, and methodologies are continuously improved. Collaborating with other teams and stakeholders to integrate WIMU with existing Hudl products and services is also a huge part of your role. This will include some global travel to other Hudl offices, suppliers, development and manufacturing partners.For this role, were currently considering candidates who live within a commuting distance of our offices in Den Bosch. But with our flexible work policy, there arent any current requirements for the number of days you come to the office.
+Must-Haves
+
+Experienced in managing engineering teams. You have a proven track record of leading successful cross-functional teams in complex projects.
+A high level of technical proficiency. You have a strong technical background in embedded systems, high level system design and complex algorithms. Familiarity with peripherals such as Wi-Fi, Bluetooth, GPS, batteries and other key components is also a plus!
+A user-centric mindset. Youre excited to help real people solve real problems.
+
+Nice-to-Haves
+
+A computer science, electrical engineering or other STEM degree. You have a solid academic foundation that you can use to inform your work.
+
+Our Role 
+
+Champion work-life harmony. Well give you the flexibility you need in your work life (e.g., flexible vacation time above any required statutory leave, company-wide holidays and timeout (meeting-free) days, remote work options and more) so you can enjoy your personal life too.
+Guarantee autonomy. We have an open, honest culture and we trust our people from day one. Your team will support you, but youll own your work and have the agency to try new ideas.
+Encourage career growth. Were lifelong learners who encourage professional development. Well give you tons of resources and opportunities to keep growing.
+Provide an environment to help you succeed. Weve invested in our offices, designing incredible spaces with our employees in mind. But whether youre at the office or working remotely, well provide you the tech you need to do your best work.
+Support your wellbeing. Depending on location, we offer medical and retirement benefits for employees—but no matter where youre located, we have resources like our Employee Assistance Program and employee resource groups to support your mental health.
+Inclusion at Hudl
+Hudl is an equal opportunity employer. Through our actions, behaviors and attitude, well create an environment where everyone, no matter their differences, feels like they belong. We offer resources to ensure our employees feel safe bringing their authentic selves to work, including employee resource groups and communities. But we recognize theres ongoing work to be done, which is why we track our efforts and commitments in annual inclusion reports. We also know imposter syndrome is real and the confidence gap can get in the way of meeting spectacular candidates. Please dont hesitate to apply—wed love to hear from you.
+Privacy Policy
+Hudl Applicant and Candidate Privacy Policy

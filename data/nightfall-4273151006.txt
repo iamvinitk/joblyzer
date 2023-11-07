@@ -1,0 +1,25 @@
+Nightfall makes safeguarding sensitive data for every application simple and seamless. Organizations, from startups to global brands, trust Nightfalls software platform and APIs to discover, classify, and protect sensitive data.Nightfalls security research team is responsible for hunting new threats and uncovering vulnerabilities. As Security Researcher, you will be primarily responsible for proactively hunting threats, detecting data exposure and leakage, blue teaming, performing exploit and vulnerability research, all in order to find and close holes exploited by threat actors to exfiltrate data. In addition to research and analysis, team members are involved in the development of new prototype modules for advanced data leakage detection and protection on the Nightfall platform. Security researchers will regularly publish in-depth analyses of new and emerging threats on Nightfall channels and media. This role is an external-facing role in which you will author blog posts and whitepapers, as well as represent Nightfall at technical conferences and events to discuss our research.
+Responsibilities
+
+Proactively hunt threats, discover data exposure and leakage, blue team, and perform exploit and vulnerability research, all to find and close holes exploited by bad actors
+Perform event correlation analysis using data gathered from a variety of sources to detect and confirm attacks
+Provide timely detection and alerting of possible exposure, attacks, and intrusions
+Write blog posts and whitepapers related to advanced threat and leakage analysis
+Write custom detectors to discover new instances of data types
+Work on internal automation projects and build tools to aid in threat hunting activities
+Continuously review security bulletins and related news; stay apprised of current threats and trends
+Represent Nightfall at events and conferences
+
+Requirements
+
+Strong scripting, automation, and data analysis skills (Python and SQL preferable)
+Hands-on threat hunting experience and experience working with massive data sets, SIEMs, and data warehouses
+Strong understanding of tools, tactics and procedures (TTPs) of threats actors
+Experience in Incident Analysis and Response using industry standard frameworks
+Must be able to validate findings, perform root cause analysis, and deliver recommendations for fixes
+Excellent reporting, analytical, and writing skills to author blog posts and whitepapers
+Strong speaking and presentation skills to present research at live events and conferences
+Strong understanding of web protocols and web application security
+Experience working with various data detection and identification techniques
+About Nightfall:
+Nightfall is a cybersecurity startup dedicated to helping organizations secure and manage their sensitive data. As a leading enterprise technology company, our product affects the personal data that people entrust businesses to store  process with care every day. Critical data in modern organizations is often sprayed across a broad set of cloud data silos, and its a herculean task for security  compliance teams to monitor, manage, and protect this highly sensitive data. Via machine learning, our product makes it easy for organizations to discover, classify, and protect this sensitive data across their cloud footprint - such as their corporate SaaS, data infrastructure, and even their own apps. In doing so, we prevent data leakage, provide unprecedented data visibility  protection across the cloud, and enable compliance. Were a technology startup founded in San Francisco, well-funded by leading institutional investors like Bain and Venrock, and a cadre of security  IT leaders from Okta, Salesforce, Atlassian, Splunk, FireEye, and more. Learn more on our website www.nightfall.ai or by reaching out via email at careersnightfall.ai.

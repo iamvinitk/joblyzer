@@ -1,0 +1,52 @@
+About the Team
+Join us at DoorDash, where our people are our most valuable asset. As a member of our People Technology and Analytics team, youll play an instrumental role in building the tools, technology, and analytics that support decisions on identifying, attracting, developing, and retaining top talent. Were looking for a talented Solution Architect to join our team and work closely with executive leaders to drive key business decisions. Your contributions will help shape the future of our organization as we continue to push the boundaries of whats possible.
+About the Role
+As a People Technology Solutions Architect, you will be responsible for designing and implementing solutions that meet the HR needs of DoorDash. You will work cross functionally across the people team and the business to understand requirements, develop technical solutions, and provide guidance throughout the implementation process. Overall, the Solution Architect at DoorDash should be a strategic thinker who can lead projects, optimize technology solutions, and help build and deliver upon the overall People Tech and Analytics roadmap.
+Youre excited about this opportunity because you will
+
+Work highly cross-functionally with all levels of leadership to ascertain the right technology solutions to support and grow the People Technology and Analytics function supporting the global business.
+Dive deep to uncover underlying issues or business problems and turn those issues into solutions 
+Rigorously document system and reporting requirements and configuration to build operational excellence with cross-functional stakeholders
+Create, maintain, and execute testing plans and rollout strategies with company-wide impact
+Ensure data integrity by understanding and identifying opportunities to improve, working closely with cross-functional teams
+Provide technical guidance to vendors and internal stakeholders throughout the implementation process.
+Develop and maintain technical documentation and architectural diagrams of current and future systems
+Stay up to date with the latest people technologies and industry trends.
+Lead identifying and implementing new opportunities for automation, self service, and process improvement  and work together to implement them.
+Drive the design process, including conducting technical presentations and demonstrations.
+
+Were excited about you because
+
+You have 4 years of experience as a programproduct manager or solutions architect on a technical team, ideally in the People space
+You have a BABS degree in quantitative, business, or related technical fields, or equivalent work experience
+Youre familiar with People data, including privacy and other regulatory considerations
+You have deep expertise working with data warehouses (e.g., Snowflake, Redshift) and complex data pipelines connecting a myriad of systems. Working familiarity with AWS, Databricks, and similar is a plus!
+You have experience leveraging people technology systems (Workday, Greenhouse, etc.) to solve problems.
+You see around corners and know how to avoid risk and missteps
+You know how to optimize and improve processes while designing for scale
+You are a self-motivated, rapid learner, excited about developing your analytical and problem-solving skills
+You are results-oriented, always evaluating whether our teams activities are achieving the desired, measurable impact
+You are comfortable and thrive in a fast-paced, continually changing team-oriented environment, and able to manage multiple deadlines concurrently
+You have strong writtenverbal communication and presentation skills
+
+Why Youll Love Working at DoorDash
+
+We are leaders - Leadership is not limited to our management team. Its something everyone at DoorDash embraces and embodies.
+We are doers - We believe the only way to predict the future is to build it. Creating solutions that will lead our company and our industry is what we do -- on every project, every day. 
+We are learners - Were not afraid to dig in and uncover the truth, even if its scary or inconvenient. Everyone here is continually learning on the job, no matter if weve been in a role for one year or one minute.
+We are customer-obsessed - Our mission is to grow and empower local economies. We are committed to our customers, merchants, and dashers and believe in connecting people with possibility.
+We are all DoorDash - The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. 
+We offer great compensation packages and comprehensive health benefits.
+
+About DoorDash
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Were committed to supporting employees happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+Our Commitment to Diversity and Inclusion
+Were committed to growing and empowering a more inclusive community within our company, industry, and cities. Thats why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, maritaldomestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on protected categories, we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce  people who identify as women, non-binary or gender non-conforming, LGBTQIA, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+If you need any accommodations, please inform your recruiting contact upon initial connection.
+Compensation
+The location-specific base salary range for this position is listed below.  Compensation in other geographies may vary.
+Actual compensation within the pay range will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location.  For roles that are available to be filled remotely, base salary is localized according to employee work location.  Please discuss your intended work location with your recruiter for more information.
+DoorDash cares about you and your overall well-being, and thats why we offer a comprehensive benefits package, for full-time employees, that includes healthcare benefits, a 401(k) plan including an employer match, short-term and long-term disability coverage, basic life insurance, wellbeing benefits, paid time off, paid parental leave, and several paid holidays, among others.
+In addition to base salary, the compensation package for this role also includes opportunities for equity grants.California Pay Range:149,500—238,000 USDColorado Pay Range:149,500—214,500 USDNew Jersey Pay Range:149,500—238,000 USDNew York Pay Range:149,500—238,000 USDWashington Pay Range:149,500—238,000 USD

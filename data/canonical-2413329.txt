@@ -1,0 +1,34 @@
+Canonical delivers open source software to millions of Linux, Windows and Mac machines through Ubuntu and the wider Canonical ecosystem. We are expanding our scope, to help developers ship their software efficiently to clouds and IoT devices.
+This is an opportunity for a talented software engineer with a passion for developer experience and build tooling to have a positive impact on the day-to-day workflow of thousands of snap and charm publishers. To be successful on this team youll need to be interested in packaging formats, build systems and automation that can simplify the lives of developers and engineers trying to ship software to the widest possible audience.
+We design and maintain specialist Python tools to support the developer build and publication process. The team takes responsibility for tooling that builds snaps,  charms and more recently, ROCKs (OCI images). 
+Snapcraft allows developers to deliver app updates to millions of Linux systems automatically, eliminating the long tail of supported releases and complex install instructions. Snapcraft enables thousands of applications from over a thousand developers, including well-recognised names like Spotify, Slack, and Microsoft.
+Likewise, Charmcraft enables collaboration between charmed operator developers, and publication on Charmhub, home of the Charmed Operator Collection. Charmed Operators enable developers to package software like databases, event queues, caches, observability tools, identity tools and more, right alongside the operations code that enables teams to integrate and operate that software at scale from Day 0 to Day 1,000, and beyond. 
+What we are looking for in you
+
+You have expertise in Python.
+You have a strong understanding of the makeup of a modern GNULinux distribution.
+You have a good understanding of build systems and toolchains, including for cross-compilation.
+Experience working with container technology, such as Docker, Kubernetes and LXD.
+Use your familiarity with languages, toolchains, frameworks, integrations, and CI systems to extend the snap build ecosystem
+Work with external open source and commercial projects to understand how we can better serve community needs.
+
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.  
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
+
+Fully remote working environment - weve been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at sprints
+Priority Pass for travel and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote 

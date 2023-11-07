@@ -1,0 +1,37 @@
+Are you looking for the challenge of creating great gameplay and player experiences? Can you imagine bringing to life characters that react, respond, and adapt to players actions? Do you relish the idea that combat encounters can play out differently each time the player takes on the same mission? Do you believe AI-driven characters should rely on their senses, just like the player does? If so, you just might be the ideal candidate to become Bungies next AI Designer.
+As an AI Designer, you will be responsible for taking the initial ideas for a combatant and converting them into fully-realized behaviors in the game. AI Designers are tasked with writing all of the scripts that will handle the behavior structure for the combatants. You will balance combatant strength against player weapons and difficulty levels, and then working closely with the World Designers to craft specific experiences for many of the moments in the game.
+RESPONSIBILITIES
+
+Work with a team of AI Designers to convert initial concepts into final designs.
+Collaborate with Animators, 3D Artists, Engineers, Audio Designers, World Designers, Producers and Test to realize those designs.
+Write the behavior scripts for an assortment of combatants.
+Fine tune the data for combatants to get the challenge level right for a wide variety of situations.
+Evaluate combatants at a frame by frame level of detail to give Animators and Performance Designers feedback and direction for the experience of fighting each combatant
+
+REQUIRED SKILLS
+
+Intuitive understanding of what makes a combatant a memorable experience and what players are looking for when they fight them.
+Effective communication skills and a deep desire to work closely with other disciplines.
+Able to break down what is not working on a character and the ability to convert that knowledge into realistic methods to solve issues.
+Experience scripting or code
+Understanding anticipation, follow through, character and timing.
+
+NICE-TO-HAVE SKILLS
+
+Solid understanding of the game development process
+Mission Design experience, especially how a Mission Designer converts a group of combatants into a fun and memorable encounter.
+A background in Animation
+Listed below are the two base pay ranges associated with this role at multiple levels. In other locations that Bungie has approved for remote work, this pay range may be adjusted up to - 10 and some roles may be classified as non-exempt (hourly). This range is determined by an array of factors, including training, transferable skills, work experience, business needs, and market demands. Additionally, it is subject to change and may be modified in the future. In the journey to make incredible worlds, Bungie employees dont simply do meaningful work - they receive meaningful support. Competitive salaries and discretionary bonus opportunities are just the start. We offer comprehensive healthcare coverage, generous 401(k) matching, flexible time off policies, paid parental leave, social clubs, and so much more. Check out our benefits page: Benefits - Bungie Careers to see all the perks that come with joining Bungie.Bellevue Pay Range I98,000—129,000 USDBellevue Pay Range II132,000—158,000 USD 
+
+Bungie full-time (non-contract) employees in the U.S. also receive:
+
+20 days of accrued time-off in the form of PTO and sabbatical days, depending on the level of the position
+10 paid Floating Days annually, prorated in the first year of employment based on start date
+10 paid Bungie-observed holidays annually
+One hour of Paid Sick Time (PST) for every 30 hours worked 
+
+Contract and International FTE employees receive competitive benefits through their relevant contracting agency.
+
+So you dont meet every requirement listed in this job description? Do you think your experience level is not where it needs to be? Studies show that women and people of color are less likely to apply to jobs unless they believe they meet every single qualification. Bungie is focused on building a diverse, inclusive, and equitable workplace. If youre interested in this position but your past experience doesnt line up perfectly with every qualification in the job description, we want you to apply anyway. The right role for you may be right around the corner!
+ 
+Most Bungie full-time employees will adopt a digital first approach allowing remote work in Bungie approved locations (outside of positions identified as 100 onsite in BellevueSeattle, or individuals preferring a hybridflex environment). Prospective full-time employees located outside of CA, CO, DC, FL, GA, ID, IL, MA, MD, MI, MN, NC, NJ, NY, OR, TN, TX, UT, VA, WA, or WI will need to establish residency in one of the states we are compliant in within 45 days of a start date. Contractors will follow a digital first approach adhering to the location guidelines agreed upon by our third-party employervendor and Bungie. Bungies remote policy is subject to change at the companys discretion. 

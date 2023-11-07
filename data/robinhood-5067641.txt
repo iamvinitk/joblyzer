@@ -1,0 +1,35 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role
+Were looking for a dedicated, ambitious Director to help us launch a brand-new team building innovative products leveraging AI and Machine Learning. This role will be a critical component of the future of Robinhood and youll work very closely with our existing Data Science and Engineering teams.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Deliver high-quality, impactful projects in record time with thoughtful planning.
+Apply technical leadership and expertise to both your team and across data science and engineering.
+Improve the quality of Robinhoods products and engineering by refining metrics and establishing processes for improvement.
+Work with other technical leaders to refine and improve Robinhoods processes and systems for product development.
+Lead an organization of engineers, managers as well as senior and staff data scientists and machine learning engineers. Leading this organization includes setting technical direction and vision, prioritizing projects, and facilitating execution. You will also grow the careers of your team members by providing practical feedback throughout the year.
+
+What you bring
+
+Demonstrated experience working with Large Language Models (LLM) or Generative AI (GenAI)
+3 years of experience leading world class machine learning teams.
+Have a passion for all things Artificial Intelligence and Machine Learning
+Strive to solve sophisticated engineering problems that drive business objectives.
+Strong technical proficiency to understand and contribute to the design and implementation of projects and ideas.
+Experience with architectural patterns of large, high-scale applications.
+Experience working with leads from engineering, product, operations, and compliance to craft a roadmap and measures of success.
+Proven track record to identify, hire, grow, and retain top talent from the industry and leading graduate programs
+Exceptional attention to detail, communication (written and verbal) and strong problem-solving skills
+Ideally you have experience in the Finance space
+Ideall you have experience with Python, Postgres, and Kafka
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.
+US Zone 1: 217000 - 255000US Zone 2: 190000 - 224000US Zone 3: 169000 - 199000
+ Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

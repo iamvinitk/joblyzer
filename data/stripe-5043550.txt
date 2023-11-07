@@ -1,0 +1,44 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Help the Stripe Seller Systems Legal Technology team deliver the technology needed to enable Stripe to scale.
+We are looking for a CLM Administrator for the Legal Technology team to design, build and maintain our Legal systems here at Stripe.
+As a system administrator on the team, you will work closely with other team members to administer and support various 3rd party applications, customize and configure according to business needs including software upgrade, troubleshooting etc.
+What youll do
+Responsibilities
+
+Be responsible for configuration, administrative management, maintenance of third party technology solutions such as contract lifecycle management (CLM), e-billing and workflow automation tools
+Build for scale by designing holistically, with a focus on flexibility and maintainability
+Build and maintain knowledge of critical upstreamdownstream systems and workflows
+Establish best practices for security, monitoring, migration and expansion of integration tooling
+Ensure appropriate controls and documentation are followed to create an effective control environment
+Work closely with program managers and business partners to understand and refine requirements, objectives, and processes to drive strategic solutions
+Effectively work autonomously and collaboratively to design and implement both tactical and project related deliverables
+Work closely with other engineers to help guide integrations when needed
+Complete DocusignAgiloft CLM Administrator training for CLM system management if not already attained.
+Be able to support the Legal Operations teams in the following areas: Configure and manage CLM attributes, intake forms, merge fields, work flows, folder structure, clause libraries, reports, reminders, dashboards and security permissions in Docusign  Agiloft CLM
+Map and manage data field pulls from, and pushes to, Salesforce CRM and other saas applications.
+Lead CLM configuration reviews
+Complete iterative configuration testing
+Participate and help prepare User Acceptance Testing (UAT) test scripts and revise based on user scenarios
+Log, track and resolve UAT issues
+Test production configurations and create custom buttons, page layouts and more in Salesforce CRM integrationPartner with Legal, Operations, Sales, Procurement and other stakeholders to drive the adoption of new capabilities.
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+3 years experience with CLMlegal technology solutions (i.e. Docusign CLM andor Agiloft CLM) including certification.
+Technical experience in any of the following roles:, system administrationconfiguration, operations (general or legal), tech operations, solutions management in the legal ecosystem. 
+Relentless curiosity to understand the root cause of technical issues and identify remediation steps to prevent recurrences
+Ability to independently manage and prioritize workload and projects
+Operate and understand how to work adhering to SDLC principles
+Strong team ethic and ability to work cross-functionally
+Solutions-focused and motivated to unblock the team and stakeholders
+
+Preferred qualifications
+
+Experience implementing and maintaining Legal systems such as: Agiloft, SimpleLegal, etc.
+Experience with digital document template rationalization and harmonization
+Experience with data migration, integration techniques, and tools

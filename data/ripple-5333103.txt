@@ -1,0 +1,62 @@
+At Ripple, were building a world where value moves like information does today. Its big, its bold, and were already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+If youre ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
+THE WORK:
+Ripple is working to build new product experiences around crypto liquidity. We believe connecting traditional financial entities like banks, payment providers and corporations with emerging blockchain technologies and users is the path to an open, decentralized, and more inclusive financial future. This Internet of Value gives any internet-enabled person, application, or device access to financial services that are transparent, fast, reliable, and cheap. Delivering this vision is a challenge of a massive scale spanning 155 trillion in annual cross-border fiat payments and the 1.5 trillion market of digital assets that has grown 10X in the last year. 
+To drive innovation faster and be more customer-centric, the Payment Data Science and Data team is looking for a passionate Data Engineer who can help us build the new payment data warehouse from scratch. This is a staff-level role with high visibility to the Sr. leadership, which requires a clear vision to shape the future of our payment data to be more user-friendly,  high-quality, and cost-effective. The person will be the key player to empower all the stakeholders at Ripple to make more data-driven decisions.
+WHAT YOULL DO:
+
+In this role, you will design and implement the key payment data models for various analytics, MLAI solutions, and data-centric product features, which includes building batchstream ETL pipelines for payment golden datasets, creating unified data monitoring and alerting system for operation excellence, and setting up the standard for payment data governance. 
+Successful candidates will be able to demonstrate an ability and history of thoughtfulness and curiosity in data modeling, pipelining, governance, and security. 
+Your customers will be mainly scientists, engineers, analysts, and product managers so how to empower them to be more self-serve and access high-quality data anytime easily are the key to success.
+The ideal candidate will have strong hands-on experience in designing, developing, and managing an enterprise-level data warehouselakehouse with complex interdependencies with a focus on high availability, scalability, accuracy, and latency. 
+Design data integrations and data quality framework. 
+Coaching other engineers on best practices for designing and operating reliable systems at scale.
+
+
+
+WHAT YOULL BRING: 
+
+
+
+8 years experience in designing and developing enterprise data warehouse and engineering solutions that have supported massive workloads and data scalevolume
+Experience working with cloud-based data platforms, such as Databricks (preferred), BigQuery, Redshift, etc.
+Proven experience with various data modeling techniques
+Solid understanding of data integration, quality, and governance
+Proficiency in programming languages (Python, SQL), scripting languages (Bash, shell scripting), configuration management andor provisioning tools (Terraform or CloudFormation), CICD technologies (Jenkins or GitLab), and version control tools like Git
+Hands-on experience with building real-time systems and a good understanding of fundamental data science
+Great communication skills both in written and verbal 
+Passionate about moving fast and fearlessly, solving challenging problems with no clear guidance, and working with people from different backgrounds and having different perspectives
+Bachelors degree in Computer Science, Engineering, or related field, equivalent training, or work experience
+
+ 
+
+WHO WE ARE:
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+Ripple is Flexible First: you have the option to work from home, from our offices, or a combination of the two around our centers of gravity (15 global offices).
+Weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+Twice a quarter RR days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite  virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacksbeverages, and plenty of fun events
+
+Benefits listed above are for full-time Ripple employees. For all Metaco roles, please discuss benefits with your recruiter. 
+
+Ripple is an Equal Opportunity Employer. Were committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+ 
+Please find our UKEU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.

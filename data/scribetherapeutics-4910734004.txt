@@ -1,0 +1,80 @@
+Data Scientist Sr. Data Scientist
+Scribe Therapeutics is a molecular engineering company focused on creating best-in-class in vivo therapies that permanently treat the underlying cause of disease. Founded by CRISPR inventors and leading molecular engineers Benjamin Oakes, Brett Staahl, David Savage, and Jennifer Doudna, Scribe is overcoming the limitations of current genome editing technologies by developing custom engineered enzymes and delivery modalities as part of a proprietary, evergreen CRISPR by Design platform for CRISPR-based genetic medicine.
+ 
+We are seeking a highly creative, passionate, and motivated individual to join us in our quest to develop the next generation of CRISPR-based therapeutics. The current role is for a Data ScientistSr. Data Scientist to join our team and advance our platform. The candidate should have a passion for working collaboratively with biologists and bioengineers to enable building the necessary MLAI tools for meeting the new frontier of CRISPR-based therapeutics. Additionally, the candidate would bring expertise in Data Science, Machine Learning, and Artificial Intelligence to propel our technology innovation in CRISPR gene editing, drug delivery, and genomics sciences. 
+ 
+The candidate will have numerous opportunities for professional growth in a rapidly growing biotechnology start-up, which includes growing into a leadership role of increasing responsibilities and the ability to publish highly impactful work in peer reviewed journals. 
+ 
+Key Responsibilities:
+
+
+Lead and execute data-driven projects to drive insights and innovation in biotech research and development.
+
+
+Utilize cutting-edge MLAI techniques to identify, implement, and advance state-of-the-art models, contributing to the enhancement of core platform capabilities and the acceleration of CRISPR-based drug innovation.
+
+
+Design and develop predictivegenerative models and algorithms to support CRISPR-based drug discovery and gene editing medicine initiatives.
+
+
+Engage in collaboration with scientists, biologists, and curators to engineer ML features, enabling the interpretation of ML results within the context of the field.
+
+
+Drive the development and implementation of data strategies based on best practices, ensuring the security, accessibility, and interpretability of Scribes proprietary data.
+
+
+Develop, implement, deploy, and maintain production-quality code, ensuring the inclusion of appropriate unit and integration tests.
+
+
+Stay updated with the latest advancements in biotech, genomics, and data science domains, and proactively identify opportunities for applying emerging technologies and methodologies.
+
+
+Effectively collaborate with members within a fully integrated team to facilitate execution on projects within established timelines.
+
+
+Foster a driven, fast-paced, dynamic, and fun environment in which to do rigorous science.
+
+
+Required Skills and Background:
+
+
+Demonstrated expertise with machine learning technologies and a proven track record of implementing deep learning architectures, either in industry or academia, for a minimum of 3 years.
+
+
+Proficiency in utilizing various tools and frameworks for machine learning and data science, such as PyTorch, Scikit-Learn, Tensorflow, Keras, AWS SageMaker, and others.
+
+
+Hands-on experience in MLAI-based protein modeling, including familiarity with AlphaFold2, RoseTTAFold, ESM2, and similar technologies.
+
+
+Strong background in genomics MLAI modeling, with practical knowledge of engineering genetics and epigenetics features and advanced DL algorithms and architectures, such as CNN, transformer, Graph Attention Network, Large language model, and similar technologies.    
+
+
+Preferred experience with analytics engines and data systems designed for processing large-scale data, such as SPARK, Databricks, AWS EMR, Snowflake, and data lakes.
+
+
+Excellent communication and collaboration skills, enabling effective interaction with internal software and data science teams, external IT contractors, and cross-functional teams.
+
+
+Inquisitive nature and a willingness to continuously learn about new areas of science and biotechnology, regardless of prior background in these domains. Demonstrated quantitative and scientific thinker as evidenced by a strong publication record
+
+
+Ability to work both independently and collaboratively in a fast-paced, interdisciplinary research team.
+
+
+Preferred Skills and Background:
+
+
+PhD in Computer Science, Data Science, Applied Mathematics, Statistics, Computation Biology or equivalent engineering fields. 
+
+
+Familiarity with CRISPR technologies and therapeutic approaches. 
+
+
+Familiarity with protein or RNA structure and engineering approaches
+
+
+Salary will be commensurate with experience. We will provide an intellectually stimulating, collegial and fast-paced environment. If you are ready to engineer the future of therapeutics, then we are excited to hear from you! Visit us at www.scribetx.com.  
+ 
+We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, or veteran status.
+At the time of posting, the base pay wage range for this role will depend according to level.  The offered pay range will depend on internal equity and the candidates relevant skills, experience, qualifications, training, and market data.  Additional incentives are provided as part of the complete package in addition to comprehensive medical and other benefits.  

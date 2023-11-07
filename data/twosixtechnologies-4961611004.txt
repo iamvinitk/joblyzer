@@ -1,0 +1,38 @@
+Two Six Technologies is seeking a DevOps Engineer to support our mobile systems teams software development and testing efforts. 
+Responsibilities include: 
+
+Test Infrastructure Management to support installation and maintenance of test infrastructure including test harness peripherals and test targets such as Android, iOS, and laptops
+Create Test Infrastructure Dashboard - develop a system to provide immediate feedback on status (availability, configuration, usage, etc) of infrastructure
+Automate and Streamline Team Processes - implement automation for development and test team processes
+Support testing and CICD systems with availability on-site
+
+Minimum Requirements:
+
+The ability to obtain and maintain a TSSCI security clearance and willingness to obtain Polygraph clearance. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+At least 3 years of Software Development experience - able to approach existing projects, fix bugs, add features, streamline
+
+Python - pipenv, pex, or similar Python packaging tools
+CC - cmake, Makefiles, or familiar enough to debug when issues arise
+Database Development - postgreSQL, or similar experience
+Shell Scripting
+CICD using Atlassian Bamboo
+
+Network Engineering knowledge- able to perform light network administration duties to maintain test network
+System Administrator knowledge- able to manage independent network and coordinate with primary network administrators as needed
+
+Nice to Haves:
+
+Familiarity with CNOCNE
+Familiarity with automating interactions with Android andor iOS
+Experience with Corellium
+Familiarity with automating analysis at scale (i.e., reverse engineering with IDA ProGhidraBinja)
+
+LI-ZS1
+LI-Oniste
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

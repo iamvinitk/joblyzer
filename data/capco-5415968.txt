@@ -1,0 +1,38 @@
+About the team:
+Capcos Data Team helps our clients transform every aspect of their business.  We are highly skilled at formulating data strategy, defining business and technology initiatives across the data management lifecycle, and aligning multi-year strategic roadmaps with clients business goals. As digital technologies advance and regulations tighten, todays consumers  and, therefore, todays businesses  are becoming more aware of the importance of good quality data. We work to establish holistic ways to effectively manage data through the modern data supply chain and facilitate consumption through analytics, modelling, AI, machine learning, dashboarding, and reporting.
+What Youll Get to Do:
+
+Participate in the development, application, and adherence of data management policies and procedures across data governance, data quality, and master data management.
+Responsible for applying the data governance roadmap including artifact discovery and development of data dictionaries, catalogues, classification policies, data lineage, operating models and standards.
+Work directly with various stakeholders to realize the objectives identified in the data governance and data management roadmaps.
+Think through data relationships, life cycles and processes to ensure and improve consistent data quality.
+Support the importance of data processes, data integrity, cleanliness, and the strategic application of data.
+
+What Youll Bring with You:
+
+Bachelors degree in Information Systems, Finance, Mathematics, Operations Research, Computer Science, or equivalentrelated degree required. Masters preferred.
+7 years demonstrated experience helping organizations design or implement effective Data ManagementGovernance andor Analytics programs in the cloud or on premises
+Business andor Data Analyst experience within Global Banking or Investment Banking
+Knowledge of end-to-end trade flows for multiple asset classes
+Familiarity with Data Governance, Data Management, Data Lineage, Data Quality and general data literacy
+Comfortable with direct exposure to executive stakeholders, board members, and regulators
+Executing on projects with an Agile delivery methodology
+Direct experience working hands on with Collibra (preferred) or similar
+Ability to work both as an individual contributor and collaboratively in a fast-paced environment
+
+ Other desired skills:
+
+Experience within the financial services industry in data management andor relevant regulations such as CCAR, BCBS 239 or GDPR
+Understanding of data management concepts such as Data Governance, Data Lineage, Data Models, Data Quality, Control Frameworks, Data Architecture, Data Analysis
+Advising on key data management topics and regulation e.g. CCAR, BCBS 239, IFRS 9
+Experience with data management tools such as Collibra, Ab Initio, Informatica etc.
+Programme Execution and Change management  proven ability to shape, design and manage the execution of data changes
+
+ Why Capco?
+ A career at Capco is a chance to help reshape the competitive landscape in financial services.  We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, including medical, dental and vision insurance, a 401(k) plan, tuition reimbursement, and a work culture focused on innovation and creation of lasting value for our clients and employees.
+Ready to take the Next Step 
+ If this sounds like you, we would love to hear from you.  This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.
+ New York Pay Range150,000—195,000 USD

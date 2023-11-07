@@ -1,0 +1,26 @@
+Role Summary
+Canonicals OEM Delivery Team works with tier-one OEM, IHV, and ODM customers to pre-load Ubuntu Classic, Ubuntu Core, and bring Ubuntu directly to millions of users. You will have the opportunity to enable cutting edge technology with world leading partners, and become the first contributor to the innovation.
+As a Software Engineer, you will be responsible for technical aspects of ensuring that Ubuntu functions well on systems. This fast-paced environment requires strong debugging, critical thinking and problem-solving skills, and deep knowledge of the Linux system. You will cooperate with the best developers in the open source communities to deliver the best user expereience.
+Key Responsibilities
+
+Work closely with project managers and FieldQA engineers to identify, triage, and fix critical system-level problems;
+Work with individual upstream projects to find and apply patches for bugs affecting OEMODM customers; champion locally-developed patches for inclusion in the upstream package;
+Provide software and system engineering services for OEM and ODM customers;
+International travel is occasionally required. Must be able to travel to the EU, USA, China, and Taiwan;
+
+Required Skills And Experience
+
+Participation in open-source development projects;
+Passion on Linux and Open Source projects;
+Strong English-language communication skills, especially in online environments such as mailing lists and IRC;
+Excellent and proven time-management skills;
+Ability to be productive in a globally-distributed team through self-discipline and self-motivation;
+
+Desirable Skills And Experience
+
+Demonstrated open source participation and contributions;
+Fluency in written and spoken Mandarin Chinese;
+
+Canonical is an equal opportunity employer
+Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the worlds computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+ 

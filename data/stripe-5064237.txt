@@ -1,0 +1,23 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Money Movement  Storage (MMS) User Experiences team builds the UI experiences that Stripe users go through to manage and move their money within Stripe. This includes setting up and managing balances, sending payouts to others, and many more. We are at the front and center of one of Stripes biggest multi-year initiatives to power global payouts with GPTN, and are extremely product centric and user driven as we build and ship user facing products.
+What youll do
+As part of the MMS User Experiences team, you will build and own the products, user-facing experiences, systems, and internal tools that Stripe users use on a daily basis to manage and use their Stripe balances. You will be working very closely with XFN partners to understand user needs, define product requirements, and design and build products. You will be working on top of the latest and greatest Stripe platforms as most of the products we build are zero-to-one, and collaborating with many different teams across Stripe.
+Responsibilities
+
+Create beautiful web surfaces and interactive dashboard experiences using technologies such as React, TypeScript, CSS and GraphQL
+Collaborate with XFN partners to understand user needs, and come up with innovative solutions to address user pain points
+Debug production issues across services and multiple levels of the stack with an eye towards improving maintainability over the long term
+Improve engineering standards, tooling, and processes
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply.
+Minimum requirements
+
+3 years of professional hands-on software development experience  
+You are an expert at building web applications using HTML, CSS, and at least one JavaScript framework like React.js, AngularJS or Backbone.js
+You have a deep understanding of usability issues in web applications
+You have excellent oral and written communication
+You have proven ability to thrive in a collaborative environment involving different stakeholders and subject matter experts

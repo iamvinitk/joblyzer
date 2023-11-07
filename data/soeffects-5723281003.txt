@@ -1,0 +1,70 @@
+Company Overview:
+Second Order Effects (SOE) is an engineering consultancy that transforms uncertainty into fully functional hardware and software. We work on projects at various stages of development and scope; we perform analysis, build prototypes, and take products to market. Our cross-disciplinary team solves critical problems across numerous industries, including automotive, aerospace, consumer electronics, industrial automation, biomedical, green energy, and marine. Our designs control rocket engines, manage satellite communications, generate safety-overrides for self-driving cars, and are enjoyed by consumers around the world.
+Founded in 2016, Second Order Effects has 90 employees (and counting!) in offices in El Segundo, California and Redmond, Washington. Weve worked with 90 clients on 250 projects as a partner, on a retainer, or on demand, all of which have no involvement with weapons.
+How do we do this? We prioritize others, build the right thing, welcome difficulty, and play the long game. Learn more at soeffects.com!
+Team Overview:
+The Systems Integration and Test team (IT) is focused on early stage product development, systems integration, and test programs. Every team member is exposed to a wide variety of problems and can quickly architect, develop, and prototype novel product ideas to test market feasibility. On this team, you will work closely with customers to achieve their end goals while helping develop company infrastructure to improve project outputs as we continue to grow.
+Job Overview:
+As a Senior Test Engineer, you will own the development, execution, and success of test projects and campaigns for a range of industries, including aerospace, automotive, and consumer products. You will design, assemble, and test custom hardware and electrical systems for our customers and will partner with customers to generate and develop requirements. Additionally, you will provide mentorship to other engineers on the IT team, support project work as an individual contributor, design internal infrastructure geared towards maturing the core competenciescapabilities of the IT team. 
+What You Will Do:
+
+Own the design and implementation of tools that enable our team members to run development tests
+Partner with customers in a range of industries to develop requirements and plan out test campaigns to help ensure their mission success 
+Design, assemble, and test custom hardware, electrical, and mechanical systems for our customers 
+Provide mentorship and guidance to the team on technical topics and engineering best-practices 
+Operate and understand complex test facility systems using schematics and wiring diagrams 
+Work with data acquisition systems and control systems to continually improve in-test data recording and usability of the systems 
+Interpret and review data to ensure that hardware is operating as expected and assist with root cause analyses for test anomalies or failures
+Identify and integrate new test equipment into our facilities and assist in growth plans and optimization within the business, from machine usage to operations
+Provide meaningful contributions to clients for environmental test systems and help drive decisions for projects in a variety of different industries
+
+What You Will Need:
+
+Bachelors Degree (Electrical Engineering, Mechanical Engineering, Computer Science, Physics, Math, related field)
+6 years of applied experience with a demonstrated passion for engineering and technology development
+6 years of experience using test instrumentation and control components such as: pressure transducers, thermocouples, RTDs, strain gauges, accelerometers, load cells
+Basic knowledge of physics with respect to electricity, magnetism, and electronic circuits
+Ability to synthesize critical technical details into risks and actions items
+High level of autonomy when solving problems with a willingness to seek out knowledge and assistance when needed
+Excellent communication skills for interfacing with internal engineering teams and external suppliers and customers
+Experience mentoring and leading junior engineers through the development of test campaigns and projects 
+
+What Would Be Useful: 
+
+Experience in team-based design and build projects (e.g., Formula SAE, Solar Car, CubeSat, Rover Challenge, etc.)
+Programming skills with an object-oriented programming language (e.g., Python, C, Java) and experience generating maintainable code for applications that interface with test equipment
+Experience with automating test systems and test equipment and proficiency with datalogging, and data processing software 
+Experience with reading and understanding mechanical drawings, datasheets and technical manuals, engineering reports, and electrical schematics
+Familiarity with data parsing and data visualization
+Experience with control system logic (PID, PLC) for interfacing with test equipment and hardware
+Experience with data acquisition hardware and software in hands-on testing environments
+Versed in qualification testing for aerospace or automotive products; familiarity with aerospace environmental testing such as thermal cycling, vibration, shock, thermal vacuum, and EMIEMC
+Experience with continuous testing or related high-reliability software development strategies
+Experience with hands-on assembly of basic mechanical systems for customer or internal use
+
+Additional Requirements:
+
+Applicant must be willing to work 40 hours a week on-site in El Segundo, California, USA
+Applicant must be eligible to work on ITAR projects
+Job Type: Full-time (Salary)
+
+ITAR Requirements:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Unfortunately, we are unable to provide sponsorship at this time.
+
+Benefits:
+
+Compensation range of 120,000-160,000  equity incentive plan
+100 employer-paid health insurance (Medical, Dental, Vision) for employees  50 dependent coverage
+Flexible paid time off policy  11 paid holidays  12 paid sick days
+401(k) retirement account and employer matching (Safe Harbor 4)
+Hybrid working arrangements
+Paid parental leave
+Relocation assistance available if 50 miles away from the office
+Electric Vehicle (EV) charging ports
+Casual dress code
+Daily catered lunches, snacks, and accessible kitchen
+ more!
+
+If you dont meet 100 of the preferred skills and experience, we encourage you to still apply!
+Second Order Effects is proud to be an Equal Opportunity Employer; employment with SOE is governed on the basis of excellence and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.

@@ -1,0 +1,45 @@
+BigCommerces mission is to help merchants sell more at every stage of growth, from small startups, to mid-market businesses to large enterprises. We focus on being the best ecommerce platform so our customers can focus on what matters most: growing their businesses.
+We are equally passionate about growing our employees careers and providing them an incredible experience as we rapidly expand across the globe. We are proud to have been recognized numerous times for our product and workplace culture. We empower our people and customers to build, innovate and grow, so together we can redefine the ecommerce industry.BigCommerce, named a Best Place to Work in Austin for 2023,  is looking for a Senior HRIS Workday System Administrator who is an ambitious, technically savvy, problem-solving, and organized individual to support our human resources efforts in HR Operations and company culture.    
+To be considered an applicant you must reside in Mexico
+What Youll Do:
+
+Workday System Management: Oversee the daily operations of the Workday platform, ensuring system integrity, stability, and security for all the designated modules
+Configuration and Customization: Manage system configurations, customizations, and integrations to meet the organizations unique HR and business requirements
+Module Support: Provide expert-level support for Core, Payroll, Benefits, Talent Optimization, Advanced Compensation, Absence, or Workday Help modules, addressing user inquiries and resolving system-related issues promptly
+System Enhancements: Collaborate with HR and IT teams to identify opportunities for system optimization, efficiency improvement, and user experience enhancements
+Testing and Deployment: Lead testing efforts for system upgrades, patches, and enhancements before deploying them to production, ensuring minimal disruption to operations
+Security and Compliance: Ensure compliance with data security standards, regulatory requirements, and internal policies governing sensitive HR information
+Data Integrity and Reporting: Monitor data integrity within the system, troubleshoot data discrepancies, and generate accurate and timely reports for various stakeholders
+Documentation and Training: Maintain comprehensive system documentation, including configurations, procedures, and guidelines. Conduct training sessions for end-users to enhance system understanding and adoption
+Vendor Management: Collaborate with Workday consultants and vendors to address escalated issues, track service requests, and participate in system enhancement projects
+Continuous Improvement: Stay up-to-date with the latest Workday releases, industry best practices, and trends to propose and implement continuous improvement initiatives
+
+Who You Are:
+
+Bachelors degree in Computer Science, Information Technology, or a related field
+5  years of experience as a Workday System Administrator focusing on Core, Payroll, Benefits, Talent Optimization, Advanced Compensation, Absence, or Workday Help modules
+Workday HCM and advanced certifications are highly desirable
+Proficient in Workday report writing and analytics tools
+Strong analytical and problem-solving skills with an ability to troubleshoot complex system issues
+Excellent communication skills, both written and verbal, with the ability to interact effectively with stakeholders at all levels
+Proven project management experience with the ability to manage multiple tasks and priorities simultaneously
+Strong understanding of HR processes and best practices
+Ability to work independently and collaboratively in a team-oriented environment
+
+Please submit your resume in English for review. 
+
+Fluent in English
+
+Compensation: Base Salary Range: Gross MXN 515,000.00 - 600,000.00
+Benefits: HealthVisionDentalEquity
+LI-GC1
+LI-REMOTE
+INDSP
+ 
+ 
+ Diversity, Equity  Inclusion at BigCommerce
+ 
+Our employees make the difference. At BigCommerce, we believe that celebrating the unique histories, perspectives and abilities of every employee makes a difference for our company, our customers and our community. We are an equal opportunity employer and the inclusive atmosphere we build together will make room for every person to contribute, grow and thrive.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions and to receive other benefits and privileges of employment. If you need an accommodation in order to interview at BigCommerce, please let us know during any of your interactions with our recruiting team.
+Learn more about the BigCommerce team, culture and benefits at https:careers.bigcommerce.com.

@@ -1,0 +1,57 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role 
+Were excited to invite hard-working and motivated Engineers to join Say Technologies to help us democratize the way investors think about stock ownership.
+In August of 2021, Robinhood acquired Say - a purposeful company thats built a communication platform that makes it easier for investors to exercise their ownership rights.
+This is an outstanding opportunity to join an innovative and growing team within Robinhood, have a huge impact on their growth, and serve public companies, broker-dealers, and everyday investors. Working on the Say team at Robinhood, youll help us systematically understand how public companies and their shareholders can interact and bring investors closer to their investments. Our clients use Say to build deeper relationships with their investors, and the worlds fastest-growing brokers and investment platforms to make shareholder rights more accessible for their customers.
+Say is growing its engineering team and looking for an experienced Engineering Manager to lead our team of backend engineers, and to develop and take ownership of Says backend technical roadmap that aligns with our product roadmap.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Ensure your team understands how the work they are doing ladders up to the company strategy
+Lead the teams execution including implementing appropriate processes, establishing a high standard of performance, managing risks and resource allocation
+As part of the Leadership team, you will be leading our strategic thinking in terms of technology and closely align with our product lead
+Build out our product vision  roadmap in collaboration with the product team
+Establish team culture and processes to reduce technical debt from our systems
+Grow and develop a team of inspired and hardworking engineers who have high expectations of themselves and their teammates to chip in to ensuring Says success
+Stay current on innovations, tools, and trends to find opportunities for Say to continuously improve our offering and set up
+You can jump into code where your involvement is most effective. Code contribution could make up to 20 of your role.
+
+What you bring
+
+3 years of direct people management experience
+Consistent track record of hiring talent and experience growing and coaching engineers
+Youre good in managing your time efficiently by prioritizing what matters and spending quality time with your team
+Strong product approach and excited to talk Says products (current  future state)
+You hold yourself and your team accountable on commitments and leverage findings to drive us to better outcomes
+Youre able to delegate, harness your teams strength and motivate the team to make more impactful progress
+Youre highly curious and interested in becoming a subject matter expert in Brokerage and Issuer products and technology topics
+Demonstrated continual ownership of projects
+Experience working in an Agile environment
+Required : experience with our tech stack: Python, Django, TypeScript,  Postgres
+
+Technologies used
+
+Python
+Django
+Typescript
+React
+Postgres
+AWS
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.US Zone 1: 187000 - 220000US Zone 2: 165000 - 194000US Zone 3: 146000 - 172000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

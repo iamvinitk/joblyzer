@@ -1,0 +1,34 @@
+About the Role
+Abnormal Security is looking for a Full Stack Software Engineer to join our Cloud Security team. 
+Our team runs the Account Takeover Protection, Security Posture Management  Knowledge Bases, which protect our customers cloud environments through behavioral event detection  configuration monitoring. We are looking for a junior member to join our team, wholl work alongside seasoned engineers to build the interface our customers use to interact with Abnormal. 
+What you will do 
+
+Work on production systems to stabilize and improve existing features
+Collaborate with engineers, Product Managers, and Designers to define, build, test, launch, and support new product features
+Responsible for both development and testing of software
+Collaborate with Customer Support and Sales Engineering organization on production issues and sales solutions
+Provide code reviews for other engineers to catch bugs  problems before they make it into production
+
+Must Haves 
+
+1 year(s) of of full stack web development experience
+
+Backend: Intermediate Python Skills
+Frontend: Either of the following:
+
+Vanilla: HTML  CSS  JS  JQuery
+Framework: Angular, Vue, React
+
+Preferred: React, Typescript, Django
+
+Self driven with strong asynchronous communication skills, you dont require micromanagement to be successful. 
+Open to following pre-established guidelines, coding practices and conventions
+Youre growth driven  looking to increase impact  responsibility over time
+
+Nice to Have 
+
+Experience with Django, React  Typescript.
+Experience with ML driven products
+Cybersecurity experience
+
+LI-ML1

@@ -1,0 +1,36 @@
+Req ID: GAQ324R125
+We are looking for two Commissions Analysts, as part of the Finance organization, to support the end-to-end sales compensation administration for our fast-paced, high-growth global sales organization. You will be responsible for administering the commission process end-to-end, including calculating commissions based on complex compensation plans, reviewing and validating data inputs, resolving inquiries related to commission payouts, and partnering with cross-functional teams to ensure timely payment processing. Cross functionally, the position works with the Sales, Sales Ops and Payroll teams to coordinate and ensure sales commissions, SPIFFs and other variable incentives are accurate, complete, and paid on time.
+More about the team
+
+The Commissions team is a fast-paced environment that values collaboration, adaptability, and attention to detail.
+Our team plays a crucial role in driving revenue growth by ensuring our sales teams are compensated accurately and timely.
+We work closely with Sales, Sales Operations, HR Business Partners, Payroll, Legal, SOX and Accounting teams.
+
+The impact youll have
+
+Administer timely and accurate sales variable payments using our Xactly Sales Compensation Tool and manage terminations, LOAs, commission hold  releases, SPIFFs, etc. in accordance with the sales compensation policies.
+Validate quota attainment and commission earnings prior to payroll submission for accuracy and ensure audit compliance.
+Coordinate with cross functional teams to ensure SFDC sales bookings data is reported accurately and timely each month to meet critical monthly commission payout deadlines.
+Partner with Sales Ops  Sales Strategy to process, distribute and complete Sales Compensation plans and ensure audit compliance.
+Resolve sales compensation related inquiries or issues through a ticketing system (FreshService).
+Escalate issues to management timely with facts and recommendations for resolution.
+
+Qualifications
+
+3 years of experience as a Sales Commissions Analyst or similar role in end-to-end sales compensation administration.
+Hands-on experience with Xactly, Callidus or other ICM tools.
+Advanced Excel skills and G Suite.
+Excellent verbal and written communication, customer service and problem-solving skills.
+Ability to multitask, prioritize and meet multiple competing deadlines.
+Ability to work in a fast-paced environment where adaptability is critical.
+Ability to anticipate issues or process gaps, and be proactive in addressing them.
+Bachelors degree in FinanceAccounting or equivalent practical experience.
+
+ About Databricks
+Databricks is the data and AI company. More than 9,000 organizations worldwide — including Comcast, Cond Nast, and over 50 of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the worlds toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+ 
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+ 
+Compliance
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employers discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

@@ -1,0 +1,46 @@
+Ubuntu  Canonical   IoT      , Canonical            .
+             . Canonical       Ubuntu OS    .            ,        ,               .
+      ,        .          ,       Canonical    
+           .    ,   ,         .
+      .  Linux    coder  scripter    .   low-level Linux boot, BIOS,           .               ,         .
+      .
+
+
+       
+
+
+ Linux  - Debian  Ubuntu 
+
+
+   - Yocto  RTOS
+
+
+Golang, Python, C, C  Rust     
+
+
+    
+
+
+    
+
+
+   
+
+
+ 
+
+
+ 
+
+
+    
+
+
+    
+
+
+   
+
+
+   (   ),  ,       .
+ 

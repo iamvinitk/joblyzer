@@ -1,0 +1,47 @@
+We are growing our ISV software alliance team in EMEA and the Americas to drive partnerships for licensing and embedding Ubuntu and Ubuntu Pro into software and SAAS solutions.
+Canonical supports ISV customers building on Ubuntu and Ubuntu Pro, to help them deliver fast, reliable, secure, compliant and consistent solutions. We provide the worlds largest base of open source software with a full support SLA, FIPS cryptographic compliance, HIPAA and FedRAMP compliant security commitments, and the number one developer experiences. We have a number of significant competitive advantages and unique selling points. We work closely with every major public cloud to optimise Ubuntu for their environment, integrating it with their cloud-specific services and capabilities. That makes it easier for ISVs to offer their solution across all of those clouds with confidence. We also work with every major server vendor, IoT vendor, and silicon provider, to enable, optimise and certify Ubuntu on that hardware. This makes Ubuntu an outstanding choice for ISVs selling physical appliances or traditional application software.
+ISVs who build on Ubuntu get ten years of security coverage guarantees which enable them to meet enterprise SLA commitments. We cover 35,000 packages in Ubuntu, and also offer ten-year security SLAs for open source components that are not packaged but which are critical components in the AIML supply chain, enabling Docker images and VM images to be built with those components fully certified and assured. The worlds biggest brands in AI build on these Ubuntu Pro capabilities to ensure they stay focused on their product proposition rather than maintenance or compliance.
+These business development roles require an understanding of the open source ecosystem and software supply chain. We support our customers with embedded support and licensing agreements, helping them build custom Docker and VM images for public cloud distribution, joint GTM planning and long term strategic partnerships. Successful candidates will work with Marketing, Product, Alliances and Sales colleagues to prospect ISV accounts, introduce our offerings, negotiate and help partners develop their products to best leverage our portfolio. These roles carry quarterly and yearly ISV revenue targets, contributing to our global alliances budget target.
+Location: We have open positions in the Americas and in EMEA (Europe, Middle East and Africa) time zones.
+What your day will look like
+This role is about commercial partnerships and deal-making with Linux based ISVs and SAAS companies, enabling them to build on Ubuntu and Ubuntu Pro.
+
+Drive embedded support and licensing sales with ISVs to exceed quarterly and annual bookings targets
+Lead customer relationships and interactions through all stages of the sales, customer success and support life-cycle
+Deepen your understanding and engagement with the open source ecosystem
+Identify and develop partnerships that support Canonicals strategic ambitions
+Collaborate with product management to ensure fitness of our platforms and solutions for ISVs
+Shape our content and messaging for ISV partners and customers
+
+What we are looking for in you
+
+An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Experience in lead generation and business development in the software sector
+Knowledge of software licensing and SAAS models
+Knowledge of open source and the Linux ecosystem
+Knowledge of cloud and container services offerings
+Outstanding business English writing and presentation skills
+Leadership - the ability to engage and establish strategic relationships with large organizations at all levels
+Personal interest and engagement in the software and SAAS industry
+Willingness to travel internationally twice per year for company events, each trip up to two weeks duration
+
+What we offer you
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+About Canonical
+Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+Canonical is an equal opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+LI-remote

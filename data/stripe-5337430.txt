@@ -1,0 +1,33 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The team develops high quality products and services for Stripe and its customers that address risk and compliance requirements within Stripes technology organization. The team is a power user of platforms provided by Technology, Infrastructure, and Security groups, and a catalyst for engineering teams to develop efficient controls using those platforms.  
+What youll do
+You will join one of the teams behind infrastructure platforms used by engineering, security, and business partners at Stripe. As a Full Stack Engineer, you will be responsible for the implementation of high quality risk experience applications for internal and external customers of Stripe, while ensuring these applications are reliable and prepared to scale with Stripes growth.
+You will build solutions that may be from scratch, built on top of in-house platforms, or leveraging 3rd party solutions. We expect that working along the teams technical leaders, you will be able to build software that best meets the needs of Stripes customers and execute efficiently on the teams roadmap.  We are a highly effective team, consistently delivering high-impact results while genuinely caring for each other.  
+Were looking for engineers with a background in product development, and who are interested in delivering great user experience products to internal and external customers. Wed love to hear from you whether youve been working in risk, security, or infrastructure your whole career, or would like to try your skill set in a new-to-you risk and infrastructure engineering domain. 
+Responsibilities
+
+As a Full Stack Engineer, you will develop and and maintain products and features supporting risk and compliance use cases at Stripe
+Build new applications on top of Stripes existing compliance and risk infrastructure, and collaborate with teams that build that infrastructure on designing and prioritizing new platform features
+Partner with other infrastructure and security teams to use and provide feedback on APIs that provide security and compliance functionality
+Implement applications that address specific risk and compliance use cases at Stripe
+Build a great customer experience for developers and business partners using your products
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+3 years of engineering experience OR equivalent combined work experience reflecting domain expertise as relevant to this position 
+Experience in building products and features centered around users needs
+A strong technical background gained through education or on-the-job experiences
+
+Preferred qualifications (if applicable)
+
+Experience in product development and design
+Interest in optimizing the reliability, latency, and UX of user-facing front-end applications
+Ability to work effectively with a diverse group of people, genuinely caring for each other and contributing to high level of psychological safety for all team members and partners
+Problem-solving skills, determination, and a growth mindset
+
+Its not expected that youll have deep expertise in every dimension above, but you should be interested in learning any of the areas that are less familiar.

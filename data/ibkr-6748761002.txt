@@ -1,0 +1,41 @@
+Responsibilities:
+
+Designing and developing scalable applications for mission-critical systems, eg: tools used by IB personnel andor clients: tools used to restrict trading, monitor customer activity, make post-trade modifications, generate trade reports.
+Being involved in the server-side phases of a multi-tier software development cycle (databases, middle tier, scripts).
+Debugging and maintaining existing systems.
+Optimizing and refactoring existing code for improved reliability and performance.
+Reviewing code changes made by other developers.
+
+Qualifications, Skills  Attributes
+Minimum qualifications:
+
+Bachelors or masters degree in Computer Science or related degree.
+Strong analytical and problem-solving skills.
+Self-motivated and able to handle tasks with light supervision.
+Knowledge of relational databases (including handling largecomplex data sets), SQL, PLSQL (Oracle is a plus).
+Familiarity with object-oriented design and understanding of commonly used design patterns.
+3 years of experience using core Java (at least one year using Java 1.8 or later is a plus).
+Working knowledge of LinuxUnix.
+Strong English communication skills.
+
+Preferred qualifications:
+
+5 years of experience working with complex  heterogeneous systems.
+Willingness to dig into challenging investigations regardless of programming language used within the project.
+Knowledge of at least one scripting language.
+
+Company Benefits  Perks
+
+Discretionary annual bonus (cash and stock)
+Private healthcare insurance
+Free recreational pass (AYCM XL package)
+Daily food allowance in the office
+Monthly BKK pass
+Hybrid way of working (2 days home officeweek)
+Modern office in the heart of Budapest with free amenities
+Great atmosphere with friendly and exceptional colleagues and frequent company outings.
+
+The benefits package will be reviewed regularly and may be subject to change.Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

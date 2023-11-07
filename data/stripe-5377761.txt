@@ -1,0 +1,33 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe provides a powerful platform for business owners and entrepreneurs to get their company off the ground. The life of a startup founder is unpredictable, and the Stripe Dashboard app is a trusted tool that helps them deeply understand how their business is doing and perform daily operational tasks on the go.
+Were looking for mid-level Android engineers with empathy for users and a deep understanding of the Android platform to help define the future of Stripes mobile apps.
+You can learn more about the Stripe Dashboard here:
+
+Stripe Docs, Dashboard Basics
+
+What youll do
+ 
+Responsibilities
+
+ Design, build, and maintain Stripes Android app in Kotlin
+Work with engineers on product teams across the company to develop new features for Stripe mobile users
+Collaborate with mobile developers who work on the Stripe SDKs and Stripe Terminal to set best practices for mobile development across the company
+Work with user research and product design to understand users and address their needs
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+1.5 years of experience as a software engineer with professional Android development
+Proficiency in Kotlin or Java
+Have a desire and ability to empathize with the many different types of users who depend on Stripes mobile app
+Listen well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind
+Prefer simple solutions and designs over complex ones, and have a good intuition for what is lasting and scalable
+Thrive in a collaborative environment involving different stakeholders and subject matter experts
+
+Preferred qualifications
+
+ (Bonus) Additional development experience outside of Android, such as with iOS or Full Stack Experience

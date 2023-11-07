@@ -1,0 +1,42 @@
+ 
+Job Description and Responsibilities
+Interactive Brokers has been at the forefront of the Fintech space for over 45 years, and we pride ourselves on being a technology company. We continue to challenge the status quo and push boundaries to offer our clients the best trading platform with the most sophisticated features, all for the lowest cost.
+ 
+You will be part of:
+
+The Brokerage System Development Team that is responsible for providing trading and related backend systems used in the Brokerage business.
+
+You are someone who can:
+
+Design, implement and deliver high-quality software solutions that conform to architectural standards.
+Manage and own significant development tasks end-to-end (from business requirements analysis to 3rd-level production support)
+Demonstrate excellent collaborationcommunication skills in working closely with other development teams to roll out important changes and applications.
+
+Who you are :
+
+Bachelors in Computer Science, Mathematics, Physics or similar (mastersPhD a plus).
+Experience of at least Five years in software development in C, Object Oriented Programming, Networking, STL
+In-depth understanding of OOP, design patterns, data structures, algorithms, and concurrency
+Proficiency in Linux  UNIX  shell scripting.
+Knowledge of developing and debugging in CC.
+Technically oriented, proactive, and enthusiastic, with extreme attention to detail.
+English writtenverbal communication skills.
+
+Company Benefits  Perks: 
+
+Competitive salary package.
+Performance-based annual bonus (cash and stocks).
+Hybrid working model (3 days officeweek).
+Group Medical  Life Insurance.
+Modern offices with free amenities and fully stocked cafeterias.
+Monthly food card and company-paid snacks.
+Hardshipshift allowance with company-provided pickup  drop facility
+Attractive employee referral bonus.
+Frequent company-sponsored team-building events and outings.
+
+ Depending upon the shifts.
+ 
+The benefits package is subject to change at the managements discretion.Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

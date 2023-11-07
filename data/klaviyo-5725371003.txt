@@ -1,0 +1,28 @@
+At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If youre a close but not exact match with the description, we hope youll still consider applying. Want to learn more about life at Klaviyo? Visit careers.klaviyo.com to see how we empower creators to own their own destiny.Why you should join the Security and Trust team
+Klaviyo is looking for a Senior Security Engineer to add to our growing Security Operations Team. This is a hands-on technical role that involves solving complex security problems, threat detection, log ingestion and management, security orchestration and automation, incident response and developing new tools to take the Detection  Response Program to the next level. As a Senior Security Engineer you will have the opportunity to provide detection and response thought leadership, take ownership of end-to-end detection development lifecycle, and execute on core detection and response engineering efforts. 
+How you will make a difference:
+
+Develop, test, and deploy high fidelity detections using signatures, heuristics and models
+Establish telemetry data across Klaviyo cloud environment, platforms, and technologies
+Deploy and optimize detection and response technologies (e.g., SIEM, IDSIPS, EDR)
+Detect cyber threats using tools such as a SIEM, IDSIPS, EDR, and cloud detection platforms  
+Automate and codify detection and response processes and playbooks
+Conduct ad-hoc threat hunts in support of SecOps, detection, automations or tools
+Build tools, integrations and automations for SecOps and threat detection platforms
+Collaborate across teams (site, product, engineering, IT) to understand and protect all aspects of Klaviyo cyber footprint 
+
+Wed love to hear from you if you have:
+
+4 years of hands-on security operations experience in the modern cloud environments
+Hands-on experience with SIEM and centralized logging (e.g., Splunk, ELK)
+Experience securing cloud environments such as AWS, GCP, andor Azure
+Experience with coding languages to buildautomate (e.g., Python, Go andor Ruby)
+Experience with detection-as-code and infrastructure-as-code
+Understand techniques, tools and procedures used by threat actors in a cloud-first environments
+Subject matter expert in the areas of threat detection and incident response 
+Experience with Security Orchestration, Automation, and Response (SOAR)
+Strong fundamentals of Linux and Mac operating systems
+The starting pay range for this role is listed below. Sales roles are also eligible for variable compensation and hourly non-exempt roles are eligible for overtime in accordance with applicable law. This role is eligible for benefits, including: medical, dental and vision coverage, health savings accounts, flexible spending accounts, 401(k), flexible paid time off and company-paid holidays and a culture of learning that includes a learning allowance and access to a professional coaching service for all employees.Starting Pay Range For All US Locations:144,800—217,200 USDGet to Know Klaviyo
+Were Klaviyo (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party data accessible and actionable like never before. We see limitless potential for the technology were developing to nurture personalized experiences in ecommerce and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious and collaborative teammates who stay focused on our north star: delighting our customers. If youre ready to do the best work of your career, where youll be welcomed as your whole self from day one and supported with generous benefits, we hope youll join us.
+Klaviyo is committed to a policy of equal opportunity and non-discrimination. We do not discriminate on the basis of race, ethnicity, citizenship, national origin, color, religion or religious creed, age, sex (including pregnancy), gender identity, sexual orientation, physical or mental disability, veteran or active military status, marital status, criminal record, genetics, retaliation, sexual harassment or any other characteristic protected by applicable law.
+You can find our Job Applicant Privacy Notice here.

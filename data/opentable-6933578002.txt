@@ -1,0 +1,101 @@
+With millions of diners, tens of thousands of restaurants, and 23 years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a unique insight into the world of hospitality. We champion restaurants, bars, wineries, and other venues around the world, helping them attract guests, manage capacity, improve operations and maximise revenue.
+Every employee at OpenTable has a tangible impact on what we do and how we do it. Youll also be part of a global network that includes OpenTable and KAYAKs portfolio of travel brands including Swoodoo, checkfelix, momondo, Cheapflights, Mundi and HotelsCombined.
+Hospitality is all about taking care of others, and it defines our culture. Youll work in a welcoming and inclusive environment, and get the benefits, flexibility, and support you need to succeed.
+The Communications team brings restaurant hospitality directly to diners by facilitating multi-channel communications and in-product messaging. We build communication tools for our restaurant partners to engage their guests and enhance the dining experience. Our Communications and Messaging Platform is business-critical for OpenTable.
+In this role, you will:
+
+
+Report to the Communications team manager based out of our London office and work closely with engineers in several time zones.
+
+Develop tools and services that help restaurants connect with diners and deliver exceptional hospitality.
+
+Collaborate with other development teams on innovative new product features.
+
+
+Support our live systems and contribute to our culture of resiliency.
+
+
+Use insights from analytics to help make our products more useful and valuable.
+
+
+At OpenTable, you get the chance to use the latest technologies:
+
+
+Our backend restaurant microservices are written in Java and our front-ends are modern React and Redux applications written in JavaScript and TypeScript.
+
+
+Our applications run in Docker and are deployed to Kubernetes.
+
+
+The communications microservices are mainly C .Net 6 applications.
+
+
+MongoDB and PostgreSQL are used for data persistence and GraphQL is used as our data aggregation layer.
+
+
+Many of our communications services are event-driven. Our event-driven architecture is built on Kafka.
+
+
+How do you prefer to work?
+Some of our junior engineers have only 1 year of experience, whereas our Principal engineers have close to 2 decades. We come from different backgrounds: some of us have worked in huge multinational companies; some others in startups and everything in between. We want you to enjoy learning new things and working in an agile environment. You will have lots of opportunities to influence the way we work together.
+OpenTable teams are independent and come up with their own way of working. As a large team, we work in pods. Each pod has a lead who isnt always the most senior member. Everyone has the opportunity to gain leadership experience.
+We help each other grow personally and professionally and share our knowledge with the team. No matter where you are in your career path, you will always get support.
+You will get dedicated 20 time each sprint to try new ideas, learn new techniques, or pair with someone from another team.
+In our teams, nobody knows everything, and we wont expect you to either. Youll be given time, mentorship and encouragement to learn on the job.
+We dont believe in checklists but please apply if:
+
+
+You have 2 years of professional experience developing Java web applications.
+
+
+You have some experience with front-end technologies such as TypeScript and React.
+
+
+You are keen to work with distributed systems, service-oriented and event-driven architectures at web scale.
+
+
+You understand the importance of continuous integration and are disciplined at unit, integration, and acceptance testing.
+
+
+You have knowledge of system performance and operational readiness monitoring.
+
+
+You have strong CS fundamentals and a deep understanding of data structures and OO design.
+
+
+You are empathetic and enjoy working with developers, designers and product owners.
+
+
+You are adaptable and pick up new technologies and languages quickly.
+
+
+You have an appetite for constantly refining and improving the end-user experience and the developer experience
+
+
+
+
+Some experience developing C .Net Core applications would be beneficial but a willingness to learn is more important.
+
+
+Please consider applying if this role sounds interesting to you even if you dont meet all the requirements.
+We believe in a healthy work-life balance, and that teams with people from a diverse set of backgrounds build the best end-user experiences.
+Benefits:
+
+Flexible working hours;
+Fund for career growth and development;
+Day off on your birthday;
+Flexible sick time off;
+Additionally paid parental leave;
+Generous healthcare insurance;
+Free lunch twice a week;
+Free Yoga classes twice a week;
+Headspace subscription - to relax after work;
+No meetings Fridays;
+The greatest team events and excursions;
+Drinks, coffee, snacks, games etc
+
+Diversity and Inclusion
+We aspire to have a workplace that reflects all of the diverse communities we serve. We know that when we have diverse teams we produce more creative ideas, products, and better outcomes for our team members. OpenTableKAYAK is proud to be an Equal Opportunity Employer, and we welcome and encourage candidates from all backgrounds and experiences to apply for roles on our team. Whoever you are, just be you.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request accommodation
+LI-FN1
+ 

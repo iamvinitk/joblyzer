@@ -1,0 +1,43 @@
+
+About Glean
+Were on a mission to make knowledge work faster and more humane. We believe that AI will fundamentally transform how people work. In the future, everyone will work in tandem with expert AI assistants who find knowledge, create and synthesize information, and execute work. These assistants will free people up to focus on the higher-level, creative aspects of their work.
+Were building a system of intelligence for every company in the world. On the surface, you can think of it as Google  ChatGPT for the enterprise. Under the hood, our platform is the connective tissue between AI and knowledge. It brings all of a companys knowledge together, understands it at a deep level, provides industry-leading search relevance over it, and connects it to generative AI agents and applications.
+Glean was founded by a seasoned team of former Google search and Facebook engineers who saw a need in the enterprise space for their technical depth and passion for AI. Were a diverse team of curious and creative people who want to help each other get big things done—so we can help other teams do the same. 
+Were backed by some of the Valleys leading venture capitalists—including Sequoia, Kleiner Perkins, Lightspeed, and General Catalyst—and have assembled a world-class team with senior leadership experience at Google, Slack, Facebook, Dropbox, Rubrik, Uber, Intercom, Pinterest, Palantir, and others.
+
+Role
+ 
+
+Glean is looking for a talented Customer Solutions Engineer to join our rapidly expanding, venture-backed startup.  We are building a modern knowledge assistant personalized to every employee in your organization, making all information within your company accessible, contextual, and fresh. Our team works hard and plays hard. We are professional, creative, passionate, and most importantly - customer-obsessed.
+ 
+As a trusted technical resource to the customer, you will drive technical expansion and both proactive  reactive support with our growing customer base.  By providing the highest level of service to our customers, you will ensure our customer experience is the best in the industry.
+
+ 
+What you will do and achieve
+
+Own the implementation, customization, proactive and reactive support for Glean customers
+Provide first response, technical troubleshooting, resolution and follow-through of customer issues and inquiries
+Assist customers in on-boarding additional datasources into Glean to increase the content and knowledge for their users search experience
+Educate customers on the use of Glean product features as needed
+Identify system and user health issues through analysis key metrics, devise a remediation plan and execute while coordinating and updating the customer when needed
+Handle customer-impacting alerts which require coordination with customer admin and system resources through resolution
+Work closely with teams across Glean to drive product, process and service improvements
+
+Who you are
+
+Communication: professional presentation and interaction skills with both customers and internal teams
+Project planning: plan and execute technical implementation of customer projects including configuration and customization with integrations to SaaS-based systems
+Self-motivated: proactive approach to delivering service to customers
+Detail-oriented: highly organized and methodical, ensuring all issues are managed to completion
+Data-driven: utilize metrics and objective measurements to assess success and improvement opportunities for customers
+
+Key knowledge and skills
+
+Problem solving: technical problem solving skills including ability to troubleshoot and isolate issues to their root cause
+Ability to debug issues including searching  reading application logs and analyzing stack traces and browser trace files
+Experience in at least one of the following disciplines: Customer Solutions Engineering, Support Engineering, Professional Services
+Hands-on experience in at least one of the following: Search technologies, Knowledge technologies, SaaS-based system integrations
+Experience with Cloud technologies in at least one of the following: Google Cloud Platform (GCP), Amazon Web Services (AWS) or Microsoft Azure
+
+ 
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organization. Were committed to an inclusive and diverse company. We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.

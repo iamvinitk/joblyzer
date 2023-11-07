@@ -1,0 +1,70 @@
+Join a leading fintech company thats democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+Were seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If youre invigorated by our mission, values, and drive to change the world — wed love to have you apply.About the team  role 
+As the new member of Robinhoods Marketing Technology team, youll play a key role in helping us build and support a world class Marketing Technology stack.
+Our mission is to enhance, build and transform systems for the global Marketing organization. With product and engineering, we are building a best-in-class, privacy-first martech stack from the ground up.
+Performance marketers, lifecycle marketers and the global Marketing organization will be your customers. Youll work to understand what they need to drive KPIs across Acquisition, Activation, Engagement and Retention. Youll meet those needs by building or extending martech capabilities with the help of product, engineering, data engineering and data science teams.
+As a Marketing Technology Manager, you will be the subject matter expert for:
+
+Collection, storage, and usability of marketing data
+Data movement from storage to channel destinations and capabilities
+Data infrastructure that enables all of marketings customer segmentation
+
+Examples of projects youll work on include:
+
+Implementation and maintenance of regulatory compliant and privacy-first marketing database
+Building out a complex multivariate experimentation infrastructure for the lifecycle team
+Creating faster experiment loops with self-serve analytics and dashboards
+Adding new and optimizing existing performance marketing pipelines using our customer data platform
+Deliver new segmentation capabilities using first and third party data
+
+It is preferred that this role is located in one of the office locations listed on this job description which will align with our in-office working environment. This position is only eligible for remote work in limited geographies within the US where we do not have physical office locations. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.
+What youll do
+
+Improve the user experience of Robinhood marketers by understanding their requirements and working with tech  vendor teams to deliver the right iterations at scale
+Scoping new technologies or projects that significantly modify the way we use data on marketing and how it flows through our platforms.
+Building tech specs and business cases to align cross functional stakeholders around our shared goals
+Driving the process for new vendor technologies including driving build vs buy and build and buy decisions.
+Ultimately responsible for the hygiene and health status of our core technology platforms.
+Measure the impact and usage of our marketing technology platforms
+Championing the needs of our customers in cross-functional tech areas like data privacy and preferences technology
+Anchoring our team with a tech POV in advanced topics like experimentation, incrementality, MTA, permissioning, data philosophy, architecture, data flows, project management.
+Be a strong customer champion for our marketing stakeholders
+Be a creative problem solver
+
+What you bring
+
+4-5 years of professional work experience in marketing technology, digital product development or implementation
+Knowledge and experience across the marketing technology stack. Examples include, but not limited to CRM, CDP, MMP, Analytics, and model-driven targeting
+Ability to break down complex concepts so that theyre simple, clear, and human
+Strong relationship-building capabilities and ability to work cross-functionally
+Data-driven approach to your work and decision-making
+Qualitative analytical ability and familiarity with AB testing
+Experience with analysis and data tools (SQL, Tableau, etc.)
+Thrives in a fast-paced environment with a bias towards action
+
+Additional Preferred Qualifications:
+
+Experience in marketing (product marketing, lifecycle marketing, performance marketing, etc.)
+Brokerage andor Crypto experience is a plus but not a requirement
+Experience with marketing strategy, including opportunity assessment, customer segmentation and message testing
+Track record in managing complex projects with multiple stakeholders
+Hands-on, high capacity doer, multi-tasker with strong ownership mentality
+
+What we offer
+
+Market competitive and pay equity-focused compensation structure
+100 paid health insurance for employees with 90 coverage for dependents
+Annual lifestyle wallet for personal wellness, learning and development, and more!
+Lifetime maximum benefit for family forming and fertility benefits
+Dedicated mental health support for employees and eligible dependents
+Generous time away including company holidays, paid time off, sick time, parental leave, and more!
+Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits
+
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhoods equity plan.US Zone 1: 136000 - 160000US Zone 2: 120000 - 141000US Zone 3: 106000 - 125000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, CA; New York, NY; Seattle, WA; Washington, D.C.US Zone 2: Denver, CO; Westlake (Dallas), TX; Chicago, IL US Zone 3: Lake Mary, FL
+Click here to learn more about Robinhoods Benefits.
+
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants privacy rights. To review Robinhoods Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an applicant located in the UK or EEA, please visit the Robinhood - UKEEA Applicant Privacy Policy.

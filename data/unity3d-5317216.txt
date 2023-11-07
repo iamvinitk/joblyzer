@@ -1,0 +1,64 @@
+Nous croyons que la collaboration et la qualit de notre travail sont optimales lorsque nous partageons un environnement physique commun. Chez Unity, nous avons adopt une approche hybride qui favorise la cohsion et la connexion, tout en conservant les avantages de la flexibilit. Nos employs sont demands de travailler depuis nos bureaux en moyenne 3 jours par semaine, sauf en cas daccord contraire avec lentreprise ou dispositions spcifiques dans leur contrat de travail.
+Lopportunit
+Faonnez lavenir de la crativit pilote par lIA chez Unity!
+Unity Muse est notre nouvelle plateforme dIA qui acclre la cration dapplications et dexpriences en 3D en temps rel, notamment les jeux vido et Digital Twins. Notre quipe dintgration de lditeur Muse lve les capacits de lditeur pour quil soit contrl avec un langage naturel, que ce soit localement ou dans le infonuagique. Les crateur(rice)s auront la possibilit de concevoir, de modifier et dinterroger leur contenu 3D interactif par le biais dune interface de clavardage.
+Notre modle de langage doit tendre ses capacits au-del du codage. Pour tre vraiment efficace, elle doit voluer de manire transparente sur les projets et les ressources de Unity, englober les graphismes et linteraction, et possder une comprhension fondamentale des espaces 3D. En tant que nouveau(elle) dveloppeur(se) en apprentissage machine, vous comblerez ce foss linguistique, en connectant le monde de lapprentissage machine avec les exigences complexes de ces applications multidimensionnelles.
+Ce que vous allez faire
+
+Identifier, dfinir et diriger des projets de science des donnes et dapprentissage machine de bout en bout
+Contribuer au dveloppement dAPI internes pour transformer un projet Unity et ses actifs en code compatible avec LLM
+Mettre en uvre des mthodes dintgration et dapprentissage automatique qui permettront aux autres de manipuler les projets et les ressources de Unity
+Travailler avec la pile technologique ML (notamment Python PyTorch)
+Se familiariser avec les diffrentes sources de donnes et les processus en amont, et dterminer les ensembles de donnes permettant de satisfaire les besoins de lditeur et dalimenter les simulations de lditeur
+
+Ce que nous recherchons
+
+Une exprience importante en matire dapprentissage machine, depuis la conception initiale jusqu la mise en uvre et loptimisation
+Une exprience pratique dans la mise en uvre de systmes dapprentissage automatique (en particulier pour les applications NLP)  grande chelle sous Python ou des langages similaires et une varit de bibliothques comme PyTorch
+De bonnes comptences dans les domaines du codage et des pratiques dingnierie, une connaissance des processus logiciels agiles et du dveloppement bas sur les donnes
+Une exprience en matire de mise en uvre de modles de traitement des donnes et dapprentissage de modles prdictifs
+De solides comptences en matire de communication et de relations interpersonnelles, avec une capacit  collaborer avec des quipes distribues
+
+Information supplmentaire
+Aucune aide  la rinstallation nest propose pour ce poste.
+La vie chez Unity
+Unity (NYSE: U) est la plateforme la plus utilise au monde pour la cration et lexcution interactive de contenu 3D en temps rel (RT3D). Des crateur(rice)s, notamment des dveloppeur(se)s de jeux vido, des artistes, des architectes, des concepteur(rice)s automobiles, des cinastes et bien dautres professionnel(le)s, utilisent Unity pour donner vie  leurs projets. Unity constitue la base sur lesquelles sont crs les contenus numriques les plus remarquables au monde. Plus prcisment, la plateforme de Unity offre un ensemble complet de solutions logicielles pour crer, excuter et montiser du contenu interactif 2D et 3D en temps rel pour les tlphones mobiles, les tablettes, les ordinateurs, les consoles et les appareils de ralit augmente et de ralit virtuelle.
+Au quatrime trimestre de lanne 2022, plus de 70 des 1000 meilleurs jeux mobiles qui ont t fait avec Unity sont drivs dun nombre combin des 1000 meilleurs jeux du Google Play Store et de lApp Store dApple. En 2022, les applications Made with Unity ont eu plus de 4 milliards de tlchargements par mois. Pour en savoir davantage, veuillez consulter le site www.unity.com.
+Unity est un employeur fier de garantir lgalit des chances. Nous nous engageons  favoriser un environnement inclusif et innovateur et  clbrer nos employs  travers lge, lthinicit, la couleur, lascendance, lorigine nationale, la religion, le handicap, le sexe, lidentit ou lexpression de genre, lorientation sexuelle ou tout autre statut protg conformment  la loi applicable. Nos diffrences sont des forces nous permettant de rpondre aux besoins croissants et volutifs de nos clients, partenaires et collaborateurs. Veuillez remplir ce formulaire si vous ncessitez des accommodations particulires pour rendre votre exprience dentrevue agrable et positive.
+Les chasseurs de ttes et les agences de recrutement ne peuvent pas soumettre rsumesCV par ce site Web ou directement aux superviseurs. Unity naccepte pas des chasseurs de ttes non sollicits et des rsums (CV) dagence. Unity ne payera pas dhonoraires  aucune agence tierce ou entreprise qui na pas sign dententes avec Unity.
+La protection de votre vie prive est importante pour nous. Veuillez prendre un moment pour consulter nos politiques de confidentialit pour les prospects et les candidats. Si vous avez des questions concernant la protection de votre vie prive, veuillez nous contacter  DPOunity.com.
+
+We believe work is better when people are in the same physical space together. At Unity, we offer a hybrid-first approach that fosters the alignment and connectedness we get from being together while retaining the benefits of flexibility. Employees are expected to work from an office on average 3-days a week unless otherwise agreed with the company or specified in their employment contract.
+The opportunity
+Unity Muse is our new AI platform that accelerates the creation of real-time 3D applications and experiences like video games and digital twins. Our Muse Editor Integration team is elevating the editors capabilities to be controlled with natural language, whether locally or in the cloud. Creators will have the power to build, modify and query their interactive 3D content through a chat interface.
+Our language model should extend its capabilities beyond coding. To be truly effective, it should seamlessly operate on Unity projects and assets, encompass graphics and interaction, and possess a fundamental understanding of 3D spaces. As our new Machine Learning Developer, you will bridge this language gap, connecting the world of machine learning with the complex demands of these multidimensional applications.
+What youll be doing 
+
+Identify, define, and lead data science and ML projects in an end-to-end fashion
+Contributing to the development of internal-facing APIs for transforming a Unity project and assets into LLM-compatible code
+Implement embeddings and machine learning methods that help others manipulate Unity projects and assets
+Work with the ML tech stack (notably PythonPyTorch)
+Gain understanding of various data sources, upstream processes and identify datasets to satisfy editor needs, and feed editor simulations.
+
+What were looking for 
+
+Strong background in Machine Learning, from early concepts to implementation
+Hands-on experience implementing Machine Learning systems (especially for NLP applications) at scale in Python or similar languages and a variety of libraries like PyTorch
+Good coding skills and engineering practices, familiar with agile software processes and data-driven development
+Experience in implementing data processing and training predictive models
+Strong communication and interpersonal skills, with an ability to collaborate with distributed teams
+
+You might also have
+
+Experience with Unity Engine, 3D simulators, or game development
+Experience with vector databases and semantic search
+Knowledge of cloud computing platforms, such as AWS or Azure
+
+Life at Unity
+Unity (NYSE: U) is the worlds leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Unity is the foundation upon which the worlds most powerful digital content is created. Specifically, Unitys platform provides a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices.
+In the fourth quarter of 2022, more than 70 of the top 1000 mobile games were made with Unity as derived from a blended number of the top 1000 games in the Google Play Store and Apple App Store. In 2022, Made with Unity Applications had more than 4 billion downloads per month. For more information, please visit www.unity.com.
+Unity is a proud equal opportunity employer. We are committed to fostering an inclusive, innovative environment and celebrate our employees across age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. Our differences are strengths that enable us to support the growing and evolving needs of our customers, partners, and collaborators. If there are preparations or accommodations we can make to help ensure you have a comfortable and positive interview experience, please fill out this form to let us know.
+This position requires the incumbent to have a sufficient knowledge of English to have professional verbal and written exchanges in this language since the performance of the duties related to this position requires frequent and regular communication with colleagues and partners located worldwide and whose common language is English.
+Headhunters and recruitment agencies may not submit resumesCVs through this website or directly to managers. Unity does not accept unsolicited headhunter and agency resumes. Unity will not pay fees to any third-party agency or company that does not have a signed agreement with Unity.
+Your privacy is important to us. Please take a moment to review our Prospect and Applicant Privacy Policies. Should you have any concerns about your privacy, please contact us at DPOunity.com.
+ 

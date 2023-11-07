@@ -1,0 +1,39 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+We believe startups are the future. We work with many of the newest and most innovative companies to help them grow, and we need your help. Were looking for someone who knows their way around the early-stage startup ecosystem to represent Stripe and share what were working on with a broad base of startups and accelerator partners. Our primary goal is to help early-stage founders succeed, and that comes in a variety of forms - mentorship, helping them set up their financial stack, connecting them with investors and mentors, being their internal advocate, and much more. 
+What youll do
+In this role you will oversee Stripes most strategic accelerator and early-stage venture capital partnerships. Youre an energetic and organized self-starter; you understand the product well and can cultivate trusted partnerships with the right players in the ecosystem. Youre also able to succinctly communicate Stripes mission and benefits to investors and startups. You will be on the front lines for evangelizing our product to prospective users and a key driver of our success with startups. You connect dots, constantly soliciting input from users and using that to improve product and GTM strategy. If youre excited to spend your days interfacing with startup founders and early-stage investors, and find energy in tirelessly helping early-stage founders as they look to start and scale, then wed love to talk.
+Responsibilities
+
+Oversee our Techstars partnership and partner across the business to ensure that every founders experience of Stripe is surprisingly delightful.
+Build out and oversee the execution of key programs; spin up new initiatives that add continuous value to startups.
+Serve as a point of escalation for top startups to grow Stripes brand within the startup ecosystem, and act as a product feedback loop to internal teams to ensure that we continue to build for the highest potential businesses.
+Work cross functionally with key internal stakeholders to forward strategic Stripe initiatives for startup founders.
+Collate startup ecosystem insights and prepare weekly  quarterly updates detailing business progress, market trends, and product feedback gathered from startup engagement.
+Represent Stripe in the startup ecosystem and take up speaking opportunities at key startup events that bolster Stripe as the best platform for founders to start and scale.
+Leverage your data prowess (SQL, etc) to build out tools that enable us to better serve founders and demonstrate impact.
+Interest and demonstrated ability to cultivate deep, trust-based partnerships with some of the most consequential seed investors.
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+5-7 years of experience in the startup ecosystem with startup or investing experience.
+Experienced business or technical founder with a passion for helping other founders.
+Strong understanding of the startup ecosystem, founder empathy, and ability to build strong partnerships.
+A user-first mindset, anything less than perfect is unacceptable to you.
+Demonstrated ability to work cross-functionally with internal and external stakeholders to get new programming off the ground.
+Youre a builder by nature and are excited to launch new initiatives within Stripe that extend surprisingly delightful experiences to best in class founders.
+Strong verbal and written communications skills.
+Hunger and motivation to operate (and thrive) in a highly ambiguous and fast-paced environment.
+Humility, and who takes initiative with a no task is too small and Ill get it done attitude.
+
+Preferred qualifications
+
+Well-networked individual who is active in the early-stage startup ecosystem.
+Ability to understand a technical buyer and key moments in their life-cycle where payments decisions are made.
+Adept public speaker, presenter and moderator.
+Sales experience, understands channel partnerships and the value this channel brings to a GTM org.
+Strong Data skills - conversant in SQL or Python - and willingness to build tools serve our users and measure business impact.

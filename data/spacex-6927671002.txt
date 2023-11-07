@@ -1,0 +1,47 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+Sr. GNC ENGINEER (FALCON)
+As a Sr. GNC Engineer on the Falcon team, you will be responsible for performing mission design and implementing new GNC algorithms for the set of Falcon vehicles. You will be driving the full-cycle of mission trajectories, from taking requirements from customers, design reviews, simulation and analysis of the mission, to running launch day operations in mission control. You help set the industry standard in launch cadence by supporting launch, entry and landing, and fairing recovery of every Falcon mission. This includes supporting all commercial, and government Falcon 9  Falcon Heavy missions and crewed Falcon 9 launches. We are looking for engineers who enjoy solving complex problems, can work effectively in a fast-paced environment and share our passion in advancing the space industry. This is a high impact role that contributes to the SpaceX mission to get humans to Mars.
+RESPONSIBILITIES:
+
+Perform trajectory design, optimization, and dispersion analysis for Falcon 9 and Falcon Heavy launch vehicle missions for all phases of flight including ascent, entry and landing, and fairing recovery.
+Develop flight constants and guidance parameters, verified via analysis to meet mission requirements subject to mission and vehicle constraints.
+Support launch and mission operations from preflight testing through console operation, post flight data review and anomaly resolution.
+Develop software automation tools for mission design, analysis, test and reporting.
+Perform trade studies to improve launch vehicle performance and reliability. 
+Implement new software or algorithms to support mission unique capabilities.
+Support full mission lifecycle, starting with sales and concluding with mission execution.
+Interact with customers to execute current missions and develop future business.
+Lead the develop new vehicle capabilities.
+
+BASIC QUALIFICATIONS:
+
+Bachelors degree in physics or an engineering discipline and 5 years in experience in GNC or Software Engineering; Or an advanced degree in physics or an engineering discipline with 3 years of work experience in GNC or Software Engineering.
+Experience with orbital mechanics, classical dynamics, modeling, and simulation.
+Experience with the software languages C and Python.
+
+PREFERRED SKILLS AND EXPERIENCE:
+
+Masters degree or PhD in physics or an engineering discipline.
+Developed, debugged and deployed software that has been used in real world applicationsprojects.
+Demonstrated project or professional experience in launch vehicle andor spacecraft systems.
+Capability to solve complex problems with little to no supervision on schedule as an individual or as a member of an integrated team.
+Passion for advancing the commercial space industry and human spaceflight.
+Excellent communication skills both written and verbal.
+Expert in building complex software systems using C and Python including back infrastructure and user interfaces.
+
+COMPENSATION AND BENEFITS:                              
+Pay Range:         
+Senior GNC Engineer Senior: 160,000.00 - 220,000.00per year       
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.
+ADDITIONAL REQUIREMENTS:
+
+Must be available to work extended hours and weekends as needed.
+
+
+ITAR REQUIREMENTS:
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.  1157, or (iv) Asylee under 8 U.S.C.  1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national originethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Applicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at (310) 363-6000.

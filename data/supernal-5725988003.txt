@@ -1,0 +1,40 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do: 
+Energy Management System Control Engineering team focuses on research  development of control algorithms for power distribution and redundancy management for our HV distribution system and Energy Storage System (ESS). The Sr. Control Engineer - Energy Management Systems (EMS) is responsible for developing algorithm requirements, research  development, and verification of algorithms after implementation. They collaborate with other HW  SW  Cell Engineers in Battery team and other multi-functional team members to develop algorithm requirements, traceability and to support integration testing at Powertrain, ESS system, or at Aircraft level.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Requirements development for different control algorithms used for HV battery and power management considering different battery conditions like available power, available energy and battery health or other sub-system fault conditions
+Development of redundant battery or power systems management with considerations to voting decision logics, fault data handling and synchronized loop execution among redundant systems
+HV charger control algorithms using charging profiles from cell engineers
+Research  Development of algorithms for in-range fault detection, operate through failure design considering system reaction times for faulty data and fault detection latencies
+Development of functionally safe control architectures for safety critical systems to be used in aerospace applications
+Simulation and verification of models and algorithms so developed using MIL, SIL, PIL and HIL techniques at HV battery systems or at HV power distribution level and support similar activities at system level (System in the Loop testing)
+Optimization of algorithms and control loops to work within real time computer resource constraints like CPU cycles, memory, and power consumption
+May require up to 25 of domestic and international travels
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in Control Systems Electrical Engineering (Emphasis in redundant systems control)
+A minimum of five (5) years of demonstrated control algorithm development experience in automotive or aerospace industries (an equivalent combination of education and experience may be considered)
+Demonstrated experience in developing and production releasing of control algorithms for fault tolerant systems with redundancy management for a product in service
+Significant experience in developing control algorithms for safety critical applications complaint to DO178C standards
+Considerable skills in modeling and analysis tools like Matlab, Simulink, Stateflow, Simscape or others
+Experienced in using advanced control techniques like EKF, state observers, machine learning, multi parameter optimization techniques for algorithms
+Strong mathematical fundamentals to develop solutions to complex control problems
+Good programming skills in languages like C, C for real time applications
+Basic Electrical or Mechanical engineering background to understand battery cell characteristics, electrical components operational characteristics, failure modes possible
+Understanding of DO-178C compliance for SW development is required
+Excellent skills in communication, problem solving and forward-thinking
+Excellent skills required in technical communication, and reliance on data for issue resolution and decision making
+Sense of urgency, proactive delivery of communication and follow up
+Excellent organizational skills, team-oriented thinking, and attention to detail
+
+You may also be able to contribute:
+
+Masters degree preferred
+Exceptional PhD candidates from universities (with some experience) may be considered
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is: 166,400—232,960 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

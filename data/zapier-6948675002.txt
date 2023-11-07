@@ -1,0 +1,64 @@
+Location: Americas
+ 
+ 
+Hi there!
+Were looking for an Engineering Manager to join the team at Zapier. Were on a mission to make everyone more productive at work. Zapier has helped millions of people build businesses through the power of automation.
+New Products is a cross-functional group dedicated to expanding Zapiers core business by bringing new ideas to market through rapid iteration, working directly with customers. Were investing in new ways for people to build data and UI solutions through Tables, Interfaces and Canvas, and are looking for an experienced Engineering Manager to lead the Tables team.
+Tables is a database product that lets you view, edit, and automate data workflows all in one place, leveraging over 5000 integrations supported by Zapier.
+ 
+The teams primary objective is to build customer engagement and value within the Tables product by:
+
+Improving and maintaining its scale, performance, reliability, and security
+Expanding its functionality to meet customer needs, including the evaluation and application of AI
+Integrating and enhancing the value of other products within the Zapier ecosystem, such as Interfaces and Zaps.
+
+If youre interested in advancing your career at a fast-growing, profitable, impact-driven company, then read on
+Our Commitment to Applicants
+Culture and Values at Zapier
+Zapier Guide to Remote Work
+Zapier Code of Conduct
+Diversity and Inclusivity at Zapier
+ 
+About You
+
+Youre an effective team builder. This isnt your first rodeo. You have at least two years of experience managing teams of at 4-6 engineers across seniorities and stacks. You know how to hire, train, and develop engineers from all backgrounds. You understand the benefits of building a diverse and inclusive engineering team.
+Youre a customer-centric product thinker. As an Engineering Manager, youve worked in conjunction with product partners to set the strategy for your team, supported by metrics and goals. You help your team understand how their work impacts the customer and connects to company strategy. You can advocate for engineering-driven projects (e.g. addressing tech debt) and work with your product partner to prioritize them.
+You have excellent communication skills. You can communicate with technical and non-technical folks alike to broadcast information, make decisions, and build bridges.
+Youre a strong technical leader. Although hands-on coding isnt required day-to-day, youre an asset to the team for any technical matters and can draw upon industry experience to improve decision-making. You have a proven track record of coaching and growing a team of Engineers.
+Youre adaptable. Youve been in fast-growing companies and know how to build, change, and adapt to the needs of a company as it grows.
+Bonus: You have experience in building a customer-facing database product. Youre familiar with the concerns of building an extensible database-like product at scale.
+
+ 
+Things Youll Do
+
+Work closely with your product and design partners to create a trio that sets strategy and executes against it.
+Effectively mentor and lead your team through weekly one-on-one and team meetings.
+Communicate team progress upward and around through weeklymonthly business reviews and organizational-wide updates.
+Drive continuous improvement through agile processes and workflows.
+Ensure your team produces technical solutions that align with Zapier security requirements, architectural guidelines, system design principles, and engineering best practices.
+Recruit, onboard, and train new engineers.
+
+ 
+Zapier Compensation Guiding Principles
+We believe all Zapiens should be rewarded competitively and equitably, using practices that are simple and transparent. This philosophy ensures were able to find, grow, and retain exceptional people from a broad range of backgrounds. Heres how we define our compensation principles:
+
+Competitive: Zapier pays well among the technology sector.
+Equitable: Consistent pay practices; competency-based pay.
+Simple: Pay is well understood, and pay practices are built for scale.
+Transparent: Zapiens know how pay works, including how their pay is determined.
+
+The pay ranges for this role are (min - mid - max):
+
+United States 184,100 - 230,100 - 276,100 USD
+Canada CAD 184,100 - 230,100 - 276,100 CAD
+
+A Candidates compensation package is finalized once the interview process is concluded and accounts for experience, competencies (job knowledge, skills and abilities) and internal equity. We use a competency-based approach to base pay, which means we set pay for all Zapier employees based on their competency and skills demonstrated in their role. In alignment with that philosophy, the upper half of a pay range is typically reserved for individuals who have consistently demonstrated a high level of job knowledge and skills for their current role and level while at Zapier.
+For more information on Zapiers Total Rewards please click here.
+ 
+How to Apply
+At Zapier, we believe that diverse perspectives and experiences make us better, which is why we have a non-standard application process designed to promote inclusion and equity. Were looking for the best fit for each of our roles, regardless of the type of education or companies in your background, so we encourage you to apply even if your skills and experiences dont exactly match the job description. All we ask is that you answer a few in-depth questions in our application that would typically be asked at the start of an interview process. This helps speed things up by letting us get to know you and your skillset a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.
+After you apply, you are going to hear back from us—even if we dont see an immediate fit with our team. In fact, throughout the process, we strive to never go more than seven days without letting you know the status of your application. We know well make mistakes from time to time, so if you ever have questions about where you stand or about the process, just ask your recruiter!
+Zapier is an equal-opportunity employer and were excited to work with talented and empathetic people of all identities. Zapier does not discriminate based on someones identity in any aspect of hiring or employment as required by law and in line with our commitment to Diversity, Inclusion, Belonging and Equity. Our code of conduct provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base. Zapier will consider all qualified applicants, including those with criminal histories, consistent with applicable laws.
+Zapier is committed to inclusion. As part of this commitment, Zapier welcomes applications from individuals with disabilities and will work to provide reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobszapier.com.
+Even though were an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out this resource for a list of countries where we currently cannot have Zapiens permanently working.
+LI-Remote

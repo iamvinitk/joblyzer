@@ -1,0 +1,38 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do:
+The Sr. IT Enterprise Application Engineer is responsible for the strategy, planning, integration, and management of enterprise projects, applying technical and managerial skills to satisfy business, technology and systems project objectives. You will act as liaison between business multi-functional teams and service vendor solution team to lead project strategy and project planning and execution across various functions, driving projects to achieve critically important outcomes for our partners. The Sr. IT Enterprise Application Engineer will also ensure the stability, security, and optimal performance of the applications.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Act as liaison between the companys HR, Finance, Payroll, Legal teams and solution vendor teams to lead various complex application technology projects related to enterprise systems such as Human Resource Information Management (HRIS), Travel and Expense Management (TE), and etc.
+Develop and drive enterprise project strategy and plans, aligning project tactics with overall IT project strategy
+Design and implement scalable and efficient enterprise-level applications based on business requirements
+Work closely with company partners to translate business needs into technical specifications and application designs
+Ensure that the development of all enterprise applications aligns with business objectives and adheres to industry standard methodologies
+Support the implementation and integration of critical enterprise applications with other business systems, ensuring detailed data flow and process synchronization
+Conduct feasibility studies and provide technical recommendations for enterprise application enhancements and improvements
+Participate in multi-functional meetings and workshops to ensure a comprehensive understanding of business processes and requirements
+Cultivate a collaborative and positive working relationship with all partners, promoting the value of IT solutions and services in driving business success
+Collaborate with infrastructure and security teams to ensure the stability and security of the applications
+Stay updated with emerging technologies and industry trends to continuously improve application development practices
+This position will require traveling of no more than 10 in a calendar year
+
+What you can contribute:
+
+
+Bachelors degree in Computer Science, Information Technology, or similar area of technical study, or equivalent combination of education and experience required
+Shown experience as an Enterprise Application Engineer, Enterprise Solutions Consultant, or similar role
+8 years of shown experience in IT, with recent emphasis on enterprise applications such as SAP, Oracle, Salesforce, NetSuite, JD Edwards, Siemens, and etc.
+Strong understanding of enterprise-level application architecture and software development lifecycle (SDLC) processes and methodologies
+Knowledge and application of a well-adapted project management process
+Exceptional interpersonal and leadership skills to effectively communicate and establish relationships with a broad spectrum of audiences at all organizational levels
+Consistent track record to adapt to new situations and learn quickly
+Experience working with enterprise application integration tools and frameworksExcellent problem-solving and analytical skills
+Strong written communications skills and experience writing user documentation
+Motivated, committed, and upbeat self-starter, dedicated to providing high quality and responsive IT services
+Tight-knit collaboration abilities to work successfully with multi-functional teams
+Confirmed ability to lead multiple projects and prioritize tasks in a fast-paced environment
+
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:143,520—200,720 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

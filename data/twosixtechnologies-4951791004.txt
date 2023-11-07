@@ -1,0 +1,42 @@
+Two Six Technologies is seeking a Cybersecurity Researcher to support our growing team in Dayton, Ohio. You will work with a range of clients supporting national security missions. You will become a trusted advisor while learning and performing valuable technical and industry skills. This role is technical at its core  along with in-depth reverse engineering and exploit development you will transition those findings into capabilities.
+Job Responsibilities  Duties
+
+Given the technical nature of this role, experience in computer science, computer engineering, or a similar field is required. Significant proven experience in reverse engineering (RE) or vulnerability research (VR) can show your fit even if your background is outside of one of these fields.
+You should be comfortable taking on complex technical problems for which there is often no known answer.
+You should be comfortable with ambiguity and forging your own path; our small team setting will provide you opportunity for outsized impact.
+While you will receive extensive training, mentorship, and coaching, you must be comfortable executing against goals independently since theres no playbook for breaking unique complex systems.
+
+Minimum Qualifications:
+
+Bachelors (or higher) degree in computer science, engineering, or a related field (solid knowledge in RE or VR may substitute for a specific degree)
+Minimum 3 years of experience with softwarefirmware development using low-level programming languages (C and at least one assembly language), scripting languages (e.g., Python), and the nix command line
+Strong familiarity with cybersecurity principles and a strong interest in learning more
+Minimum 3 years of experience with common disassemblersdecompilers and reverse engineering tools (IDA, Ghidra, Binary Ninja)
+Experience with software reverse engineering concepts: static analysis, dynamic analysis, fuzzing techniques
+Experience performing vulnerability research, including attack surface triage, finding vulnerabilities, and developing proofs of concept to demonstrate security impact
+Active US Security clearance of Secret level and ability to obtain and maintain TS
+Must be willing to obtain and maintain a Polygraph clearance 
+
+Nice to have, but not expected:
+
+Familiarity with Binary Ninja API or Ghidra scripting
+Familiarity building or securing embedded devices and other digital systems
+Familiarity with embedded binary reverse engineering (ARM, RTOS, etc.)
+Familiarity with basic cryptography design and implementation concepts
+Familiarity with Hardware and embedded devices
+Experience in a client-facing technical role
+An active Top Secret DoD or IC security clearance
+
+Clearance Requirements:
+
+Active Secret clearance 
+
+LI-ZS1
+LI-Onsite
+
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodationstwosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disabilityvets. 
+By submitting the following application, I hereby certify that to the best of my knowledge, the information provided is true and accurate.
+

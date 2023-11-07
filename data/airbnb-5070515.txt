@@ -1,0 +1,37 @@
+Airbnb was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to over 4 million Hosts who have welcomed more than 1 billion guest arrivals in almost every country across the globe. Every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. 
+The Community You Will Join:
+We are looking for a talented Data Engineer to join our Central Data Engineering organization to help us design and develop high quality, well governed, and efficient instrumentation and logging pipelines. In this role, you will work with cross-functional data producer  consumer teams to develop and implement instrumentation at Airbnb.
+A Typical Day: 
+
+Collaborate with stakeholders to understand business requirements and translate them into technical solutions within Airbnbs Offline Data Platform.
+Design, build, and maintain large-scale, distributed data processing systems and pipelines to ensure efficient and reliable data ingestion, storage, transformation, and analysis.
+Develop scalable, fault-tolerant, and performant software components and frameworks for data processing and analytics.
+Optimize and tune data pipelines and infrastructure to enhance overall system performance, reliability, and scalability.
+Evangelize high quality software engineering practices towards building data infrastructure and pipelines at scale
+Design our data models for optimal storage and retrieval and to meet critical product and business requirements. Understand and influence logging to support our data flow, architecting logging best practices where needed.
+Identify and address data quality and integrity issues through data validation, cleansing, and data modeling techniques.
+Implement robust monitoring, alerting, and logging mechanisms to ensure the health and high availability of our data infrastructure and its pipelines.
+Stay up to date with emerging technologies, best practices, and industry trends in data engineering and software development.
+Mentor and provide guidance to junior data engineers, fostering their technical growth and professional development.
+
+Your Expertise:
+
+Proven track record of at least 8 years as a data engineer or software engineer, with a strong focus on large scale data processing and analytics.
+Deep understanding of software engineering principles, including object-oriented and functional programming paradigms, design patterns, and code quality practices.
+Proficiency in at least one programming language commonly used within Data Engineering, such as Python, Java, or Scala.
+Experience with distributed processing technologies and frameworks, such as Hadoop, Spark, Kafka, and distributed storage systems (e.g., HDFS, S3).
+Expertise with ETL schedulers such as Apache Airflow, Luigi, Oozie, AWS Glue or similar frameworks.
+Familiarity with SQL and NoSQL databases, data modeling, and query optimization.
+Solid understanding of data warehousing concepts and hands-on experience with relational databases (e.g., PostgreSQL, MySQL) and columnar databases (e.g., Redshift, BigQuery, HBase, ClickHouse).
+Proficient in data serialization formats such as JSON, Avro, Protobuf or Parquet.
+Knowledge of cloud platforms (e.g., AWS, Azure, GCP) and experience with their data-related services (e.g., S3, EC2, EMR, Dataflow).
+Experience with version control systems (e.g., Git, SVN, Mercurial) and expertise with CICD practices.
+Strong problem-solving skills and the ability to troubleshoot complex data issues.
+Excellent communication skills, with the ability to effectively collaborate with cross-functional teams and explain technical concepts to non-technical stakeholders.
+
+Our Commitment To Inclusion  Belonging:
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+Your Location:
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb,Inc. can employ in  states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware and Rhode Island. This list is continuously  evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from. 
+ How Well Take Care of You:
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  Pay Range200,000—250,000 USD

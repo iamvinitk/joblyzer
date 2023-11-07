@@ -1,0 +1,77 @@
+The Company
+MZLA Technologies Corporation (MZLA) is a wholly-owned subsidiary of Mozilla Foundation which runs the Thunderbird project. Thunderbird is a global, free, and open source email client that has grown significantly in donations, staff, and aspirations over the last few years. It is looking to mature and expand its business practices to ensure future operational success. This new role is an opportunity for an experienced engineer who is excited to design and implement infrastructure  automation to support Thunderbirds ongoing growth.
+The Opportunity
+Thunderbird is looking for a multi-skilled self-starter to work on site reliability engineering. You will be working in close cooperation with our current web developers, other staff, and community members and reporting to the Director of Infrastructure and Services.
+This is a remote, full time position. You are expected to have excellent written communication skills and coordinate your work over email, video conferencing, Matrix, and GitHub issues.
+What Youll Do
+
+Set up and deploy the infrastructure for Thunderbird Sync.
+Design and develop the CICD systems developers use and the infrastructure for all current and future websites and services.
+Diagnose and debug production incidents and then improve systems to prevent the problem from recurring.
+Collaborate with web developers to ship and maintain new builds of our websites and services.
+Occasionally assist with Thunderbird desktop CICD and releases.
+Work with a geographically-distributed development team.
+
+What Youll Bring
+
+5 years of experience in a senior DevOps or SRE role and demonstrated experience acting as a team lead or line manager.
+Ability to self-direct work, handle less structured environments, and communicate effectively with staff and community members in many different roles.
+Professional experience programming in Python, shell scripting, etc.
+Experience setting up reliable infrastructure-as-code deployments in one of the major cloud platforms such as AWS or GCP, using tools like Terraform, Helm, Cloudformation, or Ansible.
+Experience with industry standard web development CICD tools such as Jenkins, CircleCI, TeamCity, GitHub Actions, etc.
+Excellent English written and verbal communication, with the ability to clearly and concisely interact with an international audience.
+Dedication to open source and open standards.
+Proven track record of scoping and finishing projects.
+A mission of making a concrete positive impact on the day to day communication experience for tens of millions of users.
+Reside in the US or Canada; Eastern time zone a plus.
+
+Bonus points for
+
+Experience with database administration and performance optimization.
+Experience with data science  analytics software such as Redshift, Presto, EMR, Kinesis, etc.
+Experience with web development.
+Knowledge of email protocols andor experience running email servers( SMTP, IMAP).
+Previous experience with an Open Source project, or participation in an Open Source community.
+
+Applicants must reside in and have work authorization for one of the countries specified. We are unable to consider applicants outside of these markets or provide visa sponsorship.
+Compensation  Benefits
+We benchmark our base salaries to local markets and target the 60th percentile of the peer market. The salary ranges for this role are:
+
+US: 120,000 - 144,000 USD
+Canada:  96,000 - 115,000 CAD
+
+In addition to competitive salaries, we offer a comprehensive benefits package designed to support your whole self.
+Work  Career
+
+Fully remote work  schedule flexibility
+Latest Laptop
+Annual Remote Work Stipend
+Monthly Internet Stipend
+Professional Development Opportunities
+Industry Conferences
+Annual Team Onsite
+
+Health  Family
+
+401kPension Contributions
+Health, Dental,  Vision Insurance
+DisabilityIncome Protection Insurance
+Life Insurance
+Employee Assistance Program 
+Paid Parental Leave
+Paid Sick Days 
+
+Rest  Play
+
+24 days PTO per year (prorated) 
+Your Birthday Off
+Year-end Company Shutdown
+Public Holidays
+Wellbeing Stipend for Personal  Family Activities
+
+Benefits are subject to change at any time at the discretion of MZLA Technologies Corp. 
+MZLA Technologies Corporation (MZLA) Hiring Practices
+Mozilla understands that valuing diverse creative practices and forms of knowledge are crucial to and enrich the companys core mission. We encourage applications from everyone, including members of all equity-seeking communities, such as (but certainly not limited to) women, racialized and Indigenous persons, persons with disabilities, and persons of all sexual orientations and gender identities and expressions.
+We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Group: C
+LI-REMOTE

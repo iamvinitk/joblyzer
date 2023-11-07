@@ -1,0 +1,54 @@
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40 of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+Working at Samsara means youll help define the future of physical operations and be on a team thats shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, Equipment Monitoring, and Site Visibility. As part of a recently public company, youll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards weve won include:
+Glassdoors Highest-Rated Tech Companies for Culture and Values 2023
+Great Place To Work Certified 2023
+Best Place to Work by Built In 2023
+Financial Times The Americas Fastest Growing Companies 2023
+Deloitte Fast 500 Companies
+We see a profound opportunity for data to improve the safety, efficiency, and sustainability of operations, and hope you consider joining us on this exciting journey. About the role:
+Samsara is looking for an experienced Engineering Manager to lead our new Safety Events team in the UK. Samsara operates one of the largest AI-enabled, connected fleets globally. In FY23, we detected 110M AI-based safety events and analyzed 40B miles worth of driving data. Video is at the core of Samsaras Fleet Safety product. Utilizing Samsaras GPS Fleet Tracking and AI Dash Cam hardware products, the Fleet Safety team uses real-time computer vision and sensor data to detect and alert drivers of dangerous conditions.  These real-time video events enable Samsara customers to coach risky driver behaviors and recognizereward safe driving.
+Samsaras safety event platform integrates advanced sensor data and data analytics to enable customer and driver workflows that ensure safe driving behavior. The team owns the end-to-end feature stack and builds data storage in a variety of technologies, backend services in Go, web components in React, and mobile components in React native. It collaborates closely with the Safety scoring teams to integrate new data and event detection types into coaching workflows and works with product and design partners to deeply understand customer workflows to optimize efficiency and effectiveness for Samsaras customers.
+You should apply if:
+
+You want to impact the industries that run our world: The software, firmware, and hardware you build will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+You want to build for scale: With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the worlds physical operations.
+You are a life-long learner: We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+You believe customers are more than a number: Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+You are a team player: Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, were all racing toward our connected operations vision, and we intend to win—together.
+
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+
+Participate with senior leadership and cross-functional peers to develop a long-term roadmap and strategy for Samsaras event detection features
+Collaborate with senior engineers to drive technical strategy to expand the safety event detection platform
+Collaborate with MLCV teams to improve model feedback loops and results
+Set quarterly goals and balance productengineering priorities for maximum impact
+Drive planning and execution on the roadmap, delivering features and infrastructure enhancements to delight customers and other mobile developers
+Champion, role model, and embed Samsaras cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+Hire, develop and lead an inclusive, engaged, and high performing team
+
+Minimum requirements for the role:
+
+Experience building scalable, mission-critical SaaS applications
+Experience operating, maintaining, and improving upon large scale application services
+Strong interpersonal communication skills (including listening, speaking, and writing) and ability to work well in a diverse, team-focused environment
+Strong track record of delivering products and features that customers love
+Proven record of attracting top talent and coaching the team
+8 years of relevant software engineering work experience
+3 years of hands-on technical management experience
+
+An ideal candidate also has:
+
+B.S. in Computer Science or related technical discipline
+Experience building customer-facing web applications
+At Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewingsamsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where theyre based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individuals ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.

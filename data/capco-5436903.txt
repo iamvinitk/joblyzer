@@ -1,0 +1,35 @@
+SeniorLead ForgeRock IAM Engineer
+About the team:
+At the Capco Technology Delivery Center, we are dedicated to the financial services industries. Our professionals combine innovative thinking with unrivalled industry and domain expertise to offer our clients consulting expertise, complex technology and package integration, transformation delivery, and managed services, to move their organizations forward. Through our collaborative and efficient approach, we help our clients successfully innovate, increase revenue, manage risk and regulatory change, reduce costs, and enhance controls. Our teams stay at the forefront of industry trends and technologies that are driving innovation. From strategy to launch, we are adept at delivering across the full product lifecycle. 
+About the Job:
+As a member of the Capco Technology Delivery Team, youll bring practical knowledge of agile development methodologies and engineering best practices. As a Lead IAM Engineer, youll play an integral role: using your experience and skills to contribute to the quality and implementation of our software products for our customers.
+What Youll Get to Do:
+ 
+
+Design applications or platform software aligned to business and IT requirements, transferring business problems into technical solutions
+Work with other technical disciplines to harmonize requirements, ensuring the end solution is fit for purpose
+Guide and mentor implementation teams to successful delivery, providing technical leadership and developer support
+Ensure technical solutions are fully integrated into our clients heterogeneous infrastructure via automated pipelines
+Collaborate on problem analysis, solution architecture, MVP design, quality assurance, security analysis, and non-functional requirements
+Partner with internal teams and stakeholders to provide and drive industry thought leadership
+
+ 
+What Youll Bring with You:
+ 
+
+Advanced experience andor expertise in several of the following; ForgeRock SAAS or On Prem. This includes ability to install and configure RCS with different types of data stores.
+Experience with creating Account Profiles, Authentication and Authorization policies and schemes for users to fit various use case scenarios
+Experience working as a Trusted Advisor in a collaborative environment and serving as a Senior IAM expert advising on sometimes Complex Use Cases
+OAUTH2SAMLOIDCWebAutN and Session Management (Client,Server) required
+Knowledge of Infrastructure fundamentals: Linux  UNIXWindows Operating Systems, Database Fundamentals: Schemas, Tables, Permissions, SQL , Networking, TCPIP and other common Communication Protocols: OSI Model, 3 Way Handshake, Stateful vs Stateless, Proxy Firewall is required
+Experience creating Architecture Designs, Technical guides, Runbooks, Integration and Design specifications required
+Cloud Computing: Understanding and knowledge (of 1 or more): AWS, Azure or GCP
+
+ 
+Why Capco?
+A career at Capco is a chance to help reshape the competitive landscape in financial services.  We launch new banks, transform existing ones, and help our clients navigate complex change.  As consultants, we work on the front-end business design all the way through to technology implementation.
+We are the largest Financial Services focused consultancy in the world, serving everyone from global banks to emerging FinTechs, from strategy through digital transformation, design, business consulting, data and analytics, cyber, cloud, technology architecture, and engineering.
+Capco is a young and growing firm. We maintain an entrepreneurial spirit and growth mindset, and have minimal bureaucracy. We have no internal silos that get in the way of your career opportunities or  ability to focus on our clients and make a difference to the business.  We offer the opportunity for everyone to learn rapidly, take on tough challenges, and get promoted quickly. We take pride in our creative, collaborative, diverse, and inclusive culture, where everyone can BYAW.
+We offer highly competitive benefits, including medical, dental and vision insurance, a 401(k) plan, tuition reimbursement, and a work culture focused on innovation and creation of lasting value for our clients and employees. 
+Ready to take the Next Step 
+If this sounds like you, we would love to hear from you.  This is an opportunity to make a difference and contribute to a highly successful company with a significant growth trajectory.

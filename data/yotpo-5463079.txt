@@ -1,0 +1,42 @@
+If you shop online (and who doesnt these days?), then chances are youve already interacted with Yotpo. Were a leading eCommerce retention marketing platform, on a mission to help brands of all sizes turn one-time shoppers into customers for life. Loyalty programs, SMS and email marketing, subscriptions, and reviews are our bread and butter, but we have more solutions up our sleeve, too.
+We have teams across the world, including the US, Canada, UK, Israel, Bulgaria, and Australia — and were still growing. Our primary goal is to deliver the best technology in the industry.
+You can hear all about it in our latest brand video. 
+Sounds exciting? Then read on, because were in pursuit of the best and the brightest minds to help us achieve our vision.Join us in shaping the future of eCommerce!
+We are looking for a Senior Frontend Engineer with some Backend skills to join our Fullstack RD Team. We are a group of fun, curious, out-of-the-box thinkers, who love working together to solve complex problems as much as we love hanging out together.
+What we offer:
+
+A constantly growing environment and meaningful, high-impact work
+All the tools, training, and support you need for success
+A great team of people who are passionate about technology and eCommerce
+An innovative culture that fuels personal growth
+
+Youll be:
+
+Leading the frontend architecture cross the teams
+Delivering scalable features to support Yotpos vision in a timely and quality manner
+Working closely with developers, Product, Operations, Client Services, and more
+Collaborating with team members on technological and architectural topics
+Improving your backend skills as being part of a fullstack team
+
+ 
+Your experience:
+
+7 years of experience in software development, at least 5 in Frontend technologies
+High experience with web application environment
+High experience with responsive design for both web and mobile applications
+Experience with client-side frameworks like React, Angular, HTML, CSS, JavaScript, VueJS
+Experience with client-side performance sensitive solutions
+Mentoring and leadership around best particles and good work methodologies
+Knowledge of backend technology (e.g. Java,C,Python)
+Knowledge of MySQL
+Experience with cloud environments, AWS
+Experience in distributed systems  queueing infra - advantage
+Highly motivated and with a passion for learning new things.
+
+Life at Yotpo:
+
+Weekly allotted time for working on personal projects
+Yearly Innovation Week
+Weekly sports games  Pilates, a kitchen stocked with healthy food, volunteering opportunities, enrichment events
+Dog-friendly office
+LI-Hybrid

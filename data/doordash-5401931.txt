@@ -1,0 +1,32 @@
+About the Team
+The incident management team is a new add to our workforce planning team that will be responsible for managing all S0 and S1 issuesoutages to mitigate outageissue impact from an SLAASA and experience perspective. The team will achieve this through the proper following of outageissue management playbooks that they will help create and update as needed. Incident Management Analysts will work closely with Engineering, Business Applications, Support Operations, and Workforce Management to ensure the business continues to operate at optimal levels during S0S1 outagesissues.
+About the Role
+The Incident Management Analyst will be the subject matter expert on incident management fundamentals including outage management, Interactive Voice Response system engagement, general outage messaging, communicating with operations, engineering, Customer Experience Strategy team and BizApps and drafting an incident post-mortem to share with all cross-functional stakeholders. The Incident Analyst will also be responsible for Okta administration for our BPOTier 1 support partners (password resets, lockouts, troubleshooting, etc.) and will flag any routing issues to the Business Applications Team for research and resolution, as well as be in charge of setting nesting configuration in SalesForce.
+You will report into the Workforce Manager on our Workforce Planning team in our Global Support and Integrity Operations organization.
+Youre excited about this opportunity because you will
+Follow incident management playbooks based on severity level to mitigate outage impact to SLAASA and overall experience.
+Alert Engineering, Customer Experience Strategy, Business Applications Team, and Operations for action on Severity 0 and Severity 1 level incidents.
+Serve as the primary point of contact for all severity 0 and severity 1 incidents
+Report and give updates to all cross functional stakeholders during the incident.
+Serve as main POC for outage cleanup (issuance for credits and refunds to Consumer, Dasher, and Merchant)
+Partner with the Business Applications Team to optimizeresolve IVR routing when a routing issue is raised.
+Work with departments and teams to deliver steady operations around our contact centers during an incident.
+Lead Okta administration (password resets, agent lockout, and troubleshooting) for our BPOTier 1 support partners.
+Perform initial analysis to categorize incident severity level (may also share with RTA).
+Drive communications and collaboration with all relevant stakeholders (Engineering, Business Applications, Customer Experience Strategy, and Operations).
+Perform Post-Mortems to identify opportunities for improvement and communicate impact assessment to all relevant stakeholders (M-Team, Customer Experience Leadership, Strategic Operations, Engineering, and Business Application Team).
+Were excited about you because 
+You are a strong observer  you love finding details in the mundane and approach requests with curiosity.
+You are constantly evaluating how and whether your activities are achieving the desired, measurable impact.
+You are a communicator, comfortable with speaking to internal and external partners at all levels.
+You have demonstrated knowledge of key call center performance metrics such as service level, AHT, adherence, etc.
+You have 2 years of experience in contact centers, including 3 years as a real time analyst andor in WFM planningreporting.
+You have experience with outsourced call centers (preferred).
+You have experience with business writing (i.e. post mortem), and are a multi-tasker.
+You have reporting experience including skills within Microsoft Excel and Google Sheets.
+You have experience with Salesforce, Amazon Connect, and Verint.
+Bilingual in English and Spanish preferred.
+About DoorDash
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Were committed to supporting employees happiness, healthiness, and overall well-being by providing comprehensive benefits and perks.
+Our Commitment to Diversity and Inclusion
+Were committed to growing and empowering a more inclusive community within our company, industry, and cities. Thats why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel. If you need any accommodations, please inform your recruiting contact upon initial connection.

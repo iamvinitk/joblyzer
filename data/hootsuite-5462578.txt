@@ -1,0 +1,55 @@
+Were looking for a Manager, Enterprise Business Technology to build, mentor, and coach our team of high performing system admins and developers. Youll be working as a people manager and technical expert, guiding the team to build effective, scalable solutions and integrations across the Enterprise.   Youll collaborate with senior leaders and stakeholders throughout the organization, using technology to solve problems, improve processes and make everyones workday better. Working either remotely, or out of Hootsuites Vancouver or Toronto offices, you will report to our Director, Enterprise Architecture. 
+ 
+WHAT YOULL DO:  
+
+Develop, design, customize, and maintain the companys Enterprise applications. You and your team will be responsible for developing, implementing and configuring enterprise software applications.  You will offer support and at times training and documentation for users, and troubleshooting when issues arise.
+Lead and manage a specialized team, with a focus on creating a performance culture, supporting employee development, coaching, mentoring and all other people-management practices, including hiring, performance management and DEI
+Manage a team of Administrators and Developers to deliver large and complex technical projects. Work in collaboration with Sales, SalesOps and other key stakeholders and system owners to execute plans and deliver tangible value to the organization
+Partner with the business stakeholders to identify and prioritize improvements and enhancements that are tied to business-driven outcomes and key results
+Communicate and inuence senior leaders, and provide visibility into the Business Technology teams technical project initiatives and deliverables to the organization, in particular Sales, Marketing, Product and Finance
+Build and rene operational processes for systems such as: NetSuite, Aria, Salesforce.com, Gainsight and Marketo to drive eciency and eectiveness
+Facilitate and lead the strategy to build and maintain integrations between business critical applications.
+Work with product and pricing teams to enable new product and pricing strategies within the systems, such as Salesforce CPQ and NetSuite.
+Ensure proper auditing and documenting of existing processes and technical designs. Identify areas for improvement
+Be a strong mentor and coach by delivering technical training to other team members and providing ongoing guidance to teammates. Resolve complex technical queries escalated by senior system technicians
+
+ 
+WHAT YOULL NEED: 
+
+A post secondary degree in Computer Science or Business with 5 years of experience leading technical teams in support of business systems across the Enterprise. 
+Hands-on experience with Salesforce.com and other marketing, sales and financial systems is required.  Having the following certifications is desirable, but not required:
+
+Salesforce Certified Administrator
+Salesforce Platform Developer
+
+Experience integrating Salesforce with 3rd party tools, using both native integrations and ETLs
+Experience configuring and optimizing CPQ software (ideally Salesforce CPQ)
+Experience with declarative and programmatic development in SFDC
+Experience with ERP systems is preferred. 
+Track record of building inclusive, cohesive teams which apply diversity to achieve common goals
+Proven ability to translate business goals and objectives into documented technical requirements for administrators to execute
+Strong business stakeholder management skills; executives, peers and subordinates
+Project management skills: defining and managing the processes and timelines necessary to get work accomplished
+
+ 
+WHO YOU ARE:
+
+Tenacious. You are determined to succeed, and you are motivated by the success of customers, colleagues and the community.
+Curious. You are always learning and seeking ways to make things better.
+Conscientious. You keep your promises, taking your commitments to others seriously, and you have strong integrity.
+Humble. You lead with humility and empathy, respecting and learning from the perspectives of others. 
+
+ 
+ 
+
+ 
+In all we do, our six guiding principles light the way:Step Up: Show the world what it looks like to live and work by these guiding principles. StepUp
+One Team: Make Hootsuite a place where everyone feels safe, welcome, valued, and empowered to do their best  work without compromising who they are. OneTeam FreeToBeMe
+Customer Obsessed: Focus relentlessly on helping our customers succeed. CustomerObsessed
+Go Fast, Be Agile: Widen our competitive advantage by committing to speed and simplicity over perfection and complexity. GoFastBeAgile
+Play to Win: Commit to building an incredible, profitable company for our customers, our employees, and our stakeholders. PlayToWin NoExcuses
+Neighbours  Allies: Give back to our communities and be an ally. SocialForGood Allies
+ 
+Accommodations will be provided as requested by candidates taking part in all aspects of the selection process.
+ 
+LI-LN1

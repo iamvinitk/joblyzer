@@ -1,0 +1,48 @@
+Who we are 
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the worlds largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripe builds the most powerful and flexible tools for running an internet business. We handle hundreds of billions of dollars each year and enable millions of users around the world to scale faster and more efficiently by building their businesses on Stripe. To further this important mission, Stripe has built a world class Internal Audit (IA) team. Our mission is to make the business better as it grows. We are consumed with the goal of being agile with the business, powered by technology and seamlessly accelerating the speed of controls integration and compliance adoption.
+Our IA team is responsible for providing objective assurance of Stripes products and processes, its compliance with laws and regulations, its risk management framework and other governance processes. We also assist as an advisory partner in preparing targeted analyses, productinfrastructuresecurity evaluations, systems design assessments, and policy implementation reviews.
+What youll do
+Were looking for an experienced technology audit leader to help us deliver and expand a global audit program, who will serve as a key member of the IA technology audit pillar reporting to the Head of Technology Audit team, and drive demonstrable business impact.
+Responsibilities
+
+Develop a risk-based technology audit plan across product, infrastructure, business systems and corporate technology
+Plan and execute audits, consulting engagements, and other influencing activities of supporting operations, and processes
+Serve as IAs SME on technology related considerations across IA audit projects and within the organization
+Manage co-sourced service providers while delivering our audit plan
+Seamlessly liaise with external auditors and regulators in connection with technology audit work
+Lead ad-hoc programs and initiatives to provide advisory insights
+Work seamlessly with key global partners within the second lines of defense to build efficiencies into the audit plan and avoid duplication of activities
+Present findings and recommendations to stakeholders and leadership teams
+Secure management action plans for remediation, and monitor remediation progress and timeliness
+Perform outreach and maintain collaborative working relationships with partners across product, engineering, security, corporate technology, finance systems and business systems
+Participate in IAs enterprise risk assessment activities
+Invest in understanding the business to better identify areas of need and opportunities to advise
+Research and stay current on new technical literature applicable, emerging trends and best practices
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+10-12 years of technology audit and project management experience within an Internal Audit function andor as part of an accountingconsulting firm
+Expertise in auditing technology and security controls with a working knowledge of regulatory compliance
+Strong understanding of concepts related to information systems audit, information security, general IT controls, application controls and technology risks
+Experienced in the use of analytics throughout the audit lifecycle
+Experienced in the use of auditing and assessment frameworks and the application of professional standards
+Attention to detail, including ability to issue-spot, identify patterns, flag incongruencies
+Ability to apply critical thinking and analysis, and exercise professional judgment
+Ability to discuss complex issues with any level of management and influence perspectives
+Exceptional written and verbal communication skills, including report positioning and clarity
+Knowledge of external leading risk and controls frameworks such as COBIT (Control Objectives for Information and related Technology), NIST Cybersecurity, ISO27000, ISO27001, ISO27002, and IT related internal controls
+Professional certification such as CISSP, CISA, or CIA
+A BSBA degree, preferably in Finance, information systems, computer science, engineering or other related IT field
+
+Preferred qualifications
+
+Public accounting andor start-up experience
+Forensic skill set and experience
+In-house operational exposure
+Big 4 consulting experience
+Experience in a high volume transactional payment environment

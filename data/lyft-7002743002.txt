@@ -1,0 +1,34 @@
+Scientifique des donnes, Dcisions
+Chez Lyft, notre mission est damliorer la vie des gens grce au meilleur moyen de transport au monde. Pour ce faire, nous commenons par notre propre communaut en crant une organisation ouverte, inclusive et diversifie. Lquipe Marketplace de Lyft est responsable dacclrer la croissance de lentreprise et de raliser nos principaux objectifs commerciaux en matire de donnes financires et de performance sur le march. Lquipe fournit des analyses et des cas dutilisation pour soutenir les quipes produit, construire des outils automatiss et grer les investissements dans la croissance.
+Nous sommes  la recherche dun scientifique des donnes pour rejoindre lquipe de gestion du march central afin daider  faonner les produits de Lyft et les prises de dcision. Vous travaillerez avec des parties prenantes interfonctionnelles pour analyser et amliorer la performance des produits et des donnes tout en bnficiant dune exposition considrable  la direction. Vous identifierez les lacunes concurrentielles les plus critiques de notre march et dvelopperez des cadres et des pipelines pour les traiter. Nous recherchons une personne intellectuellement curieuse, ayant une attention extraordinaire aux dtails, un solide historique de rsolution de problmes analytiques et des comptences en communication.
+Vous rendrez compte  un chef de lquipe de science des donnes.
+Responsabilits:
+
+Exploiter les donnes pour construire des cadres analytiques afin didentifier des opportunits de croissance et defficacit.
+Collaborer avec les chefs de produit, les ingnieurs et les oprateurs pour traduire les informations analytiques en dcisions et actions.
+Identifier les tendances et les modles dans les donnes concurrentielles pour clairer les dcisions commerciales.
+Construire des pipelines de donnes et dvelopper des cadres analytiques pour surveiller la performance commerciale et des produits.
+tablir des mtriques mesurant la sant concurrentielle de nos produits, ainsi que lexprience des passagers et des conducteurs.
+Collaborer avec les quipes produit et ingnierie et communiquer les rsultats aux parties prenantes de manire claire et concise.
+
+Exprience:
+
+Diplme dans un domaine quantitatif tel que les statistiques, lconomie, les mathmatiques appliques, la recherche oprationnelle ou lingnierie (les diplmes avancs sont prfrs) ou exprience de travail pertinente.
+Plus de 3 ans dexprience dans le domaine de la science des donnes ou de lanalyse.
+Matrise du SQL - capable de rdiger des requtes structures et efficaces sur de grands ensembles de donnes.
+Exprience en programmation, en particulier avec des bibliothques de science des donnes et de visualisation en Python ou en R.
+Solides comptences en communication orale et crite, et capacit  collaborer avec des partenaires interfonctionnels et  les influencer.
+
+Avantages:
+
+Options de couverture tendue de lassurance maladie et dentaire, ainsi que des prestations dassurance vie et dinvalidit.
+Avantages pour la sant mentale.
+Avantages lis  la construction de la famille.
+Accs  un compte dpargne sant.
+En plus des jours fris provinciaux, les membres de lquipe ont droit  15 jours de cong pay, avec un jour supplmentaire pour chaque anne de service.
+4 jours fris flottants par anne civile, proratiss en fonction de la date dembauche.
+10 jours de cong de maladie pays par an, quel que soit la province.
+18 semaines de cong parental pay. Les parents biologiques, adoptifs et daccueil sont tous admissibles.
+
+Lyft poursuit avec fiert lembauche dune main-duvre diversifie. Lyft estime que chaque personne a le droit  des opportunits demploi gales, sans discrimination fonde sur la race, lascendance, le lieu dorigine, la couleur, lorigine ethnique, la citoyennet, la croyance, lorientation sexuelle, lidentit de genre, lexpression de genre, lge, ltat matrimonial, la situation de famille, le handicap, le casier judiciaire pardonn ou tout autre motif protg par la loi applicable ou par la politique de lentreprise. Lyft sefforce galement de fournir un environnement de travail sain et sr et interdit strictement toute forme de harclement. Des amnagements pour les personnes handicapes seront fournis sur demande conformment  la loi applicable pendant le processus de candidature et dembauche. Veuillez contacter votre recruteur ds maintenant si vous souhaitez faire une telle demande.
+Ce rle sera en prsentiel selon un horaire hybride aprs louverture dun bureau Lyft  Toronto. Les membres de lquipe seront tenus de travailler au bureau 3 jours par semaine, les lundis, jeudis et un troisime jour spcifique  lquipe. De plus, les rles hybrides auront la flexibilit de travailler de nimporte o pendant un maximum de 4 semaines par an.

@@ -1,0 +1,46 @@
+540 is looking for a Software Engineer to help the federal government GetShitDone. Youll join a team modernizing USCIS applications with open source technologies hosted on AWS. You will work day-to-day on a full lifecycle DevOps team, estimating, designing, development and testing of optimized features for deployment. USCIS administers the nations lawful immigration system, safeguarding its integrity and promise by efficiently and fairly adjudicating requests for immigration benefits while protecting Americans, securing the homeland, and honoring our values. 
+Location: Remote friendly within the continental United StatesCitizenship  Clearance Requirement: per client requirements, must be a US Citizen with the ability to obtain a USCIS Public Trust clearanceEducation Requirement: Bachelors Degree in Computer Science or related engineering field (preferred)540 Internal Thrive Level: Software Engineer II
+WHY 540?
+540 is a forward-thinking company that the government turns to in order to GetShitDone. We do more than talk about it, we break down barriers to innovation and build impactful tech. Were looking for someone with big ideas, who thrives on innovation and is a self-starter. If you love to learn about and work with new technologies, we want to talk to you.
+REQUIRED SKILLS  EXPERIENCE
+
+4 years of software development experience
+Experience and interest in working with Ruby on Rails
+Proficiency in at least one programming language (Java strongly preferred)
+Modern JavaScript development (React preferred)
+Experience in agile development processes
+Experience building and consuming REST APIs
+Experience with Git and GitFlow development workflow
+Ability to define, create and execute unit tests
+GetShitDone mentality
+
+NICE TO HAVE SKILLS  EXPERIENCE
+
+Previous experience with Python
+Experience with Spring or Spring Boot
+Experience implementing and deploying production enterprise applications in AWS
+Experience with full stack engineering (database development integration as well as server and client application developmentintegration)
+Experience with large scale, high performance enterprise big data application deployment and solution architecture on complex heterogeneous environments 
+Experience with containers like Docker or Kubernetes
+Knowledge of authenticationauthorization best practices (OAuth 2, SAML, LDAP, ABAC, etc)
+Experience working with the government, specifically with the Department of Homeland Security (DHS)
+
+BENEFITS  PERKS
+
+100 covered health, dental and vision premium for employees, optional dependent coverage
+Flexible Spending Account (FSA)
+401k with employer match
+Company Sponsored Life Insurance, Short and Long Term Disability coverage
+Flexible PTO  all Federal holidays off
+Home Office allowance
+Monthly technology stipend
+Reimbursement for trainings  certifications
+Paid AWS Developer account
+Fully loaded Macbook Pro
+Referral Bonus - good people know good people
+Annual Social Events (540 Week, Hackathon, Holiday Party, Charity Golf Tournament, etc.)
+Access to 540s Washington Capitals tickets
+
+EQUAL EMPLOYMENT OPPORTUNITY (EEO)
+540s policy is to provide equal employment opportunity to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

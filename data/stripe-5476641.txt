@@ -1,0 +1,36 @@
+
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+Stripes infrastructure powers businesses all over the world. We process payments, run marketplaces, detect fraud, help entrepreneurs start an internet business from anywhere in the world, build world-class developer-friendly APIs, and more. Revenue Foundations provides a central entry point for Stripe products to monetize in global markets. It is ultimately responsible for the systems, programs, and operations that generate Stripes revenue and the economic models we have with our customers. This is accomplished through a sophisticated pricing onboarding tooling and workflow management, unified billing engine, and custom solutions for our largest enterprise users. 
+Our work is core to Stripes business. We sit at the intersection of product, sales, engineering, finance, and operations, acting as the connective tissue that ensures users have a frictionless billing experience with Stripe. 
+What youll do
+Every record in our data warehouse is vitally important for the businesses that use Stripe, so were looking for people with a strong background in data engineering and analytics to help us scale while maintaining correct and complete data. Youll be working with a variety of internal teams across Sales, Engineering, Finance, Product, and Accounting to ensure data completeness and billing reliability. Your work will directly improve Stripe user experience by ensuring billing accuracy allowing Stripe to scale new commercial models.
+ 
+Responsibilities
+
+Identify data needs as they relate to billing and enterprise user support, understand their specific operational and reporting requirements, and build efficient and scalable data products
+Design, develop, and own data pipelines, models, and products that power Stripes billing of the largest and most complex deals
+Identify and automate operational processes to increase operational efficiency
+Collaborate with the Data Science team to apply and generalize statistical and and machine learning models on large datasets to ensure billing accuracy
+Develop strong subject matter expertise and manage the SLAs for a variety of billing applications from contract onboarding to execution
+Build and refine Stripes data foundations working with tools like Scala, Spark, and Airflow
+Build data pipelines that track key billing metrics and measure the impact of different strategies and processes to remediate potential billing errors
+Stripes stack spans tools in Spark, Scala, Python, Spark, SQL, Presto, Airflow, AWS, Java, Go, and React
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+3 years of experience in a Data Engineering or Software Engineering role, with a focus on building data pipelines, or applications powered by big data.
+A strong engineering background and an interest in data and scaling challenges
+Prior experience with writing and debugging data pipelines using a distributed data framework (e.g. Spark  Hadoop)
+An inquisitive nature in diving into data inconsistencies to pinpoint issues, and resolve deep rooted data quality issues
+Knowledge of a scientific computing language (such as Scala or Python) and SQL
+The ability to communicate cross-functionally, derive requirements and architect solutions
+
+Preferred qualifications
+
+A background in payments and financial technology 
+

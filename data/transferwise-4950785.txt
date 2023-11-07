@@ -1,0 +1,39 @@
+Were looking for a WFM Planner to join our growing team in Tallinn. This role is a unique opportunity to have an impact on Wises mission and help millions more people save money by using Wise.
+ 
+Your mission: 
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the worlds first platform to offer true multi-currency banking. In this role, you will have a unique opportunity to work with a rich dataset and drive insights to develop our workforce management ways of working, which will have a direct impact on how we add value to our customers and shape our organisation.
+Youll drive workforce management analysis and develop scenarios, to help us understand pain-points and where the biggest opportunities lie. Youll partner with operations, product managers and the analyst guild to generate real change for our customers and help drive our mission forward!
+ 
+Heres how youll be contributing to the WFM team:
+
+Create and optimise capacity planning, so that our customers get support within defined service-level agreements
+Create complex analytical and performance reports. Help support teams engage with data to improve key Operations metrics
+Proactively contribute to, create and own changes to operating models both in Operations and Workforce Management teams, helping us improve efficiency 
+Conduct ad hoc scenario simulations and sensitivity analysis to ensure optimal resource allocation
+Administer Workforce Management tools, making sure all inputs are up to date with the business needs
+Create basic data automations to improve efficiency of Workforce Management processes
+
+ 
+About you: 
+
+Youve at least 2 years of experience in Workforce Management Planning, Revenue Management, Data Analytics, Business Analytics, FPA or in a similar role
+Youve experience with Workforce Management tools, metrics and processes
+Youve a proven track record in dealing with large volumes of data and creating actionable insights
+Youre familiar with forecasting techniques
+Youre an advanced spreadsheets user (including knowledge of VBA or Google Apps Script)
+Youve experience with data visualisation tools (Looker, PowerBI, Tableau etc.) and turning complex data into an easy to follow story
+Youre a self-starter who is comfortable working autonomously.
+
+ 
+Some extra skills that would be great:
+
+Youre familiar with Python or any other scripting language.
+Youve strong SQL skills (including window functions, CTEs).
+Youve knowledge of contact-centre metrics and operating models.
+
+ 
+PS! If youre interested in the position, please apply by submitting your CV and cover letter in English, and answering the application questions.Were people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

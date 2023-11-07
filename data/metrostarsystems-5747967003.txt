@@ -1,0 +1,32 @@
+As a Site Reliability Engineering (SRE) Lead, youll deliver mission-critical services that empower end users. As the ideal candidate, youll use your extensive experience designing and implementing end-to-end continuous delivery pipelines and experience in AIML. You will also use your experience working closely with developers and other engineers to identify and resolve issues that may impact website or service availability, with the goal of making an impact across the federal government
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers.
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below!
+What youll do:
+
+Design and implement end-to-end continuous delivery pipelines.
+Leverage extensive AWS cloud experience in a production environment (e.g., network, security, deployment, automation, serverless technologies).
+Utilize a deep understanding of SRE principles for highly scalable and reliable systems.
+Leverage extensive experience with Configuration Management and Infrastructure as Code.
+Serve as a thought leader for agile development teams.
+Establish clarity of direction and a shared vision of success that is championed by team members, stakeholders, and product owners.
+Build relationships, and work in collaboration with team members, stakeholders, product owners, and technical team leads.
+Help enhance processes, communication, and delivery through new norms that improve how work is done — from discovery to delivery.
+
+What youll need to succeed:
+
+A minimum of ten (10) years of software engineering and DevOps experience.
+Experience in designing and implementing end-to-end continuous delivery pipelines.
+A deep AWS cloud experience in a production environment (e.g., network, security, deployment, automation, serverless technologies).
+Experience and understanding in SRE principles for highly scalable and reliable systems.
+A strong experience with Configuration Management and Infrastructure as a Code.
+At a minimum, a bachelors degree in computer science, Information Technology Management or Engineering.
+The ability to obtain and maintain a DHS Suitability clearance.
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades.
+Dont meet every single requirement?  
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team
+What we want you to know:
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems.
+Not ready to apply now? 
+Sign up to join our newsletter here.

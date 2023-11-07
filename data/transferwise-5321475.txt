@@ -1,0 +1,64 @@
+As a financial institution moving billions of customer money in more than 70 countries, Wise must have bulletproof financials. We need timely, accurate and scalable financial data to be compliant with regulations and make accurate business decisions to support our growth and financial objectives..
+We are looking for a Product Analyst to join the Finance Product  Integration team.  The core function of the team  is to ensure product financials are recorded in accurate, timely and reliable financials for Wise.
+This role gives a great opportunity to combine  Product skills with technical data processing skills . You will get familiar with all key products of Wise, understand the business and also improve your data analysis expertise.
+Your day-to-day:
+
+Working with various stakeholders - Product Managers, Engineering teams, other finance sub-teams (. Accounting, Business Insights etc)  to understand the various products supported in Wise and future expansions
+
+
+Assist in  Product launches, building control models over the financial data and documentations for stakeholders
+
+
+Hands on data maintenancemanagement  data analysis, data cleanup, automations
+Communicate technical subjects clearly to a range of non-technical stakeholders
+Work on continuous improvement of the finance engine in collaboration with engineers to improve scalability and timeliness. 
+
+This role will give you the opportunity to:
+
+Make an impact  you will have an opportunity to build, own and grow parts  of the financial engine of one of the fastest-growing fintech companies in Europe
+Own your path to success  youll have a high level of autonomy and responsibility
+Expand your skills and develop for the future  build an efficient engineering solutions, data analysis, financialregulatory knowledge  providing unique opportunities for professional growth analytical data pipelines, reporting and outputs
+Gain more experience that will allow you to grow with Finance as well as the wider Wise team
+
+A bit about you:
+
+Strong SQL experience building complex analytical queries, reports and data models. Being familiar with Python as well as visualisation tools (Looker, Tableau etc.) would be an advantage, but not a necessity.
+Worked with large (financial) systems, supporting their growth and working with the provided data.
+Have a strong analytical thought process - who can build automated solutions to control and reconcile finance data.
+Detail oriented, great at working autonomously and meeting deadlines.
+Have an ability to go beyond the numbers and understand the business meaning.
+Willing to deal with internal or external stakeholders (auditor or regulators), communicating reports, definitions, requirements etc.
+
+Bonus points for:
+
+Worked with PostgreSQL, Snowflake, Airflow
+Experience in start-ups andor agile, dynamic work environment
+You can understand finance terminology or have strong commitment to learn finance business domain, in particular, knowledge of basic accounting
+
+A bit about Wise:
+Since 2011, weve had a clear mission: money without borders. Built by and for people who live global lives, were the fairest, easiest way to manage your money across borders.
+Were just at the beginning of our story and were growing at an incredible pace. We wont stop until anyone, anywhere can send, spend and receive money wherever they are, whatever theyre doing. Theres still heaps to do and we cant do it alone.
+Our People:
+At Wise, youll be joining a movement of people who believe in a better, fairer, more transparent way of moving money around the world. Youll collaborate to do your best work and take on problems that no one has looked at before.
+If youre keen to learn, grow, try new things and arent afraid of a bold plan, youll fit right in.
+How we work:
+At Wise our strategy emerges from the collective brainpower of all our people, who are organised in dozens of independent, autonomous teams. Teams stay closest to our customers, so they choose what problems to solve and where to spend the most time.
+Youll experience radical levels of ownership and empowerment within your role. Plus the opportunity to see the direct impact of your work on our customers.
+What do we offer: 
+
+Starting salary: 2600 -  4100 per month
+Numerous great benefits in our Tallinn office 
+
+Key benefits:
+
+Hybrid working model
+25 days Paid Annual holiday  3 Me Days
+15 Sick Days
+Mobile Wiser - Work abroad for up to 90 days of the year
+6 weeks of paid sabbatical after 4 years at Wise on top of annual leave
+
+LI-JH1 LI-HybridSalary (monthly)2.600—4.100 EURWere people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. Were proud to have a truly international team, and we celebrate our differences.
+Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customers needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+If you want to find out more about what its like to work at Wise visit Wise.Jobs.
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.

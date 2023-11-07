@@ -1,0 +1,33 @@
+Product Owner
+Joining Capco means joining an organization that is committed to an inclusive working environment where youre encouraged to BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. Its important to us that we recruit and develop as diverse a range of talent as we can. We believe that everyone brings something different to the table  so wed love to know what makes you different.
+Role : Product Owner - Wires Modernization and Instant Payments
+Location : BangaloreChennai (Hybrid)
+Job Description: 
+Responsibilities: (include but are not limited to):
+
+Maintains and refines product backlog; creates user stories and acceptance criteria and prioritizes all stories to ensure work focuses on those with maximum business value that align with product strategy.
+Acts as primary liaison between the business and Agile teams, ensuring the teams understand vision for the products.
+Works closely in a hands-on style with development team including addressing daily prioritization needs, providing real-time feedback and answering questions on an ongoing basis.
+Slices and dices business requirements  epics into user stories in Jira tool
+Works with Product Management to set release dates, determine when sufficient value has been delivered to release to market.
+
+ 
+Required Qualifications:
+
+Product owner experience, specifically in payments domain.
+Functional understanding of payment architectures, core payment processing solutions and underlying payment business processes.
+8 years of experience in payments domain specifically working on payments market like FedWire, TCH RTP and FedNow.
+Hands-on experience with platform implementation lifecycle ? Gap analysis, Interface study, Data migration, support of ST, SIT, UAT.
+Have working experience of Volante VolPay Payment Gateway and Payment Processing
+Exposure to Payment Gateways like AMH, SAG will be essential.
+Deep understanding ISO 20022 messaging (pain, pacs, camt and admin messages) and strong knowledge of MT to MX translation.
+Understanding of the basic payment hub architecture, the surround systems for payment hubs in a typical payment hub architecture
+Understanding of US payments schemes like FedWire, CHIPS, Fed ACH, TCH RTP, FedNow would be preferred.
+Expertise in Agile product development
+Excellent communication skills to be able to influence peers and executives, as well as external partners
+Strong work ethic demonstrated attention to detail, excellent time management and organizational skills.
+Ability to work both independently and within a close team environment.
+Ability to listen to and understand business needs.
+Hands on experience on Jira and Confluence a must.
+
+Standard industry certifications such as SAFe, CSPO, or PSPO are preferred

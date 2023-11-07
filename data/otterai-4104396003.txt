@@ -1,0 +1,36 @@
+The Opportunity
+We are seeking an experienced Senior Software Engineer, Backend to help lead the development, deployment and management of our web services and related infrastructure to join our engineering team. Members of the engineering team work collaboratively as a group and with colleagues in technology, who are devising new speech recognition solutions, and product management to deploy systems and infrastructure to serve the needs of end-user professionals and enterprise clients across a number of verticals.
+Your Impact
+
+Hands on experience developing technology using Python
+A builder of business logic with Web Framework such as Django and MySQL
+Experienced in Nginx, Kafka, MySQL, Cassandra, Redis, and big data platforms
+A developer that writes reusable, testable and efficient code
+An effective communicator at all levels
+
+Were looking for someone who
+
+5 years of experience in developingarchitecting large scale Web services
+Bachelors, Master or PhD in Computer Science or related fields from a top University
+Experience in databases, distributed systems, and backend performance measurement and optimization
+Experience in Python or other programming languages such as Go, Java, or C
+Experience in web frameworks such as Django
+Experienced in MySQL, Redis, Elastic Search, Kafka, and Cassandra
+Good understanding of database internals like transactions and indexes. Experience in database schema design
+Experience in working on the AWS
+Wants ownership and impact and looking to own projects from end to end
+Substantial production server experience or equivalent
+
+Nice to haves
+
+Good understanding of HTTP and networking
+Good understanding operating systems (Linux)
+Good communication skills, genuinely curious, attention to detail
+
+About Otter.ai 
+We are in the business of shaping the future of work. Our mission is to make the future of communication more collaborative, accessible, and productive for all.
+We are growing fast, last year we recorded a total of over 150 million meeting minutes, announced a 50 million Series B and we were included in Business Insiders 10 AI startups that raised the biggest Series A and B list. In addition, Adam Cheyer the cofounder of Siri, Larry Heck the cofounder of Cortana and Greg Holmes, the first head of sales at Zoom, joined us as advisors.
+Otter.ai is an equal opportunity employer. We proudly celebrate diversity and are dedicated to inclusivity.
+Otter.ai does not accept unsolicited resumes from 3rd party recruitment agencies without a written agreement in place for permanent placements. Any resume or other candidate information submitted outside of established candidate submission guidelines (including through our website or via email to any Otter.ai employee) and without a written agreement otherwise will be deemed to be our sole property, and no fee will be paid should we hire the candidate.
+Salary range
+Salary Range: 185,000 to 250,000 USD per year.

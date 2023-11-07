@@ -1,0 +1,69 @@
+Sobre o Nubank
+O Nubank nasceu em 2013 com a misso de combater a complexidade para empoderar as pessoas no seu dia a dia, reinventando os servios financeiros. Somos uma das maiores plataformas de banco digital do mundo, atendendo a milhes de clientes no Brasil, Mxico e Colmbia. Para mais informaes acesse nossa pgina institucional https:international.nubank.com.brcareers 
+ 
+O time de Tech Solutions:
+Tech Solutions  um pack responsvel por garantir a aderncia  regulamentao vigente dos produtos do squad JudOrders, mitigando possveis riscos de falha eou atrasos nos processamentos perante ao regulador (Bacen, CVM, CNJ, entre outros), alm de  propor resoluo de problemas com foco na soluo tcnica, priorizando os objetivos do negcio com as oportunidades que as novas tecnologias oferecem. Como resultado, trazendo inovao, ganhos de eficincia operacional e escalabilidade.
+ 
+Voc ser responsvel por:
+Para nos ajudar nessa desafiadora misso, estamos procurando uma pessoa para se juntar ao nosso time e ser responsvel por:
+
+Ser responsvel pela criao das mtricas, KPIs  e indicadores do squad.
+Conhece de maneira macro os processos e procedimentos de CCS e Sisbajud.
+Atua com foco na  contnua melhoria dos processos e controles internos.
+Participa ativamente da execuo de projetos e iniciativas que envolvam impactos relevantes nos processos.
+ responsvel por implementar rotinas de qualidade como medida preventiva a possveis apontamentos por irregularidades observadas pelo regulador.
+
+ 
+Procuramos por uma pessoa que:
+
+Saiba se comunicar de maneira efetiva com a liderana garantindo a validao da proposta apresentada e com clareza para criao de apresentaes em rituais do squad  demonstrando forte conhecimento dos assuntos de sua responsabilidade.
+Saiba construir um bom storytelling.
+Tenha facilidade em simulaes de cenrios, elaborao de relatrios e  criao  de KPIs em ferramentas como: looker, google sheets etc.
+Tenha facilidade para simulaes de cenrios estratgicos no que tange a volumetria em conjunto com a sua liderana fazendo bom uso das ferramentas e controles existentes.
+Detm habilidade para interagir com seus pares, conduza e conclua demandas que esto sob sua responsabilidade garantindo a visibilidade de todas as etapas junto a liderana.
+Conhea e tenha domnio sobre ferramentas para extrao e processamento de dados como: Data Bricks, Big Query, SQL Management.
+Saiba identificar, mapear, documentar e otimizar processos.
+Compreende o objetivo a ser alcanado, planeja e executa as tarefas com qualidade e pontualidade.
+
+ 
+Ser um diferencial se:
+
+Conhecer as regulamentaes Sisbajud e Cadastro de Cliente do Sistema Financeiro (CCS).
+Tenha  experincia em instituies financeiras.
+Conhecimento e experincia de trabalho com metodologias geis: (ex: Scrum, Kanban).
+Tenha habilidades em gesto de projetos.
+Ter conhecimento nas ferramentas Jira e Looker Studio.
+Ter conhecimento em SQL, Python eou Scala.
+For orientado por dados (data driven) e prezar pela qualidade, integridade e governana das bases de dados.
+Conhecimentos avanados em criao de consultas (select, update, views, create, etc).
+Conhecimentos avanados em desenvolvimento e manuteno de Procedures.
+Conhecimentos avanados em processo ETL.
+Importao de arquivos (csv, xls, text, etc..).
+Conhecimentos em modelagem de banco de dados.
+Experincia em BI (Business Intelligence).
+
+ 
+Nossos Benefcios:
+
+Chance de ganhar aes do Nubank
+Vale AlimentaoRefeio
+Vale-Transporte
+NuCare  Programa de Assistncia Psicolgica, Financeira e Jurdica
+Seguro de vida
+Plano Mdico
+Plano Odontolgico
+NuLanguage  Programa de Curso de Idiomas
+Ncleo - Nossa plataforma de aprendizagem de cursos
+Licena parental prolongada
+Auxlio creche
+Consultoria Parental
+Auxlio home office
+Parcerias com academias
+30 dias de frias remuneradas
+
+ 
+Nosso Nu Way of Working 
+O nosso modelo de trabalho tem ciclos que podem variar de dois a trs meses de acordo com a rea de atuao. Ou seja, para cada oito ou doze semanas de trabalho remoto, uma ser no escritrio https:blog.nubank.com.brnu-way-of-working 
+ 
+Diversidade  Incluso
+No Nu, queremos ter certeza de que estamos construindo um local de trabalho diverso e inclusivo, que reflita os clientes que atendemos e procuramos empoderar.  por isso que contratamos com base na igualdade. Consideramos gnero, etnia, raa, religio, orientao sexual e outros marcadores de identidade como elementos-chave para nossa empresa, garantindo que nenhum deles represente uma barreira ao recrutar pessoas talentosas.

@@ -1,0 +1,28 @@
+We are building a new team to focus on the Rust programming language and its ecosystem on Ubuntu. They will deliver the best possible Rust runtime, developer experience and supporting tooling in Ubuntu. We are keen to ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.
+This is an exciting opportunity for a software engineer passionate about open source software, Linux systems, software architectures and Rust programming language. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run Rust applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.
+The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer the industry.
+Part of the Ubuntu Foundations team, you will work on some of the most critical toolchains involved in the making of Ubuntu but also pillars of the modern software ecosystem. You will leverage your experience and passion in Rust to make Ubuntu the best platform to develop, distribute and consume software built with Rust. Applicants will be passionate about the future of Rust, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. Applicants will drive best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.
+You will be discussing design with other team members and mentor less senior engineers and participate in code reviews and design reviews.  You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.
+What you will do
+
+Collaborate proactively with a distributed team
+Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with Rust
+Write high-quality code to create new features
+Debug issues and produce high-quality code to fix them
+Review code produced by other engineers
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel 2 to 4 weeks a year for internal and external events
+
+Who you are
+
+You love technology and working with brilliant people
+You are passionate, curious, flexible, articulate, and accountable
+You are a long-time Linux user
+You have experience or are interested in learning how to package software for Debian and Ubuntu
+You have relevant Rust experience, ideally in the world of cloud-native software and Linux
+You have a Bachelors or equivalent in Computer Science, STEM or similar degree
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the worlds best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity we will give your application fair consideration.
+LI-remote

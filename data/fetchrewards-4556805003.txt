@@ -1,0 +1,38 @@
+What were building and why were building it. 
+Theres a reason Fetch is ranked top 10 in Shopping in the App Store. Every day, millions of people earn Fetch Points buying brands they love. From the grocery aisle to the drive-through, Fetch makes saving money fun. Were more than just a build-first tech unicorn. Were a revolutionary shopping platform where brands and consumers come together for a loyalty-driving, points-exploding, money-saving party.
+Join a fast-growing, founder-led technology company thats still only in its early innings. Ranked one of Americas Best Startup Employers by Forbes two years in a row, Fetch is building a people-first culture rooted in trust and accountability. How do we do it? By empowering employees to think big, challenge ideas, and find new ways to bring the fun to Fetch. So what are you waiting for? Apply to join our rocketship today!
+Fetch is an equal employment opportunity employer.The Role:
+Fetchs next step in evolving the shopping experience will require growing the engineering team. Were looking for a Frontend Engineer Apprentice to contribute immediately and work on real features that impact our customers and partners.  You will build and maintain world class web applications for our customer and external partners working directly with our backend services. Youll be working on a small, multi-functional team that may include other engineers, a designer, product manager, data scientist and other roles. Success in this role requires the ability to take on challenging problems and design  develop an amazing solution with light mentorship of an experienced team member. 
+In your tool-bag:
+
+Flexibility to implement a feature from either a highly specific design OR a bare bones idea that needs thought  iteration
+Ability to strike the right balance between product design and technology to create the best possible solution
+Familiarity with functional andor object-oriented programming
+Ability to optimize poorly performing code.
+Ability to explain both short and long-term solutions with trade-offs
+Effective communication, including the ability to translate and explain technical issues to non-technical team members
+
+You have experience with:
+
+2 Frontend frameworks (React, Angular, Vue, Svelte)
+Frontend Styling and layout (CSS, HTML, Sass or Less)
+Deep understanding of JavaScript and experience with TypeScript
+Design System Implementation
+Responsive UI Design
+Application State Management
+Version control system (Git)
+Test writing and quality assurance
+
+Bonus points:
+
+Full-stack development (KotlinJava, JavascriptNode, PythonDjango, etc)
+Messages queue and event streaming (Kafka, Kinesis, Redis Streams) 
+Continuous development 
+Experience with the automation of testing, building, and deploying frontend solutions
+Data-Driven Design
+Experience with Tailwind CSS or similar utility-first CSS framework
+Charting, Dash-boarding, and Report Generation
+Asynchronous or Reactive Programming
+In-memory data stores and caches (Redis, Memcache)
+Understanding of the complexity and failure domains of micro-services and distributed architectures, and how these can impact end-user experiences.
+Undergraduate or graduate degree in computer science, engineering or mathematics

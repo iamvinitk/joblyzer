@@ -1,0 +1,29 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyones reach while doing the most important work of your career.
+About the team
+The Payments organization owns some of Stripes most critical payment flows and a platform that processes hundreds of billions of dollars in payments a year. The Banking Integrations team creates the network that virtualizes the global banking system, providing the rails and banking capabilities to power and build innovative products and services. We provide standard interfaces to the global financial system by abstracting away the complexity of individual integrations with banks and partners.Our work is core to Stripes business, and thousands of developers use our platform and infrastructure to create valuable products and services that billions of people use. Our goal is to increase the GDP of the internet by making it easy to build global products, services, and platforms that handle money.
+What youll do
+The Bank Network Integrations team is looking for a Backend Engineer to help build and operate the interfaces between Stripe and the global financial system, unlocking key new functionality and markets for our users. Engineers will work on highly scalable and reliable platforms that move billions of dollars in countries around the world. We are responsible to ensure that money gets to its destination quickly, reliably and in a cost effective manner.
+Responsibilities
+
+Build an extensible platform where it becomes easy to support additional global financial system integrations at scale
+Work with engineers across the company to build new features at large-scale
+Improve engineering standards, tooling, and processes
+Shape future proof interfaces that are easy to build against and meet the requirements of product teams
+Teach and mentor others in the team to become the next generation of leaders at Stripe.
+
+Who you are
+Were looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+You have a strong technical background, including 3 years of experience designing and engineering large-scale systems
+You are comfortable working on a new product under fluid conditions, balancing tactical and strategic considerations
+Strong coding skills in Java or related languages for building high performance services
+Good understanding and practical knowledge in cloud based services (e.g. gRPC, GraphQL, DockerKubernetes, cloud services such as AWS, etc.) 
+Experience in systems engineering on large scale testing, as well as reliability, security, and observability 
+
+Preferred qualifications
+
+Expertise and practical knowledge in database technologies particularly in utilizing large scale databases in the cloud, which includes clustering, sharding and failure recovery of RDBMS, Key-value store, and document databases
+Prior knowledge in financial technology space

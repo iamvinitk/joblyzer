@@ -1,0 +1,50 @@
+About the Team
+The Consumer Platform engineering group consists of the Order Platform. This is a tier 0 platform that owns the lifecycle management of orders at DoorDash. The platform powers order workflows from end-to-end; consisting of pre-checkout, checkout and post-checkout systems. These systems comprise various services, such as event processing systems, data stores, and other technical systems. With a strong emphasis on reliability, scalability, and extensibility, the platform aims to enable each business line to effectively leverage it to build various products and features across DoorDash. The Order Checkout and Post Check-out teams own the core Checkout technical components (such as Order Service, Order Processing state machineworkflows, event processing workflows, corresponding Datastores etc.) and the post checkout componentsservices (such as adjustments, cancellations, merchant transmission and Order intelligence) of the platform respectively. These teams work closely with multiple product teams and downstream teams to make ordering at DoorDash a smooth experience. Further, they also enable other teams by powering their flows by either extendingscaling current offerings or building new platform featuresofferings in partnership with them. The teams focus on maintaining a high bar around reliability, efficiency and platform offerings and to continuously evolve the platform so that product team interactions are smooth.
+About the Role
+As the manager responsible for the Order Checkout and Post Checkout teams, you will be driving the technical vision and execution of the teams and also lead the evolution of the platform to be world-class, reliable, highly available, and easily extensible.
+Youre excited about this opportunity because you will
+
+You will lead teams owning a mission-critical platform which is core to DoorDash and where reliability is paramount.
+Lead the evolution of the platform to become world class, enabling fast product development.
+Extend platforms offering to power more complex functionalities for a wide variety of productsbusinesses
+Inspire your team with your technical vision and create alignment necessary to execute on it.
+Recruit and retain talented software engineers working across different disciplines.
+Rolling up your sleeves with hands on problem solving when necessary.
+Coaching, mentoring and providing career guidance to managers and senior ICs.
+
+Were excited about you because
+
+Committed - youll do whatever it takes to deliver.
+Youre an owner - you own the outcome regardless of the circumstances.
+Customer obsessed - you care about Doordash customers globally, from consumers to dashers and merchants.
+Adaptable, resilient, and able to thrive in ambiguity - things change quickly in our fast-paced company and youll need to be able to keep up!
+Humble - youre willing to jump in and youre open to feedback.
+Growth-minded - you enjoy driving projects to hit business goals and growing Doordash business globally.
+
+Qualifications
+
+B.S. or M.S. in Computer Science or equivalent.
+10 years of industry experience.
+You have at least 3 years experience in an engineering management role.
+Prior experience in distributed systems  Event Processing systems.
+Experience building highly available, scalable and reliable platforms.
+Experience running teams owning tier 0 or mission critical services.
+
+Familiarity with the Following Technologies
+
+Distributed systems  API design.
+Kotlin, gRPC, REST, Kubernetes  AWS.
+Event processing: Apache Kafka, Cadence  Apache Flink.
+Experienced with scaling systems using Cassandra, PostgreSQL  Redis.
+
+About DoorDash
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Were committed to supporting employees happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+Our Commitment to Diversity and Inclusion
+Were committed to growing and empowering a more inclusive community within our company, industry, and cities. Thats why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, maritaldomestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on protected categories, we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce  people who identify as women, non-binary or gender non-conforming, LGBTQIA, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+If you need any accommodations, please inform your recruiting contact upon initial connection.
+Compensation
+The location-specific base salary range for this position is listed below.  Compensation in other geographies may vary.
+Actual compensation within the pay range will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location.  For roles that are available to be filled remotely, base salary is localized according to employee work location.  Please discuss your intended work location with your recruiter for more information.
+DoorDash cares about you and your overall well-being, and thats why we offer a comprehensive benefits package, for full-time employees, that includes healthcare benefits, a 401(k) plan including an employer match, short-term and long-term disability coverage, basic life insurance, wellbeing benefits, paid time off, paid parental leave, and several paid holidays, among others.New Jersey Pay Range:177,000—282,000 USDNew York Pay Range:177,000—282,000 USD

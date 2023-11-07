@@ -1,0 +1,41 @@
+Senior DevSecOps Engineer
+Thailand - Bangkok
+ 
+Role
+We are currently looking for a Senior DevSecOps Engineer
+That will be responsible for development cycles in integrationcontinuous deployment mode, process monitoring, and more broadly, constructing a safety culture within the company by supporting the various teams and customers in implementing excellent and safe practices.
+Candidates should be a tech-savvy professionals, who embrace tech agility, have excellent Infrastructure as Code and infrastructure testing strategies and DevOps skills, and a passion for either building new infrastructureDevOps pipelines or improving existing ones.
+ 
+Key responsibilities:
+
+Design cloud-based microservice infrastructure and DevSecOps platforms.
+Work closely with development team and business team to integrate security measures into the development, deployment, and maintenance processes and to serve technical and business needs that related to infrastructure and CICD pipelines.
+Maintain and config development environments, ensure smoothness of development experience.
+Identify routine process that can potentially converted into automated process to save resources.
+Identify and eliminate infrastructurepipeline bottlenecks. By means of collaboration with various stakeholders, or hands-on configurations.
+Optimize, optimize, optimize, in terms of process, performance, security, and cost.
+
+ 
+Skills  Experience  Qualification:
+
+Minimum 5 years of working experience as infrastructure andor Backend developer andor DevOps engineer
+Hands-on experience with CICD pipeline tools. E.g., Azure DevOps, Jenkins, Gitlab CI, CircleCI, TeamCity, Travis CI, GoCD, etc
+Familiar with Azure cloud platform (configuration, tenancy management, security, networking, compute, storage, caching and data services)
+Experienced in Infrastructure as Code frameworks such as Terraform and Policy as Code frameworks such as OPA or Pulumi
+Expertise delivering complex DevSecOps products via Agile
+Experienced in setting up CICD pipelines, implementing automation frameworks for QA and Security and checks in CICD, and has worked with a variety of industry standard tools for monitoring, Feature Toggle, Repository management
+Excellent analytical and time management skills, with a problem-solving attitude
+Excellent teamwork and communication skills in Thai and English are required
+
+ 
+Desired Skills (Not essential but beneficial to have):
+
+Understand LEAN approach, startup culture  mindset, and how Agile works
+Is a results oriented person who enjoys delivering high quality work with can-do attitude
+Is a tech savvy person, loves to learn and try out new things
+Experience in leading a team, coaching, code review, setting teams standard and culture is a plus
+Hands-on experience with Docker, Kubernetes, Cloud based SaaS, Terraform, or any moving parts in HA systems
+Hands-on experience with modern Database systems and Event queuing systems. E.g., Nosql DB, Sql DB, CouchDB, TimeScaleDB, Apache Kafka
+Experience working in consulting culture and environment
+Understanding of IT Security practices and policies, under banking domain is a plus
+Experience migrating on-premise solutions to a cloud ecosystem, or any DevOps transformation is a big plus

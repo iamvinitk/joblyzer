@@ -1,0 +1,49 @@
+Supernal is at the forefront of creating emerging mobility solutions that will foster the development of human-centered cities. We are designing a completely new electric vertical take-off and landing (eVTOL) aircraft tailored to the mobility needs of future cities. This allows passengers a seamless intermodal journey that safely transports them to their final destination. We fuse research in autonomy, robotics, aviation and services to define a new category of mobility for the worlds communities. We believe in creative thinking and collaboration to help build a better mobility experience for everyone, improving peoples ability to move  whether for work or play.
+What we do:
+As an IT Coordinator, you will play a vital role in supporting our organizations IT environment and ensuring optimal functionality and efficiency. Your responsibilities will include both technical and administrative tasks, requiring critical thinking, problem-solving skills, and superb attention to detail. Effective end-user support and collaboration are crucial for this role, as you will collaborate with colleagues to contribute to the seamless operation of our IT systems and services.
+This position will be required to work on-site 5 days a week.
+What you can do:
+
+Lead the IT Service Desk (ITSD) operations in the Washington D.C. office
+Handle and prioritize IT tickets specific to the Washington D.C. location, ensuring timely resolution
+Maintain and update the Configuration Management Database (CMDB) to accurately track inventory, application licenses, and purchase requestpurchase order (PRPO) history
+Manage the contents of Corporate IT in Confluence, ensuring information is up-to-date and easily accessible
+Develop and implement IT policies to ensure compliance and data security
+Provide IT support for various software applications and office equipment to users
+Drive the implementation of the Digital Office initiative, being responsible for the transformation from analog to digital processes and tools
+Collaborate with multi-functional teams to identify and implement digital solutions for improved efficiency and productivity
+Administer, procure, and maintain SaaS solutions to support business operations
+Work with vendors on product quotations and follow internal process to submit purchase requisition as needed
+Collaborate with multi-functional teams to gather and analyze requirements for internal projects
+Work with consultants and vendors on projects andor additional support as needed
+Manage and optimize problem and incident management for the IT Service Desk and Zendesk ticketing system
+Develop and maintain automation script templates for endpoint nodes in ConnectWise for remediation and imaging
+Assist other IT Coordinators with IT Support escalations and provide technical guidance
+Routinely review and suggest improvements to the IT support environment
+Design, implement, and present reporting metrics for SLAs, incidents, and requests to improve efficiency
+Act as a mentor to the IT Service Desk team, providing technical guidance and support
+May require up to 10 of domestic and international travel
+Other duties as assigned
+
+What you can contribute:
+
+Bachelors degree in computer science or a related field preferred
+Minimum of six (6) years of relevant experience required
+Minimum of five (5) years of experience in IT business application management, with a focus on IT service management (ITSM) and IT Infrastructure Library (ITIL) standard methodologies required
+
+You may also be able to contribute:
+
+Extensive knowledge of IT service management principles, including cataloging a knowledge base, policies, and procedures for existing and new precedents
+Deep technical skills in IT project management, with experience in administering and maintaining SaaS solutions
+Proficiency in problem-solving and critical thinking, with phenomenal attention to detail
+Superb communication and social skills to successfully collaborate with colleagues and provide end-user support
+Experience with ConnectWise or other ticketing systems for incident and problem management
+Ability to mentor and provide technical guidance to the IT Service Desk team
+Knowledge of SAP for IT asset and application management is preferred
+Strong organizational skills and the ability to lead multiple tasks and priorities effectively
+Basic knowledge of networking is a plus
+
+ 
+Any offer of employment is conditioned upon the successful completion of a background check. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, citizenship, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other category or class protected under applicable federal, state or local law. Individuals with disabilities may request a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation at: ta-supportsupernal.aero
+This position may include access to certain technology andor software source code subject to U.S. export controls laws and regulations. If an export authorization from an applicable US regulatory agency is required in connection with your employment, your employment is contingent upon Supernals receipt of such regulatory authorization(s) and your continued compliance with all conditions and limitations pursuant to such authorization(s).
+ Base pay offered may vary depending on skills, experience, job-related knowledge and location. This position is also eligible for a bonus as part of total compensation.The pay range for this position is:112,320—157,040 USDClick HERE or visit: https:jobs.supernal.aerobenefits to view our benefits!

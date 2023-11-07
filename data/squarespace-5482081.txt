@@ -1,0 +1,42 @@
+At Squarespace, we firmly believe that design is not merely how it looks but how it works. With this in mind, our backend engineers work on Product Engineering teams, which are dedicated to creating the most seamless, integrated products possible. You will report to the Product Engineering Team Lead working hybrid-onsite through our New York City headquarters.
+We are hiring for the following product team(s):
+
+Digital Product Content: This team gives Squarespace website owners the ability to create and sell digital products including online courses, video libraries, membership sites, and more. Engineers work on a balance of existing systems and greenfield projects with real-world customer impact! Online course building, is one of the most requested features among our customers and one of our major priorities!
+CRM Product: This team gives Squarespace website owners the ability to view, segment, and manage their contacts (Subscribers, Customers, Members, etc.). Engineers work on a mix of existing systems and new services to transform the CRM Product and SQSP Marketing Tools as a whole. The teams current focus areas are 1) Building out a segmentation service 2) Re-shaping our front end and  3) Driving product engagement.
+
+Youll Get To
+
+Write server-side code, create high-volume production applications, and develop prototypes quickly.
+Lead the development of new features and build backend services with Java.
+Collaborate with other engineers and designers to provide intuitive customer-focused experiences.
+Ensure the reliability of systems essential to Squarespace users and businesses powered by Squarespace.
+Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, readable code).
+
+Who Were Looking For
+
+5 years of development experience in Java, Python, Go or another Object-oriented language. Experience developing large-scale software.
+A solid foundation in computer science, with competencies in data structures, algorithms, and software design practices.
+A sincere commitment to creating readable code and an understanding of database schema design, caching and scalability.
+A degree in Computer Science or related or equivalent industry experience.
+
+Benefits  Perks
+
+A choice between medical plans with an option for 100 covered premiums
+Fertility and adoption benefits
+Access to supplemental insurance plans for additional coverage
+Headspace mindfulness app subscription
+Retirement benefits with employer match
+Flexible paid time off
+Up to 20 weeks of paid family leave
+Equity plan for all employees
+Pretax commuter benefit
+6 Global Employee Resource Groups (ERGs)
+Free lunch and snacks
+
+Cash Compensation Range: 110,500 - 199,500 USD
+The base salary for this position will vary based on job-related criteria including relevant skills, experience, and location, among other factors.
+In addition to the cash compensation above (which includes base salary and, where applicable for eligible roles, may include on-target commissions or overtime pay), all Squarespace employees are eligible to receive equity in the company as part of their total compensation.
+About Squarespace
+Squarespace (NYSE: SQSP) is a design-driven platform helping entrepreneurs build brands and businesses online. We empower millions of customers in more than 200 countries and territories with all the tools they need to create an online presence, build an audience, monetize, and scale their business. Our suite of products range from websites, domains, ecommerce, and marketing tools, as well as tools for scheduling with Acuity, creating and managing social media presence with Bio Sites and Unfold, and hospitality business management via Tock. Our team of more than 1,700 is headquartered in bustling New York City, with offices in Chicago, Dublin, Ireland, Aveiro, Portugal, and coworking spaces in the UK, Netherlands, and Australia. For more information about our company culture, visit www.squarespace.comaboutcareers.
+Our Commitment
+Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customers, but we also work toward the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, national origin, gender, sex, gender identity or expression, sexual orientation, age, citizenship, marital or parental status, disability, veteran status, or other class protected by applicable law. We are proud to be an equal opportunity workplace.Thank you in advance for providing the following details about your work history from your resume! This helps us ensure that your candidate information is accurate and consistent during the hiring process.

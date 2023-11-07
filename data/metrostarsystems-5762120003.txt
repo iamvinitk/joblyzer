@@ -1,0 +1,41 @@
+
+As a Systems Administrator, youll support the organizations technology and process transformation through work in daily IT Operations, research of emerging technologies and processes, and supporting transition and delivery of new solutions, with the goal to make an impact across the federal government. 
+We know that you cant have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers. 
+If you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below! 
+What youll do: 
+
+Meet with IT Operations and other teams daily to collaborate and tackle challenges.
+Execute system change requests as well as system health and security checks.
+Coordinate with other departments in support of their business unit systems to ensure quality and secure operations, and capture emerging needs.
+Support projects through research and testing of new technologies and processes and analysis of how best practices can be integrated into operations.
+Learn and execute industry best practices in support of the organizations many quality service, security, and environmental certifications.
+Work will largely entail supporting Microsoft Cloud, however other cloud and on-premise systems will be supported as well.
+
+
+What youll need to succeed: 
+
+
+3 Years Supporting Windows and MacOS workstations with a strong understanding of operating system and hardware installation, configuration, maintenance, and troubleshooting.
+3 Years Working within an IT service team leveraging ticket and asset inventory systems, with emphasis on documentation and collaboration.
+2 Years Administering Microsoft Cloud endpoint and user management systems to include but not limited to Office 365 Administration, Active Directory (Azure or On-Premise), Exchange, Intune, Microsoft Multi-Factor Authentication.
+1 year conducting Automated Software Deployment and Patching via endpoint management platforms.
+1 Year supporting Development and Executive userbases.
+Physical capability to lift and carry small printers, monitors, and similar computer equipment.
+Experience with Vulnerability management and remediation activities.
+Experience researching and designing new or major improvements to existing systems.
+Familiarity with ITIL Incident Response processes.
+A bachelors degree in an IT-related field OR at a minimum, an associate degree (IT-related degree) while actively working towards obtaining a bachelors degree.
+A Secret level security clearance, or the ability to obtain.
+Communication skills able to interface with technical and non-technical staff.
+To be a self-starter with curiosity, eagerness to learn, and ability to take initiative to resolve issues.
+Passion for learning and exploring the latest technologies.
+
+
+Like we said, we are big fans of our people. Thats why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades. 
+Dont meet every single requirement?   
+Studies have shown that women, people of color and the LGBTQ community are less likely to apply to jobs unless they meet every single qualification.  At MetroStar we are dedicated to building a diverse, inclusive, and authentic culture, so, if youre excited about this role, but your previous experience doesnt align perfectly with every qualification in the job description, we encourage you to go ahead and apply.  We pride ourselves on making great matches, and you may be the perfect match for this role or another one we have. Best of luck!  The MetroStar People  Culture Team 
+What we want you to know: 
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. 
+MetroStar Systems is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, and skills required of personnel so classified. Furthermore, they do not establish a contract for employment and are subject to change at the discretion of MetroStar Systems. 
+Not ready to apply now?  
+Sign up to join our newsletter here. 

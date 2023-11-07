@@ -1,0 +1,69 @@
+About AppLovin
+AppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end software and AI solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.
+To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.
+Fortune recognized AppLovin as one of the Best Workplaces in the Bay Area 2022, and is a Certified Great Place to Work in 2021, 2022 and 2023. Check out the rest of our awards HERE.
+Introduction:
+AppLovins Array team is seeking an experienced Staff Backend Software Engineer to join our team. Array is a seamless, end-to-end app management suite that delivers more value for mobile operators and end users by tapping into AppLovins massive app ecosystem.
+ 
+In this role, you will architect, develop, and operate Java services that are deployed to millions of users. You will be responsible for designing, developing, and maintaining our backend services.
+
+
+
+Responsibilities:
+
+Design and develop high-volume, scalable backend services using Java and other relevant technologies.
+Mentor junior engineers, providing technical guidance and coaching to improve their skills and knowledge.
+Work closely with product managers, designers, and other engineers to develop software solutions that meet business needs.
+Collaborate with cross-functional teams to identify requirements and plan new features.
+Troubleshoot and resolve issues that arise during development, testing, and production.
+Stay up-to-date with the latest trends and technologies in backend development, and continuously improve our development processes.
+
+
+
+
+Requirements:
+
+Bachelors degree in Computer Science or related field.
+8 years of experience as a backend software engineer.
+A deep understanding of system design, data structures, and algorithms.
+Experience mentoring and coaching junior engineers.
+Experience with distributed systems and microservices architecture.
+Solid understanding of software development principles and best practices.
+Sound problem-solving and troubleshooting skills.
+Experience with Git and version control systems.
+Familiarity with cloud infrastructure and services.
+
+ 
+Bonus Points:
+
+Experienced in tools and technologies such as gRPC, GCP, BigQuery and Bigtable.
+Proficient in Kotlin.
+
+
+
+Perks:
+
+Competitive salary and equity compensation
+Free medical, dental, and vision insurance
+Work from home stipend each paycheck
+401k matching and employee stock purchase plan
+Flexible time off - take time when you need it
+AppLovin provides a competitive total compensation package with a pay-for-performance rewards approach.
+
+ 
+ 
+
+AppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.
+
+
+Bay Area base pay range; Total compensation package commensurate with experience
+
+197,000—266,000 USD
+ 
+AppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here.
+ 
+If you need assistance andor a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at accommodationsapplovin.com.
+ 
+AppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law.  If youre applying for a position in California, learn more here.
+ 
+If you are a California resident, read our CA Privacy Notice to learn more about how AppLovin processes your personal information.

@@ -1,0 +1,35 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But weve got more left to do — and thats where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+Duolingo AI Research is a small and nimble team, using data to develop new hypotheses about language and learning, test them empirically, and ship products based on research. As an AI Research Intern (PhD) you are a colleague, and your code and ideas will affect tens of millions of people worldwide. You will learn deeply and broadly from our team of award-winning engineers and researchers.
+You Will...
+
+Apply AI methods to massive real-world datasets
+Prototype new models, evaluate with small scale experiments, andor productionize solutions at scale
+Work with a cross-functional team of world class researchers, engineers, and others to build new product features andor publish state-of-the-art findings
+
+You Have...
+
+Contributions to research communities and efforts, including publishing papers at conferences such as ACL, CVPR, EDM, ICML, NeurIPS, etc.
+Experience implementing AI systems in Python, Java, Scala, or CC (i.e., not just R or MATLAB)
+
+Requirements:
+
+Pursuing a PhD in artificial intelligence, machine learning, natural language processing, or related field
+Graduation expected by August 2025
+12 week consecutive availability
+Ability to relocate to Pittsburgh, PA
+
+Why youll love working here
+
+Language learning opportunities
+Catered in-house lunches and breakfast
+Company-wide Hackathon
+PTO and company holidays
+Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+
+We invest in and support our Duos! The hourly range  for this internship is 60-62. 
+
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

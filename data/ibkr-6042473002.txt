@@ -1,0 +1,38 @@
+Position
+Interactive Brokers has been at the forefront of the Fin-tech space for over 42 years and we pride ourselves on being primarily a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers.
+We are looking for a Release and Reliability Engineer with good technical knowledge and ability to communicate effectively understanding complex problems and explain their solution. The position is well-suited for an organized individual who can meet deadlines, follow written procedures.
+You will be part of:
+A new Brokerage Operations team that will work closely with developers helping them with the day to day operations. As part of this team, you will build or use tools to collect and analyze data that will help understand the quality of services and debug operational related issues
+Responsibilities
+
+Implement tools to scale applications written in various languages (Java, C, etc.), setup alerts and monitoring.
+Help the brokerage software development teams with reviewing and collecting information related to operational issues.
+Review and document complex projects with many stakeholders.
+Research and deploy new technologies to drive innovation and continuous improvement at IBKR.
+
+Qualifications, Skills  Attributes
+
+Bachelors Degree (or higher), in Computer Science or any STEM-related discipline.
+5 years of experience in Java, CC, Python andor shell scripting.
+Experience with UnixLinux operating systems, especially Red Hat distributions.
+Experience configuring, deploying, monitoring, and supporting Java and Python applications.
+Familiarity with distributed version control systems, especially Git.
+Self-starter attitude that is comfortable working both independently and collaborating with your team.
+
+Good to have:
+
+Experience with virtualization technologies such as VMware, Docker, and Kubernetes.
+A systematic problem-solving approach coupled with strong communication skills and a sense of ownership and drive.
+
+
+Company Benefits  Perks 
+
+Discretionary, performance based bonus
+Vision and dental care benefits, sport activity compensation
+Stock incentive plan
+Lunch in the officeThe benefits package will be reviewed regularly and may be subject to change.
+
+Company Overview
+Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global financial services company headquartered in Greenwich, CT, USA, with offices in over 15 countries. We have been at the forefront of financial innovation for over four decades, known for our cutting-edge technology and client commitment.
+IBKR affiliates provide global electronic brokerage services around the clock on stocks, options, futures, currencies, bonds, and funds to clients in over 200 countries and territories. We serve individual investors and institutions, including financial advisors, hedge funds and introducing brokers. Our advanced technology, competitive pricing, and global market help our clients to make the most of their investments.
+Barrons has recognized Interactive Brokers as the 1 online broker for six consecutive years. Join our dynamic, multi-national team and be a part of a company that simplifies and enhances financial opportunities using state-of-the-art technology.

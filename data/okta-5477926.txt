@@ -1,0 +1,31 @@
+Get to know Okta
+Okta is The Worlds Identity Company. We free everyone to safely use any technology—anywhere, on any device or app. Our Workforce and Customer Identity Clouds enable secure yet flexible access, authentication, and automation that transforms how people move through the digital world, putting Identity at the heart of business security and growth. At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - were looking for lifelong learners and people who can make us better with their unique experiences. Join our team! Were building a world where Identity belongs to you.The SRE Opportunity 
+As a valued member of our IDaaS-SRE group, you will play a pivotal role in the success of Okta. Join us as we revolutionize the tech industry, supporting billions-ish of authentications per month across our global customer base. Take the opportunity to work on critical infrastructure and collaborate closely with engineering teams, empowering them to onboard services reliably, securely, and at scale. Your expertise will be instrumental in modernizing existing workloads, automating manual processes, and driving sweeping velocity improvements through innovative tooling. With your expertise, we will push the boundaries of system robustness, security and scalability.
+Join our team and embark on an exciting journey to shape the future of identity. Be part of a collaborative and innovative environment where your skills and expertise will make a significant impact. We are dedicated to creating an inclusive and equitable workplace where all team members feel valued and empowered.
+What youll be doing 
+
+Be a core member of our esteemed on-call rotation, ensuring the seamless operation of our critical infrastructure.
+Engage with engineering teams across the company, guiding and empowering them to adopt best practices for reliable and secure service deployment.
+Collaborate on modernizing existing workloads, aligning them with our continuous platform improvements.
+Identify manual processes and drive the development of cutting-edge automation tools to streamline operations.
+Contribute to our mission of building a more robust, elegant, and scalable system through the creation of innovative tools, platform capabilities, and comprehensive documentation.
+Demonstrate your expertise by responding swiftly and efficiently to production incidents, diving deep into complex systems failures to drive team and organization learning, and pushing forward technical and process improvements.
+
+What youll bring to the role
+
+A proven track record of successful SRE engagements, collaborating closely with engineering teams across a wide range of infrastructure domains.
+Proficiency in distributed systems design, with a comprehensive understanding of failure modes, benefits, and potential drawbacks.
+Familiarity with Kubernetes deployments in either AWS or GCP cloud environments, and the ability to tackle containerization challenges for large, complex workloads.
+Extensive experience with configuration management tools like Chef and infrastructure-as-code tools such as Terraform.
+Strong proficiency in multiple programming languages, particularly Golang, Python, Ruby or Java.
+In-depth knowledge of various types of data stores, including both SQL and NoSQL.
+
+LI-RemoteWhat you can look forward to as an Okta employee!
+
+Amazing Benefits
+Making Social Impact
+Fostering Diversity, Equity, Inclusion and Belonging at Okta 
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https:www.okta.comcompanycareers.
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to participate in the job application or interview process, please use this Form to request an accommodation.
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Privacy Policy at https:www.okta.comprivacy-policy. 
