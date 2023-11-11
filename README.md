@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NER-CMPE-257 - Automated Keyword Extraction from Job Descriptions
 
 ## Team information:
@@ -17,4 +16,3 @@
 ```
 python -m spacy download en_core_web_trf
 ```
-
