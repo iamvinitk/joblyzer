@@ -56,7 +56,16 @@ Applicant tracking systems (ATS) are commonly used by employers to automatically
     b. Future work
 
 7. References
+   
+   [1] Lison, J. Barnes, and A. Hubin, “skweak: Weak Supervision Made Easy for NLP,” arXiv (Cornell University), Jan. 2021, doi: https://doi.org/10.18653/v1/2021.acl-demo.40.
+   
+   [2] “Application of Neural Network Keyword Extraction Methods for Student’s CV Compilation from Discipline Work Programs | IEEE Conference Publication | IEEE Xplore,” ieeexplore.ieee.org. https://ieeexplore.ieee.org/abstract/document/10159061 (accessed Nov. 22, 2023).
 
+   [3] “Training Pipelines & Models · spaCy Usage Documentation,” Training Pipelines & Models. https://spacy.io/usage/training
+
+   [4] “The Stanford Natural Language Processing Group,” nlp.stanford.edu. https://nlp.stanford.edu/software/CRF-NER.html
+
+   [5] M. Ghadge, “Building Your Own Custom Named Entity Recognition (NER) Model with spaCy V3: A Step-by-Step Guide,” Medium, Sep. 06, 2023. https://medium.com/@mjghadge9007/building-your-own-custom-named-entity-recognition-ner-model-with-spacy-v3-a-step-by-step-guide-15c7dcb1c416 (accessed Nov. 22, 2023).
 
 ## Dataset
 The data for this project will consist of 10000+ job descriptions scraped from greenhouse.io, a popular recruiting software platform. Additionally, a dataset of over 160,000 cleaned annotated job descriptions from Kaggle might be utilized to evaluate the models.

@@ -2,5 +2,5 @@
 .ipynb_checkpoints
 flagged
 .DS_Store
-/code/step by step NER.ipynb
-dataset
+/code_temp/step by step NER.ipynb
+data
