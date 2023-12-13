@@ -15,45 +15,49 @@ job descriptions. However, many qualified candidates may be overlooked if their 
 keywords. This project aims to automate the extraction of key skills and qualifications from job descriptions using
 natural language processing. The extracted keywords can then be used to optimize resumes so they contain relevant terms
 that will enable candidates to successfully pass initial ATS screening. By improving keyword matching between applicant
-resumes and job descriptions, this system can help job seekers better tailor their resumes while enabling employers to
+resumes and job descriptions, this system can help job-seekers better tailor their resumes while enabling employers to
 more accurately identify qualified applicants that may have been previously overlooked. Overall, automated keyword
 extraction will make the initial resume screening process more efficient for both applicants and employers.
 
 ## Project Outline
 
-1. Introduction
+1. Introduction 
+    
+    a. Problem Statement
 
-   a. Problem Statement
+    b. Motivation
 
-   b. Motivation
+    c. Related Work
 
-   c. Related Work
-
-   d. Proposed Solution
+    d. Proposed Solution
 
 2. Literature review
 
 3. Methodology
 
-   a. Data collection and dataset creation
-    * Scraped 17000+ job descriptions from greenhouse.io and filtered 5000+ tech related jobs.
-      Extract plain text from HTML pages through parsing and stripping HTML tags, scripts, styling, and other non-text
-      content.
+    a. Data collection and dataset creation
+        
+        * Scraped 17000+ job descriptions from greenhouse.io and filtered 5000+ tech related jobs. Extract plain text from HTML pages through parsing and stripping HTML tags, scripts, styling, and other non-text content.
 
-   b. Preprocessing techniques
+    b. Preprocessing techniques
 
-   c. NER model selection, fine-tuning, and training.
+        * Performed text cleaning and normalization by removing special characters and html tags.
+        * Filtered out non-English job descriptions.
 
-    1. Pre-trained model:
-        - Spacy Models
+    c. NER model selection, fine-tuning, and training.
 
-    2. Fine-tuned model:
-        - Fine-tune annotations for scraped data
-        - Train model on fine-tuned data
-        - Evaluate model performance
+        1. Pre-trained model:
+            a. Spacy Models
+                * en_core_web_trf - Used the spacy pre-trained transformer model to extract keywords from job descriptions. The model is only able to recognize well-known entities such as Degree and Programming Language. The model is not able to recognize custom entities such as Skills and Qualifications.
+
+        2. Fine-tuned model:
+            a. Fix annotatations for the  job description.
+            b. Train model on annotated data.
+            c. Evaluate model performance
        
-   d. Keyword extraction using TF-IDF and Similarity metrics
-     - Extract keywords from job descriptions using TF-IDF and Similarity metrics
+    d. Keyword extraction using TF-IDF and Similarity metrics
+
+        * Extract keywords from job descriptions using TF-IDF and Similarity metrics
 
 4. Results
 
